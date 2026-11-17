@@ -1,0 +1,44 @@
+{
+  "audit_passed": true,
+  "generator_and_support_conversion_gate": "pass",
+  "repository_exact_prior_equality_gate": "fail; discrepancy preserved",
+  "exact_published_failure_reproduction": "not established; no decoder calls",
+  "priors": {
+    "columns": 8784,
+    "affected_columns": 1584,
+    "max_absolute_additive_minus_xor": 4.613221740334527e-06,
+    "max_relative_to_exact": 0.0015080833098111114,
+    "worst_column": 652,
+    "worst_additive": 0.003063609837061498,
+    "worst_exact": 0.0030589966153211634,
+    "independent_product_formula_max_saved_difference": 5.637851296924623e-17,
+    "interpretation": "Conversion approximation; decoding impact not measured. Not evidence that published failure results are invalid."
+  },
+  "samples_checked_without_resampling": {
+    "noiseless_circuit": 32,
+    "dem": 256
+  },
+  "new_decoder_calls": 0,
+  "new_training_samples": 0,
+  "prior_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "stress_gate/manifest.json": 545,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "validation_gate_2026-11-13/manifest.json": 437,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "consumer_gate_2026-11-16/manifest.json": 10,
+    "research_reorientation_2026-11-16/manifest.json": 1,
+    "experimental_design_review_2026-11-16/manifest.json": 13
+  },
+  "raw_result_sha256": "07862f07c26747d6ae9d70c238326aad53d139c1acb641817297ef37e855cd01",
+  "probe_source_sha256": "7b38315dea29c4e458b88b784811496ad9c66c2ca563ebcf4cbf489d3fd2fb88",
+  "audit_source_sha256": "90db48af56b5fe7d30f8cd23a8efa5b31672f10a77294140ca626a83f324f2bc"
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "d3429964cd4ffe1abfc041c6ec8b8425cb174f40",
+  "disassembly_sha256": "444ec0bc7c69e4461e18bec47f6ffe843f0fd51ddafd437da4bf688af8164446",
+  "files": {
+    "LICENSE": {
+      "bytes": 1070,
+      "git_blob_sha1": "b981ac3bbd647fbbe8e7421ca0287350ea2f31bf",
+      "sha256": "8e3a6c34477756c5abb278c153e25b447edc334145716e83f4ed121beadd03bb"
+    },
+    "src_cpp/osd.hpp": {
+      "bytes": 6218,
+      "git_blob_sha1": "e4f895c345de25ca5e2289572de09d93da39145b",
+      "sha256": "604ec8273edcb253e8db7abeeb1ab26ddf203ea2e272f9616549c9670a7e7415"
+    },
+    "src_cpp/sort.hpp": {
+      "bytes": 1587,
+      "git_blob_sha1": "e1c68393f0424e7e6b00b6512a0c2ae193d50843",
+      "sha256": "811abe797c882e2aa17158d758354d15c4b514d33acc0eb24024a7fdcf7d9f9b"
+    }
+  },
+  "installed_binary_sha256": "944a96a657a89fbd04c127edb2eba1033f56de0161ddcd2ba7e57dee76777ccc",
+  "note": "PyPI archive omits sort.hpp; this pinned reference is corroborated by the installed binary's exported comparator and qsort call. A wrapper hash match alone does not prove every C++ header used to build the wheel.",
+  "osd_header_equal_pypi_2_4_1": true,
+  "repository": "https://github.com/quantumgizmos/ldpc"
+}

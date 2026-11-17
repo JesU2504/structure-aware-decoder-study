@@ -1,0 +1,35 @@
+{
+  "commit": "b9ac6a1133e1db71a99d253e523ebca524117142",
+  "date": "2026-11-17",
+  "files": {
+    "README.md": {
+      "bytes": 13550,
+      "git_blob_sha1": "0f823692aa188a3baadca51eaa201c723b8230b1",
+      "sha256": "e3b2bafa6595658a0786e4dbf8afbd29733706589e8582573813e0372c9551be"
+    },
+    "examples/enumerate_dem_ts.py": {
+      "bytes": 8566,
+      "git_blob_sha1": "4a54b7c97d3b45db107158a9bad47588e3f754b4",
+      "sha256": "d119c88e6170083553e725bfd15e3fe64a7dea8e805e5dd053561ab3f00f4ab9"
+    },
+    "examples/include_py/build_decoding_matrices_layered.py": {
+      "bytes": 18417,
+      "git_blob_sha1": "c98587086cba355fd91c0ba78d0e4a2bf254f3a2",
+      "sha256": "2e125f4817f022b7fd09383d33fc142826b267157b249164bc94c1998d4d9050"
+    },
+    "examples/include_py/codes_q.py": {
+      "bytes": 19365,
+      "git_blob_sha1": "d4b423c2d363f399d14aa8061266b00ad9960396",
+      "sha256": "455165527fabc14b758d96df8cd5b80f27373a5b17e785c8a8daefe797549bd1"
+    },
+    "examples/include_py/utils.py": {
+      "bytes": 16417,
+      "git_blob_sha1": "9959d46f0facf03249062d1b1e209d25d88cf380",
+      "sha256": "556d51325be6bd99820037e34ea0165073ef490aeb9a09e1ae392629991fddb7"
+    }
+  },
+  "repository": "https://github.com/Error-Correction-Lab/dem_trapping_sets",
+  "scope": "Small pinned source subset; no enumeration or decoder execution",
+  "source_executed": false,
+  "valid": true
+}

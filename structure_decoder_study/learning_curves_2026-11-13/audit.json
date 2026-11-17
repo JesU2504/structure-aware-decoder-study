@@ -1,0 +1,14 @@
+{
+  "expansion_orders_are_nested": true,
+  "external_review": false,
+  "fixed_outer_test_sets": true,
+  "internal_check_only": true,
+  "max_inner_loss_difference": 2.0750190454776885e-10,
+  "max_log_prediction_difference": 8.08419997611054e-12,
+  "max_saved_metric_difference": 0.0,
+  "model_outer_evaluations": 5517,
+  "outer_jobs": 1839,
+  "passed": true,
+  "separate_sklearn_model_reproductions": 114,
+  "split_membership_and_metrics_checked": true
+}

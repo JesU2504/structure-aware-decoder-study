@@ -1,0 +1,49 @@
+{
+  "counts": {
+    "lsd100": {
+      "correct": 500,
+      "invalid_correction": 0,
+      "logical_failure": 12
+    },
+    "lsd30": {
+      "correct": 500,
+      "invalid_correction": 0,
+      "logical_failure": 12
+    },
+    "osd20": {
+      "correct": 500,
+      "invalid_correction": 0,
+      "logical_failure": 12
+    }
+  },
+  "cpu_seconds": 34.897874,
+  "decoder_calls_completed": 1627,
+  "decoder_calls_started": 1627,
+  "frozen_sha256": "2cc97376823f7a31014e631b7eb77050d9ddc79732336bc04af05bb55c2e4f00",
+  "incomplete_decode_calls": 0,
+  "main_calls_completed": 1536,
+  "message": "Fixed sample and selected-case checks complete",
+  "natural_circuit_noise_shots": 512,
+  "scope": "Published-source Z-check-only memory; paired controls; no predictor or compiler claim",
+  "selected_cases": [
+    23,
+    116,
+    24,
+    242,
+    51,
+    0,
+    66,
+    182,
+    131,
+    124,
+    167,
+    1,
+    188,
+    108,
+    228,
+    42
+  ],
+  "status": "completed",
+  "training_samples": 0,
+  "wall_seconds": 35.41081916700023
+}

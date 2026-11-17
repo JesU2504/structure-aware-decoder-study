@@ -1,0 +1,35 @@
+{
+  "distance_code_checks": [
+    {
+      "distance": 3,
+      "rank_x": 4,
+      "rank_z": 4,
+      "encoded_qubits": 1,
+      "passed": true
+    },
+    {
+      "distance": 5,
+      "rank_x": 12,
+      "rank_z": 12,
+      "encoded_qubits": 1,
+      "passed": true
+    },
+    {
+      "distance": 7,
+      "rank_x": 24,
+      "rank_z": 24,
+      "encoded_qubits": 1,
+      "passed": true
+    },
+    {
+      "distance": 9,
+      "rank_x": 40,
+      "rank_z": 40,
+      "encoded_qubits": 1,
+      "passed": true
+    }
+  ],
+  "circuit_files": 56,
+  "nonnoise_gate_reuse_within_tick": [],
+  "check_scope": "CSS/logical algebra and source TICK disjointness; not a full physical timing model or distance proof"
+}

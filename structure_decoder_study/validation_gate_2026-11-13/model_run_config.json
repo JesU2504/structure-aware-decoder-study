@@ -1,0 +1,70 @@
+{
+  "alphas": [
+    0.0001,
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0
+  ],
+  "bridge_timings_collected": false,
+  "feature_sets": {
+    "base6": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "density8": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity",
+      "mean_mechanism_prior",
+      "expected_activity_density"
+    ],
+    "graph16": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity",
+      "mean_mechanism_prior",
+      "expected_activity_density",
+      "row_degree_var",
+      "col_degree_var",
+      "row_degree_p95",
+      "col_degree_p95",
+      "hyperedge_fraction",
+      "components",
+      "largest_component_fraction",
+      "component_size_second_moment"
+    ]
+  },
+  "files": {
+    "learning_curves_2026-11-13/dataset.json": "ed7156006ff87c26731eea236bffb5d1358d6f746993d06fadacadcb5c86e581",
+    "validation_gate_2026-11-13/PROTOCOL.md": "08ea2319836e87423abd5467ca9d2dc1431b9475368a49fcd0a1945e3a7adb91",
+    "validation_gate_2026-11-13/common.py": "468e23190f1319666e2ce480c7834a52f7c9ce8393d37d523f7db5d577e6ef67",
+    "validation_gate_2026-11-13/corpus.json": "d6610f6a8e3ee1f15f0128b0801e7d922a902bcb23343c0ed18464a255b5318f",
+    "validation_gate_2026-11-13/models.py": "31a4c1426fde90f0920a0d9112b958e1e7d9c00653fde732c5f5cb42e4f95497"
+  },
+  "gamma_multipliers": [
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "kernel_and_targets_centered": true,
+  "targets": [
+    "mean_ns",
+    "p95_ns"
+  ]
+}

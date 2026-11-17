@@ -1,0 +1,3 @@
+-r requirements.txt
+ldpc==2.4.1
+stim==1.16.0

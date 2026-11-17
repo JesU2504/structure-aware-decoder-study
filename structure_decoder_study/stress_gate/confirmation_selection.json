@@ -1,0 +1,12 @@
+{
+  "names": [
+    "q4_P03_d5_w10_p0_003_spread",
+    "q4_P01_d5_w10_p0_003_spread",
+    "q4_P01_d9_w18_p0_001_spread",
+    "q4_P00_d5_w10_p0_003_spread",
+    "q4_P02_d5_w10_p0_003_spread",
+    "q4_P03_d7_w14_p0_001_spread"
+  ],
+  "selection": "False-admission priority, then largest padded p95 underprediction ratio; name tie-break",
+  "discovery_analysis_sha256": "0e02c76a820a1ec65ff9f50895e0761c8306bf7ea19a88a126e4a3d61fcd22d0"
+}

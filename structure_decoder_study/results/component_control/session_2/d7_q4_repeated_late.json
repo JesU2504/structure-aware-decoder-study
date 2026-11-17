@@ -1,0 +1,16 @@
+{
+  "components": 3,
+  "config_sha256": "9709b94e8aadaae4577fc68650c19017ee4513be6d43b6c5a5c07eae7797715b",
+  "joint_failures": 2,
+  "joint_mean_ns": 2606945.788,
+  "joint_p95_ns": 3950468.7499999995,
+  "name": "d7_q4_repeated_late",
+  "predictions_differ": 0,
+  "seed": 17800208095453651975,
+  "session": 2,
+  "shots": 1000,
+  "split_failures": 2,
+  "split_mean_ns": 1783790.079,
+  "split_p95_ns": 3106093.7499999995,
+  "split_setup_ns": 4719125
+}

@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-13",
+  "hashes": {
+    "BOUNDARY_PROTOCOL.md": "d8e61bdd5bf1552ea42e1bb5ec19d2bf0b70c1518cfecff34766a7943b1f9c1b",
+    "boundary.py": "3548465d659d0fa6c6825d94a4b7684d13943347e80a7bfe20cbaf650f771e08",
+    "boundary_corpus.json": "f4856aa82a5cd85fc474ca2b42feffae2a6d60908580579b0dae5d61e831bc26",
+    "frozen_models.json": "d02a789babdb2e9ed28fe44fe0e2a39a0eb4efc4ef3bc1d9a6b474c39ea3f552",
+    "run_config.json": "ef53eb477787621944544a76f9cabc86e826118b898d9a8379cde8590b58b873"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "decoder_calls": 11,
+  "forced_after_bp_convergence_verified": true,
+  "passed": true,
+  "source_native_readout_verified": true
+}

@@ -1,0 +1,8 @@
+{
+  "implementation_sha256": "1cf8df5de69f476ac0ee89eac9821bce9ce8541ac380c10b06419aa56633ed24",
+  "post_hoc": true,
+  "primary_config_sha256": "95ee8711b85c5dfd4b9882ee8ac609f75dc2dc3cc90596fa4672c801ac86c1c4",
+  "protocol_sha256": "6d6a51052989effab75dd914fe43658eb99c047d6fc563335a4c77a186ca6a07",
+  "sessions": 3,
+  "shots_per_case": 1000
+}

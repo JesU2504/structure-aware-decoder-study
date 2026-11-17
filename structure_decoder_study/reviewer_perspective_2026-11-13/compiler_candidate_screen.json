@@ -1,0 +1,438 @@
+{
+  "pairs": [
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P00",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.00390625,
+          "measurements": 1060,
+          "name": "q4_P00_d5_w10_p0_001_spread",
+          "p95_ms": 1.8654271999999996,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.00390625,
+          "measurements": 1060,
+          "name": "q4_P00_d5_w10_p0_001_burst",
+          "p95_ms": 1.48414025,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P01",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.014322916666666666,
+          "measurements": 1060,
+          "name": "q4_P01_d5_w10_p0_001_spread",
+          "p95_ms": 2.2720539499999997,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.009114583333333334,
+          "measurements": 1060,
+          "name": "q4_P01_d5_w10_p0_001_burst",
+          "p95_ms": 1.8287004499999997,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P02",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.006510416666666667,
+          "measurements": 1060,
+          "name": "q4_P02_d5_w10_p0_001_spread",
+          "p95_ms": 1.8204937499999998,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.0026041666666666665,
+          "measurements": 1060,
+          "name": "q4_P02_d5_w10_p0_001_burst",
+          "p95_ms": 1.59718925,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P03",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.01171875,
+          "measurements": 1060,
+          "name": "q4_P03_d5_w10_p0_001_spread",
+          "p95_ms": 2.2833335499999996,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.006510416666666667,
+          "measurements": 1060,
+          "name": "q4_P03_d5_w10_p0_001_burst",
+          "p95_ms": 1.9148607499999997,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P04",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.009114583333333334,
+          "measurements": 1060,
+          "name": "q4_P04_d5_w10_p0_001_spread",
+          "p95_ms": 2.009325,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.0026041666666666665,
+          "measurements": 1060,
+          "name": "q4_P04_d5_w10_p0_001_burst",
+          "p95_ms": 1.7214127,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P05",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.0013020833333333333,
+          "measurements": 1060,
+          "name": "q4_P05_d5_w10_p0_001_spread",
+          "p95_ms": 1.7586397,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.00390625,
+          "measurements": 1060,
+          "name": "q4_P05_d5_w10_p0_001_burst",
+          "p95_ms": 1.7919648,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P06",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.0026041666666666665,
+          "measurements": 1060,
+          "name": "q4_P06_d5_w10_p0_001_spread",
+          "p95_ms": 2.0027433,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.006510416666666667,
+          "measurements": 1060,
+          "name": "q4_P06_d5_w10_p0_001_burst",
+          "p95_ms": 1.6282130499999998,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    },
+    {
+      "both_measured_p95_below_budget": true,
+      "program": "q4_P07",
+      "same_instruction_target_counts": true,
+      "same_tick_count": true,
+      "variants": [
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.00390625,
+          "measurements": 1060,
+          "name": "q4_P07_d5_w10_p0_001_spread",
+          "p95_ms": 1.92614375,
+          "padded_admitted": true,
+          "placement": "spread",
+          "ticks": 64
+        },
+        {
+          "deadline_ms": 5.0,
+          "detectors": 528,
+          "instruction_target_counts": {
+            "CX": 6700,
+            "DEPOLARIZE1": 1000,
+            "DEPOLARIZE2": 6700,
+            "MR": 580,
+            "MRX": 480,
+            "R": 148,
+            "RX": 48,
+            "TICK": 64,
+            "X_ERROR": 1208,
+            "Z_ERROR": 1008
+          },
+          "logical_z_fraction": 0.0078125,
+          "measurements": 1060,
+          "name": "q4_P07_d5_w10_p0_001_burst",
+          "p95_ms": 1.4479623000000001,
+          "padded_admitted": true,
+          "placement": "burst",
+          "ticks": 64
+        }
+      ]
+    }
+  ],
+  "post_hoc": true,
+  "tick_counts_are_not_a_hardware_timing_model": true
+}

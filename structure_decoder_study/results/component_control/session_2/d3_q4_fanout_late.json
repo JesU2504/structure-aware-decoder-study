@@ -1,0 +1,16 @@
+{
+  "components": 1,
+  "config_sha256": "9709b94e8aadaae4577fc68650c19017ee4513be6d43b6c5a5c07eae7797715b",
+  "joint_failures": 26,
+  "joint_mean_ns": 162116.658,
+  "joint_p95_ns": 441103.85,
+  "name": "d3_q4_fanout_late",
+  "predictions_differ": 0,
+  "seed": 6146488141402026925,
+  "session": 2,
+  "shots": 1000,
+  "split_failures": 26,
+  "split_mean_ns": 158601.625,
+  "split_p95_ns": 426219.39999999997,
+  "split_setup_ns": 793541
+}

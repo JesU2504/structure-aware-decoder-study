@@ -1,0 +1,18 @@
+{
+  "censored": false,
+  "config_sha256": "9d1dea10d258b15e4afdfccdf6171c1fbdb03172988b80ba1f56ebbd716fd4e7",
+  "file_sha256": "5e504390fcaa51a1acca7a4759acebc8aab1f06dca1f83271e5dfd28fce33c52",
+  "init_wall_ns": 2520833,
+  "logical_z_failures": 1,
+  "mean_cpu_ns": 1661843.75,
+  "mean_wall_ns": 1672673.8125,
+  "name": "d5_q4_cycle_late",
+  "p95_cpu_ns": 3169349.9999999995,
+  "p95_wall_ns": 3176852.5999999996,
+  "phase": "profile",
+  "seed": 4217707121940113823,
+  "session": 0,
+  "setting": "whole30",
+  "shots": 64,
+  "warm_seed": 6515767513135322378
+}

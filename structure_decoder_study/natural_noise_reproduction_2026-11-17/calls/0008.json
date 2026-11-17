@@ -1,0 +1,101 @@
+{
+  "bp_converged": true,
+  "bp_iterations": 1,
+  "bp_sha256": "faee935763044f124d7526755a5058a33f9402a595994d59eddd4be8546ff201",
+  "case_id": "toy",
+  "cluster_count": 2,
+  "config": {
+    "cap": 30,
+    "force": true,
+    "kind": "lsd",
+    "method": "LSD_CS",
+    "name": "forced_lsd_cs2",
+    "order": 2
+  },
+  "correction_sha256": "faee935763044f124d7526755a5058a33f9402a595994d59eddd4be8546ff201",
+  "decode_cpu_ns": 23000,
+  "decode_wall_ns": 22958,
+  "first_call_in_block": false,
+  "fresh_instance": true,
+  "index": 8,
+  "init_cpu_ns": 63000,
+  "init_wall_ns": 62875,
+  "logical_difference": 0,
+  "outcome": "correct",
+  "phase": "adapter_toy",
+  "postprocessing_observed": true,
+  "source_readout_equal": true,
+  "statistics": {
+    "bit_llrs": [
+      1.723169943800471,
+      -1.1487799625336477,
+      1.723169943800471
+    ],
+    "compare_recover": [],
+    "elapsed_time": 13,
+    "error": [],
+    "global_timestep_bit_history": {
+      "0": {
+        "0": [
+          1,
+          0
+        ]
+      },
+      "1": {
+        "0": [
+          2
+        ]
+      }
+    },
+    "individual_cluster_stats": {
+      "0": {
+        "absorbed_by_cluster": -1,
+        "active": true,
+        "cluster_pcm_sparsity": 0.33333333333333337,
+        "final_bit_count": 3,
+        "final_bits": [
+          0,
+          1,
+          2
+        ],
+        "got_inactive_in_timestep": -1,
+        "got_valid_in_timestep": 0,
+        "nr_merges": 1,
+        "nr_of_non_zero_check_matrix_entries": 4,
+        "size_history": [
+          1,
+          2,
+          3
+        ],
+        "solution": [],
+        "undergone_growth_steps": 3
+      },
+      "1": {
+        "absorbed_by_cluster": 0,
+        "active": false,
+        "cluster_pcm_sparsity": 0.0,
+        "final_bit_count": 0,
+        "final_bits": [],
+        "got_inactive_in_timestep": 0,
+        "got_valid_in_timestep": -1,
+        "nr_merges": 0,
+        "nr_of_non_zero_check_matrix_entries": 0,
+        "size_history": [
+          0
+        ],
+        "solution": [],
+        "undergone_growth_steps": 1
+      }
+    },
+    "lsd_method": 3,
+    "lsd_order": 2,
+    "syndrome": [
+      1,
+      1
+    ]
+  },
+  "statistics_enabled": true,
+  "syndrome_residual": 0,
+  "syndrome_weight": 2,
+  "zero_syndrome": false
+}

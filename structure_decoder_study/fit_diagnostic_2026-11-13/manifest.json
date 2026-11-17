@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-13",
+  "files": {
+    "diagnose.py": "45d286b2ccbdc99057dcc45cd4c7639d52bb9e59407ea4f0276b82b0ee4debec",
+    "findings.md": "879e5f60046f0006bca8bab4aaee46c265f045e46cd245d5250c6ede0390908f",
+    "results.json": "b2dad66205fd602df8ba9758346e3589e19b84d465e61bc107fad75f16fe0bf0"
+  },
+  "note": "Local integrity snapshot, not external preregistration",
+  "post_hoc": true,
+  "previous_manifests_verified": {
+    "structure_decoder_study/artifact_manifest.json": 905,
+    "structure_decoder_study/artifact_manifest_2026-11-13.json": 1458,
+    "structure_decoder_study/stress_gate/manifest.json": 545
+  }
+}

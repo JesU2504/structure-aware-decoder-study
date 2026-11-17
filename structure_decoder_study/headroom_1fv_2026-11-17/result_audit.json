@@ -1,0 +1,101 @@
+{
+  "audit_passed": true,
+  "audit_source_sha256": "d277e0d550c71977d26f1ef8d16da4842fbbad97fbf05cd2a0e93338b37e4aaf",
+  "cases_planned": 24,
+  "cases_unattempted": 15,
+  "child_cpu_seconds": 1.4455749999999998,
+  "child_wall_seconds": 1.6064307500000723,
+  "completed_gate_checks": [
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 0,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 1,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 2,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 3,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 4,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 5,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 23,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 0,
+      "case_id": 24,
+      "pivot_rank": 1794
+    },
+    {
+      "all1800_constraints_valid": true,
+      "baseline_difference": 4,
+      "case_id": 51,
+      "pivot_rank": 1794
+    }
+  ],
+  "conclusion": "Repair-headroom comparison unresolved: baseline adapter mismatch stopped all real searches. Remaining cases did not fail; they were not attempted.",
+  "controller_classification_correct": true,
+  "experiment_status": "baseline_mismatch",
+  "frozen_files_verified": 67,
+  "frozen_sha256": "2f7419baf285bddecbfd20269cbdce8e24a88e6c53970fd4d3ed02d7f027cdde",
+  "frozen_version": 2,
+  "gates_completed": 9,
+  "gates_exact_match": 8,
+  "global_gate_respected": true,
+  "mismatch_case": 51,
+  "new_native_decoder_calls": 0,
+  "new_physical_shots": 0,
+  "peak_child_rss_bytes": 230883328,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "consumer_gate_2026-11-16/manifest.json": 10,
+    "experimental_design_review_2026-11-16/manifest.json": 13,
+    "failure_pilot_2026-11-17/manifest.json": 1067,
+    "failure_target_2026-11-17/manifest.json": 25,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "natural_noise_reproduction_2026-11-17/manifest.json": 3319,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "research_reorientation_2026-11-16/manifest.json": 1,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "real_case_searches": 0,
+  "resource_censored": false,
+  "v1_preserved_and_scientific_selection_unchanged": true
+}

@@ -1,0 +1,103 @@
+{
+  "configs": [
+    {
+      "cap": 20,
+      "force": false,
+      "kind": "osd",
+      "method": "OSD_0",
+      "name": "osd20",
+      "order": 0
+    },
+    {
+      "cap": 30,
+      "force": false,
+      "kind": "lsd",
+      "method": "LSD_0",
+      "name": "lsd30",
+      "order": 0
+    },
+    {
+      "cap": 100,
+      "force": false,
+      "kind": "lsd",
+      "method": "LSD_0",
+      "name": "lsd100",
+      "order": 0
+    }
+  ],
+  "files": {
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bp_decoder/_bp_decoder.cpython-312-darwin.so": "1df1d1d49438cf28100cbbfece632e3728f24adbdf67a32a70a9c8f50645a90e",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bp_decoder/_bp_decoder.pyx": "8f0370457b3fb7e2d7d2c8c3e1cecd77fe6a35fd21c1c21c9e8ec049db675597",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.cpython-312-darwin.so": "180dfe755fcd5cb3dbc37e3291a8e05a3e488fcb6bfceea283f8c6392450a592",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.pyx": "7064a43fc09fc8f3cb8001f7d737e38d341151e0f1ecfa5313b4c0a3fdfb2145",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bposd_decoder/_bposd_decoder.cpython-312-darwin.so": "944a96a657a89fbd04c127edb2eba1033f56de0161ddcd2ba7e57dee76777ccc",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bposd_decoder/_bposd_decoder.pyx": "c5eecf8d90f37d913055f230b86e7b232b7af73978c3e8511a38f5a4161bc2ac",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/ENTRY_PROTOCOL.md": "5986137701008e7617e7ebd423ee0eb0fe1bb3af549368b438007211a4125cb0",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/EXECUTION_PROTOCOL.md": "cb96c958d165236865a76bafef272c9652a80f589713f0e00c2eb9bde6d9ebdd",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/check_entry.py": "c09486acc7e5703fd33dadf8e647d35d451f7babee50c48238d7998ad6b1d656",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/H.npz": "cfbf9d51bd67543b09e958527beee3d99b6461c715c4a60b6b4d61b076e8abbb",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/L.npz": "10efca974bad5e42c4c6bbae9d7e035c68eff9a3301b69a48877e4ef47604bde",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/bb144_r24_p0.007_z.dem": "a415c5ee037e215fe160301e2c4cb95d375b35c2d22ba2c2478bc20ff34bfdce",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/bb144_r24_p0.007_z.stim": "5fb6968d2824e4fcccf8c0ee8465d012e2d6e7d2752eda2f69df680f6b31826c",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/css_logicals.npz": "8299b28ad81f2647ef2fc140ff1457af0a084e43d37f3ffe5e5ec64c1e75e48b",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/priors.npy": "9acbccfab2ba0422ab290eb6e8b78b34de647cb2890bddbddfe863a9917a7d17",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/result.json": "358f198630a65c1c716f4d8c7b70ef231d4697f6546bd95b350763db6e488b52",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/source_H.npz": "cfbf9d51bd67543b09e958527beee3d99b6461c715c4a60b6b4d61b076e8abbb",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/source_L.npz": "10efca974bad5e42c4c6bbae9d7e035c68eff9a3301b69a48877e4ef47604bde",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/source_priors.npy": "9acbccfab2ba0422ab290eb6e8b78b34de647cb2890bddbddfe863a9917a7d17",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/validation_samples.npz": "682f558f062f1c3089f5ed68ccb19c70558f1e414d72d1bd5a57dcb8ac2f3e22",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/experiment.py": "91f348a37c08b5a294bf967a2301bdc8eea133b25603815779deffe3e946e8a8",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/jobs.json": "0bf52c3b2f65d0d4010c5a1a874ebaf4b553a20ea723b00ab8a414f8a3cc8888",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/shots.npz": "0787a27f1420ca4d76258fb1c5866e66bead000bbf0c2d459cb7e4ee0a771872",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/source_manifest.json": "93dc9b2bcf2d9703104cac44fbcfb3890ef1b583a330912285caf5ccbedc302f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/README.md": "f7d73b328d305803380246bbf4347aeb09deb250f3dc3a44f33cd7dd5f0664cf",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/config.py": "ccad375c54dc66af49abd29059322a1c5e3320b0f5a407d41a1e0e62e5dcde79",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/__init__.py": "515fe53a388d0bafd0dc9ef425c46b102787437d66f37f41da476bae78f692ca",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/adaptive_v1.py": "901ed6fa228c0727625770c85097b665f23e04f4635be09d52ca61ec9578063e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/adaptive_v1_run.py": "9c17cd07c36e4d66e27b5ad55c9bc818de134f37921de33af8da5f155dc918e1",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/osd_internals.py": "0d796fda2bd52962e93efc06a7adf7c5015136fa3b05628f48d8c5376e362753",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/qldpc_circuit.py": "3fba01ebe515c26b0f94b9a1c3dd025abd207d43978535cd7f67eba159ed7ed9",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/qldpc_codes.py": "a2120ec4a388f3270e77fdb0e2d7c92be2b5539d66453175d025e53bfaa1170e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/requirements.txt": "350771efeaf38ab6abe6039674c416dd1fd6062610fa0c3966955d372ae6849c"
+  },
+  "forced_configs": [
+    {
+      "cap": 30,
+      "force": true,
+      "kind": "lsd",
+      "method": "LSD_0",
+      "name": "forced_lsd0",
+      "order": 0
+    },
+    {
+      "cap": 30,
+      "force": true,
+      "kind": "lsd",
+      "method": "LSD_CS",
+      "name": "forced_lsd_cs2",
+      "order": 2
+    }
+  ],
+  "frozen_before_decoder_calls": true,
+  "job_order_seed": 2026111733,
+  "limits": {
+    "cpu_seconds": 1200,
+    "invocations": 1800,
+    "wall_seconds": 1800
+  },
+  "main_calls": 1536,
+  "python": "3.12.12",
+  "seeds": [
+    2026111731,
+    2026111732
+  ],
+  "setup_scope": "Public source Z-check-only circuit; native primary fast path, not upstream full sweeps",
+  "shots_per_seed": 256,
+  "system": "macOS-14.5-arm64-arm-64bit",
+  "versions": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "commit": "8cc32014a6461bb8f241f47f62a7e74f63817738",
+  "date": "2026-11-17",
+  "files": {
+    "README.md": {
+      "bytes": 1176,
+      "git_blob_sha1": "41851a60f7196d9b46f4623a0e00daffc5551bf0",
+      "sha256": "f7d73b328d305803380246bbf4347aeb09deb250f3dc3a44f33cd7dd5f0664cf"
+    },
+    "config.py": {
+      "bytes": 297,
+      "git_blob_sha1": "de7d6d968fad5a01fa14d8178524a4713356981e",
+      "sha256": "ccad375c54dc66af49abd29059322a1c5e3320b0f5a407d41a1e0e62e5dcde79"
+    },
+    "failure_prediction/__init__.py": {
+      "bytes": 91,
+      "git_blob_sha1": "c17aa40641339e08c5457f0496816b0b92dbe9e9",
+      "sha256": "515fe53a388d0bafd0dc9ef425c46b102787437d66f37f41da476bae78f692ca"
+    },
+    "failure_prediction/adaptive_v1.py": {
+      "bytes": 6618,
+      "git_blob_sha1": "8ff6b386400da367f163041646669065bdf7f38a",
+      "sha256": "901ed6fa228c0727625770c85097b665f23e04f4635be09d52ca61ec9578063e"
+    },
+    "failure_prediction/adaptive_v1_run.py": {
+      "bytes": 3026,
+      "git_blob_sha1": "b81963d722f06358106ab764ee550641a5c7a113",
+      "sha256": "9c17cd07c36e4d66e27b5ad55c9bc818de134f37921de33af8da5f155dc918e1"
+    },
+    "failure_prediction/osd_internals.py": {
+      "bytes": 8470,
+      "git_blob_sha1": "06f93564490b98e3518b8e5a975cbd78d8864bc9",
+      "sha256": "0d796fda2bd52962e93efc06a7adf7c5015136fa3b05628f48d8c5376e362753"
+    },
+    "failure_prediction/qldpc_circuit.py": {
+      "bytes": 13692,
+      "git_blob_sha1": "2683755876e1847d42548c01b7780180f9f048ab",
+      "sha256": "3fba01ebe515c26b0f94b9a1c3dd025abd207d43978535cd7f67eba159ed7ed9"
+    },
+    "failure_prediction/qldpc_codes.py": {
+      "bytes": 4009,
+      "git_blob_sha1": "bc45baed9e874a15e27396abefa320d0dd098c0f",
+      "sha256": "a2120ec4a388f3270e77fdb0e2d7c92be2b5539d66453175d025e53bfaa1170e"
+    },
+    "requirements.txt": {
+      "bytes": 33,
+      "git_blob_sha1": "34adfefeba83a6c0cf75043ae842d084016109cc",
+      "sha256": "350771efeaf38ab6abe6039674c416dd1fd6062610fa0c3966955d372ae6849c"
+    }
+  },
+  "repository": "https://github.com/UCL-CCS/Adaptive-qLDPC",
+  "source_executed": false,
+  "valid": true
+}

@@ -1,0 +1,24 @@
+{
+  "internal_primary_agent_crosscheck": true,
+  "no_new_measurements": true,
+  "prior_artifacts_still_match": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "review_p95_group_counts_verified": {
+    "fixed_noise": {
+      "graph_worse_p95_groups": 8,
+      "groups": 12
+    },
+    "mixed_noise": {
+      "graph_worse_p95_groups": 10,
+      "groups": 12
+    },
+    "original": {
+      "graph_worse_p95_groups": 7,
+      "groups": 7
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "files_hashed_verified": 33,
+  "natural_samples": 512,
+  "paired_jobs": 1536,
+  "augmented_H_syndromes_rank": 1794,
+  "no_decoder_calls_yet": true,
+  "frozen_sha256": "2cc97376823f7a31014e631b7eb77050d9ddc79732336bc04af05bb55c2e4f00"
+}

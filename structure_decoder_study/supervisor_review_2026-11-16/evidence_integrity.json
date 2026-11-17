@@ -1,0 +1,12 @@
+{
+  "existing_artifacts_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "new_decoder_runs_authorized_by_this_review": false,
+  "old_measurement_files_modified": false,
+  "review_date": "2026-11-16",
+  "reviewer_type": "separate AI agent, not external human peer review"
+}

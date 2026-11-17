@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-16",
+  "development_only": true,
+  "fit_wall_cap_seconds": 300,
+  "grids": {
+    "extended": {
+      "alpha": [
+        1e-08,
+        1e-07,
+        1e-06,
+        1e-05,
+        0.0001,
+        0.001,
+        0.01,
+        0.1,
+        1.0,
+        10.0,
+        100.0,
+        1000.0,
+        10000.0,
+        100000.0,
+        1000000.0
+      ],
+      "gamma": [
+        0.0001,
+        0.001,
+        0.01,
+        0.1,
+        1.0,
+        10.0,
+        100.0
+      ]
+    },
+    "original": {
+      "alpha": [
+        0.0001,
+        0.001,
+        0.01,
+        0.1,
+        1.0,
+        10.0,
+        100.0,
+        1000.0,
+        10000.0
+      ],
+      "gamma": [
+        0.01,
+        0.1,
+        1.0,
+        10.0
+      ]
+    }
+  },
+  "inputs": {
+    "experimental_design_review_2026-11-16/GRID_DIAGNOSTIC_PROTOCOL.md": "9827292f8d8505dccc1c395293800fd3baf2da86ef7cb555ce5a046355220049",
+    "experimental_design_review_2026-11-16/grid_diagnostic.py": "5733c94662394cd11d638c961ad76dd5d88499632cf0ee9900c45c403415a41a",
+    "learning_curves_2026-11-13/dataset.json": "ed7156006ff87c26731eea236bffb5d1358d6f746993d06fadacadcb5c86e581",
+    "validation_gate_2026-11-13/bridge_predictions.json": "9f44f2dbb5c2e82d01ba51b6ab11eebf75d2d37c6a618a04110258a37c2615cd",
+    "validation_gate_2026-11-13/common.py": "468e23190f1319666e2ce480c7834a52f7c9ce8393d37d523f7db5d577e6ef67",
+    "validation_gate_2026-11-13/corpus.json": "d6610f6a8e3ee1f15f0128b0801e7d922a902bcb23343c0ed18464a255b5318f",
+    "validation_gate_2026-11-13/model_checkpoints.json": "efd97b75a78025b25b875f85573e04e994ee65073c6db1faf6a580fd9a74d75d",
+    "validation_gate_2026-11-13/models.py": "31a4c1426fde90f0920a0d9112b958e1e7d9c00653fde732c5f5cb42e4f95497"
+  },
+  "new_decoder_calls": 0
+}

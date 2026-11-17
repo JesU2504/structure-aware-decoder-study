@@ -1,0 +1,33 @@
+{
+  "bp_converged": false,
+  "bp_iterations": 20,
+  "bp_sha256": "cec161e1ba53aab90ef91e7874fcdec3d123156525bdf987730e5b1f04508ad2",
+  "case_id": 120,
+  "cluster_count": 0,
+  "config": {
+    "cap": 20,
+    "force": false,
+    "kind": "osd",
+    "method": "OSD_0",
+    "name": "osd20",
+    "order": 0
+  },
+  "correction_sha256": "c19163b3f7d9518dc9ba266778e9930e277fd46cb8caec924530905b0194ec34",
+  "decode_cpu_ns": 6775000,
+  "decode_wall_ns": 6821709,
+  "first_call_in_block": false,
+  "fresh_instance": false,
+  "index": 373,
+  "init_cpu_ns": 0,
+  "init_wall_ns": 0,
+  "logical_difference": 0,
+  "outcome": "correct",
+  "phase": "main",
+  "postprocessing_observed": null,
+  "source_readout_equal": true,
+  "statistics": null,
+  "statistics_enabled": false,
+  "syndrome_residual": 0,
+  "syndrome_weight": 240,
+  "zero_syndrome": false
+}

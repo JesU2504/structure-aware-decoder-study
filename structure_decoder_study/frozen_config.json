@@ -1,0 +1,23 @@
+{
+  "analysis_sha256": "4448dae36314cf3842ae017eb30c4ec3245a6e7b6c454049bb45fcf620674f2a",
+  "commit": "c0490fa63965d8984cca89deb8826c19c46e8a3c",
+  "corpus_sha256": "53f77e7f7dd4f7ecb3d7641ec1ad0e0b6e1bbfe781c0b554e7b059e0f2a4717f",
+  "decoder": {
+    "bp_method": "minimum_sum",
+    "input_vector_type": "syndrome",
+    "lsd_method": "LSD_0",
+    "lsd_order": 0,
+    "max_iter": 30,
+    "ms_scaling_factor": 0.625,
+    "omp_thread_count": 1,
+    "random_schedule_seed": 0,
+    "schedule": "parallel"
+  },
+  "implementation_sha256": "2a98cc2ced6b7c66433e0f887dc0a2b1537dbfa805f29fc72f8e0e9a8c2efed4",
+  "protocol_sha256": "d56562632c3ae5f83a9f670df98a1b875ad1e985c1b3d7b6bc50145387294aee",
+  "scope": "TMCBS logical-Z detector sector; full-block windows",
+  "sessions": 3,
+  "shots": 2000,
+  "source_manifest_sha256": "6b2c44ef2e1c511ba61dadcbf1bf774354727e2dc1fe956645c099fd5cd22a0e",
+  "warmup": 32
+}

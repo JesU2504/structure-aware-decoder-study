@@ -1,0 +1,18 @@
+{
+  "censored": false,
+  "config_sha256": "9d1dea10d258b15e4afdfccdf6171c1fbdb03172988b80ba1f56ebbd716fd4e7",
+  "file_sha256": "529315a80d5fa79682b7f5cedb38c0fff144d56e9157e7a6df56b54ce9744e13",
+  "init_wall_ns": 1961958,
+  "logical_z_failures": 3,
+  "mean_cpu_ns": 2309328.125,
+  "mean_wall_ns": 2323509.859375,
+  "name": "bridge_q4_P03_d5_w10_p0_001_spread",
+  "p95_cpu_ns": 2436349.9999999986,
+  "p95_wall_ns": 2455312.4999999986,
+  "phase": "profile",
+  "seed": 8707376894443794754,
+  "session": 1,
+  "setting": "whole30",
+  "shots": 64,
+  "warm_seed": 7852114362295833250
+}

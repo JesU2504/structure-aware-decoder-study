@@ -1,0 +1,6 @@
+{
+  "comparator": "Forced LSD_0 and LSD_CS order 2",
+  "forced_after_bp_convergence_verified": true,
+  "invocations": 13,
+  "passed": true
+}

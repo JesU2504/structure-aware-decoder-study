@@ -1,0 +1,37 @@
+{
+  "counts": {
+    "additive100": {
+      "correct": 128,
+      "invalid_correction": 0,
+      "logical_failure": 0
+    },
+    "additive30": {
+      "correct": 128,
+      "invalid_correction": 0,
+      "logical_failure": 0
+    },
+    "exact100": {
+      "correct": 128,
+      "invalid_correction": 0,
+      "logical_failure": 0
+    },
+    "exact30": {
+      "correct": 128,
+      "invalid_correction": 0,
+      "logical_failure": 0
+    }
+  },
+  "cpu_seconds": 7.767579,
+  "decoder_calls": 525,
+  "frozen_sha256": "e5cc32250bc3247f3cbb66aa662e447240c3da4ef7198ae44729ffc75b9daf30",
+  "incomplete_decode_calls": 0,
+  "interpretation": "Enriched merged-DEM support stress panel; no natural LER or p95 inference",
+  "invocations_completed": 525,
+  "message": "Fixed panel complete; no failure found, stop local search as inconclusive",
+  "panel_calls_completed": 512,
+  "physical_monte_carlo_samples": 0,
+  "selected_cases": [],
+  "status": "completed",
+  "training_samples": 0,
+  "wall_seconds": 7.8348138749997815
+}

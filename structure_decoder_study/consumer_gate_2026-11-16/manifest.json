@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-16",
+  "files": {
+    "../STATUS_2026-11-16_CONSUMER_GATE.md": "d067349472bb539b2f6ba96bc012e6c39b81d8f86744805223f6017b00caa43d",
+    "PROTOCOL.md": "a3f7f30f62cf120c7248ff680ce9e8d8ce69ba76c882542f8f0e0c50c919e798",
+    "audit.json": "d81062c8cda7cc75e654d9a92681c5f3ba2e22544db1a73c44a92405471f6ca2",
+    "audit.py": "38564ff27ea82528680fc264f0acd66dbbb4734d0b529ef7985b02d6a7f816f3",
+    "contract_assessment.json": "9e78256464bac4919547a32bbf600521683f9c7d304c90e2199d00fc9539d54d",
+    "final_claim_check.md": "fc769be556353b08803ca74493356d29058017372629675f98d509c334792800",
+    "findings.md": "c7c2b2ca67c834343b8ecd086270f5c3933f16d26f90639b91a0a4e307a72f3c",
+    "replay.json": "b07f4aca50c55c47b04d7dc550688d8ad3cc821d554a49eec6b08874be3ade94",
+    "replay.py": "225d348ce7175c1b10c57d59ad1a000642a6c2995373061c940c1f80fa00f098",
+    "source_check.md": "95c221482ca60b5fd8c192d622e11a3e115006751856062431c29d125254126b"
+  },
+  "gate_0_passed": false,
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "note": "Local completed-gate integrity snapshot; not external timestamp, peer review or preregistration",
+  "post_hoc_development_only": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "stage_0_complete": true
+}

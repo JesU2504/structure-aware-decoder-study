@@ -1,0 +1,180 @@
+[
+  {
+    "axis": "adversarial_feature_box",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "f46880c73266b9cdbeff1ad668046d0e1c691f9c0802fc137dd8ef0af69f9989",
+    "dem_sha256": "280189d599e4ffccd0e8414e5316b34bdb3eb23dc77fd3bcd6e351044078a3d7",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.1369126057357541,
+      "col_degree_variance": 7.69152586422324,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 29.113158769637394,
+      "feature_time_ns": 903417,
+      "hyperedge_fraction": 0.4726530612244898,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10096,
+      "prior_sum": 10.156712523116294,
+      "row_degree_variance": 1078.5989439853076,
+      "volume": 40,
+      "weighted_excess_arity": 4.281445051424301
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w10_p0_0024_spread",
+    "outside_training_features": [],
+    "p": 0.0024,
+    "physical_noise_differs_from_training": true,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4152576.0198797197,
+          "raw_ns": 2140781.3254747107
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4649878.7835550755,
+          "raw_ns": 2601399.6526390025
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 10
+  },
+  {
+    "axis": "adversarial_feature_box",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "3204e8257931a6cf188e2b3ed2e6729f383cc9ed41217fab57aa5c1ecba24f84",
+    "dem_sha256": "8d80b2dcabf643dc908dae3f7771bc14366d701013c0e6787b73420ec7a38083",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.13667709423687965,
+      "col_degree_variance": 9.930208413161184,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 29.04946214450143,
+      "feature_time_ns": 761125,
+      "hyperedge_fraction": 0.4220408163265306,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 10.156712523116294,
+      "row_degree_variance": 1105.494432966024,
+      "volume": 40,
+      "weighted_excess_arity": 4.736799645037841
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w10_p0_0024_spread",
+    "outside_training_features": [],
+    "p": 0.0024,
+    "physical_noise_differs_from_training": true,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4155614.0638105455,
+          "raw_ns": 2142347.5310497438
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4656425.177800161,
+          "raw_ns": 2605062.0680497936
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 10
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "actual_sha256": "bf63fb2c2041d684b9126c2fec99528ba69abfc77cbb138bbcb11b9c190c1047",
+      "seed": 2026111731,
+      "shots": 256,
+      "syndrome_sha256": "a716d33c574092e9d285d50f409dd9d1dc265000c1850436d88b946d0afbfcf5"
+    },
+    {
+      "actual_sha256": "a8b4d0cbfc16dab55355d43a42eec2342dd691c18507871bd11284f577bb00df",
+      "seed": 2026111732,
+      "shots": 256,
+      "syndrome_sha256": "e3ee6f9bc4ed3c897d486dfe85c4c88f749def474da03db77c882b7c7ddca5df"
+    }
+  ],
+  "interpretation": "Deterministic regeneration of the same 512 observations, not 512 new independent samples",
+  "passed": true
+}

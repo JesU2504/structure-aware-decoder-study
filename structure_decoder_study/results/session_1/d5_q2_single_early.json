@@ -1,0 +1,20 @@
+{
+  "bp_fallback_fraction": 0.174,
+  "bp_iterations_mean": 6.5665,
+  "config_sha256": "95ee8711b85c5dfd4b9882ee8ac609f75dc2dc3cc90596fa4672c801ac86c1c4",
+  "decode_loop_wall_ns": 380218916,
+  "decoder_init_ns": 580625,
+  "implementation_sha256": "2a98cc2ced6b7c66433e0f887dc0a2b1537dbfa805f29fc72f8e0e9a8c2efed4",
+  "invalid_corrections": 0,
+  "logical_z_failures": 2,
+  "mean_ns": 189275.1235,
+  "median_ns": 100083.0,
+  "name": "d5_q2_single_early",
+  "p95_ns": 641877.1,
+  "p99_ns": 691420.33,
+  "sampling_ns": 1862583,
+  "seed": 2731834407318752661,
+  "session": 1,
+  "shots": 2000,
+  "zero_syndrome_fraction": 0.0895
+}

@@ -1,0 +1,95 @@
+{
+  "alphas": [
+    0.0001,
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0
+  ],
+  "date": "2026-11-13",
+  "expansion_orders": 10,
+  "expansion_sizes": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    11
+  ],
+  "files": {
+    "corpus.json": "53f77e7f7dd4f7ecb3d7641ec1ad0e0b6e1bbfe781c0b554e7b059e0f2a4717f",
+    "learning_curves_2026-11-13/PROTOCOL.md": "b92eef2fb4dc97610df0dd0a84e8529b7aab271d8eeaf2fee50e5c774d2110a0",
+    "learning_curves_2026-11-13/dataset.json": "ed7156006ff87c26731eea236bffb5d1358d6f746993d06fadacadcb5c86e581",
+    "learning_curves_2026-11-13/preparation.json": "2590a0578820bbb68b9658d7debd2455aace53b9bb563481406aafd83ef4cd1d",
+    "learning_curves_2026-11-13/run.py": "12784cb974284c84c56311fdbc769f832721724ac2e09178f24deac426e21214",
+    "results/case_summaries.json": "519ae2b40c0223a79ff5a2cdeed4c030ca2fb98e48e41088dcda02582d390275",
+    "stress_gate/corpus.json": "495df67710d39b83d4a49d87f092b5c7a3ec561f376663cecfd975b9c83213be",
+    "stress_gate/results/discovery_summaries_reviewed.json": "e3227e2e07ae4f91e3606b2edc9498b014af8feca79773337b0179a77b0281d1",
+    "study.py": "2a98cc2ced6b7c66433e0f887dc0a2b1537dbfa805f29fc72f8e0e9a8c2efed4"
+  },
+  "models": {
+    "B2": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "B3": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity",
+      "row_degree_var",
+      "col_degree_var",
+      "row_degree_p95",
+      "col_degree_p95",
+      "hyperedge_fraction",
+      "components",
+      "largest_component_fraction",
+      "component_size_second_moment",
+      "two_step_mean"
+    ],
+    "B3_stable": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity",
+      "row_degree_var",
+      "col_degree_var",
+      "row_degree_p95",
+      "col_degree_p95",
+      "hyperedge_fraction",
+      "components",
+      "largest_component_fraction",
+      "component_size_second_moment"
+    ]
+  },
+  "original_sizes": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "packages": {
+    "numpy": "2.4.1",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  },
+  "post_hoc": true,
+  "targets": [
+    "mean_ns",
+    "p95_ns"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tests": [
+    "tests/test_codes.py",
+    "tests/test_experiments.py"
+  ],
+  "passed": 39,
+  "seconds": 172.86,
+  "source_commit": "c0490fa63965d8984cca89deb8826c19c46e8a3c",
+  "execution": "normal package import and upstream pytest"
+}

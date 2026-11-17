@@ -1,0 +1,16 @@
+{
+  "invalid_preliminary_manifest": {
+    "commit": "b9ac6a1133e1db71a99d253e523ebca524117142",
+    "files": {
+      "README.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/enumerate_dem_ts.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/include_py/build_decoding_matrices_layered.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/include_py/codes_q.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/include_py/utils.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "repository": "https://github.com/Error-Correction-Lab/dem_trapping_sets",
+    "scope": "Small source subset inspected; no trapping-set enumeration or decoder execution"
+  },
+  "reason": "Five sandbox network failures created empty placeholders; rejected before source execution",
+  "valid": false
+}

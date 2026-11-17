@@ -1,0 +1,16 @@
+{
+  "cached_training_fits": 2610,
+  "completed_outer_groups": 31,
+  "decoder_shots_collected": 0,
+  "elapsed_seconds": 12.722804250000081,
+  "last_completed": "expansion_mixed_noise__new_q6_P03",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "stress_gate/manifest.json": 545
+  },
+  "status": "measurements_complete",
+  "svd_fits_this_process": 32613,
+  "total_outer_groups": 31
+}

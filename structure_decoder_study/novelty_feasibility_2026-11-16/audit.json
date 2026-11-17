@@ -1,0 +1,20 @@
+{
+  "audit_source_sha256": "7029a13c16f692465ab236710815d77187d7132ee54ef62354f8590f77b305e3",
+  "budgets_checked": 9,
+  "date": "2026-11-16",
+  "feasibility_sha256": "9b4bfdecd639d4822518370339546c69ee2ac21d92c5ba0c919628a16bd863ae",
+  "frozen_filter_controls_checked": 54,
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "passed": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "raw_profile_files_checked": 57
+}

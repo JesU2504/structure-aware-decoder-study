@@ -1,0 +1,12 @@
+{
+  "case_level_bridge_outcomes_inspected": false,
+  "client_date": "2026-11-15",
+  "files": {
+    "ANALYSIS_IMPLEMENTATION_NOTE.md": "fee164157555ddcffc243f44dbc1ff6e8b25d5a6b270082beb32095e8e55bba7",
+    "PROTOCOL.md": "08ea2319836e87423abd5467ca9d2dc1431b9475368a49fcd0a1945e3a7adb91",
+    "analyze_bridge.py": "c0ee5c4af6bd417c380fbf77cab19132c6a3f5b4e82d5505786f086c4d8c75b7",
+    "bridge_config.json": "9d1dea10d258b15e4afdfccdf6171c1fbdb03172988b80ba1f56ebbd716fd4e7",
+    "bridge_predictions.json": "9f44f2dbb5c2e82d01ba51b6ab11eebf75d2d37c6a618a04110258a37c2615cd"
+  },
+  "written_after_measurement_launch": true
+}

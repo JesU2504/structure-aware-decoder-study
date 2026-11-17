@@ -1,0 +1,67 @@
+{
+  "status": "fail",
+  "scope": "generator/converter validation only; no decoder failure reproduced",
+  "source_commit": "b9ac6a1133e1db71a99d253e523ebca524117142",
+  "source_executed": "construction helpers only",
+  "settings": {
+    "data_qubits": 144,
+    "logical_qubits": 12,
+    "rounds": 12,
+    "p": 0.001,
+    "sector": "Z memory",
+    "HZH": false,
+    "use_both": false
+  },
+  "dimensions": {
+    "detectors": 936,
+    "observables": 12,
+    "raw_dem_errors": 10368,
+    "merged_fault_columns": 8784,
+    "H_nnz": 30672,
+    "L_nnz": 18184,
+    "rank_hx": 66,
+    "rank_hz": 66
+  },
+  "duplicate_signatures": 1584,
+  "prior_max_difference": 4.613221740329323e-06,
+  "checks": {
+    "source_hashes": true,
+    "css_commutes": true,
+    "logical_x_commutes_with_z_checks": true,
+    "logical_z_commutes_with_x_checks": true,
+    "expected_dimensions": true,
+    "logical_pairing_full_rank": true,
+    "logical_x_independent_mod_stabilizers": true,
+    "logical_z_independent_mod_stabilizers": true,
+    "raw_error_count_matches_dem": true,
+    "unseparated_dem": true,
+    "signature_alignment_bijective": true,
+    "repository_h_matches": true,
+    "repository_l_matches": true,
+    "repository_priors_match_xor_merge": false,
+    "noiseless_detectors_zero": true,
+    "noiseless_observables_zero": true,
+    "raw_fault_syndrome_reconstruction": true,
+    "raw_fault_observable_reconstruction": true,
+    "merged_fault_syndrome_reconstruction": true,
+    "merged_fault_observable_reconstruction": true
+  },
+  "sampling": {
+    "noiseless_circuit_validation": 32,
+    "dem_validation": 256,
+    "noiseless_seed": 2026111701,
+    "dem_seed": 2026111702,
+    "decoder_calls": 0,
+    "training_samples": 0
+  },
+  "environment": {
+    "python": "3.12.12",
+    "system": "macOS-14.5-arm64-arm-64bit",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "stim": "1.16.0",
+    "ldpc": "2.4.1"
+  },
+  "probe_elapsed_seconds": 2.6000068339999416,
+  "distance_certified": false
+}

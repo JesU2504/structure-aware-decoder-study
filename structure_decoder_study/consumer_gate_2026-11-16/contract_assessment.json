@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-16",
+  "stage_0_complete": true,
+  "gate_0_passed": false,
+  "disposition": "do_not_advance_current_selective_profiling_workflow",
+  "scope": "Present evidence and proposed workflow; not all possible decoder-characterization applications",
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "requirements": {
+    "concrete_consumer": {
+      "status": "not_established_for_this_policy",
+      "evidence": "Related primary-source consumers inspected in source_check.md; no integrated candidate/decision trace in this project"
+    },
+    "required_output": {
+      "status": "mismatch",
+      "evidence": "Current 19-task table mixes programs and noise settings; closest schedule-selection consumer needs a feasible schedule optimizing a quantum objective"
+    },
+    "unique_uncached_tasks_per_invocation": {
+      "status": "unknown",
+      "evidence": "The fixture's 19 tasks are not a measured planner invocation"
+    },
+    "cache_hit_rate_and_invalidation": {
+      "status": "unknown_in_consumer",
+      "evidence": "Three exact historical circuit matches found; context validity and actual reuse remain unestablished"
+    },
+    "reuse_horizon": {
+      "status": "unknown",
+      "evidence": "Historical training-label cost recovered; no supported deployment amortization horizon"
+    },
+    "budget_and_service_statistic": {
+      "status": "not_justified_for_our_p95_policy",
+      "evidence": "2 ms and 5% exceedance remain diagnostics; a literature-inspired 5 ms sensitivity removes filtering savings, without reproducing that literature's contract"
+    },
+    "logical_quality": {
+      "status": "pilot_only_and_retrospective",
+      "evidence": "1% whole-task logical-Z upper-bound screen is not a full application requirement or an available planner oracle"
+    },
+    "loss_tolerance_for_useful_outputs": {
+      "status": "unknown",
+      "evidence": "No consumer-derived penalty or allowable feasible-rejection/objective-regret level"
+    },
+    "material_net_saving": {
+      "status": "not_demonstrated",
+      "evidence": "Only partial development savings; preparation, joint quality measurement, caching and baseline search may reduce the advantage"
+    },
+    "minimum_worthwhile_absolute_saving": {
+      "status": "unknown",
+      "evidence": "The provisional 20% management screen does not supply an actual consumer's absolute-value requirement"
+    },
+    "hardware_decoder_scope": {
+      "status": "established_for_existing_measurements_only",
+      "evidence": "Pinned one-thread CPU BP+LSD0, max_iter=30 on Apple M1 Pro, single detector sector/whole-task logical-Z"
+    },
+    "new_measurement_resource_cap": {
+      "status": "not_applicable_at_negative_gate",
+      "evidence": "No Stage 1 timings or prospective experiment is launched"
+    }
+  },
+  "conditions_to_reopen": [
+    "A concrete planner or decoder-qualification workflow with a trace of its actual uncached characterization questions",
+    "A sourced service/accuracy contract and consumer-appropriate baseline",
+    "A credible material cost case after caching, preparation, joint timing-quality observations and model/label amortization"
+  ],
+  "not_claimed": [
+    "Universal impossibility of selective profiling",
+    "A measured compiler end-to-end speedup or slowdown",
+    "A minimum necessary training cost",
+    "A production accuracy oracle from the retrospective subset",
+    "An external human review or publication-readiness verdict"
+  ]
+}

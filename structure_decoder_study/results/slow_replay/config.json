@@ -1,0 +1,9 @@
+{
+  "cpu_clock": "process_time_ns",
+  "implementation_sha256": "b45ea40dc08a4720239554b07af155933616a007934d887979b7febac2cf703c",
+  "post_hoc": true,
+  "primary_config_sha256": "95ee8711b85c5dfd4b9882ee8ac609f75dc2dc3cc90596fa4672c801ac86c1c4",
+  "repeats": 3,
+  "selection": "ten globally largest primary shot wall times and matched medians",
+  "wall_clock": "perf_counter_ns"
+}

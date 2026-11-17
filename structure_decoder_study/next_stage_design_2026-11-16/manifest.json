@@ -1,0 +1,26 @@
+{
+  "consumer_contract_complete": false,
+  "date": "2026-11-16",
+  "design_only": true,
+  "files": {
+    "../STATUS_2026-11-16_NEXT_STAGE_DESIGN.md": "5176fbe3ad84cb6dad0d516a514d21c3e4f1263ee2bb4cbffbc49afb7c850ce7",
+    "PLAN.md": "3e898d08ecddfbc8062aec3c53aede634860cd48bcaa0c362e1552404b59e96f",
+    "consumer_contract.json": "dfa769fb6215ba65272e462230035c843df16f6a4f0efed1b039529eeab93c86",
+    "design_audit.json": "f974e5eaca8c531a8e2ec6348a97f617cd0d390465ed59e25e9820d285f98af5",
+    "planning_calculations.json": "e3e10ad7f951c3588eb8d01a093925358809543327579ed6b053dfcd9c88787b",
+    "planning_calculations.py": "0ac01b1cbf65c9975453d8b4a60a3944e899a5aa4c266c173896ec320a0a3364"
+  },
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "note": "Local design integrity snapshot; conditional plan, not a frozen execution protocol or external preregistration",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  }
+}

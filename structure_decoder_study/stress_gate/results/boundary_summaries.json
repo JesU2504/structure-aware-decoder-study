@@ -1,0 +1,284 @@
+[
+  {
+    "censored": false,
+    "classification": "below",
+    "logical_z_failure_fraction": 0.02266666666666667,
+    "mean_wall_ns": 1577711.7403333334,
+    "miss_interval": [
+      0.010595053722787086,
+      0.023067123234133423
+    ],
+    "miss_probability": 0.016,
+    "name": "q4_P01_d5_w10_p0_0015_spread",
+    "p": 0.0015,
+    "p95_wall_ns": 2857454.7999999993,
+    "padded_prediction_ns": 4284724.033040466,
+    "program": "q4_P01",
+    "raw_prediction_ns": 2397111.866792265,
+    "sessions": [
+      {
+        "interval": [
+          0.004804513432687294,
+          0.027656441591587606
+        ],
+        "misses": 13,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.005404726699234406,
+          0.029033090061248015
+        ],
+        "misses": 14,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.009937394466491833,
+          0.03835778794131837
+        ],
+        "misses": 21,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  },
+  {
+    "censored": false,
+    "classification": "below",
+    "logical_z_failure_fraction": 0.048,
+    "mean_wall_ns": 2015387.921,
+    "miss_interval": [
+      0.02355790728117339,
+      0.04070310368530953
+    ],
+    "miss_probability": 0.03133333333333333,
+    "name": "q4_P01_d5_w10_p0_002_spread",
+    "p": 0.002,
+    "p95_wall_ns": 3763487.199999998,
+    "padded_prediction_ns": 4511991.204218144,
+    "program": "q4_P01",
+    "raw_prediction_ns": 2524257.7060018294,
+    "sessions": [
+      {
+        "interval": [
+          0.017064619754232773,
+          0.05105786320085973
+        ],
+        "misses": 31,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.013428154170538867,
+          0.04477772559584641
+        ],
+        "misses": 26,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.02157517194799782,
+          0.058452333586963175
+        ],
+        "misses": 37,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  },
+  {
+    "censored": false,
+    "classification": "unresolved",
+    "logical_z_failure_fraction": 0.07333333333333333,
+    "mean_wall_ns": 2543398.804,
+    "miss_interval": [
+      0.04309221950055101,
+      0.06508534252570176
+    ],
+    "miss_probability": 0.05333333333333334,
+    "name": "q4_P01_d5_w10_p0_0025_spread",
+    "p": 0.0025,
+    "p95_wall_ns": 5168278.849999996,
+    "padded_prediction_ns": 4679947.281759942,
+    "program": "q4_P01",
+    "raw_prediction_ns": 2618221.635410285,
+    "sessions": [
+      {
+        "interval": [
+          0.03415617389620037,
+          0.07763375472428327
+        ],
+        "misses": 53,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.030949816420908584,
+          0.07289799472602239
+        ],
+        "misses": 49,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.03821071268715724,
+          0.08350786630960716
+        ],
+        "misses": 58,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  },
+  {
+    "censored": false,
+    "classification": "below",
+    "logical_z_failure_fraction": 0.02033333333333333,
+    "mean_wall_ns": 1604153.189,
+    "miss_interval": [
+      0.014725231448078604,
+      0.028912923175405836
+    ],
+    "miss_probability": 0.021,
+    "name": "q4_P03_d5_w10_p0_0015_spread",
+    "p": 0.0015,
+    "p95_wall_ns": 2931190.199999999,
+    "padded_prediction_ns": 4290569.328860962,
+    "program": "q4_P03",
+    "raw_prediction_ns": 2400382.0489249234,
+    "sessions": [
+      {
+        "interval": [
+          0.008592812503560397,
+          0.035740470975071714
+        ],
+        "misses": 19,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.00793379191054373,
+          0.034419210891216155
+        ],
+        "misses": 18,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.013428154170538867,
+          0.04477772559584641
+        ],
+        "misses": 26,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  },
+  {
+    "censored": false,
+    "classification": "unresolved",
+    "logical_z_failure_fraction": 0.051,
+    "mean_wall_ns": 2388539.758,
+    "miss_interval": [
+      0.03620517201665106,
+      0.0566673137017258
+    ],
+    "miss_probability": 0.04566666666666667,
+    "name": "q4_P03_d5_w10_p0_002_spread",
+    "p": 0.002,
+    "p95_wall_ns": 4421635.749999981,
+    "padded_prediction_ns": 4518257.019052888,
+    "program": "q4_P03",
+    "raw_prediction_ns": 2527763.1497549554,
+    "sessions": [
+      {
+        "interval": [
+          0.0301538902274674,
+          0.07170852082539901
+        ],
+        "misses": 48,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.02778079581199185,
+          0.06812576728378239
+        ],
+        "misses": 45,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.0269949144561368,
+          0.06692649364346637
+        ],
+        "misses": 44,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  },
+  {
+    "censored": false,
+    "classification": "above",
+    "logical_z_failure_fraction": 0.07333333333333333,
+    "mean_wall_ns": 2977493.564,
+    "miss_interval": [
+      0.05796014726659824,
+      0.08282542526142
+    ],
+    "miss_probability": 0.06966666666666667,
+    "name": "q4_P03_d5_w10_p0_0025_spread",
+    "p": 0.0025,
+    "p95_wall_ns": 6687320.499999979,
+    "padded_prediction_ns": 4686558.056708543,
+    "program": "q4_P03",
+    "raw_prediction_ns": 2621920.068951345,
+    "sessions": [
+      {
+        "interval": [
+          0.04148773308688263,
+          0.08817443445115533
+        ],
+        "misses": 62,
+        "session": 0,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.058234489813888554,
+          0.11115192784281853
+        ],
+        "misses": 82,
+        "session": 1,
+        "shots": 1000
+      },
+      {
+        "interval": [
+          0.0439632168505839,
+          0.09165697450694765
+        ],
+        "misses": 65,
+        "session": 2,
+        "shots": 1000
+      }
+    ],
+    "shots": 3000
+  }
+]

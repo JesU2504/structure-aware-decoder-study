@@ -1,0 +1,10 @@
+{
+  "case_sessions": 186,
+  "correction_checkpoints": 2938,
+  "external_peer_review": false,
+  "internal_checks_only": true,
+  "new_physical_shots": 82968,
+  "original_files_checked": 905,
+  "original_files_unchanged": true,
+  "unique_new_configurations": 56
+}

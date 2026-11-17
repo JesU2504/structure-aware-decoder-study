@@ -1,0 +1,65 @@
+{
+  "comparator": {
+    "always_run_lsd": true,
+    "max_iter": 30,
+    "method": "LSD_CS",
+    "order": 2
+  },
+  "configs": [
+    {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    },
+    {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    },
+    {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    },
+    {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  ],
+  "files": {
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.cpython-312-darwin.so": "180dfe755fcd5cb3dbc37e3291a8e05a3e488fcb6bfceea283f8c6392450a592",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.pxd": "2ff0b074f6e543f7887b67f99c498ab5ab7fcfddf8e7ad861590d71f7cfc0d05",
+    "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.pyx": "7064a43fc09fc8f3cb8001f7d737e38d341151e0f1ecfa5313b4c0a3fdfb2145",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/PROTOCOL.md": "5e62731af65d81e5a6fc216f67b34fee84e50198b6c044fe549ad15071dca50f",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/fault_mapping.json": "9e86790b9e2024988c6b2f75ba3cd26c62fc478b4b1527e6b5b0d161337a1be2",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/jobs.json": "b5cba8c67d761f8f12fb56946ed026fc23443675819ea91c8989554c8191c73f",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/panel.json": "0476ae9445eeb5a68b94c4a4082bbf79af5259b5e774f42aff2e41aae5f0771a",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/pilot.py": "7041ea72c7e83858b966ed6d4f25fe0853538a9a68defc04b08d5311f18cfaf3",
+    "<WORKSPACE>/structure_decoder_study/failure_pilot_2026-11-17/relatedness.json": "9b1497e6f3f6ca5d5bd19f0a88204b4e5bfbafacfb7dcee8d9e54ff85ecc653b",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/H.npz": "7f75b0ccf2d5ea15c7b8120c885debe53e7ef45d7bd02d97ab442f5f12a430e7",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/L.npz": "85f923b328e4c4393ee8b07c41e53bdc948cff9f55cdf39734fbb9f1da1debb9",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/bb144_r12_p0.001_z.dem": "73c09d89d972a8acf1a66e5388ad3326ec82ccff14409789839598aed24fe492",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/bb144_r12_p0.001_z.stim": "ed17942e821ca2cda0e824994a0f5fc0bfd7fc5b4c71f3d2c3c853d22b4b77f0",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/column_signatures.json": "4b60fb4a2c77f8abd81a51c7b3083a2966612eee95b895aa97e15e968c480656",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/priors.npy": "76a5ef9fd60eee3750747f89dfc73e6bb9ebda124dcf6158576b27653c738f6c",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/construction_probe/repository_additive_priors.npy": "f6bf1dc969259ed8e37a5e97698061fc4588082be0d42380c931c167c5cbc3e2",
+    "<WORKSPACE>/structure_decoder_study/failure_target_2026-11-17/manifest.json": "96e8b6b2b393d0e8a17ba3296192098e08eb0a88f4487b68929da5e8374dad1f"
+  },
+  "limits": {
+    "cpu_seconds": 1200,
+    "invocations": 640,
+    "wall_seconds": 1800
+  },
+  "n_cases": 128,
+  "no_decoder_calls_during_preparation": true,
+  "panel_calls": 512,
+  "python": "3.12.12",
+  "system": "macOS-14.5-arm64-arm-64bit",
+  "versions": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  }
+}

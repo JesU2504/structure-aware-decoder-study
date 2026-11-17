@@ -1,0 +1,40 @@
+{
+  "derived_training_ranges": {
+    "mean_mechanism_prior": {
+      "minimum": 0.001666849691637237,
+      "maximum": 0.0019598415261279983
+    },
+    "expected_activity_density": {
+      "minimum": 0.012005332265944354,
+      "maximum": 0.02787086157810732
+    }
+  },
+  "cases": [
+    {
+      "name": "q4_P01_d5_w10_p0_0024_spread",
+      "all_raw_B2_inputs_within": true,
+      "derived": {
+        "mean_mechanism_prior": 0.004145596948210733,
+        "expected_activity_density": 0.0551385582758284
+      },
+      "above_old_derived_maxima": [
+        "mean_mechanism_prior",
+        "expected_activity_density"
+      ]
+    },
+    {
+      "name": "q4_P03_d5_w10_p0_0024_spread",
+      "all_raw_B2_inputs_within": true,
+      "derived": {
+        "mean_mechanism_prior": 0.004145596948210733,
+        "expected_activity_density": 0.055017920728222404
+      },
+      "above_old_derived_maxima": [
+        "mean_mechanism_prior",
+        "expected_activity_density"
+      ]
+    }
+  ],
+  "uses_new_timing_data": false,
+  "claim": "Input-only diagnostic derived during feature-box measurement; no calibration/safety guarantee"
+}

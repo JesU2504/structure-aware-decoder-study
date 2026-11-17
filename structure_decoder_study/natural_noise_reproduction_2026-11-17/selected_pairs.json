@@ -1,0 +1,50 @@
+[
+  {
+    "control": 116,
+    "failure": 23,
+    "same_seed_block": true,
+    "syndrome_weight_difference": -44
+  },
+  {
+    "control": 242,
+    "failure": 24,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  },
+  {
+    "control": 0,
+    "failure": 51,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  },
+  {
+    "control": 182,
+    "failure": 66,
+    "same_seed_block": true,
+    "syndrome_weight_difference": -7
+  },
+  {
+    "control": 124,
+    "failure": 131,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  },
+  {
+    "control": 1,
+    "failure": 167,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  },
+  {
+    "control": 108,
+    "failure": 188,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  },
+  {
+    "control": 42,
+    "failure": 228,
+    "same_seed_block": true,
+    "syndrome_weight_difference": 0
+  }
+]

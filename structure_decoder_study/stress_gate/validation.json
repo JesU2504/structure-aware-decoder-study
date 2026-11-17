@@ -1,0 +1,366 @@
+{
+  "circuits": [
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w10_p0_0003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w10_p0_003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w5_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d5_w15_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d3_w6_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d7_w14_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P00_d9_w18_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w10_p0_0003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w10_p0_003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w5_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d5_w15_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d3_w6_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d7_w14_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P01_d9_w18_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w10_p0_0003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w10_p0_003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w5_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d5_w15_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d3_w6_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d7_w14_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P02_d9_w18_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w10_p0_0003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w10_p0_003_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w5_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d5_w15_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d3_w6_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d7_w14_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P03_d9_w18_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P04_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P04_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P05_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P05_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P06_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P06_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P07_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q4_P07_d5_w10_p0_001_burst"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q6_P00_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q6_P01_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q6_P02_d5_w10_p0_001_spread"
+    },
+    {
+      "connected": true,
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "q6_P03_d5_w10_p0_001_spread"
+    }
+  ],
+  "program_semantics": [
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P00",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P01",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P02",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P03",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P04",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P05",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P06",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 8,
+      "passed": true,
+      "program": "q4_P07",
+      "truth_table_inputs": 16
+    },
+    {
+      "gate_only_pauli_images": 12,
+      "passed": true,
+      "program": "q6_P00",
+      "truth_table_inputs": 64
+    },
+    {
+      "gate_only_pauli_images": 12,
+      "passed": true,
+      "program": "q6_P01",
+      "truth_table_inputs": 64
+    },
+    {
+      "gate_only_pauli_images": 12,
+      "passed": true,
+      "program": "q6_P02",
+      "truth_table_inputs": 64
+    },
+    {
+      "gate_only_pauli_images": 12,
+      "passed": true,
+      "program": "q6_P03",
+      "truth_table_inputs": 64
+    }
+  ]
+}

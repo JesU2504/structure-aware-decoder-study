@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-16",
+  "files": {
+    "../STATUS_2026-11-16_CROSS_DOMAIN.md": "fa245c11093e77474c80f79cbb6c6e2d38bc7bc9a05ebb5c4de8d22af7e1960a",
+    "cross_domain_addendum.md": "3dd66af016c27291efceefd72d86971737a0b0e1e5e8bae23aae4a031cc7e001",
+    "cross_domain_replay.json": "3dcb0b61f9ed300d6a047ae9845db6553076414a792e02b94d75939ea87b29f9",
+    "cross_domain_replay_crosscheck.json": "9afe2710437ce6d38cd95f54e2b4a9122ea6672728199d0062e6d1836b6ee5c2"
+  },
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "note": "Local addendum integrity snapshot; original review and earlier manifests preserved",
+  "prior_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "supervisor_review_2026-11-16/manifest.json": 8
+  },
+  "reviewer_type": "separate AI reviewer, not human peer review"
+}

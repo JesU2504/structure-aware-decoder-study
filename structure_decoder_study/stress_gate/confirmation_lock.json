@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-13",
+  "recorded_after_confirmation_launch": true,
+  "reason": "Initial snapshot import failed; declaration files had been written before launch",
+  "files": {
+    "CONFIRMATION_AMENDMENT.md": "7ad8c10ebe72127540596a57b327bdedc18938d3a93657cd3ba78560242c6003",
+    "analyze_prefix.py": "25875122b47414e5abeddcbe97caf7e0434a0e04a1358de77c80dd53902ac81f",
+    "confirmation_selection.json": "d27c188916ab134ebd20e709d99bcf6b11c0e5e4ee1901036429ff87ff8c1339",
+    "run_config.json": "ef53eb477787621944544a76f9cabc86e826118b898d9a8379cde8590b58b873"
+  },
+  "backend_binary_sha256": {
+    "_bplsd_decoder.cpython-312-darwin.so": "180dfe755fcd5cb3dbc37e3291a8e05a3e488fcb6bfceea283f8c6392450a592",
+    "_bp_decoder.cpython-312-darwin.so": "1df1d1d49438cf28100cbbfece632e3728f24adbdf67a32a70a9c8f50645a90e"
+  },
+  "packages": {
+    "ldpc": "2.4.1",
+    "stim": "1.16.0",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0"
+  },
+  "shared_study_sha256": "2a98cc2ced6b7c66433e0f887dc0a2b1537dbfa805f29fc72f8e0e9a8c2efed4"
+}

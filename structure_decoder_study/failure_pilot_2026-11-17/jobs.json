@@ -1,0 +1,4098 @@
+[
+  {
+    "case_id": 60,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 60,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 60,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 60,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 79,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 79,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 79,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 79,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 4,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 4,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 4,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 4,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 119,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 119,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 119,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 119,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 87,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 87,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 87,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 87,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 73,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 73,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 73,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 73,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 38,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 38,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 38,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 38,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 100,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 100,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 100,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 100,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 83,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 83,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 83,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 83,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 97,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 97,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 97,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 97,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 86,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 86,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 86,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 86,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 41,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 41,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 41,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 41,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 94,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 94,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 94,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 94,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 52,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 52,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 52,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 52,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 29,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 29,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 29,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 29,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 66,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 66,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 66,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 66,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 70,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 70,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 70,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 70,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 109,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 109,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 109,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 109,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 32,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 32,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 32,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 32,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 9,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 9,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 9,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 9,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 69,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 69,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 69,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 69,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 10,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 10,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 10,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 10,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 45,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 45,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 45,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 45,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 127,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 127,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 127,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 127,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 27,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 27,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 27,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 27,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 43,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 43,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 43,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 43,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 53,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 53,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 53,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 53,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 13,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 13,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 13,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 13,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 68,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 68,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 68,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 68,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 82,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 82,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 82,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 82,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 42,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 42,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 42,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 42,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 49,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 49,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 49,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 49,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 20,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 20,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 20,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 20,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 2,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 2,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 2,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 2,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 120,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 120,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 120,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 120,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 93,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 93,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 93,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 93,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 33,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 33,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 33,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 33,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 36,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 36,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 36,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 36,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 57,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 57,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 57,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 57,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 108,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 108,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 108,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 108,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 6,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 6,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 6,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 6,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 107,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 107,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 107,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 107,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 91,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 91,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 91,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 91,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 17,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 17,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 17,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 17,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 99,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 99,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 99,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 99,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 115,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 115,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 115,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 115,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 34,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 34,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 34,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 34,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 110,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 110,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 110,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 110,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 113,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 113,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 113,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 113,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 118,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 118,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 118,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 118,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 126,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 126,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 126,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 126,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 18,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 18,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 18,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 18,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 71,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 71,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 71,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 71,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 15,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 15,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 15,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 15,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 44,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 44,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 44,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 44,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 106,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 106,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 106,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 106,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 85,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 85,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 85,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 85,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 64,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 64,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 64,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 64,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 74,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 74,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 74,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 74,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 117,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 117,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 117,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 117,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 39,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 39,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 39,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 39,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 76,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 76,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 76,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 76,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 51,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 51,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 51,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 51,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 121,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 121,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 121,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 121,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 84,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 84,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 84,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 84,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 124,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 124,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 124,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 124,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 111,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 111,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 111,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 111,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 123,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 123,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 123,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 123,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 75,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 75,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 75,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 75,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 81,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 81,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 81,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 81,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 101,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 101,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 101,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 101,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 35,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 35,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 35,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 35,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 90,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 90,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 90,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 90,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 116,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 116,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 116,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 116,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 78,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 78,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 78,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 78,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 95,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 95,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 95,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 95,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 40,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 40,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 40,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 40,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 54,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 54,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 54,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 54,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 14,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 14,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 14,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 14,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 92,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 92,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 92,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 92,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 30,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 30,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 30,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 30,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 5,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 5,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 5,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 5,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 23,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 23,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 23,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 23,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 96,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 96,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 96,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 96,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 37,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 37,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 37,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 37,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 47,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 47,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 47,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 47,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 31,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 31,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 31,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 31,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 24,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 24,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 24,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 24,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 48,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 48,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 48,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 48,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 3,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 3,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 3,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 3,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 98,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 98,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 98,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 98,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 28,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 28,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 28,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 28,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 46,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 46,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 46,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 46,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 58,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 58,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 58,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 58,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 80,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 80,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 80,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 80,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 62,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 62,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 62,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 62,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 122,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 122,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 122,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 122,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 12,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 12,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 12,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 12,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 22,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 22,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 22,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 22,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 104,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 104,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 104,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 104,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 72,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 72,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 72,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 72,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 50,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 50,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 50,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 50,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 112,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 112,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 112,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 112,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 21,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 21,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 21,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 21,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 88,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 88,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 88,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 88,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 25,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 25,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 25,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 25,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 8,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 8,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 8,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 8,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 7,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 7,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 7,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 7,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 77,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 77,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 77,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 77,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 114,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 114,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 114,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 114,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 0,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 0,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 0,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 0,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 89,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 89,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 89,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 89,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 102,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 102,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 102,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 102,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 103,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 103,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 103,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 103,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 59,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 59,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 59,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 59,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 105,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 105,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 105,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 105,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 19,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 19,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 19,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 19,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 1,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 1,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 1,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 1,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 65,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 65,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 65,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 65,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 16,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 16,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 16,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 16,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 67,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 67,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 67,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 67,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 26,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 26,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 26,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 26,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 11,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 11,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 11,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 11,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 55,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 55,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 55,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 55,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 63,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 63,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 63,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 63,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 125,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 125,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 125,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 125,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 61,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 61,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 61,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 61,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 56,
+    "config": {
+      "max_iter": 30,
+      "name": "exact30",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 56,
+    "config": {
+      "max_iter": 100,
+      "name": "exact100",
+      "prior": "exact"
+    }
+  },
+  {
+    "case_id": 56,
+    "config": {
+      "max_iter": 100,
+      "name": "additive100",
+      "prior": "additive"
+    }
+  },
+  {
+    "case_id": 56,
+    "config": {
+      "max_iter": 30,
+      "name": "additive30",
+      "prior": "additive"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "compiled_backend_hashes_match": true,
+  "correction_vectors_checked": 63552,
+  "declared_analysis_hashes_match": true,
+  "decoder_configuration_checked": true,
+  "fresh_process_ids": [
+    13608,
+    13725,
+    13821
+  ],
+  "internal_only": true,
+  "passed": true,
+  "physical_evaluation_samples_replayed": 29184,
+  "physical_profiling_samples_replayed": 3648,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545
+  },
+  "raw_budget_metrics_checked": 126,
+  "reserved_test_parents_used": false
+}

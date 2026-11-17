@@ -1,0 +1,160 @@
+{
+  "abi_adapters_passed": true,
+  "candidate_searches": 0,
+  "cases": 24,
+  "elapsed_seconds": 4.745333833000132,
+  "frozen_sha256": "0d7fcc9da3baa106b000c63b8ac23a836cdc3f107d86d069164a900f9e467b1b",
+  "native_decoder_calls": 0,
+  "native_order_exact_matches": 24,
+  "native_order_repeatable": true,
+  "physical_shots": 0,
+  "rows": [
+    {
+      "case_id": 0,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 30,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 1,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 28,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 2,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 34,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 3,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 50,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 4,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 55,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 5,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 28,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 23,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 40,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 24,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 20,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 51,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 33,
+      "stable_difference": 4
+    },
+    {
+      "case_id": 66,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 41,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 131,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 30,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 167,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 38,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 188,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 32,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 228,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 55,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 249,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 22,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 256,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 28,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 257,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 10,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 258,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 68,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 260,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 44,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 261,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 50,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 263,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 22,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 264,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 36,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 265,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 42,
+      "stable_difference": 0
+    },
+    {
+      "case_id": 407,
+      "native_order_difference": 0,
+      "ordering_positions_changed": 30,
+      "stable_difference": 0
+    }
+  ],
+  "scope": "Implementation-derived ordering diagnostic on inspected cached panel; not hidden-pivot equivalence or a 1FV experiment",
+  "stable_exact_matches": 23,
+  "status": "completed"
+}

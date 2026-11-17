@@ -1,0 +1,42 @@
+{
+  "all_new_results_development_only": true,
+  "date": "2026-11-16",
+  "diagnostic_outer_model_evaluations": 372,
+  "files": {
+    "../STATUS_2026-11-16_METHODS_AUDIT.md": "b8ee0074b44898bb15282d2e2af198a7700c8e32c3979c65af179a034795b27d",
+    "FEATURE_FALLBACK_AMENDMENT.md": "cbe543797aa642aa5fe04f1bc1230a36281aaba266aa6fe6e3c10fc1d93e6c75",
+    "GRID_DIAGNOSTIC_PROTOCOL.md": "9827292f8d8505dccc1c395293800fd3baf2da86ef7cb555ce5a046355220049",
+    "METHODS_AUDIT.md": "7c19e14b481ebb74d5655084562c54855958fdb49f47715c4a06f8fe678969f9",
+    "REVIEW_STATUS.md": "6d93f83458a36222a202624a447dd9877384f1456bb013e6ed1aa67fa0e5d446",
+    "audit_diagnostic.py": "d0b0a38138069e548b05e90640302d0ea0d6be243edf22aefca74c12e3ad279a",
+    "diagnostic_audit.json": "534a029608d64a8ef47037393c8ffa6171709b1fd78bd03b72f9dc26d6c1c501",
+    "feature_fallback.json": "0d99fa979eaecc4a71265ff262bf24f29b98343c301e51ff49031d83245bc23c",
+    "feature_fallback.py": "ddaee11d868184935daa27e0857a48e7987d066704dad7612c138b8cc4f2f22c",
+    "grid_checkpoints.json": "afd8d53b3077ae5727764426eebf2534d0bbbdc461412132b47dcf817bc590f7",
+    "grid_config.json": "41e5fe41d8ddea5d43ab1229a933abf9775e02fa8d372297356367c71b244be0",
+    "grid_diagnostic.py": "5733c94662394cd11d638c961ad76dd5d88499632cf0ee9900c45c403415a41a",
+    "grid_results.json": "df78100ecfef75df63992a843d0a0d044dd215d4691b150adc57d3b4c6c5a746"
+  },
+  "independent_ai_review_status": "Partial; interrupted by usage limit before complete report",
+  "independent_sklearn_target_checks": 36,
+  "new_decoder_calls": 0,
+  "new_physical_samples": 0,
+  "note": "Local audit snapshot; not external peer review or preregistration",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "consumer_gate_2026-11-16/manifest.json": 10,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "research_reorientation_2026-11-16/manifest.json": 1,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  }
+}

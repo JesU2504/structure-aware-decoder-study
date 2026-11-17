@@ -1,0 +1,89 @@
+{
+  "bp_converged": true,
+  "bp_iterations": 1,
+  "bp_sha256": "faee935763044f124d7526755a5058a33f9402a595994d59eddd4be8546ff201",
+  "case_id": "adapter_toy",
+  "cluster_count": 2,
+  "config": {
+    "max_iter": 30,
+    "name": "exact30",
+    "prior": "exact"
+  },
+  "correction_sha256": "faee935763044f124d7526755a5058a33f9402a595994d59eddd4be8546ff201",
+  "decode_cpu_ns": 52000,
+  "decode_wall_ns": 52167,
+  "forced": true,
+  "index": 9,
+  "init_cpu_ns": 39000,
+  "init_wall_ns": 39208,
+  "logical_difference": 0,
+  "method": "LSD_0",
+  "order": 0,
+  "outcome": "correct",
+  "phase": "adapter_toy",
+  "postprocessing_observed": true,
+  "statistics": {
+    "bit_llrs": [
+      1.723169943800471,
+      -1.1487799625336477,
+      1.723169943800471
+    ],
+    "compare_recover": [],
+    "elapsed_time": 43,
+    "error": [],
+    "global_timestep_bit_history": {
+      "0": {
+        "0": [
+          1
+        ]
+      }
+    },
+    "individual_cluster_stats": {
+      "0": {
+        "absorbed_by_cluster": -1,
+        "active": true,
+        "cluster_pcm_sparsity": 0.0,
+        "final_bit_count": 1,
+        "final_bits": [
+          1
+        ],
+        "got_inactive_in_timestep": -1,
+        "got_valid_in_timestep": 0,
+        "nr_merges": 1,
+        "nr_of_non_zero_check_matrix_entries": 2,
+        "size_history": [
+          1
+        ],
+        "solution": [
+          1
+        ],
+        "undergone_growth_steps": 1
+      },
+      "1": {
+        "absorbed_by_cluster": 0,
+        "active": false,
+        "cluster_pcm_sparsity": 0.0,
+        "final_bit_count": 0,
+        "final_bits": [],
+        "got_inactive_in_timestep": 0,
+        "got_valid_in_timestep": -1,
+        "nr_merges": 0,
+        "nr_of_non_zero_check_matrix_entries": 0,
+        "size_history": [
+          0
+        ],
+        "solution": [],
+        "undergone_growth_steps": 1
+      }
+    },
+    "lsd_method": 1,
+    "lsd_order": 0,
+    "syndrome": [
+      1,
+      1
+    ]
+  },
+  "statistics_enabled": true,
+  "syndrome_residual": 0,
+  "zero_syndrome": false
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "files": {
+    "../STATUS_2026-11-16_NOVELTY_FEASIBILITY.md": "444da127a2e2a8ee4a59b710b4f902e38175c367d5a7bce9b43f00895779ec92",
+    "FEASIBILITY_PROTOCOL.md": "d7574da63baf609d29c7d723af5ff56ff2101a3ec1f6cd53c0a4fca847928006",
+    "assessment.md": "80a0dd75f766bf9a5063a5fe67715e827bcf3ff9bc7911ee4588af0c150d3f1a",
+    "audit.json": "c08ae5b26e360a9ece51decedcb89d16016cfa854a62ee40fc0fb465bc79aa62",
+    "audit.py": "7029a13c16f692465ab236710815d77187d7132ee54ef62354f8590f77b305e3",
+    "feasibility.json": "9b4bfdecd639d4822518370339546c69ee2ac21d92c5ba0c919628a16bd863ae",
+    "feasibility.py": "f59a331632b1f3ff20367a929c44f87e807fe4612a76243a6569efa9861ef7c5",
+    "qec_prior_art.md": "b5e8fbf4fb699a0085c4f749276ab6642d5f74243edac172c04e83ec868f47fc"
+  },
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "note": "Local novelty/feasibility audit snapshot; development replay, not preregistration or external timestamp",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  }
+}

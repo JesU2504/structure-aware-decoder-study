@@ -1,0 +1,1650 @@
+{
+  "cases": 78,
+  "case_sessions": 234,
+  "sampled_shots_replayed": 468000,
+  "correction_checkpoints": 7445,
+  "source_files_checked": 39,
+  "input_hashes": true,
+  "implementation_hashes": true,
+  "analysis_amendment_hashes": true,
+  "checks": [
+    {
+      "name": "d3_q2_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_single_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q2_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 30,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_pairs_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_chain_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanout_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_fanin_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_cycle_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d3_q4_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_single_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q2_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 30,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_pairs_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_chain_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanout_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_fanin_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_cycle_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d5_q4_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_single_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q2_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_memory_none",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_memory_none",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_memory_none",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_pairs_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_chain_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanout_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_fanin_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_cycle_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 31,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_early",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_early",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_early",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_spread",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_spread",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_spread",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_late",
+      "session": 0,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_late",
+      "session": 1,
+      "shots": 2000,
+      "checkpoints": 30,
+      "passed": true
+    },
+    {
+      "name": "d7_q4_repeated_late",
+      "session": 2,
+      "shots": 2000,
+      "checkpoints": 32,
+      "passed": true
+    }
+  ]
+}

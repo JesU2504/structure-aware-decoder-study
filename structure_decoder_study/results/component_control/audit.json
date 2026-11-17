@@ -1,0 +1,11 @@
+{
+  "case_sessions": 54,
+  "paired_physical_shots": 54000,
+  "decode_forms": 2,
+  "checkpoint_corrections": 2810,
+  "whole_logical_z_failure_outcome_disagreements": 0,
+  "hashes": true,
+  "physical_replay": true,
+  "checkpoint_parity": true,
+  "passed": true
+}

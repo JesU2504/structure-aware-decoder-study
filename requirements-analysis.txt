@@ -1,0 +1,5 @@
+-r requirements-decoder.txt
+scikit-learn==1.8.0
+matplotlib==3.11.2
+networkx==3.6.1
+sympy==1.14.0

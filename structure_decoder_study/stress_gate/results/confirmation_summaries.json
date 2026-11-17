@@ -1,0 +1,946 @@
+[
+  {
+    "name": "q4_P00_d5_w10_p0_003_spread",
+    "program": "q4_P00",
+    "axis": "noise",
+    "distance": 5,
+    "blocks": 4,
+    "rounds": 10,
+    "p": 0.003,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.12786467804350946,
+      "col_degree_variance": 5.3451102040816325,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 32.645382430574394,
+      "feature_time_ns": 677750,
+      "hyperedge_fraction": 0.5077551020408163,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 674.8201905417814,
+      "volume": 40,
+      "weighted_excess_arity": 3.457914115126919
+    },
+    "outside_training_features": [
+      "prior_sum"
+    ],
+    "nearest_training_distance": 1.665731984415149,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4249694.213061177,
+          "raw_ns": 2190848.7567104986
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4259290.246142043,
+          "raw_ns": 2382882.7981471103
+        }
+      }
+    },
+    "budget_ns": 5000000,
+    "shots": 3000,
+    "censored": false,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 35,
+        "miss_interval": [
+          0.020056153646766512,
+          0.056002516260120865
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 35,
+        "miss_interval": [
+          0.020056153646766512,
+          0.056002516260120865
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 37,
+        "miss_interval": [
+          0.02157517194799782,
+          0.058452333586963175
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 36,
+        "miss_interval": [
+          0.020813856216802623,
+          0.05722917627198793
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 31,
+        "miss_interval": [
+          0.017064619754232773,
+          0.05105786320085973
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 31,
+        "miss_interval": [
+          0.017064619754232773,
+          0.05105786320085973
+        ]
+      }
+    ],
+    "mean_wall_ns": 2261644.383,
+    "p95_wall_ns": 4125124.699999998,
+    "mean_cpu_ns": 2247865.3333333335,
+    "p95_cpu_ns": 4120049.9999999995,
+    "max_wall_ns": 92459917,
+    "max_cpu_ns": 91768000,
+    "bp_fallback_fraction": 0.735,
+    "bp_iterations_mean": 24.366666666666667,
+    "logical_z_failures": 259,
+    "logical_z_failure_fraction": 0.08633333333333333,
+    "logical_z_interval": [
+      0.07333483096034467,
+      0.10072551169855494
+    ],
+    "wall_miss_probability": 0.034333333333333334,
+    "wall_miss_interval": [
+      0.026174381365818025,
+      0.04407471230465611
+    ],
+    "cpu_miss_probability": 0.034,
+    "cpu_miss_interval": [
+      0.025882732967650004,
+      0.04370100600194154
+    ],
+    "p95_wall_interval": [
+      3542708.0,
+      4597291.0
+    ],
+    "raw_p95_underprediction_ratio": 1.7311488014465612,
+    "padded_p95_underprediction_ratio": 0.9685004922443197,
+    "raw_mean_underprediction_ratio": 1.0323142462813357,
+    "raw_admitted": true,
+    "padded_admitted": true,
+    "confident_false_admission": false,
+    "all_sessions_false_admission": false,
+    "confident_raw_underprediction_1_5": false,
+    "confident_padded_underprediction_1_5": false,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.19204555511236623
+  },
+  {
+    "name": "q4_P01_d5_w10_p0_003_spread",
+    "program": "q4_P01",
+    "axis": "noise",
+    "distance": 5,
+    "blocks": 4,
+    "rounds": 10,
+    "p": 0.003,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.15331299541923413,
+      "col_degree_variance": 7.69152586422324,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 34.94513525857698,
+      "feature_time_ns": 754834,
+      "hyperedge_fraction": 0.4726530612244898,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10096,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 1078.5989439853076,
+      "volume": 40,
+      "weighted_excess_arity": 4.282292731643525
+    },
+    "outside_training_features": [
+      "prior_sum",
+      "expected_activity"
+    ],
+    "nearest_training_distance": 1.6851792090521691,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4923917.472088979,
+          "raw_ns": 2538431.6920300606
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4810161.481866636,
+          "raw_ns": 2691070.6688354607
+        }
+      }
+    },
+    "budget_ns": 5000000,
+    "shots": 3000,
+    "censored": false,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 84,
+        "miss_interval": [
+          0.05993714919924564,
+          0.11342212581492621
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 82,
+        "miss_interval": [
+          0.058234489813888554,
+          0.11115192784281853
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 96,
+        "miss_interval": [
+          0.07024102504702912,
+          0.1269565663693549
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 93,
+        "miss_interval": [
+          0.0676516988198044,
+          0.12358614291112316
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 87,
+        "miss_interval": [
+          0.06249935429322237,
+          0.11681931998635799
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 87,
+        "miss_interval": [
+          0.06249935429322237,
+          0.11681931998635799
+        ]
+      }
+    ],
+    "mean_wall_ns": 3014596.625666667,
+    "p95_wall_ns": 7704687.14999997,
+    "mean_cpu_ns": 2995623.0,
+    "p95_cpu_ns": 7654599.999999975,
+    "max_wall_ns": 76213125,
+    "max_cpu_ns": 76070000,
+    "bp_fallback_fraction": 0.8013333333333333,
+    "bp_iterations_mean": 26.28,
+    "logical_z_failures": 349,
+    "logical_z_failure_fraction": 0.11633333333333333,
+    "logical_z_interval": [
+      0.10137109906152009,
+      0.13258557131915688
+    ],
+    "wall_miss_probability": 0.089,
+    "wall_miss_interval": [
+      0.0758099515175743,
+      0.10357443452460792
+    ],
+    "cpu_miss_probability": 0.08733333333333333,
+    "cpu_miss_interval": [
+      0.07426255718327918,
+      0.10179429958318913
+    ],
+    "p95_wall_interval": [
+      6757708.0,
+      9159125.0
+    ],
+    "raw_p95_underprediction_ratio": 2.8630564181111273,
+    "padded_p95_underprediction_ratio": 1.6017522860812732,
+    "raw_mean_underprediction_ratio": 1.1875823309059788,
+    "raw_admitted": true,
+    "padded_admitted": true,
+    "confident_false_admission": true,
+    "all_sessions_false_admission": true,
+    "confident_raw_underprediction_1_5": true,
+    "confident_padded_underprediction_1_5": false,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.13155507991464582
+  },
+  {
+    "name": "q4_P01_d9_w18_p0_001_spread",
+    "program": "q4_P01",
+    "axis": "distance_and_extent",
+    "distance": 9,
+    "blocks": 4,
+    "rounds": 18,
+    "p": 0.001,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.0998401919391067,
+      "col_degree_variance": 7.2812990593146125,
+      "components": 1,
+      "distance": 9,
+      "expected_activity": 80.26645773340184,
+      "feature_time_ns": 2467250,
+      "hyperedge_fraction": 0.46198904877117025,
+      "max_arity": 10,
+      "n_detectors": 3040,
+      "n_faults": 15706,
+      "nnz": 64716,
+      "prior_sum": 25.693200500483623,
+      "row_degree_variance": 2241.449859764543,
+      "volume": 72,
+      "weighted_excess_arity": 4.3213182820504255
+    },
+    "outside_training_features": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "nearest_training_distance": 2.6068405534933023,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 44558374.93210667,
+          "raw_ns": 11780004.635637766
+        },
+        "B2": {
+          "padded_ns": 33781764.58226342,
+          "raw_ns": 17415544.089518502
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 40243628.91384563,
+          "raw_ns": 13725296.695127359
+        },
+        "B2": {
+          "padded_ns": 30512599.606289957,
+          "raw_ns": 17070437.68487852
+        }
+      }
+    },
+    "budget_ns": 9000000,
+    "shots": 1191,
+    "censored": true,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 462,
+        "misses": 356,
+        "miss_interval": [
+          0.7074713339858165,
+          0.8261389804011665
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 462,
+        "misses": 356,
+        "miss_interval": [
+          0.7074713339858165,
+          0.8261389804011665
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 475,
+        "misses": 390,
+        "miss_interval": [
+          0.7632391643074967,
+          0.8701751249619952
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 475,
+        "misses": 390,
+        "miss_interval": [
+          0.7632391643074967,
+          0.8701751249619952
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 254,
+        "misses": 200,
+        "miss_interval": [
+          0.7019681601834613,
+          0.8582633840937706
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 254,
+        "misses": 200,
+        "miss_interval": [
+          0.7019681601834613,
+          0.8582633840937706
+        ]
+      }
+    ],
+    "mean_wall_ns": 51418165.64063812,
+    "p95_wall_ns": 60534937.5,
+    "mean_cpu_ns": 51098865.659109995,
+    "p95_cpu_ns": 60155000.0,
+    "max_wall_ns": 3054489792,
+    "max_cpu_ns": 3040705000,
+    "bp_fallback_fraction": 0.7346767422334173,
+    "bp_iterations_mean": 25.855583543240975,
+    "logical_z_failures": 16,
+    "logical_z_failure_fraction": 0.01343408900083963,
+    "logical_z_interval": [
+      0.006248831643276426,
+      0.0249194091853573
+    ],
+    "wall_miss_probability": 0.7942905121746432,
+    "wall_miss_interval": null,
+    "cpu_miss_probability": 0.7942905121746432,
+    "cpu_miss_interval": null,
+    "p95_wall_interval": null,
+    "raw_p95_underprediction_ratio": 3.5461854357503424,
+    "padded_p95_underprediction_ratio": 1.9839324830101055,
+    "raw_mean_underprediction_ratio": 2.9524294719901403,
+    "raw_admitted": false,
+    "padded_admitted": false,
+    "confident_false_admission": false,
+    "all_sessions_false_admission": false,
+    "confident_raw_underprediction_1_5": false,
+    "confident_padded_underprediction_1_5": false,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.38133290276356335
+  },
+  {
+    "name": "q4_P02_d5_w10_p0_003_spread",
+    "program": "q4_P02",
+    "axis": "noise",
+    "distance": 5,
+    "blocks": 4,
+    "rounds": 10,
+    "p": 0.003,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.11674399801606138,
+      "col_degree_variance": 6.277834235735111,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 31.557329402952696,
+      "feature_time_ns": 697958,
+      "hyperedge_fraction": 0.3787755102040816,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8420,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 564.6183999081727,
+      "volume": 40,
+      "weighted_excess_arity": 3.529915581274114
+    },
+    "outside_training_features": [
+      "prior_sum"
+    ],
+    "nearest_training_distance": 1.6583449395513084,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 3981413.4736487563,
+          "raw_ns": 2052541.740976373
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4040714.854475303,
+          "raw_ns": 2260599.6216548053
+        }
+      }
+    },
+    "budget_ns": 5000000,
+    "shots": 3000,
+    "censored": false,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 27,
+        "miss_interval": [
+          0.01414505782398124,
+          0.046043749301272995
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 27,
+        "miss_interval": [
+          0.01414505782398124,
+          0.046043749301272995
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 25,
+        "miss_interval": [
+          0.012717017485797767,
+          0.043506166200592215
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 25,
+        "miss_interval": [
+          0.012717017485797767,
+          0.043506166200592215
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 41,
+        "miss_interval": [
+          0.02465391728101344,
+          0.06331245843073495
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 41,
+        "miss_interval": [
+          0.02465391728101344,
+          0.06331245843073495
+        ]
+      }
+    ],
+    "mean_wall_ns": 2463600.0773333334,
+    "p95_wall_ns": 3673960.449999999,
+    "mean_cpu_ns": 2447708.3333333335,
+    "p95_cpu_ns": 3666449.9999999977,
+    "max_wall_ns": 120733542,
+    "max_cpu_ns": 120077000,
+    "bp_fallback_fraction": 0.758,
+    "bp_iterations_mean": 25.038666666666668,
+    "logical_z_failures": 237,
+    "logical_z_failure_fraction": 0.079,
+    "logical_z_interval": [
+      0.06654867965493419,
+      0.09287064682103795
+    ],
+    "wall_miss_probability": 0.031,
+    "wall_miss_interval": [
+      0.023268402073854694,
+      0.04032728277005586
+    ],
+    "cpu_miss_probability": 0.031,
+    "cpu_miss_interval": [
+      0.023268402073854694,
+      0.04032728277005586
+    ],
+    "p95_wall_interval": [
+      3390583.0,
+      4180458.0
+    ],
+    "raw_p95_underprediction_ratio": 1.6252150158773293,
+    "padded_p95_underprediction_ratio": 0.9092352671040114,
+    "raw_mean_underprediction_ratio": 1.2002679546781954,
+    "raw_admitted": true,
+    "padded_admitted": true,
+    "confident_false_admission": false,
+    "all_sessions_false_admission": false,
+    "confident_raw_underprediction_1_5": false,
+    "confident_padded_underprediction_1_5": false,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.2688746623668721
+  },
+  {
+    "name": "q4_P03_d5_w10_p0_003_spread",
+    "program": "q4_P03",
+    "axis": "noise",
+    "distance": 5,
+    "blocks": 4,
+    "rounds": 10,
+    "p": 0.003,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.1530147670120694,
+      "col_degree_variance": 9.930208413161184,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 34.8711306097791,
+      "feature_time_ns": 648583,
+      "hyperedge_fraction": 0.4220408163265306,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 1105.494432966024,
+      "volume": 40,
+      "weighted_excess_arity": 4.737737755328497
+    },
+    "outside_training_features": [
+      "prior_sum",
+      "expected_activity"
+    ],
+    "nearest_training_distance": 1.6830850097011596,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4927755.61312371,
+          "raw_ns": 2540410.372399151
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4817068.47893299,
+          "raw_ns": 2694934.8254308407
+        }
+      }
+    },
+    "budget_ns": 5000000,
+    "shots": 3000,
+    "censored": false,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 106,
+        "miss_interval": [
+          0.07893007968448976,
+          0.13813402706971492
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 105,
+        "miss_interval": [
+          0.0780573702255227,
+          0.13702004204129647
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 92,
+        "miss_interval": [
+          0.06679049132472528,
+          0.12246079070574009
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 92,
+        "miss_interval": [
+          0.06679049132472528,
+          0.12246079070574009
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 105,
+        "miss_interval": [
+          0.0780573702255227,
+          0.13702004204129647
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 105,
+        "miss_interval": [
+          0.0780573702255227,
+          0.13702004204129647
+        ]
+      }
+    ],
+    "mean_wall_ns": 3442701.706,
+    "p95_wall_ns": 8806560.099999974,
+    "mean_cpu_ns": 3425750.6666666665,
+    "p95_cpu_ns": 8750099.999999966,
+    "max_wall_ns": 91948958,
+    "max_cpu_ns": 91506000,
+    "bp_fallback_fraction": 0.7783333333333333,
+    "bp_iterations_mean": 25.836666666666666,
+    "logical_z_failures": 326,
+    "logical_z_failure_fraction": 0.10866666666666666,
+    "logical_z_interval": [
+      0.09416973251718537,
+      0.12447994947722245
+    ],
+    "wall_miss_probability": 0.101,
+    "wall_miss_interval": [
+      0.08699185505518117,
+      0.11635092883965399
+    ],
+    "cpu_miss_probability": 0.10066666666666667,
+    "cpu_miss_interval": [
+      0.08668034163073497,
+      0.11599692726025214
+    ],
+    "p95_wall_interval": [
+      7717292.0,
+      11686875.0
+    ],
+    "raw_p95_underprediction_ratio": 3.2678193241990794,
+    "padded_p95_underprediction_ratio": 1.8281990672365698,
+    "raw_mean_underprediction_ratio": 1.3551754249644044,
+    "raw_admitted": true,
+    "padded_admitted": true,
+    "confident_false_admission": true,
+    "all_sessions_false_admission": true,
+    "confident_raw_underprediction_1_5": true,
+    "confident_padded_underprediction_1_5": true,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.17447215006163147
+  },
+  {
+    "name": "q4_P03_d7_w14_p0_001_spread",
+    "program": "q4_P03",
+    "axis": "distance_and_extent",
+    "distance": 7,
+    "blocks": 4,
+    "rounds": 14,
+    "p": 0.001,
+    "placement": "spread",
+    "features": {
+      "activation_second_moment": 0.09117292877781286,
+      "col_degree_variance": 9.760631346276101,
+      "components": 1,
+      "distance": 7,
+      "expected_activity": 37.84684357749633,
+      "feature_time_ns": 1883791,
+      "hyperedge_fraction": 0.42433566433566433,
+      "max_arity": 10,
+      "n_detectors": 1440,
+      "n_faults": 7150,
+      "nnz": 29818,
+      "prior_sum": 11.933006760652766,
+      "row_degree_variance": 1765.5321739969136,
+      "volume": 56,
+      "weighted_excess_arity": 4.807869944895058
+    },
+    "outside_training_features": [
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "nearest_training_distance": 0.35796598224248066,
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 11692339.286956105,
+          "raw_ns": 3091131.829014404
+        },
+        "B2": {
+          "padded_ns": 10381997.892971108,
+          "raw_ns": 5352240.899140508
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 14263065.02148165,
+          "raw_ns": 4864491.709254798
+        },
+        "B2": {
+          "padded_ns": 13018270.161156159,
+          "raw_ns": 7283141.14229451
+        }
+      }
+    },
+    "budget_ns": 7000000,
+    "shots": 3000,
+    "censored": false,
+    "session_stats": [
+      {
+        "session": 0,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 83,
+        "miss_interval": [
+          0.05908525989449641,
+          0.11228757860556561
+        ]
+      },
+      {
+        "session": 0,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 81,
+        "miss_interval": [
+          0.05738485757820828,
+          0.11001515536255141
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 98,
+        "miss_interval": [
+          0.07197186323489725,
+          0.1291989505837177
+        ]
+      },
+      {
+        "session": 1,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 97,
+        "miss_interval": [
+          0.07110599061579692,
+          0.12807820659052643
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "wall",
+        "shots": 1000,
+        "misses": 88,
+        "miss_interval": [
+          0.06335554486056348,
+          0.11794962439693915
+        ]
+      },
+      {
+        "session": 2,
+        "clock": "cpu",
+        "shots": 1000,
+        "misses": 88,
+        "miss_interval": [
+          0.06335554486056348,
+          0.11794962439693915
+        ]
+      }
+    ],
+    "mean_wall_ns": 12430103.768,
+    "p95_wall_ns": 9381212.499999989,
+    "mean_cpu_ns": 12358216.333333334,
+    "p95_cpu_ns": 9338199.999999993,
+    "max_wall_ns": 894487334,
+    "max_cpu_ns": 890141000,
+    "bp_fallback_fraction": 0.5386666666666666,
+    "bp_iterations_mean": 21.129333333333335,
+    "logical_z_failures": 31,
+    "logical_z_failure_fraction": 0.010333333333333333,
+    "logical_z_interval": [
+      0.006108701480302971,
+      0.016252753321143603
+    ],
+    "wall_miss_probability": 0.08966666666666667,
+    "wall_miss_interval": [
+      0.07642931661228722,
+      0.1042860830961249
+    ],
+    "cpu_miss_probability": 0.08866666666666667,
+    "cpu_miss_interval": [
+      0.07550035566944789,
+      0.1032185239536281
+    ],
+    "p95_wall_interval": [
+      8251542.0,
+      11021667.0
+    ],
+    "raw_p95_underprediction_ratio": 1.288072318895703,
+    "padded_p95_underprediction_ratio": 0.7206189750149445,
+    "raw_mean_underprediction_ratio": 2.3224111175556565,
+    "raw_admitted": false,
+    "padded_admitted": false,
+    "confident_false_admission": false,
+    "all_sessions_false_admission": false,
+    "confident_raw_underprediction_1_5": false,
+    "confident_padded_underprediction_1_5": false,
+    "confident_conservative_rejection": false,
+    "top_one_percent_time_fraction": 0.47227168090471033
+  }
+]

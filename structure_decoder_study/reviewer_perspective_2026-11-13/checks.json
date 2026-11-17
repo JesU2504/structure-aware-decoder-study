@@ -1,0 +1,1358 @@
+{
+  "iid_order_statistic_coverage": {
+    "768": 0.9617610483796266,
+    "6000": 0.9560388187128802
+  },
+  "internal_only": true,
+  "matrices_screened": 134,
+  "matrix_details": [
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_single_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_single_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q2_single_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_chain_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_chain_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_chain_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_cycle_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_cycle_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_cycle_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanin_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanin_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanin_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanout_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanout_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_fanout_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_pairs_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_pairs_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_pairs_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d3_q4_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_single_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_single_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q2_single_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_chain_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_chain_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_chain_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_cycle_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_cycle_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_cycle_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanin_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanin_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanin_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanout_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanout_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_fanout_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_pairs_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_pairs_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_pairs_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d5_q4_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_single_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_single_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q2_single_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_chain_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_chain_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_chain_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_cycle_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_cycle_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_cycle_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanin_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanin_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanin_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanout_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanout_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_fanout_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_memory_none",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_pairs_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_pairs_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_pairs_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_repeated_early",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_repeated_late",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "d7_q4_repeated_spread",
+      "source": "pilot",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d3_w6_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w10_p0_0003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w10_p0_003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w15_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d5_w5_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d7_w14_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P00_d9_w18_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d3_w6_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_0003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_0015_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_0024_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_0025_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_002_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w10_p0_003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w15_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d5_w5_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d7_w14_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P01_d9_w18_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d3_w6_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w10_p0_0003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w10_p0_003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w15_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d5_w5_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d7_w14_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P02_d9_w18_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d3_w6_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_0003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_0015_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_0024_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_0025_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_002_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w10_p0_003_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w15_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d5_w5_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d7_w14_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P03_d9_w18_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P04_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P04_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P05_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P05_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P06_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P06_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P07_d5_w10_p0_001_burst",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q4_P07_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q6_P00_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q6_P01_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q6_P02_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    },
+    {
+      "equal_detector_support_different_logical_pairs": 0,
+      "examples": {
+        "pairs": [],
+        "singles": []
+      },
+      "name": "q6_P03_d5_w10_p0_001_spread",
+      "source": "stress",
+      "undetected_single_mechanisms": 0
+    }
+  ],
+  "matrix_screen_is_not_full_circuit_distance_or_fault_tolerance_proof": true,
+  "max_inner_loss_difference": 7.396944168291952e-12,
+  "max_log_prediction_difference": 1.9255708139098715e-12,
+  "passed": true,
+  "sensitivity_jobs_metrics_checked": 434,
+  "separate_sklearn_nested_fits": 36,
+  "two_mechanism_signature_cases": [],
+  "undetected_single_mechanism_cases": []
+}

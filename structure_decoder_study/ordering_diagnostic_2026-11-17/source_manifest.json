@@ -1,0 +1,68 @@
+{
+  "archive_bytes": 1077057,
+  "archive_filename": "ldpc-2.4.1.tar.gz",
+  "archive_sha256": "729376026af4e46e550c333152f073dcf42224589380d309f38923e00736ceba",
+  "archive_url": "https://files.pythonhosted.org/packages/ac/3d/1642f2456dc4c494ab1209b8da8a886cd4e82280839c8ef434294492738d/ldpc-2.4.1.tar.gz",
+  "files": {
+    "LICENSE": {
+      "bytes": 1070,
+      "sha256": "8e3a6c34477756c5abb278c153e25b447edc334145716e83f4ed121beadd03bb"
+    },
+    "PKG-INFO": {
+      "bytes": 6765,
+      "sha256": "3ad118e2338cf2b4bf1fe114da14b2eedfae6c89331944260e145d55c0fcf922"
+    },
+    "src_cpp/bp.hpp": {
+      "bytes": 29692,
+      "sha256": "54f1a311a44dbf5f6836797062c1a86c74674347604e6e024ff6eaf11cc072f2"
+    },
+    "src_cpp/flip.hpp": {
+      "bytes": 4147,
+      "sha256": "1e6815e6a67a7d2a1c8e3d1666eb2fbd7c92ff4bed5ce4e52d7088cbd6599a36"
+    },
+    "src_cpp/gf2dense.hpp": {
+      "bytes": 25260,
+      "sha256": "0ba7ffde283ad8bef42023c543f793852a5f947cf92ff46345702105e5c21dc3"
+    },
+    "src_cpp/gf2sparse.hpp": {
+      "bytes": 22657,
+      "sha256": "60acaa221a88e75a6dfe663e82dc5335be64f14d522431c719e2828ca35c1565"
+    },
+    "src_cpp/gf2sparse_linalg.hpp": {
+      "bytes": 32216,
+      "sha256": "5ad67b841e3c977734aefb2a2cc8a1facd249a17558b19a720ffa98b0c233737"
+    },
+    "src_cpp/lsd.hpp": {
+      "bytes": 38920,
+      "sha256": "f9710d608870329acfa15bf2df4d7f726a2950ce120314308562c8e566e19bf0"
+    },
+    "src_cpp/osd.hpp": {
+      "bytes": 6218,
+      "sha256": "604ec8273edcb253e8db7abeeb1ab26ddf203ea2e272f9616549c9670a7e7415"
+    },
+    "src_cpp/sparse_matrix_base.hpp": {
+      "bytes": 39710,
+      "sha256": "e394398531df4b1fbb829fd1e52dd60446548cf0fcc19cc6f1d22f99273b0db1"
+    },
+    "src_cpp/union_find.hpp": {
+      "bytes": 23509,
+      "sha256": "1120e7d4c90876d93a74779a5151d0a19de3e31925f073119fc05b5d54ce4722"
+    },
+    "src_python/ldpc.egg-info/PKG-INFO": {
+      "bytes": 6765,
+      "sha256": "3ad118e2338cf2b4bf1fe114da14b2eedfae6c89331944260e145d55c0fcf922"
+    },
+    "src_python/ldpc/bposd_decoder/_bposd_decoder.pxd": {
+      "bytes": 1185,
+      "sha256": "2147389ebe823dc4b8443655ad5b267d9567ee11123303a6f47daa6da8d54e2e"
+    },
+    "src_python/ldpc/bposd_decoder/_bposd_decoder.pyx": {
+      "bytes": 21941,
+      "sha256": "c5eecf8d90f37d913055f230b86e7b232b7af73978c3e8511a38f5a4161bc2ac"
+    }
+  },
+  "metadata_url": "https://pypi.org/pypi/ldpc/2.4.1/json",
+  "package_installed": false,
+  "source_executed": false,
+  "version": "2.4.1"
+}

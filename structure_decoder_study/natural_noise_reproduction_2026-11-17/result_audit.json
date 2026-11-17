@@ -1,0 +1,168 @@
+{
+  "adapter_calls": 11,
+  "all_selected_fresh_replays_equal": true,
+  "all_source_native_readouts_equal": true,
+  "audit_source_sha256": "743b05c9f8fbdd89dd7f220508f8773a22313fad6e51633e8a2183e9375cc84a",
+  "decoder_calls": 1627,
+  "deterministically_regenerated_same_samples": 512,
+  "forced_comparison_calls": 32,
+  "fresh_replay_calls": 48,
+  "frozen_sha256": "2cc97376823f7a31014e631b7eb77050d9ddc79732336bc04af05bb55c2e4f00",
+  "incomplete_calls": 0,
+  "interpretation": "Replication of source Z-check-only memory; marginal intervals and paired descriptive results, not novel method or decoder-superiority evidence",
+  "main_calls": 1536,
+  "marginal_configuration_statistics": {
+    "lsd100": {
+      "bp_nonconverged": 481,
+      "bp_nonconverged_but_full_correct": 469,
+      "invalid_corrections": 0,
+      "logical_error_fraction": 0.0234375,
+      "logical_errors": 12,
+      "main_initialization_ms": [
+        5.461792,
+        5.499625
+      ],
+      "marginal_wilson95": [
+        0.013457118668315029,
+        0.04051578006755757
+      ],
+      "mean_service_ms": 24.8728226484375,
+      "median_service_ms": 22.113708,
+      "n": 512,
+      "per_seed": [
+        {
+          "logical_errors": 9,
+          "n": 256,
+          "seed": 2026111731
+        },
+        {
+          "logical_errors": 3,
+          "n": 256,
+          "seed": 2026111732
+        }
+      ]
+    },
+    "lsd30": {
+      "bp_nonconverged": 483,
+      "bp_nonconverged_but_full_correct": 471,
+      "invalid_corrections": 0,
+      "logical_error_fraction": 0.0234375,
+      "logical_errors": 12,
+      "main_initialization_ms": [
+        5.2375,
+        5.548
+      ],
+      "marginal_wilson95": [
+        0.013457118668315029,
+        0.04051578006755757
+      ],
+      "mean_service_ms": 11.47682862890625,
+      "median_service_ms": 7.705563,
+      "n": 512,
+      "per_seed": [
+        {
+          "logical_errors": 9,
+          "n": 256,
+          "seed": 2026111731
+        },
+        {
+          "logical_errors": 3,
+          "n": 256,
+          "seed": 2026111732
+        }
+      ]
+    },
+    "osd20": {
+      "bp_nonconverged": 487,
+      "bp_nonconverged_but_full_correct": 475,
+      "invalid_corrections": 0,
+      "logical_error_fraction": 0.0234375,
+      "logical_errors": 12,
+      "main_initialization_ms": [
+        15.704958,
+        16.015125
+      ],
+      "marginal_wilson95": [
+        0.013457118668315029,
+        0.04051578006755757
+      ],
+      "mean_service_ms": 6.76629865234375,
+      "median_service_ms": 6.524667,
+      "n": 512,
+      "per_seed": [
+        {
+          "logical_errors": 9,
+          "n": 256,
+          "seed": 2026111731
+        },
+        {
+          "logical_errors": 3,
+          "n": 256,
+          "seed": 2026111732
+        }
+      ]
+    }
+  },
+  "native_paired_transitions": {
+    "lsd100": {
+      "both_correct": 500,
+      "both_error": 12,
+      "changed_corrections": 206,
+      "primary_correct_control_error": 0,
+      "primary_error_control_correct": 0
+    },
+    "lsd30": {
+      "both_correct": 500,
+      "both_error": 12,
+      "changed_corrections": 185,
+      "primary_correct_control_error": 0,
+      "primary_error_control_correct": 0
+    }
+  },
+  "natural_circuit_samples": 512,
+  "new_decoder_calls_during_audit": 0,
+  "nonfinite_llr_calls": 0,
+  "passed": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "consumer_gate_2026-11-16/manifest.json": 10,
+    "experimental_design_review_2026-11-16/manifest.json": 13,
+    "failure_pilot_2026-11-17/manifest.json": 1067,
+    "failure_target_2026-11-17/manifest.json": 25,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "research_reorientation_2026-11-16/manifest.json": 1,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "selected_forced_transitions": {
+    "forced_lsd0": {
+      "correct": 8,
+      "mean_service_ms": 22.9787813125,
+      "primary_correct_forced_error": 0,
+      "primary_error_forced_correct": 0,
+      "primary_failures_selected": 8,
+      "scope": "Only first-selected failures and matched primary successes; not all 512 shots",
+      "selected_cases": 16
+    },
+    "forced_lsd_cs2": {
+      "correct": 8,
+      "mean_service_ms": 23.98036725,
+      "primary_correct_forced_error": 0,
+      "primary_error_forced_correct": 0,
+      "primary_failures_selected": 8,
+      "scope": "Only first-selected failures and matched primary successes; not all 512 shots",
+      "selected_cases": 16
+    }
+  },
+  "source_hashes_unchanged": true,
+  "witness_packet_case": 23
+}

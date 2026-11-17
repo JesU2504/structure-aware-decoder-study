@@ -1,0 +1,42 @@
+{
+  "construction_probe_expected_failed_checks": [
+    "repository_priors_match_xor_merge"
+  ],
+  "date": "2026-11-17",
+  "dem_validation_samples": 256,
+  "files": {
+    "../STATUS_2026-11-17_FAILURE_TARGET.md": "7f56963c7f4cc06ff7a5c1b497675d148bc06ca6ced2c019f6731deddf46fd77",
+    "ENTRY_PROTOCOL.md": "4c9126c52c006617eb7b2edc8b9a5e658bda0bb286e2059bb438d34a7b9c6403",
+    "TARGET_DECISION.md": "0c47af1400b75017694b844caab803b3ac0480a3cec77ba4b9ac5ca9149e15b3",
+    "audit_probe.py": "90db48af56b5fe7d30f8cd23a8efa5b31672f10a77294140ca626a83f324f2bc",
+    "audit_public_access.py": "b3482f08d303bb8c9f519a31fbcc19a4abf821e0e8db70cef83c123d9a1c04db",
+    "construction_probe/H.npz": "7f75b0ccf2d5ea15c7b8120c885debe53e7ef45d7bd02d97ab442f5f12a430e7",
+    "construction_probe/L.npz": "85f923b328e4c4393ee8b07c41e53bdc948cff9f55cdf39734fbb9f1da1debb9",
+    "construction_probe/bb144_r12_p0.001_z.dem": "73c09d89d972a8acf1a66e5388ad3326ec82ccff14409789839598aed24fe492",
+    "construction_probe/bb144_r12_p0.001_z.stim": "ed17942e821ca2cda0e824994a0f5fc0bfd7fc5b4c71f3d2c3c853d22b4b77f0",
+    "construction_probe/column_signatures.json": "4b60fb4a2c77f8abd81a51c7b3083a2966612eee95b895aa97e15e968c480656",
+    "construction_probe/priors.npy": "76a5ef9fd60eee3750747f89dfc73e6bb9ebda124dcf6158576b27653c738f6c",
+    "construction_probe/repository_additive_priors.npy": "f6bf1dc969259ed8e37a5e97698061fc4588082be0d42380c931c167c5cbc3e2",
+    "construction_probe/result.json": "07862f07c26747d6ae9d70c238326aad53d139c1acb641817297ef37e855cd01",
+    "construction_probe/validation_samples.npz": "cb708f5067c26c6313686a62478c884bdaa96ff802a2abd04e31f6ba9e17d5a7",
+    "fetch_sources.py": "c9903853dde8309c6f1553f8d30b84454ca4df5e019499ce38aea35f2b593c4c",
+    "first_fetch_failure.json": "20947644450b8abbd4de2fcdc61d97868f93cd096f43badd2b2d9f1d13f9002b",
+    "probe_audit.json": "487236e1b49cd66da2e2d33d4393e4490596e7d820e842a5e9299b884ced2646",
+    "probe_generator.py": "7b38315dea29c4e458b88b784811496ad9c66c2ca563ebcf4cbf489d3fd2fb88",
+    "public_access_audit.json": "14f3744f504dd3d26629c865c759a8079f911d54a2959de0021e0290ea3430ff",
+    "source_manifest.json": "ce0e6a6e513f7f5099e5bd5d456674406a474837420e291f007305cbf97e8de2",
+    "sources/dem_trapping_sets-b9ac6a1/README.md": "e3b2bafa6595658a0786e4dbf8afbd29733706589e8582573813e0372c9551be",
+    "sources/dem_trapping_sets-b9ac6a1/examples/enumerate_dem_ts.py": "d119c88e6170083553e725bfd15e3fe64a7dea8e805e5dd053561ab3f00f4ab9",
+    "sources/dem_trapping_sets-b9ac6a1/examples/include_py/build_decoding_matrices_layered.py": "2e125f4817f022b7fd09383d33fc142826b267157b249164bc94c1998d4d9050",
+    "sources/dem_trapping_sets-b9ac6a1/examples/include_py/codes_q.py": "455165527fabc14b758d96df8cd5b80f27373a5b17e785c8a8daefe797549bd1",
+    "sources/dem_trapping_sets-b9ac6a1/examples/include_py/utils.py": "556d51325be6bd99820037e34ea0165073ef490aeb9a09e1ae392629991fddb7"
+  },
+  "new_decoder_calls": 0,
+  "new_training_samples": 0,
+  "noiseless_circuit_validation_samples": 32,
+  "note": "Preserves original failed prior-equality check and invalid first-fetch snapshot; no decoding impact established.",
+  "prior_manifests_verified": 16,
+  "published_failure_reproduced": false,
+  "reserved_workloads_used": 0,
+  "scope": "Development-only failure-target access, construction and novelty check"
+}

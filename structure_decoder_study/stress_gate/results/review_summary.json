@@ -1,0 +1,94 @@
+{
+  "discovery_shots": 36777,
+  "confirmation_shots": 16191,
+  "within_range_scope": "Initial discovery only; the later feature-box challenge has a counterexample",
+  "within_range_cases": 36,
+  "within_range_max_raw_p95_ratio": 1.1693157942121046,
+  "within_range_max_raw_p95_overprediction_factor": 1.1327755831572073,
+  "within_range_max_raw_mean_ratio": 1.323048018505736,
+  "within_range_max_raw_mean_overprediction_factor": 1.377348257761872,
+  "within_range_confident_admission_errors": 0,
+  "by_axis": {
+    "blocks_and_program": {
+      "cases": 4,
+      "censored": 0,
+      "raw_p95_ratio_median": 0.908579608672004,
+      "raw_p95_ratio_max": 0.9329412551919345,
+      "mean_ratio_median": 0.8193142266740352,
+      "confirmed_discovery_admission_errors": 0
+    },
+    "distance_and_extent": {
+      "cases": 12,
+      "censored": 1,
+      "raw_p95_ratio_median": 0.9382932957320883,
+      "raw_p95_ratio_max": 1.7977197226280952,
+      "mean_ratio_median": 1.3065243489621734,
+      "confirmed_discovery_admission_errors": 0
+    },
+    "extent": {
+      "cases": 8,
+      "censored": 0,
+      "raw_p95_ratio_median": 1.0464016641144294,
+      "raw_p95_ratio_max": 1.1673123444849138,
+      "mean_ratio_median": 1.0434663301770546,
+      "confirmed_discovery_admission_errors": 0
+    },
+    "new_program_and_placement": {
+      "cases": 16,
+      "censored": 0,
+      "raw_p95_ratio_median": 1.0056520046285877,
+      "raw_p95_ratio_max": 1.0409526942315355,
+      "mean_ratio_median": 0.9335425124149471,
+      "confirmed_discovery_admission_errors": 0
+    },
+    "noise": {
+      "cases": 8,
+      "censored": 0,
+      "raw_p95_ratio_median": 1.3039437712714745,
+      "raw_p95_ratio_max": 3.567317253567738,
+      "mean_ratio_median": 1.0189981791424878,
+      "confirmed_discovery_admission_errors": 2
+    }
+  },
+  "mechanism_replays": 48,
+  "selected_slow_replays": 24,
+  "median_slow_standalone_lsd_fraction": 0.962486166623423,
+  "all_standalone_corrections_match": true,
+  "all_instrumented_corrections_match": true,
+  "largest_recorded_final_cluster_bits": 3007,
+  "phase_counts": {
+    "discovery": {
+      "cases": 48,
+      "shots": 36777,
+      "censored_cases": 1
+    },
+    "confirmation": {
+      "cases": 6,
+      "shots": 16191,
+      "censored_cases": 1
+    },
+    "boundary": {
+      "cases": 6,
+      "shots": 18000,
+      "censored_cases": 0
+    },
+    "feature_box": {
+      "cases": 2,
+      "shots": 12000,
+      "censored_cases": 0
+    }
+  },
+  "physical_shots_total": 82968,
+  "unique_new_configurations": 56,
+  "feature_box_confident_false_admissions": [
+    "q4_P03_d5_w10_p0_0024_spread"
+  ],
+  "clock_only_control": {
+    "measured_after_campaign": true,
+    "subtracted": false,
+    "samples": 10000,
+    "median_wall_ns": 708.0,
+    "p95_wall_ns": 750.0,
+    "median_cpu_ns": 0.0
+  }
+}

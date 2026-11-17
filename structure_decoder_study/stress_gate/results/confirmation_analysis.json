@@ -1,0 +1,25 @@
+{
+  "phase": "confirmation",
+  "cases": 6,
+  "observed_shots": 16191,
+  "censored_cases": [
+    "q4_P01_d9_w18_p0_001_spread"
+  ],
+  "confident_false_admissions": [
+    "q4_P01_d5_w10_p0_003_spread",
+    "q4_P03_d5_w10_p0_003_spread"
+  ],
+  "all_session_false_admissions": [
+    "q4_P01_d5_w10_p0_003_spread",
+    "q4_P03_d5_w10_p0_003_spread"
+  ],
+  "raw_material_underpredictions": [
+    "q4_P01_d5_w10_p0_003_spread",
+    "q4_P03_d5_w10_p0_003_spread"
+  ],
+  "padded_material_underpredictions": [
+    "q4_P03_d5_w10_p0_003_spread"
+  ],
+  "confident_conservative_rejections": [],
+  "confidence_scope": "Bonferroni exact-binomial intervals under stated IID assumptions; not a deployment guarantee"
+}

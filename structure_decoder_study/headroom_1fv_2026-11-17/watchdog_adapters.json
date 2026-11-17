@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "probes": {
+    "cpu": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 10092544,
+      "returncode": -24,
+      "wall_seconds": 1.0153224169998794,
+      "watchdog_reason": null
+    },
+    "rss": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 9961472,
+      "returncode": -15,
+      "wall_seconds": 0.03156858399961493,
+      "watchdog_reason": "rss_limit"
+    },
+    "wall": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 9961472,
+      "returncode": -15,
+      "wall_seconds": 0.10760479200052941,
+      "watchdog_reason": "wall_limit"
+    }
+  },
+  "rss_scope": "child process; ps RSS KiB converted to bytes"
+}

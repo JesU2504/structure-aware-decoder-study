@@ -1,0 +1,76 @@
+{
+  "checks": {
+    "css_commutes": true,
+    "css_encoded_dimension": true,
+    "independent_observable_reconstruction": true,
+    "independent_repeated_target_parity": true,
+    "independent_syndrome_reconstruction": true,
+    "logical_pairing_full_rank": true,
+    "noiseless_detectors_zero": true,
+    "noiseless_observables_zero": true,
+    "published_dimensions": true,
+    "published_rank": true,
+    "raw_error_count": true,
+    "source_h_mod2_matches": true,
+    "source_h_nonzero_projection_matches": true,
+    "source_h_raw_matches": true,
+    "source_h_strict_binary": true,
+    "source_hashes": true,
+    "source_l_matches": true,
+    "source_observable_reconstruction": true,
+    "source_prior_exact": true,
+    "source_syndrome_reconstruction": true,
+    "x_logicals_commute": true,
+    "x_logicals_independent": true,
+    "z_logicals_commute": true,
+    "z_logicals_independent": true
+  },
+  "dimensions": {
+    "H": [
+      1800,
+      12240
+    ],
+    "H_nnz": 34992,
+    "L": [
+      12,
+      12240
+    ],
+    "L_nnz": 14600,
+    "qubits": 216,
+    "rank_H": 1794,
+    "raw_dem_errors": 12240
+  },
+  "elapsed_seconds": 11.843573958999514,
+  "environment": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "python": "3.12.12",
+    "scipy": "1.17.0",
+    "stim": "1.16.0",
+    "system": "macOS-14.5-arm64-arm-64bit"
+  },
+  "repeated_targets": {
+    "error_columns_with_repeated_detectors": 0,
+    "error_columns_with_repeated_observables": 0,
+    "examples": [],
+    "separators": 0
+  },
+  "sampling": {
+    "decoder_calls": 0,
+    "dem_validation": 64,
+    "experiment_shots": 0,
+    "noiseless_circuit_validation": 16,
+    "synthetic_parity_replays": 1
+  },
+  "scope": "Only Z-check extraction in source generator; logical Z-memory observables",
+  "source_commit": "8cc32014a6461bb8f241f47f62a7e74f63817738",
+  "source_discrepancies": {
+    "H_mod2_nnz": 0,
+    "H_nonzero_projection_nnz": 0,
+    "H_raw_nnz": 0,
+    "L_nnz": 0,
+    "prior_entries_clipped": 0
+  },
+  "source_executed": "Reviewed construction/conversion helpers only",
+  "status": "pass"
+}

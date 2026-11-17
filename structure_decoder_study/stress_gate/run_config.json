@@ -1,0 +1,27 @@
+{
+  "confirmation_shots": 1000,
+  "cpu_cap_ns": 20000000000,
+  "date": "2026-11-13",
+  "decoder": {
+    "bp_method": "minimum_sum",
+    "input_vector_type": "syndrome",
+    "lsd_method": "LSD_0",
+    "lsd_order": 0,
+    "max_iter": 30,
+    "ms_scaling_factor": 0.625,
+    "omp_thread_count": 1,
+    "random_schedule_seed": 0,
+    "schedule": "parallel"
+  },
+  "discovery_shots": 256,
+  "hashes": {
+    "PROTOCOL.md": "803fe0278390d9160fbb68b74527f0c67b5ed8c3659f0b96c036703e4fdc0901",
+    "corpus.json": "495df67710d39b83d4a49d87f092b5c7a3ec561f376663cecfd975b9c83213be",
+    "fragment_validation.json": "d1ce90323212dacf703a2b208f9c6c8de802aba1604bd8b1222b93510427e2cb",
+    "frozen_models.json": "d02a789babdb2e9ed28fe44fe0e2a39a0eb4efc4ef3bc1d9a6b474c39ea3f552",
+    "programs.json": "0864d197ed86739e5b9fdcd80297c240c2ac206acee60053f9b2bad044ce662a",
+    "stress.py": "0f788967ef4203983e6bf330c3481e1787912b077f3d695fedf061f54985b376",
+    "validation.json": "fd1bc01ee9b624b2fe571923543b759b0345834b2d496a8b15742424533227e9"
+  },
+  "sessions": 3
+}

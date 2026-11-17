@@ -1,0 +1,13 @@
+# TMCBS dependencies live in pyproject.toml -- the single source of truth.
+#
+# This file is only a convenience shim so that `pip install -r requirements.txt`
+# keeps working; it installs the package (and thus its pinned runtime + test
+# dependencies) in editable mode.
+#
+# Supported Python: 3.11-3.13 (tesseract-decoder has no 3.14 wheels yet).
+
+-e .
+
+# Optional MPI runner (run_ebit_experiment_mpi.py). Requires a working system MPI
+# implementation such as OpenMPI. Uncomment to install mpi4py:
+# -e .[mpi]

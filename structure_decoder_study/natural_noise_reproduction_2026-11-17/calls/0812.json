@@ -1,0 +1,33 @@
+{
+  "bp_converged": false,
+  "bp_iterations": 100,
+  "bp_sha256": "02ef1d37d85961c13c08f853931797f8fd464ba7ffa916847663b2763a2a950a",
+  "case_id": 267,
+  "cluster_count": 0,
+  "config": {
+    "cap": 100,
+    "force": false,
+    "kind": "lsd",
+    "method": "LSD_0",
+    "name": "lsd100",
+    "order": 0
+  },
+  "correction_sha256": "620402151db90a08d1e84df119ee5b852386d765e45d7ec359c1f13ab80c0d4f",
+  "decode_cpu_ns": 23622000,
+  "decode_wall_ns": 23730333,
+  "first_call_in_block": false,
+  "fresh_instance": false,
+  "index": 812,
+  "init_cpu_ns": 0,
+  "init_wall_ns": 0,
+  "logical_difference": 0,
+  "outcome": "correct",
+  "phase": "main",
+  "postprocessing_observed": null,
+  "source_readout_equal": true,
+  "statistics": null,
+  "statistics_enabled": false,
+  "syndrome_residual": 0,
+  "syndrome_weight": 234,
+  "zero_syndrome": false
+}

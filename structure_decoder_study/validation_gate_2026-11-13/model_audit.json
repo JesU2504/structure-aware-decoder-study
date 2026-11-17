@@ -1,0 +1,17 @@
+{
+  "internal_check_only": true,
+  "max_inner_loss_difference": 1.120456505354639e-11,
+  "max_log_prediction_difference": 3.76054742901033e-12,
+  "max_margin_absolute_difference": 5.646816347848471e-12,
+  "outer_metrics_and_splits_checked": 186,
+  "passed": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545
+  },
+  "separate_sklearn_nested_reproductions": 18
+}

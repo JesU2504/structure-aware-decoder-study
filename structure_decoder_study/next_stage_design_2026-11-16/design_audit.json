@@ -1,0 +1,17 @@
+{
+  "checked": "Binomial tail inversion, zero-event sample minima, error allocation, frozen calculation inputs and all prior snapshots",
+  "date": "2026-11-16",
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "passed": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  }
+}

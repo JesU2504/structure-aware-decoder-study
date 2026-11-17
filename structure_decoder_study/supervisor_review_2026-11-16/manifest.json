@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-16",
+  "files": {
+    "../STATUS_2026-11-16.md": "2ec6885368dd7264d4699258e50ed3111c94c96036f82c912e5392423b4ed358",
+    "decision_baseline_check.json": "856d52263963136a645ae241aef829d8412b9f764fa244034579f76a98a82348",
+    "evidence_integrity.json": "4a14a86df10a0a6055cdf7ef478bc347fdf5e4a6072c877dd18491cf2e495688",
+    "next_step.md": "95d952f20084110138bc2d58d110f65961d59e056fbf29bffcac472e8778699c",
+    "review.md": "05289c73baf09cb449d1a16256026d2e13e99e78a4da6d00a47da90b5f8622c3",
+    "review_correction.md": "d606e2ff7e01131de6588efdc7741e3574770615db391a3510291ca18a329dff",
+    "review_crosscheck.json": "867cbcd9e430999199e354ca1ccf16117b9797ede86ae27b286070e162c591b5",
+    "review_process.md": "38a321cd831791aa5adb4676172d13c07c69232947bee49f1544a3e04f1ad0f6"
+  },
+  "no_new_decoder_measurements": true,
+  "note": "Local post-review integrity snapshot, not external timestamp or preregistration",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "reviewer_type": "separate AI review, not external human peer review"
+}

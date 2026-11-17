@@ -1,0 +1,95 @@
+{
+  "base_features_crosschecked": true,
+  "excluded": [
+    {
+      "name": "q4_P03_d9_w18_p0_001_spread",
+      "reason": "Resource-censored discovery target"
+    }
+  ],
+  "groups": {
+    "new/q4_P00": {
+      "cases": 9,
+      "fixed_noise_cases": 7
+    },
+    "new/q4_P01": {
+      "cases": 9,
+      "fixed_noise_cases": 7
+    },
+    "new/q4_P02": {
+      "cases": 9,
+      "fixed_noise_cases": 7
+    },
+    "new/q4_P03": {
+      "cases": 8,
+      "fixed_noise_cases": 6
+    },
+    "new/q4_P04": {
+      "cases": 2,
+      "fixed_noise_cases": 2
+    },
+    "new/q4_P05": {
+      "cases": 2,
+      "fixed_noise_cases": 2
+    },
+    "new/q4_P06": {
+      "cases": 2,
+      "fixed_noise_cases": 2
+    },
+    "new/q4_P07": {
+      "cases": 2,
+      "fixed_noise_cases": 2
+    },
+    "new/q6_P00": {
+      "cases": 1,
+      "fixed_noise_cases": 1
+    },
+    "new/q6_P01": {
+      "cases": 1,
+      "fixed_noise_cases": 1
+    },
+    "new/q6_P02": {
+      "cases": 1,
+      "fixed_noise_cases": 1
+    },
+    "new/q6_P03": {
+      "cases": 1,
+      "fixed_noise_cases": 1
+    },
+    "old/chain": {
+      "cases": 9,
+      "fixed_noise_cases": 9
+    },
+    "old/cycle": {
+      "cases": 9,
+      "fixed_noise_cases": 9
+    },
+    "old/fanin": {
+      "cases": 9,
+      "fixed_noise_cases": 9
+    },
+    "old/fanout": {
+      "cases": 9,
+      "fixed_noise_cases": 9
+    },
+    "old/memory": {
+      "cases": 6,
+      "fixed_noise_cases": 6
+    },
+    "old/pairs": {
+      "cases": 9,
+      "fixed_noise_cases": 9
+    },
+    "old/single_repeated": {
+      "cases": 27,
+      "fixed_noise_cases": 27
+    }
+  },
+  "no_ideal_map_equivalence_crosses_groups": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "stress_gate/manifest.json": 545
+  },
+  "static_features_recomputed": 47
+}

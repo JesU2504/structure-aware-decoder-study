@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-13",
+  "hashes": {
+    "FEATURE_BOX_CHALLENGE.md": "351b7cdcecef9a21da8352f708d0684eddd3aed56e7549ae280fb83272cf9bce",
+    "box_challenge.py": "833dad4d1b026e829eb6416db14f4e1483f372fbd4e0293e63cf9089d8a521ee",
+    "feature_box_corpus.json": "149387768cc3d46bb740806bf4cfcba80f88a2900e0d6cba6565257c4e824a89",
+    "frozen_models.json": "d02a789babdb2e9ed28fe44fe0e2a39a0eb4efc4ef3bc1d9a6b474c39ea3f552",
+    "run_config.json": "ef53eb477787621944544a76f9cabc86e826118b898d9a8379cde8590b58b873"
+  },
+  "sessions": 3,
+  "shots_per_session": 2000
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-13",
+  "files": {
+    "../STATUS_2026-11-13_REVIEW.md": "4c5e2a72048545678c321de578d12e97ae57dd9822dd30ee160d67b22b533634",
+    "PROTOCOL.md": "f110e48d69d8d6653330b12141b9422e4f5f7ea1a7eb0f515f98ec3e5cb9e9dc",
+    "README.md": "ebce5fd0df99aaf91879015e52723509c88d13030fdb01adcd86a7172bcb889d",
+    "assessment.md": "3963b9b9dbc64bc748876150d119fe48e96b6306b6d76a1555522e65c9c9843e",
+    "candidate_screen.py": "5f69428c6534365da3d4bf9f377d585ce89e97d96ef6f305c0fe79275f31fcb4",
+    "checks.json": "203194c1252c81a35a8d58647f083510490ccd166c3b1552ce939be26d5b2f65",
+    "checks.py": "497f54777c51f01d9879db2e755d9e40b68f84af0d60405dfbcc7f6a6a418ee4",
+    "compiler_candidate_screen.json": "17110adc48cf0f8577001ec8f279a75fca5ed7ffbafb3fb9e53de20f44228bc0",
+    "diagnostics.py": "eebf6a561bac3f99334c0157138b0079874ca136155b2e07ee795c51e5357b20",
+    "precision_and_context.json": "3d2d31dd3bf0292580b6ecadc83da6cae882e1ae2f1bbd83ecee3a32bc6ece23",
+    "sensitivity_checkpoints.json": "0d75ec97fbfe37047a17a54b7bfee532b7db122f286409238e083ed2c16b8629",
+    "sensitivity_summary.json": "75fbed85bbd059665693b82e7cf3fc98f44a005412048cd8af735a0cacb051c7"
+  },
+  "internal_review_only": true,
+  "note": "Post-analysis local integrity snapshot; no external timestamp or review",
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "stress_gate/manifest.json": 545
+  }
+}

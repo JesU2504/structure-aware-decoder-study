@@ -1,0 +1,1527 @@
+{
+  "earlier_pooled_endpoints_reproduced": true,
+  "elapsed_seconds": 8.42624587499995,
+  "independent_replicates": false,
+  "input_hashes": {
+    "learning_curves_2026-11-13/dataset.json": "ed7156006ff87c26731eea236bffb5d1358d6f746993d06fadacadcb5c86e581",
+    "learning_curves_2026-11-13/run.py": "12784cb974284c84c56311fdbc769f832721724ac2e09178f24deac426e21214",
+    "reviewer_perspective_2026-11-13/PROTOCOL.md": "f110e48d69d8d6653330b12141b9422e4f5f7ea1a7eb0f515f98ec3e5cb9e9dc",
+    "reviewer_perspective_2026-11-13/diagnostics.py": "eebf6a561bac3f99334c0157138b0079874ca136155b2e07ee795c51e5357b20"
+  },
+  "no_new_decoder_measurements": true,
+  "post_hoc": true,
+  "scenarios": [
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1695967711905773,
+            "train_error_factor": 1.1329108361610571
+          },
+          "p95_ns": {
+            "error_factor": 1.0555257100714324,
+            "train_error_factor": 1.0400219739654883
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1887668007028835,
+            "train_error_factor": 1.0989872480100416
+          },
+          "p95_ns": {
+            "error_factor": 1.10747101077391,
+            "train_error_factor": 1.043647399931773
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1802375701363945,
+            "train_error_factor": 1.1007068603524224
+          },
+          "p95_ns": {
+            "error_factor": 1.0997203670882956,
+            "train_error_factor": 1.0381912782453526
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "pooled"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1710114198621409,
+            "train_error_factor": 1.1583859718470002
+          },
+          "p95_ns": {
+            "error_factor": 1.062422969419198,
+            "train_error_factor": 1.0542346635413553
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1662324172535126,
+            "train_error_factor": 1.1383214944175826
+          },
+          "p95_ns": {
+            "error_factor": 1.0558933600329394,
+            "train_error_factor": 1.0459747857796076
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1902248854988837,
+            "train_error_factor": 1.1520249712585189
+          },
+          "p95_ns": {
+            "error_factor": 1.0640515760489175,
+            "train_error_factor": 1.0511903668025382
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "pooled"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1356546786760688,
+            "train_error_factor": 1.1442159663578113
+          },
+          "p95_ns": {
+            "error_factor": 1.1313540171199186,
+            "train_error_factor": 1.101323239408583
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.150658790313937,
+            "train_error_factor": 1.1349546890157967
+          },
+          "p95_ns": {
+            "error_factor": 1.0994919500033766,
+            "train_error_factor": 1.0817067076506015
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1750924201923691,
+            "train_error_factor": 1.147810267703138
+          },
+          "p95_ns": {
+            "error_factor": 1.102353215161869,
+            "train_error_factor": 1.0838466257289467
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "pooled"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1677196349152001,
+            "train_error_factor": 1.1323165747037383
+          },
+          "p95_ns": {
+            "error_factor": 1.0611056625774136,
+            "train_error_factor": 1.0416267286942438
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1737468322982747,
+            "train_error_factor": 1.0969347932769622
+          },
+          "p95_ns": {
+            "error_factor": 1.1001660622742178,
+            "train_error_factor": 1.0449716387560406
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1698926844672024,
+            "train_error_factor": 1.0946787021610698
+          },
+          "p95_ns": {
+            "error_factor": 1.090939511043416,
+            "train_error_factor": 1.0407783412001075
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "session_0"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.2140492634756481,
+            "train_error_factor": 1.183194047619038
+          },
+          "p95_ns": {
+            "error_factor": 1.0914356973361796,
+            "train_error_factor": 1.07873029969496
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1846381869944196,
+            "train_error_factor": 1.1463626738356893
+          },
+          "p95_ns": {
+            "error_factor": 1.0914443694403497,
+            "train_error_factor": 1.0723892176912133
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.2042599052738063,
+            "train_error_factor": 1.157829396368409
+          },
+          "p95_ns": {
+            "error_factor": 1.0940013327239724,
+            "train_error_factor": 1.0779833566505583
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "session_0"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1945228336755107,
+            "train_error_factor": 1.1785872041855094
+          },
+          "p95_ns": {
+            "error_factor": 1.1426891677599578,
+            "train_error_factor": 1.1165990340321978
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.186411653219616,
+            "train_error_factor": 1.1513379357499316
+          },
+          "p95_ns": {
+            "error_factor": 1.108959693417412,
+            "train_error_factor": 1.0924605107729644
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.19746597548104,
+            "train_error_factor": 1.1579545272872236
+          },
+          "p95_ns": {
+            "error_factor": 1.1422853036881053,
+            "train_error_factor": 1.1026777753275796
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "session_0"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1699715292344397,
+            "train_error_factor": 1.1387128868906022
+          },
+          "p95_ns": {
+            "error_factor": 1.0627200622496975,
+            "train_error_factor": 1.044858470059969
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.2069016861370714,
+            "train_error_factor": 1.1147234618657684
+          },
+          "p95_ns": {
+            "error_factor": 1.121922247931007,
+            "train_error_factor": 1.0484547108041324
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.198248189410279,
+            "train_error_factor": 1.1151602045132316
+          },
+          "p95_ns": {
+            "error_factor": 1.1154784843957843,
+            "train_error_factor": 1.042753786388489
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "session_1"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1930012330987063,
+            "train_error_factor": 1.1743805535466285
+          },
+          "p95_ns": {
+            "error_factor": 1.0618989524904718,
+            "train_error_factor": 1.0536118493637703
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1875190151172716,
+            "train_error_factor": 1.1571294972276842
+          },
+          "p95_ns": {
+            "error_factor": 1.0528814940533087,
+            "train_error_factor": 1.046160492823636
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.2275598383974946,
+            "train_error_factor": 1.170183255258582
+          },
+          "p95_ns": {
+            "error_factor": 1.0557527987160227,
+            "train_error_factor": 1.0481512056095865
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "session_1"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1551305843877113,
+            "train_error_factor": 1.1591850329322064
+          },
+          "p95_ns": {
+            "error_factor": 1.1243675032660805,
+            "train_error_factor": 1.096223925387689
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1671533898973854,
+            "train_error_factor": 1.1506073307568545
+          },
+          "p95_ns": {
+            "error_factor": 1.100704259796328,
+            "train_error_factor": 1.0817395265772196
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.192615930651009,
+            "train_error_factor": 1.1636354530164634
+          },
+          "p95_ns": {
+            "error_factor": 1.0961099813990158,
+            "train_error_factor": 1.080560985613848
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "session_1"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1792276345855914,
+            "train_error_factor": 1.136804925782955
+          },
+          "p95_ns": {
+            "error_factor": 1.0569180743899662,
+            "train_error_factor": 1.0411055040854105
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.2041678812555103,
+            "train_error_factor": 1.0964191323165675
+          },
+          "p95_ns": {
+            "error_factor": 1.106036718623396,
+            "train_error_factor": 1.0376927584874287
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1901275863778686,
+            "train_error_factor": 1.1004796444837657
+          },
+          "p95_ns": {
+            "error_factor": 1.09713695183582,
+            "train_error_factor": 1.0377908990959728
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "session_2"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.195695726141314,
+            "train_error_factor": 1.174633954348059
+          },
+          "p95_ns": {
+            "error_factor": 1.0604085419076834,
+            "train_error_factor": 1.0525784439128547
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.188763365617536,
+            "train_error_factor": 1.151649948679485
+          },
+          "p95_ns": {
+            "error_factor": 1.0525839039408695,
+            "train_error_factor": 1.0434051422015465
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.2401252381212668,
+            "train_error_factor": 1.1666840691603486
+          },
+          "p95_ns": {
+            "error_factor": 1.0608723551266837,
+            "train_error_factor": 1.047832941098415
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "session_2"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1708811629273819,
+            "train_error_factor": 1.1649650196836223
+          },
+          "p95_ns": {
+            "error_factor": 1.1276465335551409,
+            "train_error_factor": 1.0996783016752203
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.184802889560203,
+            "train_error_factor": 1.1542020971068738
+          },
+          "p95_ns": {
+            "error_factor": 1.1115126658695427,
+            "train_error_factor": 1.0850192966277912
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.2785747440609536,
+            "train_error_factor": 1.1702193788246567
+          },
+          "p95_ns": {
+            "error_factor": 1.106910639048029,
+            "train_error_factor": 1.0856992965379721
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "session_2"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.158466297472244,
+            "train_error_factor": 1.127870938422944
+          },
+          "p95_ns": {
+            "error_factor": 1.0543896073917212,
+            "train_error_factor": 1.0345553578753834
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1835265298790234,
+            "train_error_factor": 1.102301416916166
+          },
+          "p95_ns": {
+            "error_factor": 1.0879702291197804,
+            "train_error_factor": 1.0319547925314962
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1706023462251378,
+            "train_error_factor": 1.0987153782514891
+          },
+          "p95_ns": {
+            "error_factor": 1.0846240940586873,
+            "train_error_factor": 1.0343524725279736
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_00"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1690981681464336,
+            "train_error_factor": 1.1592766077257033
+          },
+          "p95_ns": {
+            "error_factor": 1.0617881515138676,
+            "train_error_factor": 1.0524451673459496
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.158717397611464,
+            "train_error_factor": 1.1372672941704305
+          },
+          "p95_ns": {
+            "error_factor": 1.0525661040349226,
+            "train_error_factor": 1.04359990731182
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.18894067674965,
+            "train_error_factor": 1.1549597786486774
+          },
+          "p95_ns": {
+            "error_factor": 1.0625797976194378,
+            "train_error_factor": 1.0499395928039927
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_00"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1355735317936755,
+            "train_error_factor": 1.145842227127444
+          },
+          "p95_ns": {
+            "error_factor": 1.1283970390197544,
+            "train_error_factor": 1.0989872687418005
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1415772854064794,
+            "train_error_factor": 1.1309513204883705
+          },
+          "p95_ns": {
+            "error_factor": 1.0970787331222116,
+            "train_error_factor": 1.0797474737903696
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1704688066484223,
+            "train_error_factor": 1.1478293445248555
+          },
+          "p95_ns": {
+            "error_factor": 1.1016845608459596,
+            "train_error_factor": 1.0832151240205028
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_00"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1734101035678697,
+            "train_error_factor": 1.1377095863921116
+          },
+          "p95_ns": {
+            "error_factor": 1.0510936919700684,
+            "train_error_factor": 1.035318251922256
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.207124158480028,
+            "train_error_factor": 1.114997138115496
+          },
+          "p95_ns": {
+            "error_factor": 1.0956483083746245,
+            "train_error_factor": 1.0395120892080154
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.2393729581376767,
+            "train_error_factor": 1.1190208071947998
+          },
+          "p95_ns": {
+            "error_factor": 1.0901519253415681,
+            "train_error_factor": 1.034288295297238
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_01"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1699148153806171,
+            "train_error_factor": 1.161825025141705
+          },
+          "p95_ns": {
+            "error_factor": 1.0610742641599271,
+            "train_error_factor": 1.0519975279859526
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1664692207973426,
+            "train_error_factor": 1.1449754956096165
+          },
+          "p95_ns": {
+            "error_factor": 1.0534246196481614,
+            "train_error_factor": 1.043863689411074
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1865490924264661,
+            "train_error_factor": 1.1557471738021
+          },
+          "p95_ns": {
+            "error_factor": 1.0625344038243676,
+            "train_error_factor": 1.049394833946863
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_01"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1348459882078958,
+            "train_error_factor": 1.1468445448037714
+          },
+          "p95_ns": {
+            "error_factor": 1.1281269910653267,
+            "train_error_factor": 1.0983842164349678
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1522915778456673,
+            "train_error_factor": 1.141961233559061
+          },
+          "p95_ns": {
+            "error_factor": 1.0968129571841987,
+            "train_error_factor": 1.078910057336458
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1722081591891884,
+            "train_error_factor": 1.151941820307642
+          },
+          "p95_ns": {
+            "error_factor": 1.1013980680159514,
+            "train_error_factor": 1.0824330601398202
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_01"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1529171108595564,
+            "train_error_factor": 1.1222991096961197
+          },
+          "p95_ns": {
+            "error_factor": 1.0574254015997737,
+            "train_error_factor": 1.038694534823899
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1758831974597255,
+            "train_error_factor": 1.1022331783049666
+          },
+          "p95_ns": {
+            "error_factor": 1.0958123592932398,
+            "train_error_factor": 1.0408245415527924
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.162744702315865,
+            "train_error_factor": 1.0993394597516775
+          },
+          "p95_ns": {
+            "error_factor": 1.0894372779990542,
+            "train_error_factor": 1.0369541938800124
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_02"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1732868257949058,
+            "train_error_factor": 1.1603957156941043
+          },
+          "p95_ns": {
+            "error_factor": 1.0626184545388415,
+            "train_error_factor": 1.0544769268471965
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1479825073947287,
+            "train_error_factor": 1.1326624188488994
+          },
+          "p95_ns": {
+            "error_factor": 1.0559842692760761,
+            "train_error_factor": 1.0450898666705217
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.186794719143809,
+            "train_error_factor": 1.1546444370204991
+          },
+          "p95_ns": {
+            "error_factor": 1.0635561363851154,
+            "train_error_factor": 1.05084057490148
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_02"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1372253888715185,
+            "train_error_factor": 1.1485274200881013
+          },
+          "p95_ns": {
+            "error_factor": 1.1302390213293254,
+            "train_error_factor": 1.1008067484792743
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1357725646330863,
+            "train_error_factor": 1.130656499256945
+          },
+          "p95_ns": {
+            "error_factor": 1.0958084588926758,
+            "train_error_factor": 1.079041199558201
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1688932048001601,
+            "train_error_factor": 1.1508323651955161
+          },
+          "p95_ns": {
+            "error_factor": 1.1016671636998419,
+            "train_error_factor": 1.0833621724498022
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_02"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1752321107057142,
+            "train_error_factor": 1.1416195120957453
+          },
+          "p95_ns": {
+            "error_factor": 1.0762159933705828,
+            "train_error_factor": 1.0560788076540133
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.2135138081032704,
+            "train_error_factor": 1.1149085149114695
+          },
+          "p95_ns": {
+            "error_factor": 1.1313460756823295,
+            "train_error_factor": 1.0587798531231258
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.196985886317272,
+            "train_error_factor": 1.1168427885399121
+          },
+          "p95_ns": {
+            "error_factor": 1.1206695561050988,
+            "train_error_factor": 1.0534279132881466
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_03"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1675558796885903,
+            "train_error_factor": 1.164083083815081
+          },
+          "p95_ns": {
+            "error_factor": 1.0656791215639316,
+            "train_error_factor": 1.0616193261402784
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.167159246695458,
+            "train_error_factor": 1.1462607844645853
+          },
+          "p95_ns": {
+            "error_factor": 1.0637691040797412,
+            "train_error_factor": 1.0545670390649098
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1881312549988063,
+            "train_error_factor": 1.1587195887588866
+          },
+          "p95_ns": {
+            "error_factor": 1.069942878020281,
+            "train_error_factor": 1.0579936056880144
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_03"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.13523142392415,
+            "train_error_factor": 1.1497814335250314
+          },
+          "p95_ns": {
+            "error_factor": 1.1375485189694587,
+            "train_error_factor": 1.1103984913576868
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1516350178843742,
+            "train_error_factor": 1.1413878003146452
+          },
+          "p95_ns": {
+            "error_factor": 1.1024840663654507,
+            "train_error_factor": 1.0873467047501861
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1727189099074904,
+            "train_error_factor": 1.1530566806123095
+          },
+          "p95_ns": {
+            "error_factor": 1.1180498576018787,
+            "train_error_factor": 1.0908837319597917
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_03"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.167047146187002,
+            "train_error_factor": 1.1334196352375585
+          },
+          "p95_ns": {
+            "error_factor": 1.0497052103429407,
+            "train_error_factor": 1.0383499345430947
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.184862543927512,
+            "train_error_factor": 1.1024400002140178
+          },
+          "p95_ns": {
+            "error_factor": 1.0964726591340395,
+            "train_error_factor": 1.042308801730957
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1813668417381658,
+            "train_error_factor": 1.1029516968648518
+          },
+          "p95_ns": {
+            "error_factor": 1.0894285324930435,
+            "train_error_factor": 1.0370548039762013
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_04"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1727114913922219,
+            "train_error_factor": 1.1596420440424184
+          },
+          "p95_ns": {
+            "error_factor": 1.0618507972789593,
+            "train_error_factor": 1.0535255440306626
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1664362692696686,
+            "train_error_factor": 1.1412524401877742
+          },
+          "p95_ns": {
+            "error_factor": 1.0544471000811,
+            "train_error_factor": 1.0452582728626527
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1959256181412024,
+            "train_error_factor": 1.1583770732687908
+          },
+          "p95_ns": {
+            "error_factor": 1.0646013414191953,
+            "train_error_factor": 1.0510967025164388
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_04"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1370535673826336,
+            "train_error_factor": 1.1439233119730252
+          },
+          "p95_ns": {
+            "error_factor": 1.1295044955872273,
+            "train_error_factor": 1.0996946777184595
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1518091865138949,
+            "train_error_factor": 1.1366630216417553
+          },
+          "p95_ns": {
+            "error_factor": 1.0983459392019532,
+            "train_error_factor": 1.08094352088301
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1802768546817546,
+            "train_error_factor": 1.1530110384293915
+          },
+          "p95_ns": {
+            "error_factor": 1.1029828116427904,
+            "train_error_factor": 1.0841185918910026
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_04"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1762524608304552,
+            "train_error_factor": 1.1460184953937211
+          },
+          "p95_ns": {
+            "error_factor": 1.052087904958773,
+            "train_error_factor": 1.0386526555888242
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1896871055407856,
+            "train_error_factor": 1.1141343149516658
+          },
+          "p95_ns": {
+            "error_factor": 1.1057109178630624,
+            "train_error_factor": 1.0436634633453727
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.183149473655922,
+            "train_error_factor": 1.1129682108144443
+          },
+          "p95_ns": {
+            "error_factor": 1.0987376619318987,
+            "train_error_factor": 1.0381729697410913
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_05"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1677608243268462,
+            "train_error_factor": 1.1643569657668524
+          },
+          "p95_ns": {
+            "error_factor": 1.0617335063610824,
+            "train_error_factor": 1.0532361022500305
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1639178152501428,
+            "train_error_factor": 1.144924708396467
+          },
+          "p95_ns": {
+            "error_factor": 1.0534421082245358,
+            "train_error_factor": 1.0458373283611548
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1888939840090407,
+            "train_error_factor": 1.1579603028703385
+          },
+          "p95_ns": {
+            "error_factor": 1.0620485227624934,
+            "train_error_factor": 1.0507675737180289
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_05"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1348797465556304,
+            "train_error_factor": 1.1504885906978308
+          },
+          "p95_ns": {
+            "error_factor": 1.129809395655815,
+            "train_error_factor": 1.1001098150270914
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1507979219611695,
+            "train_error_factor": 1.1398317532339988
+          },
+          "p95_ns": {
+            "error_factor": 1.0992771291314434,
+            "train_error_factor": 1.082246553820033
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1768875847996403,
+            "train_error_factor": 1.1534749532013493
+          },
+          "p95_ns": {
+            "error_factor": 1.1010642300868607,
+            "train_error_factor": 1.083826075056211
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_05"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.181113890719796,
+            "train_error_factor": 1.149257192123457
+          },
+          "p95_ns": {
+            "error_factor": 1.0586964498534444,
+            "train_error_factor": 1.0385343544386978
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.2020069261395803,
+            "train_error_factor": 1.1160871559721586
+          },
+          "p95_ns": {
+            "error_factor": 1.101596966843887,
+            "train_error_factor": 1.036492521162978
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.192896792883599,
+            "train_error_factor": 1.1122140263745357
+          },
+          "p95_ns": {
+            "error_factor": 1.097563250123338,
+            "train_error_factor": 1.0374450209404258
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_06"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1694670771228304,
+            "train_error_factor": 1.1634110687904329
+          },
+          "p95_ns": {
+            "error_factor": 1.0610834719167217,
+            "train_error_factor": 1.0525605515383056
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.164888684532644,
+            "train_error_factor": 1.1436507328184016
+          },
+          "p95_ns": {
+            "error_factor": 1.0548378718765412,
+            "train_error_factor": 1.0447883843408987
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1859534967834957,
+            "train_error_factor": 1.155565295782098
+          },
+          "p95_ns": {
+            "error_factor": 1.0632996233859187,
+            "train_error_factor": 1.0502001643663095
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_06"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1349288233849764,
+            "train_error_factor": 1.150075937091339
+          },
+          "p95_ns": {
+            "error_factor": 1.1289917196059531,
+            "train_error_factor": 1.0991778586130427
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1502756230209121,
+            "train_error_factor": 1.1397162864938544
+          },
+          "p95_ns": {
+            "error_factor": 1.0969676645475104,
+            "train_error_factor": 1.0804929573918172
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1714751758656998,
+            "train_error_factor": 1.1519472969850895
+          },
+          "p95_ns": {
+            "error_factor": 1.1014172595248397,
+            "train_error_factor": 1.0834982661873074
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_06"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.173919784764239,
+            "train_error_factor": 1.1352014725745776
+          },
+          "p95_ns": {
+            "error_factor": 1.0634843054534848,
+            "train_error_factor": 1.0423593158428135
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1991176902391543,
+            "train_error_factor": 1.1081118510825496
+          },
+          "p95_ns": {
+            "error_factor": 1.1109151620357305,
+            "train_error_factor": 1.0414503013629728
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1892314677295703,
+            "train_error_factor": 1.102630365007213
+          },
+          "p95_ns": {
+            "error_factor": 1.1052964033535289,
+            "train_error_factor": 1.0424306073634728
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_07"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1762509039716613,
+            "train_error_factor": 1.1669055249605085
+          },
+          "p95_ns": {
+            "error_factor": 1.0629986231960502,
+            "train_error_factor": 1.0552690896221553
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1586015231898061,
+            "train_error_factor": 1.1398606600346763
+          },
+          "p95_ns": {
+            "error_factor": 1.0543351921522834,
+            "train_error_factor": 1.047201603498906
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1926456995689598,
+            "train_error_factor": 1.1573257683651461
+          },
+          "p95_ns": {
+            "error_factor": 1.064773969718816,
+            "train_error_factor": 1.052660685878414
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_07"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1382350056360735,
+            "train_error_factor": 1.1510769923363064
+          },
+          "p95_ns": {
+            "error_factor": 1.1321209570798523,
+            "train_error_factor": 1.1027120542798112
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.144368156368238,
+            "train_error_factor": 1.1365630237742745
+          },
+          "p95_ns": {
+            "error_factor": 1.1005223583404609,
+            "train_error_factor": 1.083474230957813
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1746155099312552,
+            "train_error_factor": 1.1533259891377594
+          },
+          "p95_ns": {
+            "error_factor": 1.1024452691599385,
+            "train_error_factor": 1.0852370008063683
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_07"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.166348084723526,
+            "train_error_factor": 1.1347927816904135
+          },
+          "p95_ns": {
+            "error_factor": 1.0578968432903737,
+            "train_error_factor": 1.0404440341918504
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1897784154561863,
+            "train_error_factor": 1.1041244266546133
+          },
+          "p95_ns": {
+            "error_factor": 1.104940186552148,
+            "train_error_factor": 1.0436619710881858
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1791125307486197,
+            "train_error_factor": 1.101822610823747
+          },
+          "p95_ns": {
+            "error_factor": 1.09921752563776,
+            "train_error_factor": 1.0383664555570256
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_08"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1701927950958981,
+            "train_error_factor": 1.161282350210452
+          },
+          "p95_ns": {
+            "error_factor": 1.061433466379138,
+            "train_error_factor": 1.054220535932105
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1630579923815536,
+            "train_error_factor": 1.1424066392078547
+          },
+          "p95_ns": {
+            "error_factor": 1.0557758444787309,
+            "train_error_factor": 1.0456382786866585
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1821059268354832,
+            "train_error_factor": 1.1532193723940716
+          },
+          "p95_ns": {
+            "error_factor": 1.061919763568704,
+            "train_error_factor": 1.0503342452849027
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_08"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1368980601731924,
+            "train_error_factor": 1.1468695718991064
+          },
+          "p95_ns": {
+            "error_factor": 1.1314916367755468,
+            "train_error_factor": 1.10264418633093
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1457298847116635,
+            "train_error_factor": 1.1378054261507875
+          },
+          "p95_ns": {
+            "error_factor": 1.0980107856250259,
+            "train_error_factor": 1.0817778888236957
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1645594917554043,
+            "train_error_factor": 1.147783098343871
+          },
+          "p95_ns": {
+            "error_factor": 1.100556878808677,
+            "train_error_factor": 1.0839144528989038
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_08"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.165782237623371,
+            "train_error_factor": 1.1377347186391062
+          },
+          "p95_ns": {
+            "error_factor": 1.0585467990386663,
+            "train_error_factor": 1.0422079249276737
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1809566022235136,
+            "train_error_factor": 1.1011809707000975
+          },
+          "p95_ns": {
+            "error_factor": 1.1216892628193038,
+            "train_error_factor": 1.0468817447571277
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.174736489183273,
+            "train_error_factor": 1.101881024226748
+          },
+          "p95_ns": {
+            "error_factor": 1.1117339589825888,
+            "train_error_factor": 1.0411027261374586
+          }
+        }
+      },
+      "domain": "original",
+      "scenario": "equal_precision_09"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1674104652666695,
+            "train_error_factor": 1.163297870681801
+          },
+          "p95_ns": {
+            "error_factor": 1.063288226400761,
+            "train_error_factor": 1.0560979006831748
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1527775723517866,
+            "train_error_factor": 1.1378989349635549
+          },
+          "p95_ns": {
+            "error_factor": 1.0563840945680318,
+            "train_error_factor": 1.0475029132375366
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.1889125142380168,
+            "train_error_factor": 1.1581952128028214
+          },
+          "p95_ns": {
+            "error_factor": 1.0666576680342588,
+            "train_error_factor": 1.0528863721573574
+          }
+        }
+      },
+      "domain": "expansion_fixed_noise",
+      "scenario": "equal_precision_09"
+    },
+    {
+      "aggregates": {
+        "B2": {
+          "mean_ns": {
+            "error_factor": 1.1368309989643854,
+            "train_error_factor": 1.1498881324226222
+          },
+          "p95_ns": {
+            "error_factor": 1.1326193407400154,
+            "train_error_factor": 1.1036567145011251
+          }
+        },
+        "B3": {
+          "mean_ns": {
+            "error_factor": 1.1422989493886397,
+            "train_error_factor": 1.1344818955899494
+          },
+          "p95_ns": {
+            "error_factor": 1.1057333394394724,
+            "train_error_factor": 1.0841084714624936
+          }
+        },
+        "B3_stable": {
+          "mean_ns": {
+            "error_factor": 1.177007092330175,
+            "train_error_factor": 1.1526672862215444
+          },
+          "p95_ns": {
+            "error_factor": 1.1046748766032368,
+            "train_error_factor": 1.0861989197985513
+          }
+        }
+      },
+      "domain": "expansion_mixed_noise",
+      "scenario": "equal_precision_09"
+    }
+  ]
+}

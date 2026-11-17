@@ -1,0 +1,9 @@
+{
+  "reason": "Duplicate metadata-key assembly failure before any fitting",
+  "changes_scientific_comparisons": false,
+  "hashes": {
+    "analyze.py": "4448dae36314cf3842ae017eb30c4ec3245a6e7b6c454049bb45fcf620674f2a",
+    "analyze_v2.py": "7317982802b75dd2372b35acbb0186541958b81a413e72680a441f0f94069b06",
+    "ANALYSIS_AMENDMENT.md": "c6560d1cedab1a3a6f8acc27bce26560520de825108a798ab8735700adc192b7"
+  }
+}

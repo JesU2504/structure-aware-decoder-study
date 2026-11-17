@@ -1,0 +1,10 @@
+{"gates_completed": 1, "case_id": 0, "baseline_equal": true}
+{"gates_completed": 2, "case_id": 1, "baseline_equal": true}
+{"gates_completed": 3, "case_id": 2, "baseline_equal": true}
+{"gates_completed": 4, "case_id": 3, "baseline_equal": true}
+{"gates_completed": 5, "case_id": 4, "baseline_equal": true}
+{"gates_completed": 6, "case_id": 5, "baseline_equal": true}
+{"gates_completed": 7, "case_id": 23, "baseline_equal": true}
+{"gates_completed": 8, "case_id": 24, "baseline_equal": true}
+{"gates_completed": 9, "case_id": 51, "baseline_equal": false}
+{"status": "baseline_mismatch", "message": "Case 51: reconstructed e0 differs in 4 bits", "gates_completed": 9, "searches_completed": 0, "child_cpu_seconds": 1.4455749999999998, "child_wall_seconds": 1.6064307500000723, "peak_child_rss_bytes": 230883328, "new_native_decoder_calls": 0, "new_physical_shots": 0, "actual_labels_loaded_by_worker": false, "frozen_sha256": "2f7419baf285bddecbfd20269cbdce8e24a88e6c53970fd4d3ed02d7f027cdde"}

@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tmcbs"
+version = "0.1.0"
+description = "Transversal Multiple Code Block Simulator: circuit-level simulation of distributed transversal fault-tolerant operations between surface and bivariate-bicycle codes."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"  # upper bound: tesseract-decoder has no 3.14 wheels yet
+license = { file = "LICENSE" }
+authors = [
+    {name = "John Stack", email = "jstack@ncsu.edu"},
+    {name = "Ming Wang"},
+    {name = "Frank Mueller"},
+]
+keywords = [
+    "quantum error correction",
+    "distributed quantum computing",
+    "fault tolerance",
+    "surface codes",
+    "qLDPC",
+    "bivariate-bicycle codes",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = [
+    "stim>=1.14",
+    "sinter>=1.14",
+    "numpy>=1.26",
+    "scipy>=1.11",
+    # Keep the latest build available at the last green CI run (2026-07-20).
+    # The latest Linux wheels crash with SIGILL on Python 3.12/3.13 runners.
+    # An upper bound also allows the older wheels needed by Intel macOS.
+    "tesseract-decoder<=0.1.1.dev20260711233612",
+    "ldpc>=2.3",
+    "matplotlib>=3.8",
+    "pytest>=7",
+]
+
+[project.optional-dependencies]
+mpi = ["mpi4py>=4.0"]
+
+[tool.pytest.ini_options]
+markers = [
+    "mpi: end-to-end tests that launch the MPI driver under mpirun (need a working MPI; auto-skip otherwise)",
+]
+
+[project.urls]
+Paper = "https://doi.org/10.1038/s41467-026-75693-3"
+
+[tool.setuptools]
+# TMCBS plus vendored helper modules derived from Gong et al.'s
+# SlidingWindowDecoder.
+packages = ["tmcbs", "third_party", "third_party.gong_sliding_window_decoder"]
+
+[tool.setuptools.package-data]
+"third_party.gong_sliding_window_decoder" = [
+    "README.md",
+    "LICENSE-MIT",
+    "LICENSE-APACHE-2.0",
+]

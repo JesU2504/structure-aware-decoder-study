@@ -1,0 +1,104 @@
+{
+  "actual_contract_unresolved": true,
+  "date": "2026-11-16",
+  "design_only": true,
+  "illustrative_fixed_family": {
+    "contexts": 3,
+    "evaluation_alpha": 0.02,
+    "evaluation_cell_two_sided_alpha": 0.00020833333333333335,
+    "minimum_zero_failure_quality_samples_to_certify_1_percent": 982,
+    "minimum_zero_miss_profile_samples_to_certify_5_percent": 206,
+    "profiling_alpha": 0.02,
+    "profiling_cell_two_sided_alpha": 5.208333333333334e-05,
+    "profiling_looks": 4,
+    "quality_alpha": 0.01,
+    "quality_cell_two_sided_alpha": 0.00010416666666666667,
+    "reference_resolution_power": [
+      {
+        "accept_if_misses_at_most": 8,
+        "probability_resolve_feasible_when_true_miss_0_03": 0.029207430893074007,
+        "probability_resolve_infeasible_when_true_miss_0_07": 0.03635678494929404,
+        "reject_if_misses_at_least": 47,
+        "samples_per_task_context": 512
+      },
+      {
+        "accept_if_misses_at_most": 26,
+        "probability_resolve_feasible_when_true_miss_0_03": 0.2231173083306246,
+        "probability_resolve_infeasible_when_true_miss_0_07": 0.16862620478391654,
+        "reject_if_misses_at_least": 80,
+        "samples_per_task_context": 1024
+      },
+      {
+        "accept_if_misses_at_most": 67,
+        "probability_resolve_feasible_when_true_miss_0_03": 0.7860991812176787,
+        "probability_resolve_infeasible_when_true_miss_0_07": 0.5592049334308442,
+        "reject_if_misses_at_least": 142,
+        "samples_per_task_context": 2048
+      },
+      {
+        "accept_if_misses_at_most": 154,
+        "probability_resolve_feasible_when_true_miss_0_03": 0.9974531719933146,
+        "probability_resolve_infeasible_when_true_miss_0_07": 0.9596458176874637,
+        "reject_if_misses_at_least": 259,
+        "samples_per_task_context": 4096
+      }
+    ],
+    "tasks": 32,
+    "warning": "IID/stable-context calculations only; assumptions, target rates, task counts and sample counts are not an approved consumer contract."
+  },
+  "inputs": {
+    "learning_curves_2026-11-13/dataset.json": "ed7156006ff87c26731eea236bffb5d1358d6f746993d06fadacadcb5c86e581",
+    "next_stage_design_2026-11-16/planning_calculations.py": "0ac01b1cbf65c9975453d8b4a60a3944e899a5aa4c266c173896ec320a0a3364",
+    "novelty_feasibility_2026-11-16/feasibility.json": "9b4bfdecd639d4822518370339546c69ee2ac21d92c5ba0c919628a16bd863ae",
+    "validation_gate_2026-11-13/model_summary.json": "f21464ac89734254b8c1221b5ca16d25a5ca4d2cbb48f0cb35decfed48fabd48"
+  },
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "parent_level_zero_failure_limits": [
+    {
+      "independent_parents": 8,
+      "one_sided_95_upper_failure_probability": 0.31234397806636793
+    },
+    {
+      "independent_parents": 12,
+      "one_sided_95_upper_failure_probability": 0.22092219194555585
+    },
+    {
+      "independent_parents": 16,
+      "one_sided_95_upper_failure_probability": 0.17074972298248092
+    },
+    {
+      "independent_parents": 32,
+      "one_sided_95_upper_failure_probability": 0.0893681989862648
+    },
+    {
+      "independent_parents": 59,
+      "one_sided_95_upper_failure_probability": 0.049507609888227
+    },
+    {
+      "independent_parents": 60,
+      "one_sided_95_upper_failure_probability": 0.04870291331009746
+    }
+  ],
+  "recovered_cost_inventory": {
+    "historical_entire_model_job_wall_seconds": 5.462612958999671,
+    "historical_outer_fits": 186,
+    "linear_filter_partial_ms": 1249.9903615,
+    "linear_partial_saved_ms": 1838.0055055,
+    "training_examples": 125,
+    "training_parent_groups": 19,
+    "uniform_partial_ms": 3087.995867,
+    "unknown_costs": [
+      "training-label acquisition needed by a deployed model",
+      "target-context calibration",
+      "circuit/DEM/matrix preparation",
+      "sampling",
+      "profiling warmup",
+      "pipeline I/O and startup",
+      "actual base6-only feature cost",
+      "deployment fitting/tuning",
+      "cache-hit and invalidation behavior"
+    ],
+    "warning": "Full historical model-job time is neither deployment linear-fit cost nor training-label acquisition cost; do not use it as either."
+  }
+}

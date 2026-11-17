@@ -1,0 +1,9 @@
+{
+  "reason": "Supervisor found controller could accept a saved completed status despite abnormal child exit; caught before any real-case helper execution",
+  "no_real_case_execution": true,
+  "files": {
+    "frozen.json": "8c4e4e8a35a0055beb74393399c9196393544f05a7aefffbee0e6deec4c334dc",
+    "experiment.py": "93a514ad5cacd44cbb20cf69fb7e6211b680d95177e989536df8289aeac76cd4",
+    "selection.json": "f7e5e597c2b69139a12fdb59158b33cc611e85df37b39a56da222a64ca44a474"
+  }
+}

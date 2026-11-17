@@ -1,0 +1,5259 @@
+[
+  {
+    "case_id": 0,
+    "columns": [
+      6291,
+      6902,
+      7025,
+      7704
+    ],
+    "detector_only_spatial_key": "19959fbcbc9cc509d1977f445fa4816779986de269a4bf286b6cc406bfa99638",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 1,
+    "growth_order": [
+      7025,
+      6291,
+      6902,
+      7704
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      6,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      628,
+      685,
+      695,
+      711,
+      765,
+      774,
+      840
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 1,
+    "columns": [
+      605,
+      891,
+      1287,
+      1454
+    ],
+    "detector_only_spatial_key": "8c0e41addc9a722b1a89e4eda56495a9530eb289c44057879cb6a15c4b22f21e",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 2,
+    "growth_order": [
+      605,
+      1287,
+      1454,
+      891
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      63,
+      74,
+      120,
+      154,
+      187,
+      196,
+      204,
+      209
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 2,
+    "columns": [
+      3044,
+      3096,
+      3487,
+      3536
+    ],
+    "detector_only_spatial_key": "f024edc2aae29f2de3ea384e733cd909c8f9df2278ab5a026f7d00aa01af9bd5",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 3,
+    "growth_order": [
+      3536,
+      3044,
+      3096,
+      3487
+    ],
+    "half": "connected",
+    "observable_support": [
+      2
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      290,
+      302,
+      352,
+      353,
+      360,
+      365,
+      375,
+      416,
+      425
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 3,
+    "columns": [
+      6541,
+      6750,
+      6848,
+      7247
+    ],
+    "detector_only_spatial_key": "34512cef008f01fdad16971d9d2b04db6f42a4c21017a3f8561a28ad03ea9f1c",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 4,
+    "growth_order": [
+      6541,
+      6848,
+      6750,
+      7247
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      6,
+      8,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      663,
+      694,
+      734,
+      743,
+      748,
+      754,
+      764,
+      770
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 4,
+    "columns": [
+      178,
+      744,
+      777,
+      784
+    ],
+    "detector_only_spatial_key": "108dcf3a813bdb8030d18300a94d9f8d6717e21e0bfa2da7eae39b48d5dab644",
+    "exact_log_probability": -38.38767647517497,
+    "generation_attempt": 5,
+    "growth_order": [
+      784,
+      777,
+      744,
+      178
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      5,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      14,
+      72,
+      81,
+      85,
+      94,
+      97,
+      98,
+      100,
+      103,
+      107,
+      110,
+      114,
+      116
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 5,
+    "columns": [
+      3188,
+      3646,
+      3833,
+      3840
+    ],
+    "detector_only_spatial_key": "8785743169d379f5f392d992a9ac0047184bdda3536c0bc53aaa9957ef6e0e01",
+    "exact_log_probability": -38.22710441168611,
+    "generation_attempt": 6,
+    "growth_order": [
+      3840,
+      3646,
+      3833,
+      3188
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      308,
+      370,
+      371,
+      380,
+      396,
+      446,
+      447,
+      462,
+      463
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 6,
+    "columns": [
+      5749,
+      6310,
+      6435,
+      6721
+    ],
+    "detector_only_spatial_key": "addf21683cf8af9addd4a2e26134978a94f285f9b4beec792f1881d6fac60206",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 7,
+    "growth_order": [
+      6310,
+      6435,
+      5749,
+      6721
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      581,
+      587,
+      628,
+      637,
+      644,
+      646,
+      650,
+      659,
+      660,
+      666,
+      720,
+      742
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 7,
+    "columns": [
+      5967,
+      6267,
+      6512,
+      6863
+    ],
+    "detector_only_spatial_key": "0293c22fb99b8ec821cff6c61b75631c8a038153d64c9060552447f78360f152",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 8,
+    "growth_order": [
+      5967,
+      6512,
+      6267,
+      6863
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      583,
+      584,
+      625,
+      631,
+      663,
+      666,
+      688,
+      742,
+      745
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 8,
+    "columns": [
+      6681,
+      6686,
+      6851,
+      7571
+    ],
+    "detector_only_spatial_key": "be36f2b152f610c57be67537ee14ad7a748b81619738887063e5b91190892114",
+    "exact_log_probability": -36.21202026818099,
+    "generation_attempt": 9,
+    "growth_order": [
+      6851,
+      6686,
+      6681,
+      7571
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      7,
+      9,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      669,
+      677,
+      727,
+      736,
+      749,
+      752,
+      821
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 9,
+    "columns": [
+      6237,
+      6463,
+      6855,
+      7208
+    ],
+    "detector_only_spatial_key": "e248c8c46a3f01d923562e844544535c7d6aeb15c4d01bce99bc281f57c3f677",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 10,
+    "growth_order": [
+      6237,
+      6463,
+      6855,
+      7208
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      3,
+      6,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      620,
+      652,
+      678,
+      718,
+      729,
+      732,
+      738,
+      745,
+      754,
+      776
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 10,
+    "columns": [
+      7442,
+      7976,
+      7998,
+      8305
+    ],
+    "detector_only_spatial_key": "6e0149ad8b208e220b51e40400cc1e957cf09684a5c241d5dc467550c780441d",
+    "exact_log_probability": -38.22710441168611,
+    "generation_attempt": 11,
+    "growth_order": [
+      7998,
+      7976,
+      8305,
+      7442
+    ],
+    "half": "connected",
+    "observable_support": [
+      5,
+      6,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      731,
+      792,
+      805,
+      817,
+      822,
+      823,
+      830,
+      839,
+      861,
+      895
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 11,
+    "columns": [
+      6724,
+      7406,
+      7426,
+      7894
+    ],
+    "detector_only_spatial_key": "d35b3e2561da1349f34ed0d8ac0219dce0a7a4bacbfdc38b38337df75291642a",
+    "exact_log_probability": -37.3660999890214,
+    "generation_attempt": 12,
+    "growth_order": [
+      7406,
+      7894,
+      6724,
+      7426
+    ],
+    "half": "connected",
+    "observable_support": [
+      3,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      659,
+      729,
+      748,
+      786,
+      805,
+      812,
+      821
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 12,
+    "columns": [
+      3853,
+      4388,
+      4772,
+      5390
+    ],
+    "detector_only_spatial_key": "b4727e3930fd83676bcf417125c8ad29e50009004d21dfa187995ce6d4ee9382",
+    "exact_log_probability": -38.121818159097685,
+    "generation_attempt": 13,
+    "growth_order": [
+      5390,
+      4772,
+      4388,
+      3853
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      372,
+      445,
+      458,
+      474,
+      483,
+      489,
+      539,
+      602
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 13,
+    "columns": [
+      3313,
+      3657,
+      3664,
+      3946
+    ],
+    "detector_only_spatial_key": "2eda68af645f0afc232eadcc841513738878dfc8905957c7193448453460f9e5",
+    "exact_log_probability": -38.38767647517496,
+    "generation_attempt": 14,
+    "growth_order": [
+      3946,
+      3664,
+      3313,
+      3657
+    ],
+    "half": "connected",
+    "observable_support": [
+      7,
+      8
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      326,
+      382,
+      389,
+      391,
+      402,
+      455
+    ],
+    "syndrome_weight": 6
+  },
+  {
+    "case_id": 14,
+    "columns": [
+      8410,
+      8464,
+      8466,
+      8633
+    ],
+    "detector_only_spatial_key": "337209114f2936ce0be603c96a0b0acfdf99a7f86fcdfaaa21e92864f3d2656a",
+    "exact_log_probability": -37.20552792553255,
+    "generation_attempt": 15,
+    "growth_order": [
+      8466,
+      8464,
+      8410,
+      8633
+    ],
+    "half": "connected",
+    "observable_support": [
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      838,
+      913,
+      919
+    ],
+    "syndrome_weight": 3
+  },
+  {
+    "case_id": 15,
+    "columns": [
+      5795,
+      6044,
+      6497,
+      7068
+    ],
+    "detector_only_spatial_key": "84331f76d7227094cc201d7864af54ab5cc535c77ca9f42a7bd725675b7135a6",
+    "exact_log_probability": -37.41610043070941,
+    "generation_attempt": 16,
+    "growth_order": [
+      6044,
+      6497,
+      5795,
+      7068
+    ],
+    "half": "connected",
+    "observable_support": [
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      592,
+      609,
+      650,
+      709,
+      780
+    ],
+    "syndrome_weight": 5
+  },
+  {
+    "case_id": 16,
+    "columns": [
+      2172,
+      2392,
+      2508,
+      2573
+    ],
+    "detector_only_spatial_key": "9a4df1a316221dd339d35584e1aa6c9990df3e54ddac806a1a359569a679f700",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 17,
+    "growth_order": [
+      2392,
+      2172,
+      2573,
+      2508
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      3,
+      4,
+      7,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      229,
+      232,
+      235,
+      257,
+      289,
+      300,
+      309,
+      322,
+      323,
+      325
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 17,
+    "columns": [
+      1932,
+      1935,
+      2360,
+      2668
+    ],
+    "detector_only_spatial_key": "0492771420043c7f8fca190bfcd970d320ba163942d7cfaaeb0978799bd0849a",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 18,
+    "growth_order": [
+      2668,
+      2360,
+      1935,
+      1932
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      4,
+      8,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      197,
+      222,
+      228,
+      249,
+      252,
+      254,
+      274,
+      280,
+      347
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 18,
+    "columns": [
+      2357,
+      2379,
+      2725,
+      2835
+    ],
+    "detector_only_spatial_key": "86b0c6cfedb5cd293532e7b4059ba1e6fed1b6dd4dd475f8af545afc2d377202",
+    "exact_log_probability": -40.03161605001437,
+    "generation_attempt": 19,
+    "growth_order": [
+      2379,
+      2835,
+      2357,
+      2725
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      221,
+      224,
+      273,
+      290,
+      297,
+      300,
+      306,
+      346,
+      350,
+      353,
+      356
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 19,
+    "columns": [
+      1205,
+      1209,
+      1258,
+      1416
+    ],
+    "detector_only_spatial_key": "f2c5b218d76dbdac82e680de9a5ffcddaf62e60fd5df4e05b4c3f054dda3ed1b",
+    "exact_log_probability": -40.03161605001437,
+    "generation_attempt": 20,
+    "growth_order": [
+      1209,
+      1205,
+      1416,
+      1258
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      119,
+      125,
+      148,
+      151,
+      157,
+      176,
+      185,
+      198,
+      201,
+      213,
+      214
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 20,
+    "columns": [
+      4111,
+      4203,
+      4830,
+      5470
+    ],
+    "detector_only_spatial_key": "457d7d9640b556a22cbb016740f19c3e0a7200ffc018f89e545f3b1a5823fefe",
+    "exact_log_probability": -39.038108392662814,
+    "generation_attempt": 21,
+    "growth_order": [
+      4830,
+      4203,
+      4111,
+      5470
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      4,
+      5,
+      9,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      409,
+      423,
+      434,
+      481,
+      490,
+      503,
+      542,
+      545,
+      561,
+      564,
+      611
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 21,
+    "columns": [
+      5086,
+      5461,
+      6337,
+      6635
+    ],
+    "detector_only_spatial_key": "550c0191c15cb7c2ccc88ff95b99545a99edc47d8fad92cd33e641ea56f29bd6",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 22,
+    "growth_order": [
+      5086,
+      5461,
+      6337,
+      6635
+    ],
+    "half": "connected",
+    "observable_support": [
+      3,
+      5
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      523,
+      524,
+      613,
+      644,
+      649,
+      711,
+      790
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 22,
+    "columns": [
+      272,
+      341,
+      410,
+      425
+    ],
+    "detector_only_spatial_key": "7df48046a7a59f32f8c43a7cfa4939633161aadc393ef8bac3e0d247434f6246",
+    "exact_log_probability": -36.53841083505206,
+    "generation_attempt": 23,
+    "growth_order": [
+      425,
+      341,
+      410,
+      272
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      3,
+      8,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      24,
+      32,
+      40,
+      41,
+      47,
+      57,
+      88,
+      91,
+      104
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 23,
+    "columns": [
+      2662,
+      2960,
+      2985,
+      3337
+    ],
+    "detector_only_spatial_key": "fe4395389e41bda2c1b1d2ace53450306c1ec0b76a1c3b10c2b3ac9ddd01a81e",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 24,
+    "growth_order": [
+      2662,
+      2960,
+      3337,
+      2985
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      264,
+      318,
+      326,
+      333,
+      340,
+      341,
+      343,
+      349,
+      424
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 24,
+    "columns": [
+      8382,
+      8479,
+      8734,
+      8738
+    ],
+    "detector_only_spatial_key": "46b5e6bb319c8d6d257e87f2e3469902a64659903f85365866e3e577fd1e5afe",
+    "exact_log_probability": -39.038108392662814,
+    "generation_attempt": 25,
+    "growth_order": [
+      8382,
+      8479,
+      8738,
+      8734
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      3,
+      5,
+      6,
+      8,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      834,
+      848,
+      899,
+      900,
+      902,
+      908,
+      909,
+      915,
+      918,
+      922,
+      924,
+      925,
+      928
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 25,
+    "columns": [
+      1335,
+      1676,
+      1962,
+      2351
+    ],
+    "detector_only_spatial_key": "6fe60bb79108ab6056be312476204650b01be74c4f039e98d7b6887c34d25df9",
+    "exact_log_probability": -40.03161605001437,
+    "generation_attempt": 26,
+    "growth_order": [
+      1962,
+      1676,
+      1335,
+      2351
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      137,
+      195,
+      221,
+      228,
+      230,
+      237,
+      271,
+      284,
+      297,
+      313
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 26,
+    "columns": [
+      921,
+      1471,
+      1820,
+      1833
+    ],
+    "detector_only_spatial_key": "c91ee375a0e7b2febc0213d3cc4549f9d685feef7b4770569a965586f0374ad0",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 27,
+    "growth_order": [
+      1820,
+      1833,
+      1471,
+      921
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      7,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      78,
+      93,
+      159,
+      175,
+      249,
+      264,
+      265
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 27,
+    "columns": [
+      6927,
+      7307,
+      7722,
+      8027
+    ],
+    "detector_only_spatial_key": "19207a0fd7935233641a2100d20bc9cb569b455042a68388f91788e11c7a798e",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 28,
+    "growth_order": [
+      7307,
+      6927,
+      7722,
+      8027
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      688,
+      746,
+      755,
+      759,
+      768,
+      775,
+      780,
+      784,
+      790,
+      797,
+      831,
+      834,
+      840,
+      856,
+      862
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 28,
+    "columns": [
+      1125,
+      1126,
+      1140,
+      1562
+    ],
+    "detector_only_spatial_key": "a90634e495e7a1abce01bf288c3198b1e158e5447087444e34211eb182cc9831",
+    "exact_log_probability": -35.379084674318285,
+    "generation_attempt": 29,
+    "growth_order": [
+      1126,
+      1125,
+      1140,
+      1562
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      108,
+      164,
+      173,
+      178,
+      192,
+      198
+    ],
+    "syndrome_weight": 6
+  },
+  {
+    "case_id": 29,
+    "columns": [
+      5322,
+      5338,
+      5620,
+      5747
+    ],
+    "detector_only_spatial_key": "8c1fcd9d40b4b66b2f2576434f8eca6dea501bcc8b0bcf8b457b715622c699ef",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 30,
+    "growth_order": [
+      5747,
+      5322,
+      5620,
+      5338
+    ],
+    "half": "connected",
+    "observable_support": [
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      521,
+      523,
+      527,
+      538,
+      563,
+      581,
+      590,
+      605,
+      624,
+      631,
+      637,
+      640
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 30,
+    "columns": [
+      71,
+      991,
+      1249,
+      1379
+    ],
+    "detector_only_spatial_key": "3fbf04f94ad96bd85d5c0b7c9a622e2cd737c35c11033fbe63f5a59b07b65196",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 31,
+    "growth_order": [
+      991,
+      1249,
+      71,
+      1379
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      4,
+      87,
+      124,
+      142,
+      144,
+      153,
+      200,
+      207,
+      210
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 31,
+    "columns": [
+      7825,
+      7868,
+      8018,
+      8509
+    ],
+    "detector_only_spatial_key": "7427767098e591af85b64f2dc8ee044d7b841417741352a8e74c2d4fa2ac8da0",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 32,
+    "growth_order": [
+      8509,
+      8018,
+      7868,
+      7825
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      6,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      787,
+      793,
+      795,
+      798,
+      828,
+      834,
+      837,
+      849,
+      850,
+      851,
+      856,
+      870
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 32,
+    "columns": [
+      6430,
+      6642,
+      6714,
+      7513
+    ],
+    "detector_only_spatial_key": "56aef9441a4b486a30566a3d19e61e6416c381719ccc7bcab7c6245d3d76db13",
+    "exact_log_probability": -39.19868045615166,
+    "generation_attempt": 33,
+    "growth_order": [
+      6430,
+      6714,
+      7513,
+      6642
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      4
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      658,
+      712,
+      725,
+      784,
+      787,
+      798,
+      807
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 33,
+    "columns": [
+      186,
+      228,
+      274,
+      425
+    ],
+    "detector_only_spatial_key": "f456844c93d99db81aff6d50c4d1be3fea2b642492473b60cd8abe3e0cc956e4",
+    "exact_log_probability": -36.21202026818099,
+    "generation_attempt": 34,
+    "growth_order": [
+      274,
+      186,
+      228,
+      425
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      3,
+      5,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      15,
+      19,
+      41,
+      97,
+      119
+    ],
+    "syndrome_weight": 5
+  },
+  {
+    "case_id": 34,
+    "columns": [
+      2744,
+      2746,
+      2836,
+      3121
+    ],
+    "detector_only_spatial_key": "4facae3dd8873ae2b8eaf546bb9d3b76c8609f9f828d46b35717ee3a855c6bf0",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 35,
+    "growth_order": [
+      3121,
+      2746,
+      2836,
+      2744
+    ],
+    "half": "connected",
+    "observable_support": [
+      5
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      282,
+      290,
+      299,
+      305,
+      345,
+      349,
+      356,
+      360,
+      382
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 35,
+    "columns": [
+      7680,
+      7705,
+      8009,
+      8044
+    ],
+    "detector_only_spatial_key": "a62bf1b97633184cb6547196a2dcce4e1c1d955bde1bff53fb3495b2bbed97a4",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 36,
+    "growth_order": [
+      7680,
+      8009,
+      7705,
+      8044
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      5,
+      8
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      765,
+      768,
+      774,
+      825,
+      828,
+      834,
+      838,
+      847,
+      850,
+      856
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 36,
+    "columns": [
+      6238,
+      6239,
+      6280,
+      6290
+    ],
+    "detector_only_spatial_key": "7327b035c67ff54664d8f66753ed9adee9d486ae0d9123178b5dbafc5f6121b4",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 37,
+    "growth_order": [
+      6290,
+      6280,
+      6239,
+      6238
+    ],
+    "half": "connected",
+    "observable_support": [],
+    "seed": 2026111711,
+    "syndrome_support": [
+      622,
+      684,
+      685,
+      694,
+      710,
+      716
+    ],
+    "syndrome_weight": 6
+  },
+  {
+    "case_id": 37,
+    "columns": [
+      5048,
+      5213,
+      5476,
+      6380
+    ],
+    "detector_only_spatial_key": "4be52eb8fcb0e5a09faa416cb79738403783986fc279e6261861a14eb351778e",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 38,
+    "growth_order": [
+      5213,
+      5048,
+      5476,
+      6380
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      3,
+      6,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      507,
+      516,
+      522,
+      529,
+      538,
+      543,
+      632,
+      650,
+      659,
+      706,
+      709
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 38,
+    "columns": [
+      218,
+      698,
+      936,
+      978
+    ],
+    "detector_only_spatial_key": "64eba25fd836a771951c83d51b43c7e08dc3c1d366fa44b1012f7e42b684881e",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 39,
+    "growth_order": [
+      218,
+      978,
+      936,
+      698
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      18,
+      76,
+      80,
+      86,
+      98,
+      107,
+      123,
+      126,
+      132,
+      139,
+      152,
+      165,
+      168
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 39,
+    "columns": [
+      136,
+      628,
+      706,
+      1310
+    ],
+    "detector_only_spatial_key": "da4ae5ba38e36e92f1b09a465ad617055df5c24cbeaf35d0b70d49b080b5d3c4",
+    "exact_log_probability": -39.038108392662814,
+    "generation_attempt": 40,
+    "growth_order": [
+      1310,
+      628,
+      136,
+      706
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      6,
+      7,
+      9,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      10,
+      80,
+      86,
+      96,
+      102,
+      133,
+      202
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 40,
+    "columns": [
+      8281,
+      8284,
+      8726,
+      8763
+    ],
+    "detector_only_spatial_key": "aea14f977e8098a540860621a37424920605567b54eb7d47cb4dd049ff53c3a3",
+    "exact_log_probability": -39.73125550203573,
+    "generation_attempt": 41,
+    "growth_order": [
+      8763,
+      8726,
+      8281,
+      8284
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      829,
+      892,
+      905,
+      910,
+      921
+    ],
+    "syndrome_weight": 5
+  },
+  {
+    "case_id": 41,
+    "columns": [
+      308,
+      1096,
+      1460,
+      1865
+    ],
+    "detector_only_spatial_key": "0d9180a652b9ea66e5b9dce47fec5a0ccffd87b1eeff4cfa50e143015f4df7c0",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 42,
+    "growth_order": [
+      1460,
+      1096,
+      308,
+      1865
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      28,
+      86,
+      95,
+      111,
+      156,
+      168,
+      171,
+      178,
+      187,
+      244,
+      247
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 42,
+    "columns": [
+      4540,
+      5216,
+      5510,
+      6236
+    ],
+    "detector_only_spatial_key": "fa35a3f65f05047ae0285d3802d278bd8bc91ada80c5040682dc79a08dfeddc2",
+    "exact_log_probability": -38.121818159097685,
+    "generation_attempt": 43,
+    "growth_order": [
+      6236,
+      5510,
+      5216,
+      4540
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      6,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      440,
+      520,
+      523,
+      547,
+      570,
+      573,
+      692
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 43,
+    "columns": [
+      3186,
+      3505,
+      3593,
+      4181
+    ],
+    "detector_only_spatial_key": "aafff4d7ffd9302460dcc490d0ce96a596f17177f63abd4ce8a97cc713b4b1b3",
+    "exact_log_probability": -37.28888256523498,
+    "generation_attempt": 44,
+    "growth_order": [
+      3505,
+      3593,
+      3186,
+      4181
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      6,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      308,
+      355,
+      363,
+      365,
+      375,
+      388,
+      391,
+      431,
+      491
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 44,
+    "columns": [
+      5583,
+      5913,
+      5956,
+      5980
+    ],
+    "detector_only_spatial_key": "0b65c7ac893f2f675991e644d06ef9ef27c002c5186632518b22b0da04007bcb",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 45,
+    "growth_order": [
+      5956,
+      5980,
+      5583,
+      5913
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      2,
+      6,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      558,
+      573,
+      576,
+      581,
+      640,
+      651,
+      655,
+      667,
+      714
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 45,
+    "columns": [
+      7031,
+      7132,
+      7137,
+      7226
+    ],
+    "detector_only_spatial_key": "b7f501936e98db0421a27ff093135fe3d0fce5aa4983d84c0069474103cba798",
+    "exact_log_probability": -37.471386241609835,
+    "generation_attempt": 46,
+    "growth_order": [
+      7031,
+      7132,
+      7226,
+      7137
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      4,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      703,
+      720,
+      726,
+      733,
+      767,
+      770,
+      783,
+      786,
+      788
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 46,
+    "columns": [
+      2409,
+      2983,
+      3318,
+      3453
+    ],
+    "detector_only_spatial_key": "75245ca363567f9bc7e3b1e7ae33a89f4dc51da1fc7b7133a5e9a9906e2904c4",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 47,
+    "growth_order": [
+      2983,
+      3318,
+      2409,
+      3453
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      228,
+      243,
+      310,
+      336,
+      343,
+      346,
+      412,
+      425
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 47,
+    "columns": [
+      4822,
+      5021,
+      5139,
+      5156
+    ],
+    "detector_only_spatial_key": "96dce80180db947170e30875344f1a5f92e89578e0ca712ca7b5bf1c7836c187",
+    "exact_log_probability": -37.44945462872383,
+    "generation_attempt": 48,
+    "growth_order": [
+      5139,
+      5156,
+      5021,
+      4822
+    ],
+    "half": "connected",
+    "observable_support": [],
+    "seed": 2026111711,
+    "syndrome_support": [
+      480,
+      508,
+      540,
+      543,
+      552,
+      558,
+      561,
+      565,
+      574
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 48,
+    "columns": [
+      4732,
+      4752,
+      5093,
+      5173
+    ],
+    "detector_only_spatial_key": "9b705d87da1bbfac4efa5483e56627efab60bb6d932f2e17b677ad200f30412b",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 49,
+    "growth_order": [
+      4732,
+      5173,
+      5093,
+      4752
+    ],
+    "half": "connected",
+    "observable_support": [
+      6,
+      7,
+      8,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      467,
+      470,
+      525,
+      537,
+      541,
+      553,
+      555,
+      556,
+      572
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 49,
+    "columns": [
+      2428,
+      2437,
+      2521,
+      2860
+    ],
+    "detector_only_spatial_key": "246588b90cc369d688a2da4a2cfef6e7183d85e8bf151553ce015cef2706b577",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 50,
+    "growth_order": [
+      2428,
+      2521,
+      2437,
+      2860
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      2,
+      3,
+      7,
+      8
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      231,
+      241,
+      244,
+      253,
+      292,
+      299,
+      302,
+      324,
+      336,
+      349,
+      358
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 50,
+    "columns": [
+      8341,
+      8492,
+      8511,
+      8610
+    ],
+    "detector_only_spatial_key": "5c257987ccf57e81891bb9800cbd1c91422ed20dfe1b3001edd59b4b1a88b337",
+    "exact_log_probability": -39.11532581644924,
+    "generation_attempt": 51,
+    "growth_order": [
+      8610,
+      8492,
+      8341,
+      8511
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      828,
+      850,
+      853,
+      864,
+      901,
+      908,
+      920,
+      923,
+      924
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 51,
+    "columns": [
+      4399,
+      4850,
+      5454,
+      5665
+    ],
+    "detector_only_spatial_key": "8903dc0478ae2a6ed132e7902a10153ab0f11cd7df4b963fd164f487623e5731",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 52,
+    "growth_order": [
+      4850,
+      5454,
+      5665,
+      4399
+    ],
+    "half": "connected",
+    "observable_support": [
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      462,
+      467,
+      540,
+      550,
+      571,
+      579,
+      582,
+      638
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 52,
+    "columns": [
+      5548,
+      5726,
+      5729,
+      5773
+    ],
+    "detector_only_spatial_key": "1a4a0d93755f848381a16895a8b11dbd2db4a014e31281dafe611f264fd83c66",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 53,
+    "growth_order": [
+      5726,
+      5773,
+      5729,
+      5548
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      553,
+      568,
+      579,
+      585,
+      592,
+      595,
+      601,
+      635,
+      636,
+      642,
+      645
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 53,
+    "columns": [
+      4053,
+      4789,
+      5504,
+      6348
+    ],
+    "detector_only_spatial_key": "33b30e237c8cfad7bd5377085f10cb6be2b5b5a21afbcf10143191f8ff20a6d4",
+    "exact_log_probability": -37.12831050174613,
+    "generation_attempt": 54,
+    "growth_order": [
+      5504,
+      6348,
+      4789,
+      4053
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      6,
+      7,
+      8,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      401,
+      459,
+      462,
+      484,
+      548,
+      708
+    ],
+    "syndrome_weight": 6
+  },
+  {
+    "case_id": 54,
+    "columns": [
+      6523,
+      6744,
+      6926,
+      7424
+    ],
+    "detector_only_spatial_key": "0aa1ec786eb84b8abe21629711a70e53df46c0bd56f720e1fc7a052a5c351c65",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 55,
+    "growth_order": [
+      6926,
+      6744,
+      7424,
+      6523
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      662,
+      666,
+      671,
+      720,
+      735,
+      742,
+      754,
+      792
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 55,
+    "columns": [
+      7557,
+      8008,
+      8231,
+      8273
+    ],
+    "detector_only_spatial_key": "3bacf802e6e13b95daa1ad3f97fead84fe9bdd8163de7cace04f275da96d8eb9",
+    "exact_log_probability": -38.22710441168611,
+    "generation_attempt": 56,
+    "growth_order": [
+      8008,
+      8273,
+      8231,
+      7557
+    ],
+    "half": "connected",
+    "observable_support": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      747,
+      813,
+      819,
+      826,
+      842,
+      876,
+      882
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 56,
+    "columns": [
+      3846,
+      4344,
+      4731,
+      4750
+    ],
+    "detector_only_spatial_key": "8fd02fec5f680c1376359de525d97b14fae641bcab982964b65e38bbc91b865e",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 57,
+    "growth_order": [
+      3846,
+      4731,
+      4344,
+      4750
+    ],
+    "half": "connected",
+    "observable_support": [
+      2,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      372,
+      373,
+      445,
+      454,
+      460,
+      467,
+      525,
+      528,
+      539,
+      541,
+      550
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 57,
+    "columns": [
+      7407,
+      7531,
+      7904,
+      7952
+    ],
+    "detector_only_spatial_key": "2a9b1b4a661a908c4807386149b04b4e2775bd7928c1e379572f29e95fb163e6",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 58,
+    "growth_order": [
+      7904,
+      7952,
+      7531,
+      7407
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      727,
+      728,
+      744,
+      749,
+      797,
+      798,
+      810,
+      813,
+      823,
+      832,
+      854,
+      863
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 58,
+    "columns": [
+      7428,
+      7889,
+      7897,
+      7966
+    ],
+    "detector_only_spatial_key": "1d84649895fdf07ad3c927b1ee65722db8d23dde27138f23f77cff060493f573",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 59,
+    "growth_order": [
+      7966,
+      7897,
+      7428,
+      7889
+    ],
+    "half": "connected",
+    "observable_support": [
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      729,
+      795,
+      805,
+      812,
+      818,
+      828,
+      852,
+      861
+    ],
+    "syndrome_weight": 8
+  },
+  {
+    "case_id": 59,
+    "columns": [
+      4504,
+      4505,
+      4959,
+      5685
+    ],
+    "detector_only_spatial_key": "e02b7558a8da3699b24cf6d44022c7c62fa81f35dcddf74202cd698ea9a67117",
+    "exact_log_probability": -40.03161605001438,
+    "generation_attempt": 60,
+    "growth_order": [
+      4504,
+      4959,
+      4505,
+      5685
+    ],
+    "half": "connected",
+    "observable_support": [],
+    "seed": 2026111711,
+    "syndrome_support": [
+      493,
+      503,
+      565,
+      592,
+      642
+    ],
+    "syndrome_weight": 5
+  },
+  {
+    "case_id": 60,
+    "columns": [
+      1725,
+      1901,
+      2130,
+      2523
+    ],
+    "detector_only_spatial_key": "d4811c90e22ce9662041a67eb9a0c4bac71e19942fd2471c5ed2ecc616a3da1b",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 61,
+    "growth_order": [
+      1725,
+      2523,
+      2130,
+      1901
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      5,
+      9
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      161,
+      186,
+      222,
+      235,
+      250,
+      253,
+      260,
+      266,
+      269,
+      276,
+      285,
+      302,
+      311,
+      318,
+      327
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 61,
+    "columns": [
+      5745,
+      5977,
+      6007,
+      6840
+    ],
+    "detector_only_spatial_key": "9d5a4cb685ecb20da488acd113a63c3ac2b75a25c3d5dea1da2928e3a72d816c",
+    "exact_log_probability": -39.19868045615166,
+    "generation_attempt": 62,
+    "growth_order": [
+      6840,
+      5977,
+      6007,
+      5745
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      1,
+      6,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      581,
+      588,
+      590,
+      593,
+      599,
+      660,
+      676,
+      682,
+      739
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 62,
+    "columns": [
+      872,
+      1394,
+      1555,
+      1660
+    ],
+    "detector_only_spatial_key": "c91d2e847cd7a1efe408ac622bc5e48b03cc6a8c8082fb02529a8e52e67e20f4",
+    "exact_log_probability": -38.38767647517496,
+    "generation_attempt": 63,
+    "growth_order": [
+      872,
+      1555,
+      1394,
+      1660
+    ],
+    "half": "connected",
+    "observable_support": [
+      0,
+      6,
+      10
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      72,
+      146,
+      152,
+      161,
+      186,
+      191,
+      211,
+      215,
+      219,
+      232,
+      235,
+      282
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 63,
+    "columns": [
+      1623,
+      2114,
+      2382,
+      2889
+    ],
+    "detector_only_spatial_key": "d1ba97129b7c97233d4b2e39764ce036de25c36aaa728118c27e63062ccaf47c",
+    "exact_log_probability": -36.53316439515869,
+    "generation_attempt": 64,
+    "growth_order": [
+      2114,
+      1623,
+      2382,
+      2889
+    ],
+    "half": "connected",
+    "observable_support": [
+      1,
+      2,
+      6,
+      8
+    ],
+    "seed": 2026111711,
+    "syndrome_support": [
+      148,
+      157,
+      218,
+      224,
+      240,
+      287,
+      300,
+      306,
+      313
+    ],
+    "syndrome_weight": 9
+  },
+  {
+    "case_id": 64,
+    "columns": [
+      3236,
+      6524,
+      7120,
+      7344
+    ],
+    "detector_only_spatial_key": "4300ee5e05fe6b783613fa7c5f4b3c583d904b460f75593fa3be3af00db53c74",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 1,
+    "growth_order": [
+      7120,
+      7344,
+      3236,
+      6524
+    ],
+    "half": "uniform",
+    "observable_support": [
+      4,
+      5,
+      6,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      315,
+      373,
+      382,
+      395,
+      398,
+      666,
+      675,
+      681,
+      688,
+      691,
+      697,
+      718,
+      721,
+      729,
+      776,
+      785,
+      815
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 65,
+    "columns": [
+      4368,
+      4591,
+      7173,
+      8781
+    ],
+    "detector_only_spatial_key": "9711f1f9624395af2e13cebd2c679c7eb17bcba72b95b4d123cc02df4a6cf2bc",
+    "exact_log_probability": -37.47138624160983,
+    "generation_attempt": 2,
+    "growth_order": [
+      7173,
+      4368,
+      4591,
+      8781
+    ],
+    "half": "uniform",
+    "observable_support": [
+      6,
+      7,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      447,
+      451,
+      460,
+      466,
+      504,
+      513,
+      724,
+      725,
+      741,
+      921,
+      924,
+      930
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 66,
+    "columns": [
+      46,
+      968,
+      4985,
+      6738
+    ],
+    "detector_only_spatial_key": "bff84f3a08ea7e2e57244cd7f4726b36a888f1831930bf2cd4554215a35579f8",
+    "exact_log_probability": -37.5643488057892,
+    "generation_attempt": 3,
+    "growth_order": [
+      46,
+      4985,
+      6738,
+      968
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      7,
+      9
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      3,
+      6,
+      12,
+      84,
+      90,
+      153,
+      505,
+      514,
+      520,
+      661,
+      725,
+      728,
+      741,
+      744
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 67,
+    "columns": [
+      771,
+      4128,
+      5363,
+      7130
+    ],
+    "detector_only_spatial_key": "af1f75f4971d7e61cbccd6b7bfbd1bc3ef67de62e2b7b0bdf88c5cdaedbc650c",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 4,
+    "growth_order": [
+      5363,
+      771,
+      7130,
+      4128
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      5,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      92,
+      101,
+      107,
+      412,
+      418,
+      475,
+      526,
+      599,
+      615,
+      720,
+      726,
+      733,
+      742,
+      748,
+      789
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 68,
+    "columns": [
+      185,
+      1170,
+      2228,
+      2393
+    ],
+    "detector_only_spatial_key": "dc35e8f8ec4155e4fa07aa1df0c204ed6951a4e4f1c7e3433b572dff03e1c2c0",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 5,
+    "growth_order": [
+      1170,
+      2393,
+      2228,
+      185
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      5,
+      6
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      15,
+      21,
+      78,
+      113,
+      119,
+      176,
+      226,
+      235,
+      242,
+      251,
+      257,
+      258,
+      267,
+      273,
+      302,
+      318
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 69,
+    "columns": [
+      4370,
+      5006,
+      7004,
+      8615
+    ],
+    "detector_only_spatial_key": "c23e4fe1ea042e25b109aeeb65450189c9f5ff3cc1353862673102a371fb0dc6",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 6,
+    "growth_order": [
+      8615,
+      4370,
+      5006,
+      7004
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      452,
+      461,
+      467,
+      468,
+      477,
+      483,
+      507,
+      513,
+      520,
+      523,
+      529,
+      570,
+      699,
+      757,
+      766,
+      779,
+      782,
+      868,
+      871,
+      877,
+      884,
+      893,
+      899
+    ],
+    "syndrome_weight": 23
+  },
+  {
+    "case_id": 70,
+    "columns": [
+      3986,
+      5430,
+      5809,
+      7878
+    ],
+    "detector_only_spatial_key": "178a93398b46c037c107b72335faa07e0de4377ab7a08be6901c1d077d9c8266",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 7,
+    "growth_order": [
+      7878,
+      3986,
+      5430,
+      5809
+    ],
+    "half": "uniform",
+    "observable_support": [
+      6,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      391,
+      464,
+      480,
+      536,
+      594,
+      596,
+      597,
+      603,
+      613,
+      616,
+      619,
+      794,
+      803,
+      809,
+      850,
+      853,
+      859
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 71,
+    "columns": [
+      1796,
+      2562,
+      3428,
+      6833
+    ],
+    "detector_only_spatial_key": "be75ee1f6cb7e0c89836925086ab6347f6af278433d1edf889af05d388d03e47",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 8,
+    "growth_order": [
+      2562,
+      3428,
+      1796,
+      6833
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      171,
+      229,
+      238,
+      250,
+      251,
+      254,
+      256,
+      313,
+      343,
+      344,
+      360,
+      675,
+      681,
+      738
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 72,
+    "columns": [
+      41,
+      1362,
+      2259,
+      2395
+    ],
+    "detector_only_spatial_key": "5e3d02890b3ba360766ae32ba852fc175497172eff5ead75c784d69abba88bd6",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 9,
+    "growth_order": [
+      1362,
+      2395,
+      41,
+      2259
+    ],
+    "half": "uniform",
+    "observable_support": [
+      4,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      2,
+      75,
+      91,
+      142,
+      199,
+      208,
+      226,
+      252,
+      261,
+      267,
+      292,
+      355
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 73,
+    "columns": [
+      583,
+      1870,
+      5108,
+      6251
+    ],
+    "detector_only_spatial_key": "24c19a6e7ac49856c483f92f24b3f3f590647753ebbdf0cc2e258fec1b97ecb6",
+    "exact_log_probability": -40.03161605001438,
+    "generation_attempt": 10,
+    "growth_order": [
+      6251,
+      5108,
+      583,
+      1870
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      2,
+      7,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      60,
+      65,
+      82,
+      182,
+      188,
+      251,
+      530,
+      539,
+      545,
+      546,
+      555,
+      561,
+      622,
+      695,
+      711
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 74,
+    "columns": [
+      1807,
+      4306,
+      5513,
+      6040
+    ],
+    "detector_only_spatial_key": "a4fb242946c6700f38983705b9eb9208c36260e019f9d3a02b49243c6ae64863",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 11,
+    "growth_order": [
+      4306,
+      5513,
+      6040,
+      1807
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      173,
+      182,
+      249,
+      265,
+      437,
+      440,
+      446,
+      453,
+      456,
+      462,
+      548,
+      563,
+      592,
+      624,
+      646,
+      664
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 75,
+    "columns": [
+      1602,
+      2974,
+      5615,
+      5945
+    ],
+    "detector_only_spatial_key": "df3d4d327f5429d5db33ecb19c3b52d293ba2f44c58a93b3cbebd7c532351500",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 12,
+    "growth_order": [
+      5615,
+      1602,
+      5945,
+      2974
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      3,
+      5,
+      8
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      145,
+      280,
+      283,
+      323,
+      326,
+      332,
+      339,
+      342,
+      348,
+      562,
+      580,
+      634,
+      646,
+      709
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 76,
+    "columns": [
+      3279,
+      4197,
+      5892,
+      8021
+    ],
+    "detector_only_spatial_key": "a45d90ea0b00aa1fa8401f0a8266fbff9b5668fcc4c7fafaf800fdf633574e91",
+    "exact_log_probability": -37.28888256523498,
+    "generation_attempt": 13,
+    "growth_order": [
+      8021,
+      3279,
+      5892,
+      4197
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      5,
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      321,
+      393,
+      422,
+      433,
+      480,
+      489,
+      502,
+      626,
+      635,
+      641,
+      829,
+      838,
+      844,
+      851,
+      854,
+      860
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 77,
+    "columns": [
+      933,
+      2310,
+      2812,
+      3293
+    ],
+    "detector_only_spatial_key": "6d7f154295b89c8bb52f1a1af9d9940a3982e20dc8cac1e57a368de76edb79d6",
+    "exact_log_probability": -33.4692867834016,
+    "generation_attempt": 14,
+    "growth_order": [
+      3293,
+      2310,
+      933,
+      2812
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      79,
+      151,
+      216,
+      294,
+      323,
+      357,
+      395
+    ],
+    "syndrome_weight": 7
+  },
+  {
+    "case_id": 78,
+    "columns": [
+      417,
+      1891,
+      3840,
+      6055
+    ],
+    "detector_only_spatial_key": "a1e99a7e0ed0e3e3a10362706bc836ba4daef45f2c8a08925cb6bffd1236289e",
+    "exact_log_probability": -38.121818159097685,
+    "generation_attempt": 15,
+    "growth_order": [
+      1891,
+      417,
+      6055,
+      3840
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      40,
+      112,
+      185,
+      194,
+      261,
+      277,
+      371,
+      380,
+      447,
+      463,
+      594,
+      667,
+      689
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 79,
+    "columns": [
+      1206,
+      1342,
+      6840,
+      8199
+    ],
+    "detector_only_spatial_key": "6d1d64bddc4afbbea92b49562a303f98872195eadcb159a911681f99813d1ca0",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 16,
+    "growth_order": [
+      8199,
+      1206,
+      1342,
+      6840
+    ],
+    "half": "uniform",
+    "observable_support": [
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      118,
+      124,
+      138,
+      181,
+      201,
+      204,
+      676,
+      682,
+      739,
+      808,
+      866,
+      875,
+      882,
+      891
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 80,
+    "columns": [
+      1352,
+      2182,
+      4180,
+      6369
+    ],
+    "detector_only_spatial_key": "6f6a704e9875345f8c40ec4b6885ff93c14874fccb4837e8a3248723fba2fdb2",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 17,
+    "growth_order": [
+      6369,
+      2182,
+      1352,
+      4180
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      140,
+      203,
+      206,
+      228,
+      283,
+      284,
+      419,
+      477,
+      480,
+      493,
+      502,
+      640,
+      651,
+      698,
+      707,
+      714
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 81,
+    "columns": [
+      3572,
+      7663,
+      8493,
+      8503
+    ],
+    "detector_only_spatial_key": "c704ee9036d4c025b7258f1113801f90c498a26c1c2621f369ac8e026865b38d",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 18,
+    "growth_order": [
+      3572,
+      8503,
+      8493,
+      7663
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      363,
+      420,
+      429,
+      762,
+      835,
+      850,
+      852,
+      874,
+      907,
+      916
+    ],
+    "syndrome_weight": 10
+  },
+  {
+    "case_id": 82,
+    "columns": [
+      56,
+      830,
+      5427,
+      7021
+    ],
+    "detector_only_spatial_key": "527529ed62358dad00601149594f0c802305823b17c4e7ef10c57b904b189616",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 19,
+    "growth_order": [
+      56,
+      5427,
+      830,
+      7021
+    ],
+    "half": "uniform",
+    "observable_support": [
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      3,
+      83,
+      86,
+      112,
+      115,
+      121,
+      128,
+      133,
+      137,
+      142,
+      143,
+      536,
+      537,
+      625,
+      702,
+      707,
+      724
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 83,
+    "columns": [
+      48,
+      3006,
+      5794,
+      7372
+    ],
+    "detector_only_spatial_key": "15c544852537195096a7c56a773ff97981fc2d4c37d1972bd066e5e61c0a641a",
+    "exact_log_probability": -39.325898321626106,
+    "generation_attempt": 20,
+    "growth_order": [
+      48,
+      3006,
+      7372,
+      5794
+    ],
+    "half": "uniform",
+    "observable_support": [
+      3,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      3,
+      9,
+      138,
+      336,
+      337,
+      359,
+      591,
+      646,
+      647,
+      723,
+      724,
+      812
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 84,
+    "columns": [
+      1323,
+      1732,
+      2110,
+      5996
+    ],
+    "detector_only_spatial_key": "9f4d6bbb647279337b546c44e213c4a78ef6cfd2e245e451a3e494cc7d37f42c",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 21,
+    "growth_order": [
+      1732,
+      2110,
+      5996,
+      1323
+    ],
+    "half": "uniform",
+    "observable_support": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      135,
+      146,
+      162,
+      193,
+      202,
+      215,
+      217,
+      225,
+      228,
+      280,
+      283,
+      586,
+      653,
+      660,
+      669,
+      716
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 85,
+    "columns": [
+      2494,
+      2608,
+      5750,
+      7349
+    ],
+    "detector_only_spatial_key": "9e02607b7f582a9072bd71552c3201b65340ed320ad3319c60e879097c0a8ada",
+    "exact_log_probability": -37.28888256523498,
+    "generation_attempt": 22,
+    "growth_order": [
+      2608,
+      7349,
+      2494,
+      5750
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      2,
+      3,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      240,
+      256,
+      303,
+      306,
+      328,
+      581,
+      587,
+      644,
+      720,
+      786,
+      855
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 86,
+    "columns": [
+      674,
+      1263,
+      5328,
+      6320
+    ],
+    "detector_only_spatial_key": "db8fa38fa47d59893df444f114bec49ccdb59df65c9b876d1bf1577c954204d0",
+    "exact_log_probability": -39.19868045615166,
+    "generation_attempt": 23,
+    "growth_order": [
+      6320,
+      5328,
+      1263,
+      674
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      2,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      74,
+      80,
+      126,
+      141,
+      143,
+      152,
+      208,
+      522,
+      523,
+      617,
+      632,
+      695,
+      698
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 87,
+    "columns": [
+      4606,
+      4918,
+      5230,
+      8066
+    ],
+    "detector_only_spatial_key": "e7963f5b632c597f19a650aa8b11327703c8f943e520182ef04e12a270606985",
+    "exact_log_probability": -39.11532581644924,
+    "generation_attempt": 24,
+    "growth_order": [
+      4918,
+      8066,
+      5230,
+      4606
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4,
+      5
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      449,
+      494,
+      509,
+      511,
+      515,
+      516,
+      538,
+      567,
+      644,
+      792,
+      798,
+      933
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 88,
+    "columns": [
+      3721,
+      3827,
+      5574,
+      6311
+    ],
+    "detector_only_spatial_key": "c3fcf5562aea4da25e4bdf5e643ddf5131428b0464687a83f468c27f2b0ccce3",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 25,
+    "growth_order": [
+      5574,
+      6311,
+      3827,
+      3721
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      3,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      369,
+      405,
+      406,
+      422,
+      435,
+      498,
+      557,
+      563,
+      620,
+      631,
+      648,
+      704
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 89,
+    "columns": [
+      2980,
+      4261,
+      4845,
+      6492
+    ],
+    "detector_only_spatial_key": "0501c0e5236b7d8d4c17d2ad21d3c8ec493796f14f73720de0e324243891c6c6",
+    "exact_log_probability": -38.22710441168611,
+    "generation_attempt": 26,
+    "growth_order": [
+      4845,
+      6492,
+      4261,
+      2980
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      325,
+      326,
+      342,
+      433,
+      439,
+      446,
+      455,
+      461,
+      483,
+      502,
+      555,
+      658,
+      661,
+      667,
+      674,
+      683,
+      689
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 90,
+    "columns": [
+      419,
+      1134,
+      2693,
+      5838
+    ],
+    "detector_only_spatial_key": "d137fde671336caa51e8abe6a195f347904c9d80a5c546c793353cbf42d31f81",
+    "exact_log_probability": -37.5862804186752,
+    "generation_attempt": 27,
+    "growth_order": [
+      1134,
+      419,
+      2693,
+      5838
+    ],
+    "half": "uniform",
+    "observable_support": [
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      41,
+      44,
+      50,
+      108,
+      109,
+      203,
+      268,
+      341,
+      357,
+      606,
+      607,
+      629
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 91,
+    "columns": [
+      4575,
+      5485,
+      8251,
+      8592
+    ],
+    "detector_only_spatial_key": "c727c104d2762eb965b6cc7507df03fbd42e467fafe5d036fd39dcb33aab1b01",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 28,
+    "growth_order": [
+      5485,
+      4575,
+      8251,
+      8592
+    ],
+    "half": "uniform",
+    "observable_support": [
+      3,
+      5,
+      6,
+      8,
+      9
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      445,
+      451,
+      514,
+      544,
+      553,
+      620,
+      636,
+      816,
+      821,
+      866,
+      872,
+      879,
+      882,
+      888,
+      910,
+      935
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 92,
+    "columns": [
+      2362,
+      4987,
+      5860,
+      8201
+    ],
+    "detector_only_spatial_key": "03d603f6d2ea9f24f8b783375e8e916fe7663df5a63da54d4996df35ab5076b8",
+    "exact_log_probability": -39.22061206903767,
+    "generation_attempt": 29,
+    "growth_order": [
+      2362,
+      4987,
+      8201,
+      5860
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      222,
+      285,
+      289,
+      311,
+      505,
+      514,
+      520,
+      561,
+      564,
+      570,
+      613,
+      614,
+      630,
+      808,
+      881,
+      897
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 93,
+    "columns": [
+      262,
+      698,
+      2375,
+      6546
+    ],
+    "detector_only_spatial_key": "13b7612d0b88a3923d2f03cd8a2c97e50b2baa9af968ed1007d4f0b77142d023",
+    "exact_log_probability": -38.282390222586535,
+    "generation_attempt": 30,
+    "growth_order": [
+      262,
+      2375,
+      698,
+      6546
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      23,
+      76,
+      82,
+      90,
+      112,
+      123,
+      126,
+      132,
+      139,
+      224,
+      225,
+      313,
+      673,
+      682,
+      688
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 94,
+    "columns": [
+      1985,
+      3602,
+      3799,
+      4828
+    ],
+    "detector_only_spatial_key": "6b63d237fc31933e85fc7bc137a10357c100321a172e822a0d7d666ab947cf1f",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 31,
+    "growth_order": [
+      3602,
+      1985,
+      4828,
+      3799
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      198,
+      261,
+      264,
+      366,
+      367,
+      371,
+      422,
+      423,
+      460,
+      481,
+      496,
+      507,
+      563
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 95,
+    "columns": [
+      936,
+      5247,
+      7316,
+      8529
+    ],
+    "detector_only_spatial_key": "d1fcc8e9af9fb6d7d7ebd4a20a5aff78c45c15cc36d1e241f65aca583dd52613",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 32,
+    "growth_order": [
+      936,
+      7316,
+      8529,
+      5247
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      80,
+      86,
+      149,
+      511,
+      512,
+      600,
+      762,
+      771,
+      777,
+      856,
+      867,
+      914,
+      923,
+      930
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 96,
+    "columns": [
+      2050,
+      2097,
+      7798,
+      8718
+    ],
+    "detector_only_spatial_key": "daaff11a648ccdb4d58ab1047b3575e517803e9e27be7f0c7b644be8b1e671c5",
+    "exact_log_probability": -39.80847292582216,
+    "generation_attempt": 33,
+    "growth_order": [
+      2097,
+      2050,
+      7798,
+      8718
+    ],
+    "half": "uniform",
+    "observable_support": [
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      208,
+      216,
+      225,
+      263,
+      266,
+      272,
+      279,
+      281,
+      282,
+      782,
+      799,
+      855,
+      894,
+      895,
+      917
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 97,
+    "columns": [
+      574,
+      5917,
+      6365,
+      6963
+    ],
+    "detector_only_spatial_key": "07b67b1b2f09167fb0f6bd121d95259ce7c3d9fba3fa48641358734df85582e5",
+    "exact_log_probability": -37.12831050174613,
+    "generation_attempt": 34,
+    "growth_order": [
+      6365,
+      6963,
+      574,
+      5917
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      58,
+      130,
+      577,
+      639,
+      640,
+      660,
+      693,
+      696,
+      705,
+      716,
+      765
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 98,
+    "columns": [
+      235,
+      2099,
+      3545,
+      5204
+    ],
+    "detector_only_spatial_key": "c78413b24fe65e9318401c94ae95481d7761442a07189f08dba919887b546751",
+    "exact_log_probability": -37.44945462872383,
+    "generation_attempt": 35,
+    "growth_order": [
+      2099,
+      3545,
+      5204,
+      235
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      6,
+      8,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      20,
+      78,
+      87,
+      100,
+      103,
+      216,
+      279,
+      282,
+      361,
+      370,
+      376,
+      506,
+      512,
+      647
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 99,
+    "columns": [
+      953,
+      1459,
+      5395,
+      7005
+    ],
+    "detector_only_spatial_key": "85d2a1c4267705cfc72dd74be961daa8155a12856c153fa0c695bf084710ef2c",
+    "exact_log_probability": -38.22710441168611,
+    "generation_attempt": 36,
+    "growth_order": [
+      953,
+      1459,
+      5395,
+      7005
+    ],
+    "half": "uniform",
+    "observable_support": [
+      4,
+      5,
+      6,
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      82,
+      91,
+      156,
+      158,
+      161,
+      174,
+      178,
+      531,
+      588,
+      597,
+      699,
+      771
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 100,
+    "columns": [
+      6083,
+      8136,
+      8297,
+      8643
+    ],
+    "detector_only_spatial_key": "0eba9ad9ebcb74556dc0d8f317a81104bb8fbd7390846b575315eac39141e35b",
+    "exact_log_probability": -40.72476315938729,
+    "generation_attempt": 37,
+    "growth_order": [
+      8136,
+      8643,
+      6083,
+      8297
+    ],
+    "half": "uniform",
+    "observable_support": [
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      598,
+      671,
+      687,
+      800,
+      806,
+      822,
+      869,
+      872,
+      873,
+      886,
+      902,
+      911
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 101,
+    "columns": [
+      1633,
+      2670,
+      4036,
+      7754
+    ],
+    "detector_only_spatial_key": "b6c11aadf41d0da601b8f9563c94e556aae0e6843d62236b3c9c1911757db6a1",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 38,
+    "growth_order": [
+      4036,
+      7754,
+      1633,
+      2670
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      8,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      149,
+      215,
+      265,
+      278,
+      329,
+      332,
+      345,
+      348,
+      399,
+      400,
+      488,
+      775,
+      847
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 102,
+    "columns": [
+      1135,
+      1611,
+      3692,
+      6765
+    ],
+    "detector_only_spatial_key": "c6cc11198480666f68da86d0e1f9d2238a21d793c219185deaa1358f02bf27c9",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 39,
+    "growth_order": [
+      6765,
+      3692,
+      1611,
+      1135
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4,
+      6,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      108,
+      113,
+      146,
+      202,
+      281,
+      284,
+      394,
+      397,
+      403,
+      410,
+      419,
+      425,
+      665,
+      723,
+      726,
+      739,
+      748
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 103,
+    "columns": [
+      450,
+      658,
+      1101,
+      6936
+    ],
+    "detector_only_spatial_key": "deb9c4630f086a169dbd4f922de5c1b9b6c6c48decb65583eb7f468c1a76ce3f",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 40,
+    "growth_order": [
+      450,
+      658,
+      6936,
+      1101
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      7,
+      9,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      44,
+      59,
+      72,
+      103,
+      109,
+      120,
+      127,
+      128,
+      142,
+      172,
+      690,
+      691,
+      785
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 104,
+    "columns": [
+      1276,
+      1416,
+      7087,
+      8606
+    ],
+    "detector_only_spatial_key": "1c080e45d9598ed3429a1c9f6f9c09939a9e8c0a4eb1e524bb479c23086d1b18",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 41,
+    "growth_order": [
+      7087,
+      8606,
+      1416,
+      1276
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      3,
+      4,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      128,
+      134,
+      148,
+      151,
+      157,
+      197,
+      198,
+      207,
+      213,
+      712,
+      713,
+      729,
+      867,
+      873,
+      880,
+      883,
+      889,
+      930
+    ],
+    "syndrome_weight": 18
+  },
+  {
+    "case_id": 105,
+    "columns": [
+      808,
+      1681,
+      4611,
+      7555
+    ],
+    "detector_only_spatial_key": "eca97b17c862f3cf99a901d1e9d6d43b85b88c483c763c67f519d02905f2f3aa",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 42,
+    "growth_order": [
+      808,
+      1681,
+      4611,
+      7555
+    ],
+    "half": "uniform",
+    "observable_support": [
+      4,
+      6,
+      8
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      105,
+      106,
+      122,
+      155,
+      212,
+      216,
+      238,
+      450,
+      465,
+      532,
+      548,
+      747,
+      804,
+      813
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 106,
+    "columns": [
+      1069,
+      1509,
+      2017,
+      4397
+    ],
+    "detector_only_spatial_key": "525e437095b28b6baf382879927e7d084c8127dafa8e8a10fd993b2a9ef344f9",
+    "exact_log_probability": -37.44945462872383,
+    "generation_attempt": 43,
+    "growth_order": [
+      2017,
+      1509,
+      1069,
+      4397
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      3,
+      4,
+      6,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      98,
+      161,
+      164,
+      170,
+      179,
+      185,
+      203,
+      212,
+      223,
+      279,
+      461,
+      464,
+      470
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 107,
+    "columns": [
+      1324,
+      1959,
+      1966,
+      3203
+    ],
+    "detector_only_spatial_key": "765ac234a442ce8d735b10d973e6b55335bb81ffa419959689b65c8ece1d38c9",
+    "exact_log_probability": -37.28274534931897,
+    "generation_attempt": 44,
+    "growth_order": [
+      1324,
+      3203,
+      1959,
+      1966
+    ],
+    "half": "uniform",
+    "observable_support": [],
+    "seed": 2026111712,
+    "syndrome_support": [
+      135,
+      152,
+      194,
+      195,
+      208,
+      267,
+      268,
+      283,
+      284,
+      310,
+      383,
+      399
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 108,
+    "columns": [
+      1195,
+      4129,
+      7286,
+      7384
+    ],
+    "detector_only_spatial_key": "e19a62a7b5f0bd46d0e569c313a7fda1280469932de8b4307a1fcffb08c7aecf",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 45,
+    "growth_order": [
+      7286,
+      4129,
+      7384,
+      1195
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      116,
+      179,
+      182,
+      412,
+      421,
+      432,
+      488,
+      724,
+      752,
+      761,
+      767,
+      768,
+      777,
+      781,
+      783,
+      807,
+      863
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 109,
+    "columns": [
+      2734,
+      3757,
+      3762,
+      8109
+    ],
+    "detector_only_spatial_key": "2935dbf5ed1a73037fdd41089fe3d1c1e9b678c2edcce39150e030cc3ca38f4d",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 46,
+    "growth_order": [
+      2734,
+      3757,
+      8109,
+      3762
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      274,
+      332,
+      341,
+      348,
+      357,
+      424,
+      444,
+      496,
+      499,
+      500,
+      796,
+      925,
+      934
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 110,
+    "columns": [
+      1325,
+      1831,
+      4806,
+      8051
+    ],
+    "detector_only_spatial_key": "1f933974e0ad7da4fd5fa3a5cfd3e6d9a3b1ceeffadad0ebf691b0142f6c8e3c",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 47,
+    "growth_order": [
+      4806,
+      8051,
+      1831,
+      1325
+    ],
+    "half": "uniform",
+    "observable_support": [
+      4,
+      5,
+      6
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      135,
+      176,
+      192,
+      201,
+      239,
+      242,
+      478,
+      484,
+      541,
+      842,
+      843,
+      859
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 111,
+    "columns": [
+      2267,
+      7196,
+      7746,
+      8031
+    ],
+    "detector_only_spatial_key": "7a9fa16226cfb62ecfdaf15e9f624b9e0b4ad39466b7f66a0a890556d4e342d2",
+    "exact_log_probability": -39.19868045615167,
+    "generation_attempt": 48,
+    "growth_order": [
+      7196,
+      7746,
+      8031,
+      2267
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      255,
+      258,
+      264,
+      271,
+      280,
+      286,
+      726,
+      735,
+      741,
+      748,
+      751,
+      757,
+      774,
+      832,
+      835,
+      838,
+      854,
+      863
+    ],
+    "syndrome_weight": 18
+  },
+  {
+    "case_id": 112,
+    "columns": [
+      3045,
+      3435,
+      6306,
+      8725
+    ],
+    "detector_only_spatial_key": "3c17ed8d867188c613d30f03166d31327a333b44d18f1fc164aaff2a9611becd",
+    "exact_log_probability": -41.64105339295242,
+    "generation_attempt": 49,
+    "growth_order": [
+      3045,
+      8725,
+      6306,
+      3435
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      6,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      290,
+      305,
+      344,
+      345,
+      361,
+      366,
+      388,
+      630,
+      694,
+      697,
+      710,
+      719,
+      896,
+      897,
+      913
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 113,
+    "columns": [
+      212,
+      664,
+      874,
+      2525
+    ],
+    "detector_only_spatial_key": "49a3275e09c7d3fad2f0a078cd48efd525f1cd8a8dc94d2b70f1817486c60840",
+    "exact_log_probability": -39.16625014276609,
+    "generation_attempt": 50,
+    "growth_order": [
+      664,
+      874,
+      2525,
+      212
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      18,
+      23,
+      40,
+      74,
+      80,
+      89,
+      95,
+      136,
+      139,
+      162,
+      244,
+      317,
+      333
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 114,
+    "columns": [
+      3172,
+      5516,
+      6971,
+      8485
+    ],
+    "detector_only_spatial_key": "9ac60cbf576b672ae0c3eef27ee929a1e17085073f962de7f8260d2c0e01f1e2",
+    "exact_log_probability": -37.20552792553255,
+    "generation_attempt": 51,
+    "growth_order": [
+      3172,
+      6971,
+      8485,
+      5516
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      306,
+      369,
+      372,
+      548,
+      620,
+      694,
+      767,
+      783,
+      849,
+      866,
+      922
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 115,
+    "columns": [
+      2456,
+      4519,
+      5015,
+      5682
+    ],
+    "detector_only_spatial_key": "d75e0e8422945791807d66e76d4941c4519a337088b089c6091f9fb392219f56",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 52,
+    "growth_order": [
+      2456,
+      4519,
+      5682,
+      5015
+    ],
+    "half": "uniform",
+    "observable_support": [
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      235,
+      236,
+      324,
+      438,
+      443,
+      508,
+      511,
+      517,
+      524,
+      532,
+      533,
+      539,
+      574,
+      631,
+      640
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 116,
+    "columns": [
+      1191,
+      1659,
+      3728,
+      7473
+    ],
+    "detector_only_spatial_key": "3957647705a39a565823c3c5a3b74ff5028dd332ea31cf3b570fa624d2b513aa",
+    "exact_log_probability": -37.28888256523498,
+    "generation_attempt": 53,
+    "growth_order": [
+      1191,
+      3728,
+      1659,
+      7473
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      116,
+      117,
+      152,
+      205,
+      218,
+      287,
+      408,
+      417,
+      423,
+      735,
+      807
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 117,
+    "columns": [
+      767,
+      1083,
+      4857,
+      6368
+    ],
+    "detector_only_spatial_key": "39e455aa6e32a94933190f99dfad4b5f934ca20e56524921eeb324242609d3fd",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 54,
+    "growth_order": [
+      4857,
+      767,
+      6368,
+      1083
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      4,
+      5,
+      6,
+      8,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      91,
+      106,
+      113,
+      116,
+      122,
+      158,
+      167,
+      174,
+      183,
+      485,
+      543,
+      546,
+      559,
+      568,
+      640,
+      646,
+      703
+    ],
+    "syndrome_weight": 17
+  },
+  {
+    "case_id": 118,
+    "columns": [
+      295,
+      403,
+      2241,
+      7025
+    ],
+    "detector_only_spatial_key": "b0803482229ced3cc723c6771fef4438cb743000ced26a980c16f2638ead8d2a",
+    "exact_log_probability": -35.93001715542673,
+    "generation_attempt": 55,
+    "growth_order": [
+      2241,
+      7025,
+      295,
+      403
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      3,
+      6,
+      7,
+      8,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      27,
+      30,
+      36,
+      39,
+      42,
+      48,
+      246,
+      255,
+      261,
+      702,
+      765,
+      768
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 119,
+    "columns": [
+      4038,
+      4449,
+      5997,
+      8025
+    ],
+    "detector_only_spatial_key": "0250a3af365fba4980e41eec89ace4d916a4d2f4a10a13f1a8eccb8fc9c5137a",
+    "exact_log_probability": -36.47787858425828,
+    "generation_attempt": 56,
+    "growth_order": [
+      4038,
+      4449,
+      5997,
+      8025
+    ],
+    "half": "uniform",
+    "observable_support": [],
+    "seed": 2026111712,
+    "syndrome_support": [
+      399,
+      408,
+      475,
+      481,
+      482,
+      497,
+      498,
+      586,
+      658,
+      830,
+      839,
+      845
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 120,
+    "columns": [
+      1801,
+      3209,
+      3365,
+      7843
+    ],
+    "detector_only_spatial_key": "c1e1b01e4db9d30363f2a5ab50dc79bc7f69d1116b15bca557a2620b3fe25c35",
+    "exact_log_probability": -37.12831050174613,
+    "generation_attempt": 57,
+    "growth_order": [
+      3365,
+      1801,
+      3209,
+      7843
+    ],
+    "half": "uniform",
+    "observable_support": [
+      1,
+      6,
+      7,
+      8,
+      9
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      172,
+      181,
+      248,
+      264,
+      311,
+      334,
+      335,
+      383,
+      423,
+      790,
+      862
+    ],
+    "syndrome_weight": 11
+  },
+  {
+    "case_id": 121,
+    "columns": [
+      985,
+      2331,
+      3891,
+      8396
+    ],
+    "detector_only_spatial_key": "43bb31cdcd721eb39f61baadb3b76da4431e804d347905aefa5943ea15846f73",
+    "exact_log_probability": -39.03810839266282,
+    "generation_attempt": 58,
+    "growth_order": [
+      3891,
+      8396,
+      2331,
+      985
+    ],
+    "half": "uniform",
+    "observable_support": [
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      86,
+      149,
+      152,
+      218,
+      353,
+      356,
+      378,
+      393,
+      460,
+      476,
+      836,
+      908
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 122,
+    "columns": [
+      2461,
+      2494,
+      2710,
+      4567
+    ],
+    "detector_only_spatial_key": "e74b57fece496b2165d1d659c5a694505280d3ab46f6318c4e75c7e9ee2b7fb1",
+    "exact_log_probability": -39.038108392662814,
+    "generation_attempt": 59,
+    "growth_order": [
+      2461,
+      2494,
+      4567,
+      2710
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      3,
+      5,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      235,
+      240,
+      271,
+      286,
+      297,
+      303,
+      306,
+      307,
+      353,
+      444,
+      449,
+      538
+    ],
+    "syndrome_weight": 12
+  },
+  {
+    "case_id": 123,
+    "columns": [
+      1110,
+      2799,
+      3854,
+      6247
+    ],
+    "detector_only_spatial_key": "cefdeef720fb7aaf9de6f894f62f3d337aab8da80e26f259186bb75a0b6bea76",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 60,
+    "growth_order": [
+      6247,
+      3854,
+      1110,
+      2799
+    ],
+    "half": "uniform",
+    "observable_support": [
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      104,
+      162,
+      171,
+      184,
+      187,
+      286,
+      287,
+      303,
+      373,
+      374,
+      462,
+      622,
+      631,
+      698,
+      714
+    ],
+    "syndrome_weight": 15
+  },
+  {
+    "case_id": 124,
+    "columns": [
+      1700,
+      2684,
+      4060,
+      4688
+    ],
+    "detector_only_spatial_key": "ed6b2d8d618d652e2080b5fa6b11987d49eed0672d911fab07432784e6a4ba0d",
+    "exact_log_probability": -40.03161605001437,
+    "generation_attempt": 61,
+    "growth_order": [
+      4060,
+      1700,
+      2684,
+      4688
+    ],
+    "half": "uniform",
+    "observable_support": [
+      3,
+      5,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      157,
+      230,
+      246,
+      267,
+      325,
+      334,
+      347,
+      350,
+      402,
+      461,
+      465,
+      468,
+      518,
+      527
+    ],
+    "syndrome_weight": 14
+  },
+  {
+    "case_id": 125,
+    "columns": [
+      2264,
+      5251,
+      5478,
+      8483
+    ],
+    "detector_only_spatial_key": "a6b5c751af5a3fde8962ed5a43ee92431edf4fc606dfa83de87071769e17d939",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 62,
+    "growth_order": [
+      2264,
+      5251,
+      5478,
+      8483
+    ],
+    "half": "uniform",
+    "observable_support": [
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      254,
+      263,
+      269,
+      270,
+      279,
+      285,
+      511,
+      543,
+      552,
+      577,
+      619,
+      641,
+      646,
+      849,
+      855,
+      912
+    ],
+    "syndrome_weight": 16
+  },
+  {
+    "case_id": 126,
+    "columns": [
+      1128,
+      6163,
+      7448,
+      7476
+    ],
+    "detector_only_spatial_key": "add9a821430e97ef8d3d7d993f242748f26b3f5912a91db2fb8a73e6cba54cb7",
+    "exact_log_probability": -40.947906283579506,
+    "generation_attempt": 63,
+    "growth_order": [
+      6163,
+      7476,
+      7448,
+      1128
+    ],
+    "half": "uniform",
+    "observable_support": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      10
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      107,
+      113,
+      170,
+      610,
+      619,
+      686,
+      702,
+      732,
+      736,
+      738,
+      742,
+      799,
+      801
+    ],
+    "syndrome_weight": 13
+  },
+  {
+    "case_id": 127,
+    "columns": [
+      709,
+      1869,
+      4293,
+      6438
+    ],
+    "detector_only_spatial_key": "9108370a15a659a9b00c19953d57a14460c840434ac08c3357ba31c5dd0aac1a",
+    "exact_log_probability": -40.136902302602806,
+    "generation_attempt": 64,
+    "growth_order": [
+      1869,
+      709,
+      4293,
+      6438
+    ],
+    "half": "uniform",
+    "observable_support": [
+      2,
+      3,
+      5,
+      7,
+      8
+    ],
+    "seed": 2026111712,
+    "syndrome_support": [
+      77,
+      83,
+      124,
+      127,
+      133,
+      140,
+      182,
+      183,
+      271,
+      436,
+      437,
+      453,
+      650,
+      659,
+      665,
+      706,
+      709,
+      715
+    ],
+    "syndrome_weight": 18
+  }
+]

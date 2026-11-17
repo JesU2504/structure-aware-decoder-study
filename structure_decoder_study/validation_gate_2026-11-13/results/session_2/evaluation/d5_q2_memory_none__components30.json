@@ -1,0 +1,20 @@
+{
+  "censored": false,
+  "completed_blocks": 8,
+  "config_sha256": "9d1dea10d258b15e4afdfccdf6171c1fbdb03172988b80ba1f56ebbd716fd4e7",
+  "file_sha256": "afb8a111f5d5b62061079337b64159d798be9f3d1b772c2dc4db5992523fc341",
+  "init_wall_ns": 2893792,
+  "logical_z_failures": 0,
+  "mean_cpu_ns": 116666.015625,
+  "mean_wall_ns": 117605.47265625,
+  "name": "d5_q2_memory_none",
+  "p95_cpu_ns": 291000.0,
+  "p95_wall_ns": 291825.15,
+  "phase": "evaluation",
+  "resource_cpu_ns": 317535000,
+  "seed": 11695072910434220811,
+  "session": 2,
+  "setting": "components30",
+  "shots": 512,
+  "warm_seed": 14985769937167274862
+}

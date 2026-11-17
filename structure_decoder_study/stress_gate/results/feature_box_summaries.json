@@ -1,0 +1,94 @@
+[
+  {
+    "all_B2_inputs_within_old_ranges": true,
+    "censored": false,
+    "confident_false_admission": false,
+    "logical_z_failure_fraction": 0.076,
+    "miss_interval": [
+      0.0479674029859145,
+      0.06125553445015366
+    ],
+    "miss_probability": 0.05433333333333333,
+    "name": "q4_P01_d5_w10_p0_0024_spread",
+    "p": 0.0024,
+    "p95_wall_ns": 5319337.200000001,
+    "padded_prediction_ns": 4649878.7835550755,
+    "physical_noise_differs_from_training": true,
+    "sessions": [
+      {
+        "interval": [
+          0.043747524545437885,
+          0.07151042360452828
+        ],
+        "misses": 113,
+        "session": 0,
+        "shots": 2000
+      },
+      {
+        "interval": [
+          0.04507537920383765,
+          0.0731742914472904
+        ],
+        "misses": 116,
+        "session": 1,
+        "shots": 2000
+      },
+      {
+        "interval": [
+          0.03671379003727332,
+          0.06258887477190873
+        ],
+        "misses": 97,
+        "session": 2,
+        "shots": 2000
+      }
+    ],
+    "shots": 6000
+  },
+  {
+    "all_B2_inputs_within_old_ranges": true,
+    "censored": false,
+    "confident_false_admission": true,
+    "logical_z_failure_fraction": 0.07133333333333333,
+    "miss_interval": [
+      0.056789155478686404,
+      0.07108815086833446
+    ],
+    "miss_probability": 0.06366666666666666,
+    "name": "q4_P03_d5_w10_p0_0024_spread",
+    "p": 0.0024,
+    "p95_wall_ns": 6006233.000000003,
+    "padded_prediction_ns": 4656425.177800161,
+    "physical_noise_differs_from_training": true,
+    "sessions": [
+      {
+        "interval": [
+          0.0481836380773907,
+          0.07704682688153001
+        ],
+        "misses": 123,
+        "session": 0,
+        "shots": 2000
+      },
+      {
+        "interval": [
+          0.05085825975073054,
+          0.08035585179366271
+        ],
+        "misses": 129,
+        "session": 1,
+        "shots": 2000
+      },
+      {
+        "interval": [
+          0.05130491533791979,
+          0.080906479529787
+        ],
+        "misses": 130,
+        "session": 2,
+        "shots": 2000
+      }
+    ],
+    "shots": 6000
+  }
+]

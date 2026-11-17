@@ -1,0 +1,81 @@
+{
+  "H_xor_weight": 0,
+  "L_xor_weight": 0,
+  "case_id": 51,
+  "columns": [
+    {
+      "H_support": [
+        134,
+        135,
+        190
+      ],
+      "L_support": [],
+      "column": 938,
+      "llr": 3.6994400041376805,
+      "llr_hex": "0x1.d9874003a4896p+1",
+      "native_bit": 0,
+      "prior": 0.003733333333333521,
+      "python_bit": 1,
+      "python_pivot": true,
+      "tie_size": 4,
+      "tied_pivots": 2
+    },
+    {
+      "H_support": [
+        134,
+        143,
+        200
+      ],
+      "L_support": [],
+      "column": 940,
+      "llr": 3.6994400041376805,
+      "llr_hex": "0x1.d9874003a4896p+1",
+      "native_bit": 0,
+      "prior": 0.003733333333333521,
+      "python_bit": 1,
+      "python_pivot": true,
+      "tie_size": 4,
+      "tied_pivots": 2
+    },
+    {
+      "H_support": [
+        135,
+        190,
+        206
+      ],
+      "L_support": [],
+      "column": 949,
+      "llr": 3.6994400041376805,
+      "llr_hex": "0x1.d9874003a4896p+1",
+      "native_bit": 1,
+      "prior": 0.003733333333333521,
+      "python_bit": 0,
+      "python_pivot": false,
+      "tie_size": 4,
+      "tied_pivots": 2
+    },
+    {
+      "H_support": [
+        143,
+        200,
+        206
+      ],
+      "L_support": [],
+      "column": 1006,
+      "llr": 3.6994400041376805,
+      "llr_hex": "0x1.d9874003a4896p+1",
+      "native_bit": 1,
+      "prior": 0.003733333333333521,
+      "python_bit": 0,
+      "python_pivot": false,
+      "tie_size": 4,
+      "tied_pivots": 2
+    }
+  ],
+  "difference_weight": 4,
+  "interpretation": "Same syndrome, logical vector and prior-weighted score up to roundoff. Exact tied reliabilities span Python pivots/free columns. Compatible with tie-order ambiguity; native pivot ordering was not observed, so cause is not proven. No rescue occurred.",
+  "native_score": 454.85430452652645,
+  "native_wrong_logical_bits": 9,
+  "python_score": 454.85430452652656,
+  "python_wrong_logical_bits": 9
+}

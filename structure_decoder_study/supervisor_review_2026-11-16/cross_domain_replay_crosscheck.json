@@ -1,0 +1,72 @@
+{
+  "all_replay_gate_and_cost_rows_match": true,
+  "cost_metric": "sum of recorded profiling decoder-call wall nanoseconds; excludes setup, warmup, feature/inference, and training",
+  "internal_root_crosscheck": true,
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "rows": [
+    {
+      "admitted": 0,
+      "budget_ms": 0.25,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": true
+    },
+    {
+      "admitted": 0,
+      "budget_ms": 0.5,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": true
+    },
+    {
+      "admitted": 1,
+      "budget_ms": 1,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": true
+    },
+    {
+      "admitted": 5,
+      "budget_ms": 2,
+      "profile_wall_service_fraction": 0.3948816594950585,
+      "profiled_cases": 10,
+      "same_set_as_uniform_profile": true
+    },
+    {
+      "admitted": 17,
+      "budget_ms": 4,
+      "profile_wall_service_fraction": 0.4533651392788859,
+      "profiled_cases": 7,
+      "same_set_as_uniform_profile": false
+    },
+    {
+      "admitted": 19,
+      "budget_ms": 5,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": false
+    },
+    {
+      "admitted": 19,
+      "budget_ms": 8,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": false
+    },
+    {
+      "admitted": 19,
+      "budget_ms": 16,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": false
+    },
+    {
+      "admitted": 19,
+      "budget_ms": 32,
+      "profile_wall_service_fraction": 0.0,
+      "profiled_cases": 0,
+      "same_set_as_uniform_profile": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.so
+*.dylib
+structure_decoder_study/publication_2026-11-17/private/
+structure_decoder_study/failure_target_2026-11-17/sources/dem_trapping_sets-b9ac6a1/
+structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/

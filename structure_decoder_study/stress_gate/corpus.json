@@ -1,0 +1,4468 @@
+[
+  {
+    "assembly_ns": 4362806834,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "c7536c142c8a27948b1a9396da30e182e0b484aeb6975ed05d5ba817389e1d30",
+    "dem_ns": 15390958,
+    "dem_sha256": "1af364912f63b7ce80f07ff4483a6aec824df894b4ab9c8c1750af4742e644ea",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.05953098068829685,
+      "col_degree_variance": 5.3451102040816325,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 12.21189247732908,
+      "feature_time_ns": 3344083,
+      "hyperedge_fraction": 0.5077551020408163,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 674.8201905417814,
+      "volume": 40,
+      "weighted_excess_arity": 3.4553446538088908
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.34611914946092315,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1749153.4873637247,
+          "raw_ns": 901742.7021710946
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3452140.3639734965,
+          "raw_ns": 1931318.462636514
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 200959,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "dc598409a82e8a6112969e8050a8f53adcff0031b47264569e6048bcbfb7ba65",
+    "dem_ns": 15267625,
+    "dem_sha256": "e709e1f748de4353ccc617daf501c840b99edb26003a88e890074d1c2aaa0bbe",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.04515433926844517,
+      "col_degree_variance": 1.9308730227467912,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 10.542892900803615,
+      "feature_time_ns": 626542,
+      "hyperedge_fraction": 0.42363112391930835,
+      "max_arity": 6,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 7240,
+      "prior_sum": 4.242827151575884,
+      "row_degree_variance": 379.8110651974288,
+      "volume": 40,
+      "weighted_excess_arity": 2.2278922505490826
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.3381574060147426,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1350084.5572162261,
+          "raw_ns": 696010.330470484
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2802482.08252648,
+          "raw_ns": 1567863.648789042
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 4535146958,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "50a45efc874571a36dbc2fbd31c036383468e6788efb4c4ac3b3035105a7ed42",
+    "dem_ns": 15441917,
+    "dem_sha256": "17cb7bbda37235e38f8886dee09a8c8ac6f7330e027f0a8cbc1adae7643a7fe2",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.020560039442994678,
+      "col_degree_variance": 5.3451102040816325,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 3.8395616252816493,
+      "feature_time_ns": 791583,
+      "hyperedge_fraction": 0.5077551020408163,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_variance": 674.8201905417814,
+      "volume": 40,
+      "weighted_excess_arity": 3.454444596522774
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w10_p0_0003_spread",
+    "nearest_training_distance": 1.4355024808717278,
+    "outside_training_features": [],
+    "p": 0.0003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 687336.9885257967,
+          "raw_ns": 354343.4683193763
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2616115.290864122,
+          "raw_ns": 1463599.746510876
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 4547712917,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "1263bf32d7e65177938ee021d02d29c66e18c0d1573645d8fc1fe9f8d04286b0",
+    "dem_ns": 15407209,
+    "dem_sha256": "0bc943bf066cb3bf03d11e6555f8da4d53c44110b255beed369d377abb8b2db5",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.12786467804350946,
+      "col_degree_variance": 5.3451102040816325,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 32.645382430574394,
+      "feature_time_ns": 677750,
+      "hyperedge_fraction": 0.5077551020408163,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 674.8201905417814,
+      "volume": 40,
+      "weighted_excess_arity": 3.457914115126919
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w10_p0_003_spread",
+    "nearest_training_distance": 1.665731984415149,
+    "outside_training_features": [
+      "prior_sum"
+    ],
+    "p": 0.003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4249694.213061177,
+          "raw_ns": 2190848.7567104986
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4259290.246142043,
+          "raw_ns": 2382882.7981471103
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 2246058000,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "53c3f8937a1d62f1850e6f3659b251309342a87161dcb8d319605ffed84974be",
+    "dem_ns": 7710792,
+    "dem_sha256": "bd6506b9b17091ae31c92b7997a167ae2c4847b4a8ff55769b11b897b75153cb",
+    "distance": 5,
+    "events": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3
+    ],
+    "features": {
+      "activation_second_moment": 0.044643771265921256,
+      "col_degree_variance": 3.603315054553677,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 6.531348740906263,
+      "feature_time_ns": 560083,
+      "hyperedge_fraction": 0.5082706766917293,
+      "max_arity": 8,
+      "n_detectors": 288,
+      "n_faults": 1330,
+      "nnz": 4644,
+      "prior_sum": 2.2812037775298992,
+      "row_degree_variance": 332.78993055555554,
+      "volume": 20,
+      "weighted_excess_arity": 3.001461573857386
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w5_p0_001_spread",
+    "nearest_training_distance": 0.17861349226420925,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 641537.5436336023,
+          "raw_ns": 169604.82175246597
+        },
+        "B2": {
+          "padded_ns": 613010.1950953149,
+          "raw_ns": 316025.70830808557
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 1612110.716432374,
+          "raw_ns": 549818.6541725136
+        },
+        "B2": {
+          "padded_ns": 1637356.2210252024,
+          "raw_ns": 916027.7295152893
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 5
+  },
+  {
+    "assembly_ns": 6478284834,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "ac89be1c4ce3759d901f9b3192243d5e2a554e7d7cf8bb5bf9b10346c5acd86f",
+    "dem_ns": 23992417,
+    "dem_sha256": "18c65496d19538118ce3150767434b2779ef41f03390f9fc771d5921f41bba72",
+    "distance": 5,
+    "events": [
+      1,
+      3,
+      6,
+      8,
+      11,
+      13
+    ],
+    "features": {
+      "activation_second_moment": 0.06933743549852621,
+      "col_degree_variance": 4.57673139844173,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 17.195345138414684,
+      "feature_time_ns": 788667,
+      "hyperedge_fraction": 0.5058823529411764,
+      "max_arity": 12,
+      "n_detectors": 768,
+      "n_faults": 3570,
+      "nnz": 12636,
+      "prior_sum": 6.20448095672842,
+      "row_degree_variance": 973.2061360677084,
+      "volume": 60,
+      "weighted_excess_arity": 3.2265043541555105
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d5_w15_p0_001_spread",
+    "nearest_training_distance": 0.4771079490477354,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 3169171.7382072886,
+          "raw_ns": 1633806.0138807301
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 5188505.922728918,
+          "raw_ns": 2902737.4977682666
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 15
+  },
+  {
+    "assembly_ns": 832772250,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 3000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "ef09b2bbc71f74a98d62a60a60123f31f4cfc54139695092fcc0c2cf57837ae8",
+    "dem_ns": 2488291,
+    "dem_sha256": "ffab9e0151e05e8ed839993e34aebd10365eb2ca0492720d25a22b668e5124fd",
+    "distance": 3,
+    "events": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "features": {
+      "activation_second_moment": 0.04155365705896133,
+      "col_degree_variance": 5.965728036639561,
+      "components": 1,
+      "distance": 3,
+      "expected_activity": 2.298702501972607,
+      "feature_time_ns": 462542,
+      "hyperedge_fraction": 0.4185022026431718,
+      "max_arity": 12,
+      "n_detectors": 112,
+      "n_faults": 454,
+      "nnz": 1512,
+      "prior_sum": 0.8591139576537282,
+      "row_degree_variance": 225.89285714285714,
+      "volume": 24,
+      "weighted_excess_arity": 3.2873505827679956
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d3_w6_p0_001_spread",
+    "nearest_training_distance": 0.18734865594104336,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 166404.11551182566,
+          "raw_ns": 43992.655816225706
+        },
+        "B2": {
+          "padded_ns": 153448.8781773535,
+          "raw_ns": 79107.64095455075
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 530765.2136104011,
+          "raw_ns": 181020.20689662674
+        },
+        "B2": {
+          "padded_ns": 493081.4741069634,
+          "raw_ns": 275857.0782535301
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 6
+  },
+  {
+    "assembly_ns": 12767777084,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 7000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "a88b33df5e78c24942ebac7b164706e72daaba6912e210b68a67d060dba64029",
+    "dem_ns": 48951584,
+    "dem_sha256": "f0e8770436a7c166f1a155abdc3e8270bfd3b53b32def58a4cce9944573333bf",
+    "distance": 7,
+    "events": [
+      1,
+      3,
+      5,
+      8,
+      10,
+      12
+    ],
+    "features": {
+      "activation_second_moment": 0.07199773572080694,
+      "col_degree_variance": 4.85846380752115,
+      "components": 1,
+      "distance": 7,
+      "expected_activity": 34.67874533679818,
+      "feature_time_ns": 1444500,
+      "hyperedge_fraction": 0.5306293706293707,
+      "max_arity": 12,
+      "n_detectors": 1440,
+      "n_faults": 7150,
+      "nnz": 26272,
+      "prior_sum": 11.933006760652766,
+      "row_degree_variance": 1124.304135802469,
+      "volume": 56,
+      "weighted_excess_arity": 3.4493311479947226
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d7_w14_p0_001_spread",
+    "nearest_training_distance": 0.35692763171970576,
+    "outside_training_features": [
+      "n_detectors",
+      "n_faults",
+      "prior_sum"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 11692339.286956105,
+          "raw_ns": 3091131.829014404
+        },
+        "B2": {
+          "padded_ns": 8831405.833650563,
+          "raw_ns": 4552862.752146598
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 14263065.02148165,
+          "raw_ns": 4864491.709254798
+        },
+        "B2": {
+          "padded_ns": 11436751.69362797,
+          "raw_ns": 6398352.1437898
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 14
+  },
+  {
+    "assembly_ns": 27883613084,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 9000000,
+    "canonical_map": "01000001000101000100010000010101",
+    "circuit_sha256": "ef4a436643cf361150bb525140b53cbc60e4aa9b18afdf1fe9b0605d467acee8",
+    "dem_ns": 114762667,
+    "dem_sha256": "823333671911f00b6faf6ff9dee9c899097ed966c86d7ba9b7dbb416388963de",
+    "distance": 9,
+    "events": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "features": {
+      "activation_second_moment": 0.08102552700545919,
+      "col_degree_variance": 4.523321333203199,
+      "components": 1,
+      "distance": 9,
+      "expected_activity": 74.40656035011098,
+      "feature_time_ns": 2236458,
+      "hyperedge_fraction": 0.5417038074621164,
+      "max_arity": 12,
+      "n_detectors": 3040,
+      "n_faults": 15706,
+      "nnz": 57924,
+      "prior_sum": 25.693200500483627,
+      "row_degree_variance": 1564.1470896814405,
+      "volume": 72,
+      "weighted_excess_arity": 3.4218767858892383
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P00_d9_w18_p0_001_spread",
+    "nearest_training_distance": 2.534044296626751,
+    "outside_training_features": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 44558374.93210667,
+          "raw_ns": 11780004.635637766
+        },
+        "B2": {
+          "padded_ns": 29311323.873863805,
+          "raw_ns": 15110893.689533524
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 40243628.91384563,
+          "raw_ns": 13725296.695127359
+        },
+        "B2": {
+          "padded_ns": 27236085.888715412,
+          "raw_ns": 15237374.492584147
+        }
+      }
+    },
+    "program": "q4_P00",
+    "rounds": 18
+  },
+  {
+    "assembly_ns": 53773458,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "8727cf9e2fc3ff118e44d555d5a7c03afcc5e38875e05eacf6ea8fe9f1ba477f",
+    "dem_ns": 15484292,
+    "dem_sha256": "d92644dfdbd8b68035fd8ae3174fd27790d508eac7e1a09c4018155929bb86b5",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.07649701615265327,
+      "col_degree_variance": 7.69152586422324,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 13.511617528810655,
+      "feature_time_ns": 668750,
+      "hyperedge_fraction": 0.4726530612244898,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10096,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 1078.5989439853076,
+      "volume": 40,
+      "weighted_excess_arity": 4.2794659121077325
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.34098222303472714,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 2074757.2975283496,
+          "raw_ns": 1069601.5331634365
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3952526.6593582835,
+          "raw_ns": 2211262.2623766186
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 166167,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "c40baf420be5cad2054175f72c1c639509119d6d80de2d6b446d083afb9d8a81",
+    "dem_ns": 15281333,
+    "dem_sha256": "262198e09d6f0ee72e4d25433623bce99326e3b7006cf06dfd0bfe2311517ac1",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.0664212879144366,
+      "col_degree_variance": 3.2500131069193494,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.356248048143726,
+      "feature_time_ns": 630541,
+      "hyperedge_fraction": 0.45348837209302323,
+      "max_arity": 6,
+      "n_detectors": 528,
+      "n_faults": 2408,
+      "nnz": 8142,
+      "prior_sum": 4.24268755015572,
+      "row_degree_variance": 806.2323088842976,
+      "volume": 40,
+      "weighted_excess_arity": 2.8179792245260162
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.35184818128038986,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1553917.9291182384,
+          "raw_ns": 801092.7357021668
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3140119.181474301,
+          "raw_ns": 1756756.5367127513
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 80340000,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "72fdbb7d7f64b5ef19c385f360b8c94bf8eddffb71cc6e19602b4c4566e0ecc3",
+    "dem_ns": 15763209,
+    "dem_sha256": "03ef9884b9ce2e086ddc13b8f1e9b7b72936e65f4e9dd67759364264bf569517",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.027134993946661714,
+      "col_degree_variance": 7.69152586422324,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 4.312953543301831,
+      "feature_time_ns": 800875,
+      "hyperedge_fraction": 0.4726530612244898,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10096,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_variance": 1078.5989439853076,
+      "volume": 40,
+      "weighted_excess_arity": 4.278475703882651
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w10_p0_0003_spread",
+    "nearest_training_distance": 1.4345163367519496,
+    "outside_training_features": [],
+    "p": 0.0003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 814933.614801474,
+          "raw_ns": 420123.47413187864
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2994565.6240788093,
+          "raw_ns": 1675325.8174888168
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 79977375,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "2efff51366944d27630b97590b8cb9733c0e6ad9788d11bfe90c5f3578959588",
+    "dem_ns": 15399584,
+    "dem_sha256": "b8a43e53915b0ac3ac6e315e087f21cb55aaab8dea299275895e4165852f049c",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.15331299541923413,
+      "col_degree_variance": 7.69152586422324,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 34.94513525857698,
+      "feature_time_ns": 754834,
+      "hyperedge_fraction": 0.4726530612244898,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10096,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 1078.5989439853076,
+      "volume": 40,
+      "weighted_excess_arity": 4.282292731643525
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w10_p0_003_spread",
+    "nearest_training_distance": 1.6851792090521691,
+    "outside_training_features": [
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4923917.472088979,
+          "raw_ns": 2538431.6920300606
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4810161.481866636,
+          "raw_ns": 2691070.6688354607
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 77375,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "086c0eeb99014d15ba1363e8bbb48f2d26ff14db8ef3f41371365324759716b0",
+    "dem_ns": 7715500,
+    "dem_sha256": "ed7bd9d0cb1f8f23c01cf73c43d730a773a94c97349409b82ba12e09f4f0bfe1",
+    "distance": 5,
+    "events": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3
+    ],
+    "features": {
+      "activation_second_moment": 0.06602175711630981,
+      "col_degree_variance": 9.190398959778369,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 7.951900181200879,
+      "feature_time_ns": 531209,
+      "hyperedge_fraction": 0.5080213903743316,
+      "max_arity": 10,
+      "n_detectors": 288,
+      "n_faults": 1309,
+      "nnz": 5854,
+      "prior_sum": 2.2811663568551346,
+      "row_degree_variance": 751.8656925154322,
+      "volume": 20,
+      "weighted_excess_arity": 4.780478577474007
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w5_p0_001_spread",
+    "nearest_training_distance": 0.22270532239688914,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 641537.5436336023,
+          "raw_ns": 169604.82175246597
+        },
+        "B2": {
+          "padded_ns": 835723.5214471605,
+          "raw_ns": 430841.31377945654
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 1612110.716432374,
+          "raw_ns": 549818.6541725136
+        },
+        "B2": {
+          "padded_ns": 2088857.9757127552,
+          "raw_ns": 1168622.8104804119
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 5
+  },
+  {
+    "assembly_ns": 206458,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "172df486d7c22c203d8d466eb597930417fcfa1866318da1a26a3fae7e041d70",
+    "dem_ns": 23726166,
+    "dem_sha256": "7422c1f1f6b6a410501ff67540f09f530a38062b343e3de16adbea1692c6fa49",
+    "distance": 5,
+    "events": [
+      1,
+      3,
+      6,
+      8,
+      11,
+      13
+    ],
+    "features": {
+      "activation_second_moment": 0.08675578991464752,
+      "col_degree_variance": 7.080509380222678,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 18.704433479842884,
+      "feature_time_ns": 782459,
+      "hyperedge_fraction": 0.4565826330532213,
+      "max_arity": 10,
+      "n_detectors": 768,
+      "n_faults": 3570,
+      "nnz": 14184,
+      "prior_sum": 6.204480956728421,
+      "row_degree_variance": 1443.1708984375,
+      "volume": 60,
+      "weighted_excess_arity": 4.0571508579424105
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d5_w15_p0_001_spread",
+    "nearest_training_distance": 0.507070954568524,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 3679701.2759077568,
+          "raw_ns": 1896999.774857093
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 5845492.155730742,
+          "raw_ns": 3270291.9734599683
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 15
+  },
+  {
+    "assembly_ns": 19639500,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 3000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "db58b872b707b3efc87a3ac79abce3c660976b4b033729d5e1fe1bf5b8aa26c0",
+    "dem_ns": 2438583,
+    "dem_sha256": "bcb6442203c570a886fadf9bb8edf12ef6bc79fa6c4d0dd1da96f1b52d0318ac",
+    "distance": 3,
+    "events": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "features": {
+      "activation_second_moment": 0.05410033032620193,
+      "col_degree_variance": 7.962824497395012,
+      "components": 1,
+      "distance": 3,
+      "expected_activity": 2.5536677217069865,
+      "feature_time_ns": 414917,
+      "hyperedge_fraction": 0.436241610738255,
+      "max_arity": 10,
+      "n_detectors": 112,
+      "n_faults": 447,
+      "nnz": 1692,
+      "prior_sum": 0.8590922533856226,
+      "row_degree_variance": 379.11352040816325,
+      "volume": 24,
+      "weighted_excess_arity": 3.9622188790526125
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d3_w6_p0_001_spread",
+    "nearest_training_distance": 0.3050315238915202,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 166404.11551182566,
+          "raw_ns": 43992.655816225706
+        },
+        "B2": {
+          "padded_ns": 176907.8233440505,
+          "raw_ns": 91201.45247968083
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 530765.2136104011,
+          "raw_ns": 181020.20689662674
+        },
+        "B2": {
+          "padded_ns": 551884.855976786,
+          "raw_ns": 308754.94598099816
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 6
+  },
+  {
+    "assembly_ns": 103864458,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 7000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "e5f37a18cb20ad49f622bbc3c80311c3d7cddd044521ef269ce74b6c8d3eb33a",
+    "dem_ns": 48914167,
+    "dem_sha256": "7a902d66c1aefb86e942b0480be0e00233e07ddf3caa17f5b2465eca0b2b4c27",
+    "distance": 7,
+    "events": [
+      1,
+      3,
+      5,
+      8,
+      10,
+      12
+    ],
+    "features": {
+      "activation_second_moment": 0.08893619671328201,
+      "col_degree_variance": 7.43113924397281,
+      "components": 1,
+      "distance": 7,
+      "expected_activity": 37.63794212703378,
+      "feature_time_ns": 1464209,
+      "hyperedge_fraction": 0.46013986013986014,
+      "max_arity": 10,
+      "n_detectors": 1440,
+      "n_faults": 7150,
+      "nnz": 29372,
+      "prior_sum": 11.933006760652766,
+      "row_degree_variance": 1640.4727700617286,
+      "volume": 56,
+      "weighted_excess_arity": 4.301564012623126
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d7_w14_p0_001_spread",
+    "nearest_training_distance": 0.3551810577251251,
+    "outside_training_features": [
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 11692339.286956105,
+          "raw_ns": 3091131.829014404
+        },
+        "B2": {
+          "padded_ns": 10224894.918277811,
+          "raw_ns": 5271249.458456497
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 14263065.02148165,
+          "raw_ns": 4864491.709254798
+        },
+        "B2": {
+          "padded_ns": 12849210.313873034,
+          "raw_ns": 7188559.70297766
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 14
+  },
+  {
+    "assembly_ns": 258507875,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 9000000,
+    "canonical_map": "00000001000100000001010101010101",
+    "circuit_sha256": "98f4439a2250e03e5e45d0d73c995f3f72686f732f4c3c6b325a6d79565cdafe",
+    "dem_ns": 117635917,
+    "dem_sha256": "02a5bb4c588314a11112882a4817362c831e7ead50907026dea49ae58c25b716",
+    "distance": 9,
+    "events": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "features": {
+      "activation_second_moment": 0.0998401919391067,
+      "col_degree_variance": 7.2812990593146125,
+      "components": 1,
+      "distance": 9,
+      "expected_activity": 80.26645773340184,
+      "feature_time_ns": 2467250,
+      "hyperedge_fraction": 0.46198904877117025,
+      "max_arity": 10,
+      "n_detectors": 3040,
+      "n_faults": 15706,
+      "nnz": 64716,
+      "prior_sum": 25.693200500483623,
+      "row_degree_variance": 2241.449859764543,
+      "volume": 72,
+      "weighted_excess_arity": 4.3213182820504255
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P01_d9_w18_p0_001_spread",
+    "nearest_training_distance": 2.6068405534933023,
+    "outside_training_features": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 44558374.93210667,
+          "raw_ns": 11780004.635637766
+        },
+        "B2": {
+          "padded_ns": 33781764.58226342,
+          "raw_ns": 17415544.089518502
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 40243628.91384563,
+          "raw_ns": 13725296.695127359
+        },
+        "B2": {
+          "padded_ns": 30512599.606289957,
+          "raw_ns": 17070437.68487852
+        }
+      }
+    },
+    "program": "q4_P01",
+    "rounds": 18
+  },
+  {
+    "assembly_ns": 26913000,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "fe3ecb775c9b331dfb5308405ff28259955ed56a2eb05538198f9b930ba2d5e2",
+    "dem_ns": 15360250,
+    "dem_sha256": "9d56b123f9b1a393837672a54c26523eda1307c47eb26fd766539473df1d51b8",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.052978423100461004,
+      "col_degree_variance": 6.277834235735111,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.654283975516245,
+      "feature_time_ns": 695875,
+      "hyperedge_fraction": 0.3787755102040816,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8420,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 564.6183999081727,
+      "volume": 40,
+      "weighted_excess_arity": 3.527188649228669
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3413434779067095,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1624578.8768273387,
+          "raw_ns": 837520.6389053377
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3258397.400328255,
+          "raw_ns": 1822927.9213367158
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 187666,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "3f3bb7de31efe649ecbb81c4dc06849581db488a3529ee6f12713a99717746eb",
+    "dem_ns": 15182125,
+    "dem_sha256": "b408c0bb60c983961491f812e4f17469eab54a09242ea249f55befd1177a1fe4",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.05144551482552923,
+      "col_degree_variance": 2.8311681223910137,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 10.372573243326578,
+      "feature_time_ns": 587458,
+      "hyperedge_fraction": 0.34952655413750516,
+      "max_arity": 8,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 7302,
+      "prior_sum": 4.242708725065603,
+      "row_degree_variance": 530.9860967630854,
+      "volume": 40,
+      "weighted_excess_arity": 2.4328402560370472
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.34063970914803055,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1341286.4086656633,
+          "raw_ns": 691474.6128760008
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2798348.1670003682,
+          "raw_ns": 1565550.9075512062
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 53545125,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "1edec634a18fe529778c953888b39b2b8caa95c3c11e3fa2847d30b39a80fdf3",
+    "dem_ns": 15389875,
+    "dem_sha256": "f80bde5c67ba2ba0904039e3ceac62e387d6fd8d4bb62e98757e7c5b8bb2e2b3",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.018137093478930697,
+      "col_degree_variance": 6.277834235735111,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 3.6438251954092413,
+      "feature_time_ns": 657334,
+      "hyperedge_fraction": 0.3787755102040816,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8420,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_variance": 564.6183999081727,
+      "volume": 40,
+      "weighted_excess_arity": 3.5262335881945908
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w10_p0_0003_spread",
+    "nearest_training_distance": 1.437605310882704,
+    "outside_training_features": [],
+    "p": 0.0003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 639377.5078004592,
+          "raw_ns": 329618.8732187089
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2471539.439896953,
+          "raw_ns": 1382716.0103979888
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 53544584,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "285ebb5970533e157116d83f14c530e96a4f1a4932c7dd8fbcb1bb8268d0a4c3",
+    "dem_ns": 15420708,
+    "dem_sha256": "f59b2a6d5491e2b58a025c27b87dc2b3acde93e0534acfe55b4bf85ddec25782",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.11674399801606138,
+      "col_degree_variance": 6.277834235735111,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 31.557329402952696,
+      "feature_time_ns": 697958,
+      "hyperedge_fraction": 0.3787755102040816,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8420,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 564.6183999081727,
+      "volume": 40,
+      "weighted_excess_arity": 3.529915581274114
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w10_p0_003_spread",
+    "nearest_training_distance": 1.6583449395513084,
+    "outside_training_features": [
+      "prior_sum"
+    ],
+    "p": 0.003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 3981413.4736487563,
+          "raw_ns": 2052541.740976373
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4040714.854475303,
+          "raw_ns": 2260599.6216548053
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 259209,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "b7c54118548f929d218bc2d257d214ea68f4d72f9f3fc54d7f44f62ab613be76",
+    "dem_ns": 7632917,
+    "dem_sha256": "f7d08a212965aaa9cab6cd211768868f6664cdb4cfa56e444c8458d692c023c6",
+    "distance": 5,
+    "events": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3
+    ],
+    "features": {
+      "activation_second_moment": 0.042303337584566704,
+      "col_degree_variance": 6.938954152298038,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 6.53050612815219,
+      "feature_time_ns": 489291,
+      "hyperedge_fraction": 0.39398496240601505,
+      "max_arity": 10,
+      "n_detectors": 288,
+      "n_faults": 1330,
+      "nnz": 4742,
+      "prior_sum": 2.2812037775298992,
+      "row_degree_variance": 317.01268325617286,
+      "volume": 20,
+      "weighted_excess_arity": 3.7198466753400323
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w5_p0_001_spread",
+    "nearest_training_distance": 0.17944518952926808,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 641537.5436336023,
+          "raw_ns": 169604.82175246597
+        },
+        "B2": {
+          "padded_ns": 622093.0662860904,
+          "raw_ns": 320708.2092265077
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 1612110.716432374,
+          "raw_ns": 549818.6541725136
+        },
+        "B2": {
+          "padded_ns": 1661026.0718702842,
+          "raw_ns": 929269.9546640781
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 5
+  },
+  {
+    "assembly_ns": 271541,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "ebe593003f35b36316cfb4b19c1f428c6ad3f97d3ccf3e6bc3fd09dcf58b6287",
+    "dem_ns": 23659541,
+    "dem_sha256": "ceac30666f48d4859afcf91bec765d6e48f3d75817d905376acaf8b1b8c0be56",
+    "distance": 5,
+    "events": [
+      1,
+      3,
+      6,
+      8,
+      11,
+      13
+    ],
+    "features": {
+      "activation_second_moment": 0.06288662804104896,
+      "col_degree_variance": 6.02306773689868,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.59842936272289,
+      "feature_time_ns": 762000,
+      "hyperedge_fraction": 0.373109243697479,
+      "max_arity": 10,
+      "n_detectors": 768,
+      "n_faults": 3570,
+      "nnz": 12098,
+      "prior_sum": 6.204480956728421,
+      "row_degree_variance": 844.5872328016494,
+      "volume": 60,
+      "weighted_excess_arity": 3.4537558501884495
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d5_w15_p0_001_spread",
+    "nearest_training_distance": 0.4788281391876991,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 2987374.095578361,
+          "raw_ns": 1540083.7083787574
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 4952509.350580529,
+          "raw_ns": 2770707.9483137676
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 15
+  },
+  {
+    "assembly_ns": 9948292,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 3000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "eecc3ee101d6661fd5f14920b11b51e0c82291af9bafcdc538f27b80d4fdab08",
+    "dem_ns": 2473416,
+    "dem_sha256": "f2aea1105d9d1296ab7142af11822ce9d91fc43bff72f5aa0ca2dbb5787bea2d",
+    "distance": 3,
+    "events": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "features": {
+      "activation_second_moment": 0.03808390222385065,
+      "col_degree_variance": 5.71784820198335,
+      "components": 1,
+      "distance": 3,
+      "expected_activity": 2.181789173121597,
+      "feature_time_ns": 418500,
+      "hyperedge_fraction": 0.34801762114537443,
+      "max_arity": 10,
+      "n_detectors": 112,
+      "n_faults": 454,
+      "nnz": 1442,
+      "prior_sum": 0.8591139576537283,
+      "row_degree_variance": 203.43080357142858,
+      "volume": 24,
+      "weighted_excess_arity": 3.0996755376746754
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d3_w6_p0_001_spread",
+    "nearest_training_distance": 0.15060707359749895,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 166404.11551182566,
+          "raw_ns": 43992.655816225706
+        },
+        "B2": {
+          "padded_ns": 143917.83193837872,
+          "raw_ns": 74194.09194233442
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 530765.2136104011,
+          "raw_ns": 181020.20689662674
+        },
+        "B2": {
+          "padded_ns": 468766.19635157654,
+          "raw_ns": 262253.76555419917
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 6
+  },
+  {
+    "assembly_ns": 52396750,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 7000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "7091daea4e02bdfd96726fb62baa83e538a1ff38a4bc988e617b11715c4264c4",
+    "dem_ns": 49028625,
+    "dem_sha256": "4ba248fb03554bbaa2c28d5872d6d3f1d2d39ca2dda947604e057e13ac11393e",
+    "distance": 7,
+    "events": [
+      1,
+      3,
+      5,
+      8,
+      10,
+      12
+    ],
+    "features": {
+      "activation_second_moment": 0.0661861800654965,
+      "col_degree_variance": 6.2979956770502215,
+      "components": 1,
+      "distance": 7,
+      "expected_activity": 33.52197316611715,
+      "feature_time_ns": 1431708,
+      "hyperedge_fraction": 0.393006993006993,
+      "max_arity": 10,
+      "n_detectors": 1440,
+      "n_faults": 7150,
+      "nnz": 25246,
+      "prior_sum": 11.933006760652768,
+      "row_degree_variance": 1011.0406462191359,
+      "volume": 56,
+      "weighted_excess_arity": 3.6675674856558405
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d7_w14_p0_001_spread",
+    "nearest_training_distance": 0.3741702842745256,
+    "outside_training_features": [
+      "n_detectors",
+      "n_faults",
+      "prior_sum"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 11692339.286956105,
+          "raw_ns": 3091131.829014404
+        },
+        "B2": {
+          "padded_ns": 8349302.407650808,
+          "raw_ns": 4304323.5306159705
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 14263065.02148165,
+          "raw_ns": 4864491.709254798
+        },
+        "B2": {
+          "padded_ns": 10946406.06964068,
+          "raw_ns": 6124025.651575664
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 14
+  },
+  {
+    "assembly_ns": 171679041,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 9000000,
+    "canonical_map": "00000101000100010100010000000001",
+    "circuit_sha256": "8b219c90b7eff64ace8c5c5be050b6c9e08eb8a1f88535d864280cc6bdb68983",
+    "dem_ns": 115393958,
+    "dem_sha256": "7dc2bd00294b6b44cd15f74513d78113e27fe4aa65614071ef7fc02ab294e0b8",
+    "distance": 9,
+    "events": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "features": {
+      "activation_second_moment": 0.07476282478840887,
+      "col_degree_variance": 6.290782823027141,
+      "components": 1,
+      "distance": 9,
+      "expected_activity": 72.21804099009506,
+      "feature_time_ns": 2475750,
+      "hyperedge_fraction": 0.39895581306507066,
+      "max_arity": 10,
+      "n_detectors": 3040,
+      "n_faults": 15706,
+      "nnz": 55778,
+      "prior_sum": 25.69320050048362,
+      "row_degree_variance": 1416.2808513677287,
+      "volume": 72,
+      "weighted_excess_arity": 3.72741836029541
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "name": "q4_P02_d9_w18_p0_001_spread",
+    "nearest_training_distance": 2.508923786421081,
+    "outside_training_features": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 44558374.93210667,
+          "raw_ns": 11780004.635637766
+        },
+        "B2": {
+          "padded_ns": 27834664.845846683,
+          "raw_ns": 14349630.306000268
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 40243628.91384563,
+          "raw_ns": 13725296.695127359
+        },
+        "B2": {
+          "padded_ns": 26151247.60573606,
+          "raw_ns": 14630455.89021268
+        }
+      }
+    },
+    "program": "q4_P02",
+    "rounds": 18
+  },
+  {
+    "assembly_ns": 354542,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "d57019f248aa2ccdd0b8a0a2440bb958600b7a8fbb6618533889dd467faafc42",
+    "dem_ns": 16200125,
+    "dem_sha256": "1a26ed8c258cb5be97c6033b3ef4e49b7915857bf8c36f4ec624bb79546b08e6",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.07633778468900232,
+      "col_degree_variance": 9.930208413161184,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 13.479029463886672,
+      "feature_time_ns": 737000,
+      "hyperedge_fraction": 0.4220408163265306,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 1105.494432966024,
+      "volume": 40,
+      "weighted_excess_arity": 4.734609515589871
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3409779529588352,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 2076045.5566434271,
+          "raw_ns": 1070265.670566997
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3957834.957904071,
+          "raw_ns": 2214232.0185005744
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 290166,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "d71f7140b84a47ce5f68460c7752ef12f824b4c485de16281af964dfbaac5730",
+    "dem_ns": 15351500,
+    "dem_sha256": "b047f8e9f61edc0dcd27e3d6ffffdc6530d073cc46b9e56552f958f4e816b9d9",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.06605873643096248,
+      "col_degree_variance": 6.686252519262154,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.920853709853269,
+      "feature_time_ns": 618250,
+      "hyperedge_fraction": 0.3618773157678057,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 8660,
+      "prior_sum": 4.242741430682795,
+      "row_degree_variance": 829.7781795224977,
+      "volume": 40,
+      "weighted_excess_arity": 3.748975501776791
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.3465954080740227,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1686351.4595679783,
+          "raw_ns": 869366.3151613339
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3353365.6111667193,
+          "raw_ns": 1876058.3968150564
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 314375,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "d3cb6cc81bd5508da765ce4ad99975842817299a56a59949fe03f2ffc8953d60",
+    "dem_ns": 16619042,
+    "dem_sha256": "c7a1cb9cf1beb810aee69997c54804e4ad5fd6e1ce2f72f9bc04d10a98c8d448",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.027048053720371685,
+      "col_degree_variance": 9.930208413161184,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 4.301749012227483,
+      "feature_time_ns": 710000,
+      "hyperedge_fraction": 0.4220408163265306,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_variance": 1105.494432966024,
+      "volume": 40,
+      "weighted_excess_arity": 4.7335138195730515
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w10_p0_0003_spread",
+    "nearest_training_distance": 1.4373205418878585,
+    "outside_training_features": [],
+    "p": 0.0003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 815534.2050053906,
+          "raw_ns": 420433.0969507391
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2998790.9952422846,
+          "raw_ns": 1677689.7240740398
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 461834,
+    "axis": "noise",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "096d0542f58c09ed38f973b7ffa48ca27027a407d286f5ebd6bfdc730e8e6763",
+    "dem_ns": 15616125,
+    "dem_sha256": "a39bac751edcf4764ce005da0af681ed8ed85db1748c6e97175ca18c20b8ad43",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.1530147670120694,
+      "col_degree_variance": 9.930208413161184,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 34.8711306097791,
+      "feature_time_ns": 648583,
+      "hyperedge_fraction": 0.4220408163265306,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 12.681916991060941,
+      "row_degree_variance": 1105.494432966024,
+      "volume": 40,
+      "weighted_excess_arity": 4.737737755328497
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w10_p0_003_spread",
+    "nearest_training_distance": 1.6830850097011596,
+    "outside_training_features": [
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.003,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 4927755.61312371,
+          "raw_ns": 2540410.372399151
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 4817068.47893299,
+          "raw_ns": 2694934.8254308407
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 85834,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "b942707cb9fd9bab0698e71aba6cc2c12da25d0dba44a209a481b7b2bcfa8938",
+    "dem_ns": 7851916,
+    "dem_sha256": "85f8ef676e57d7e10f38b785300dbfb5ac6f08d05dd060c97f4e9f4c64396207",
+    "distance": 5,
+    "events": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3
+    ],
+    "features": {
+      "activation_second_moment": 0.06120390319727114,
+      "col_degree_variance": 11.47233874159082,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 7.9089904547570695,
+      "feature_time_ns": 522250,
+      "hyperedge_fraction": 0.43609022556390975,
+      "max_arity": 10,
+      "n_detectors": 288,
+      "n_faults": 1330,
+      "nnz": 5880,
+      "prior_sum": 2.281264118170916,
+      "row_degree_variance": 688.2013888888889,
+      "volume": 20,
+      "weighted_excess_arity": 5.207702622407517
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w5_p0_001_spread",
+    "nearest_training_distance": 0.21338558434576543,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 641537.5436336023,
+          "raw_ns": 169604.82175246597
+        },
+        "B2": {
+          "padded_ns": 835332.8969987107,
+          "raw_ns": 430639.9347991533
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 1612110.716432374,
+          "raw_ns": 549818.6541725136
+        },
+        "B2": {
+          "padded_ns": 2094119.8152616885,
+          "raw_ns": 1171566.5748691196
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 5
+  },
+  {
+    "assembly_ns": 241459,
+    "axis": "extent",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "e622bb1bf8c9b7b53fa2558fb84caced5ddb32b9c0fea1f75539f4d845923c46",
+    "dem_ns": 23737125,
+    "dem_sha256": "67b4506829ca6ad1ec6d145efcda644d1ed5e1c32cee715b4293a8749e538817",
+    "distance": 5,
+    "events": [
+      1,
+      3,
+      6,
+      8,
+      11,
+      13
+    ],
+    "features": {
+      "activation_second_moment": 0.08889651830277445,
+      "col_degree_variance": 9.313997285188588,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 18.792118325186358,
+      "feature_time_ns": 761458,
+      "hyperedge_fraction": 0.41680672268907565,
+      "max_arity": 10,
+      "n_detectors": 768,
+      "n_faults": 3570,
+      "nnz": 14384,
+      "prior_sum": 6.20448095672842,
+      "row_degree_variance": 1553.4370659722224,
+      "volume": 60,
+      "weighted_excess_arity": 4.544437243817515
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d5_w15_p0_001_spread",
+    "nearest_training_distance": 0.511541237611059,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 3730401.8140694755,
+          "raw_ns": 1923137.4698128302
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 5915244.503107117,
+          "raw_ns": 3309315.298729735
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 15
+  },
+  {
+    "assembly_ns": 183333,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 3000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "84aac9e5f46555204d2082e48925c155c6d1a50f5bff83c7e92629baf4c90963",
+    "dem_ns": 2465750,
+    "dem_sha256": "d0e37873e808508384ede3c62c2c7e9f3f48f282e0d42cf0da9e0b7944868b80",
+    "distance": 3,
+    "events": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "features": {
+      "activation_second_moment": 0.05373190225579262,
+      "col_degree_variance": 9.735546973548876,
+      "components": 1,
+      "distance": 3,
+      "expected_activity": 2.5844212849906807,
+      "feature_time_ns": 353250,
+      "hyperedge_fraction": 0.3744493392070485,
+      "max_arity": 10,
+      "n_detectors": 112,
+      "n_faults": 454,
+      "nnz": 1742,
+      "prior_sum": 0.859109350861514,
+      "row_degree_variance": 391.96141581632645,
+      "volume": 24,
+      "weighted_excess_arity": 4.368840873509541
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d3_w6_p0_001_spread",
+    "nearest_training_distance": 0.3371376327831607,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 166404.11551182566,
+          "raw_ns": 43992.655816225706
+        },
+        "B2": {
+          "padded_ns": 181998.99807912682,
+          "raw_ns": 93826.11046195558
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 530765.2136104011,
+          "raw_ns": 181020.20689662674
+        },
+        "B2": {
+          "padded_ns": 566508.8832518414,
+          "raw_ns": 316936.4365626573
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 6
+  },
+  {
+    "assembly_ns": 542209,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 7000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "30cc79ac0665b71461a1ac89d1936937df7c93b79b114ecdc092bbe10807b5e4",
+    "dem_ns": 49368250,
+    "dem_sha256": "a383b7655eadad446763d8b3f8c26af736bbcd987e86c2a6e24843195e7af512",
+    "distance": 7,
+    "events": [
+      1,
+      3,
+      5,
+      8,
+      10,
+      12
+    ],
+    "features": {
+      "activation_second_moment": 0.09117292877781286,
+      "col_degree_variance": 9.760631346276101,
+      "components": 1,
+      "distance": 7,
+      "expected_activity": 37.84684357749633,
+      "feature_time_ns": 1883791,
+      "hyperedge_fraction": 0.42433566433566433,
+      "max_arity": 10,
+      "n_detectors": 1440,
+      "n_faults": 7150,
+      "nnz": 29818,
+      "prior_sum": 11.933006760652766,
+      "row_degree_variance": 1765.5321739969136,
+      "volume": 56,
+      "weighted_excess_arity": 4.807869944895058
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d7_w14_p0_001_spread",
+    "nearest_training_distance": 0.35796598224248066,
+    "outside_training_features": [
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 11692339.286956105,
+          "raw_ns": 3091131.829014404
+        },
+        "B2": {
+          "padded_ns": 10381997.892971108,
+          "raw_ns": 5352240.899140508
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 14263065.02148165,
+          "raw_ns": 4864491.709254798
+        },
+        "B2": {
+          "padded_ns": 13018270.161156159,
+          "raw_ns": 7283141.14229451
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 14
+  },
+  {
+    "assembly_ns": 968875,
+    "axis": "distance_and_extent",
+    "blocks": 4,
+    "budget_ns": 9000000,
+    "canonical_map": "00000001000100010001010101010000",
+    "circuit_sha256": "966bce71bef45a0706d8949763680993d5f30fb6fe623d2d9e4e5cc965ccb339",
+    "dem_ns": 115524500,
+    "dem_sha256": "323a3f215d331aafec21b0b91f79c5db7f94eb235027156fdb876cb6244a1734",
+    "distance": 9,
+    "events": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "features": {
+      "activation_second_moment": 0.10379348945370041,
+      "col_degree_variance": 9.725654025145515,
+      "components": 1,
+      "distance": 9,
+      "expected_activity": 80.97244442555962,
+      "feature_time_ns": 2578459,
+      "hyperedge_fraction": 0.43422895708646375,
+      "max_arity": 10,
+      "n_detectors": 3040,
+      "n_faults": 15706,
+      "nnz": 66156,
+      "prior_sum": 25.693200500483623,
+      "row_degree_variance": 2491.255122922438,
+      "volume": 72,
+      "weighted_excess_arity": 4.870879676034693
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q4_P03_d9_w18_p0_001_spread",
+    "nearest_training_distance": 2.618763377300043,
+    "outside_training_features": [
+      "distance",
+      "n_detectors",
+      "n_faults",
+      "nnz",
+      "prior_sum",
+      "expected_activity"
+    ],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 44558374.93210667,
+          "raw_ns": 11780004.635637766
+        },
+        "B2": {
+          "padded_ns": 34565094.63385537,
+          "raw_ns": 17819374.94971303
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 40243628.91384563,
+          "raw_ns": 13725296.695127359
+        },
+        "B2": {
+          "padded_ns": 31112585.707875192,
+          "raw_ns": 17406103.130991235
+        }
+      }
+    },
+    "program": "q4_P03",
+    "rounds": 18
+  },
+  {
+    "assembly_ns": 27529417,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001010100000101010000010001",
+    "circuit_sha256": "1dbc45dbd1880afa70e7d2afd73222b013f0b8c6836fa63d85db1d25c968a56c",
+    "dem_ns": 15750959,
+    "dem_sha256": "beaf8f249887b7254903475f55209b30bedd2ce6914d95bd6b22a2664580e5e6",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.06738465778804602,
+      "col_degree_variance": 6.66602315701791,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 12.85865964789333,
+      "feature_time_ns": 716750,
+      "hyperedge_fraction": 0.43673469387755104,
+      "max_arity": 10,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 9486,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 865.0177772038568,
+      "volume": 40,
+      "weighted_excess_arity": 3.9131420582029963
+    },
+    "gates": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "name": "q4_P04_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3509464437357392,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1909227.6343499264,
+          "raw_ns": 984265.8740332873
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3700761.7912405883,
+          "raw_ns": 2070411.055075395
+        }
+      }
+    },
+    "program": "q4_P04",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 322958,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001010100000101010000010001",
+    "circuit_sha256": "8feb2d4608864ffe1fe7c2230304bc15e43956bce2630da21d301401d8364edb",
+    "dem_ns": 15149500,
+    "dem_sha256": "b5cb0c5889d4b9c9e0515a57ddcb268f18aac5cf1493a3e0439d42278fc87685",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.05154743690223718,
+      "col_degree_variance": 4.09184749733095,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 10.995394273911128,
+      "feature_time_ns": 601416,
+      "hyperedge_fraction": 0.34705640181144504,
+      "max_arity": 8,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 7722,
+      "prior_sum": 4.242799429035887,
+      "row_degree_variance": 505.01846590909093,
+      "volume": 40,
+      "weighted_excess_arity": 2.906052601424833
+    },
+    "gates": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "name": "q4_P04_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.3480689111686149,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1459947.040846976,
+          "raw_ns": 752647.837454352
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2986291.8212304865,
+          "raw_ns": 1670696.994059752
+        }
+      }
+    },
+    "program": "q4_P04",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 224500,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00010101000100000001010001010001",
+    "circuit_sha256": "adb573d8b0359cb1a3ebf5b61bab7ccb9e02c78aae3b24d84361e750ed4f159d",
+    "dem_ns": 15386792,
+    "dem_sha256": "c297ddb4716a3b116bc51257c327d00451bdc65d7e2638d6d687d4a49fd31106",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.05070977846025709,
+      "col_degree_variance": 4.831129695960017,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.691733363745193,
+      "feature_time_ns": 700750,
+      "hyperedge_fraction": 0.4669387755102041,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8312,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 476.6533516988062,
+      "volume": 40,
+      "weighted_excess_arity": 3.2270732303802405
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "name": "q4_P05_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3408711574721798,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1613809.817162057,
+          "raw_ns": 831968.8556955926
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3234233.5519808154,
+          "raw_ns": 1809409.32663275
+        }
+      }
+    },
+    "program": "q4_P05",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 209375,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00010101000100000001010001010001",
+    "circuit_sha256": "c1288b697c391bcb08965a5c6b839d0be295a0e3af8f0a46c9632824a0e8338b",
+    "dem_ns": 15505750,
+    "dem_sha256": "4a5aa7dac5319c1de3605a9a776ae9e1e47d99a31f19c2e9a4fb4a0eb5e9518a",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.0700035210772755,
+      "col_degree_variance": 4.099304055683681,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.286285152655726,
+      "feature_time_ns": 652959,
+      "hyperedge_fraction": 0.4409221902017291,
+      "max_arity": 8,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 8250,
+      "prior_sum": 4.242757564525504,
+      "row_degree_variance": 969.609375,
+      "volume": 40,
+      "weighted_excess_arity": 3.029006803867895
+    },
+    "gates": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "name": "q4_P05_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.3485091812446623,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1561371.9031264752,
+          "raw_ns": 804935.4897615782
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3163073.1985095176,
+          "raw_ns": 1769598.2847929944
+        }
+      }
+    },
+    "program": "q4_P05",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 445000,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010100010001010001",
+    "circuit_sha256": "d60830c36f1ca682f9682141c70847d6ff9214de4b4d14dcd0e8af03f7a4768d",
+    "dem_ns": 15591583,
+    "dem_sha256": "4877befb49fb2d09815081e798262e5679b0933ae0675ebb32095c00b32ea135",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.06650142282026376,
+      "col_degree_variance": 9.655164348188254,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 12.866869477697346,
+      "feature_time_ns": 681125,
+      "hyperedge_fraction": 0.39346938775510204,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 9476,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 844.6865817263545,
+      "volume": 40,
+      "weighted_excess_arity": 4.575387984000579
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P06_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3507888068895514,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1908757.0115411552,
+          "raw_ns": 984023.2534248899
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3699154.7326809163,
+          "raw_ns": 2069511.977535205
+        }
+      }
+    },
+    "program": "q4_P06",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 370042,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100010100010001010001",
+    "circuit_sha256": "bb037ca106509f0ba4c9203732a2fca388bc2d97d4f88ce4e3536ac7b527e35b",
+    "dem_ns": 15341375,
+    "dem_sha256": "30ed280b31c49799a9b599ae861db96242e3891aba40ddfebab41f5bac554ad9",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.051156141166150824,
+      "col_degree_variance": 4.077589513360779,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.002122296020282,
+      "feature_time_ns": 604333,
+      "hyperedge_fraction": 0.34136212624584716,
+      "max_arity": 8,
+      "n_detectors": 528,
+      "n_faults": 2408,
+      "nnz": 7614,
+      "prior_sum": 4.242715315636447,
+      "row_degree_variance": 468.686854338843,
+      "volume": 40,
+      "weighted_excess_arity": 2.8996302182209712
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P06_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.35061996914673954,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1445767.4603184653,
+          "raw_ns": 745337.8252948683
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2955264.144982003,
+          "raw_ns": 1653338.3939817327
+        }
+      }
+    },
+    "program": "q4_P06",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 294000,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000000010001000101",
+    "circuit_sha256": "c8a7724a80be32997c971a26d04b1063ddddee2d793c20fba9089603c623e88e",
+    "dem_ns": 15687584,
+    "dem_sha256": "dfc0458cf32e9cc63651836160df32f8cf8ded4c672546a130edf7d36bc80638",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.06301636008951472,
+      "col_degree_variance": 8.396755351936692,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 12.387006496846308,
+      "feature_time_ns": 627459,
+      "hyperedge_fraction": 0.4073469387755102,
+      "max_arity": 12,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 9076,
+      "prior_sum": 4.242859759645626,
+      "row_degree_variance": 773.9338269054178,
+      "volume": 40,
+      "weighted_excess_arity": 4.205400681940614
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P07_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.3497011604028787,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1796916.3232586756,
+          "raw_ns": 926365.9207819331
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 3528575.1336965538,
+          "raw_ns": 1974080.304968903
+        }
+      }
+    },
+    "program": "q4_P07",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 220917,
+    "axis": "new_program_and_placement",
+    "blocks": 4,
+    "budget_ns": 5000000,
+    "canonical_map": "00000001000100000000010001000101",
+    "circuit_sha256": "daeee8696cdfe9e665b460c55d91192470dce10dbc4bbcc6fd37cfc31771355d",
+    "dem_ns": 15113708,
+    "dem_sha256": "993df4449a5ee5d3e88a09c3c139c4f772929b2ff1104131d616a67de1175ddd",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "features": {
+      "activation_second_moment": 0.044632915185151084,
+      "col_degree_variance": 1.7876635094569684,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 9.744196180381504,
+      "feature_time_ns": 640709,
+      "hyperedge_fraction": 0.3272951832029642,
+      "max_arity": 6,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 6666,
+      "prior_sum": 4.242706520962551,
+      "row_degree_variance": 381.389678030303,
+      "volume": 40,
+      "weighted_excess_arity": 2.013790206311272
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "name": "q4_P07_d5_w10_p0_001_burst",
+    "nearest_training_distance": 0.340375415379473,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "burst",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 2046022.0107700606,
+          "raw_ns": 540911.7547085708
+        },
+        "B2": {
+          "padded_ns": 1198325.516328129,
+          "raw_ns": 617773.852884072
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 3696357.841806539,
+          "raw_ns": 1260661.8597633657
+        },
+        "B2": {
+          "padded_ns": 2554834.9136994984,
+          "raw_ns": 1429316.110465689
+        }
+      }
+    },
+    "program": "q4_P07",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 6693730375,
+    "axis": "blocks_and_program",
+    "blocks": 6,
+    "budget_ns": 5000000,
+    "canonical_map": "000000000001000100000000000001000000010000010000010000000100010000000001",
+    "circuit_sha256": "ea58fb3185b74baff289023d72636e8da820240664899c47316bd955592a9b16",
+    "dem_ns": 23897792,
+    "dem_sha256": "bf083826d0069e16fea2742d6e7fbc64999c6a5cef2eb3523e8ea2369683f4f2",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.045291739474386146,
+      "col_degree_variance": 4.446525675051807,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.382208200992082,
+      "feature_time_ns": 771625,
+      "hyperedge_fraction": 0.3590585659551177,
+      "max_arity": 10,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11504,
+      "prior_sum": 6.344295553400548,
+      "row_degree_variance": 395.6332006938067,
+      "volume": 60,
+      "weighted_excess_arity": 2.9697805207816996
+    },
+    "gates": [
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "name": "q6_P00_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.543620558058354,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 2867186.5941727436,
+          "raw_ns": 1478123.3355083135
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 4760625.409931817,
+          "raw_ns": 2663357.4474112634
+        }
+      }
+    },
+    "program": "q6_P00",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 107464375,
+    "axis": "blocks_and_program",
+    "blocks": 6,
+    "budget_ns": 5000000,
+    "canonical_map": "000000000101000100000000000001010001000100010001010001000100000000000001",
+    "circuit_sha256": "5da45c00b6d52bd71fa9c61adbe5abfd6a14b8d5bafa7b37c68baf51d5854ab8",
+    "dem_ns": 23742916,
+    "dem_sha256": "259fd56896dc5369d148fbd9229b4448313e615a605a88e97fbf918fac1c556c",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.05816286076224862,
+      "col_degree_variance": 6.175422544937295,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 17.782273078825096,
+      "feature_time_ns": 844917,
+      "hyperedge_fraction": 0.44718117131910234,
+      "max_arity": 12,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 12832,
+      "prior_sum": 6.344295553400548,
+      "row_degree_variance": 642.8581777369656,
+      "volume": 60,
+      "weighted_excess_arity": 3.5602429806898526
+    },
+    "gates": [
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "name": "q6_P01_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.5376675191273705,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 3307992.8766174433,
+          "raw_ns": 1705372.602732295
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 5334250.4615252195,
+          "raw_ns": 2984275.062562345
+        }
+      }
+    },
+    "program": "q6_P01",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 160101375,
+    "axis": "blocks_and_program",
+    "blocks": 6,
+    "budget_ns": 5000000,
+    "canonical_map": "010000000000000100000001000001000101000001010100010000000100000001010101",
+    "circuit_sha256": "c5c13ec636ffd6bfeca0a94a6a223ba14d4a04f9aebee1132253c876f60c5c2b",
+    "dem_ns": 23661667,
+    "dem_sha256": "26803f09f9846d0e1f10b0292d7bdb1701cff83293330958a19b930831a21165",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.05464382570920058,
+      "col_degree_variance": 6.815508358625962,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 17.605844061564344,
+      "feature_time_ns": 913792,
+      "hyperedge_fraction": 0.34099616858237547,
+      "max_arity": 12,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 12550,
+      "prior_sum": 6.344295553400549,
+      "row_degree_variance": 554.7262715539231,
+      "volume": 60,
+      "weighted_excess_arity": 3.742488178429291
+    },
+    "gates": [
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "name": "q6_P02_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.5368227615463725,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 3230382.772268415,
+          "raw_ns": 1665362.1944307617
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 5228572.646151964,
+          "raw_ns": 2925153.0413225885
+        }
+      }
+    },
+    "program": "q6_P02",
+    "rounds": 10
+  },
+  {
+    "assembly_ns": 133942750,
+    "axis": "blocks_and_program",
+    "blocks": 6,
+    "budget_ns": 5000000,
+    "canonical_map": "000000000101000100000001000001010000000100010001010000000100000000000001",
+    "circuit_sha256": "7e4446950014af765ce403daa4e1dcbe407e0d2f53d9bd97663199c07e9cd72f",
+    "dem_ns": 23750542,
+    "dem_sha256": "2bba88e721653379b81d1b439b3fe37151cde4d86cdd311fe53fd64df6bee5f7",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "features": {
+      "activation_second_moment": 0.047619132579924964,
+      "col_degree_variance": 6.103083079358488,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.63560636262215,
+      "feature_time_ns": 867917,
+      "hyperedge_fraction": 0.3541324575807334,
+      "max_arity": 12,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11776,
+      "prior_sum": 6.344295553400548,
+      "row_degree_variance": 443.5433629221508,
+      "volume": 60,
+      "weighted_excess_arity": 3.402863574035247
+    },
+    "gates": [
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "name": "q6_P03_d5_w10_p0_001_spread",
+    "nearest_training_distance": 0.5386514850696559,
+    "outside_training_features": [],
+    "p": 0.001,
+    "placement": "spread",
+    "predictions": {
+      "mean_ns": {
+        "B0": {
+          "padded_ns": 4073948.3833464747,
+          "raw_ns": 1077039.5220717597
+        },
+        "B2": {
+          "padded_ns": 2951007.7885375796,
+          "raw_ns": 1521335.7527443077
+        }
+      },
+      "p95_ns": {
+        "B0": {
+          "padded_ns": 6050314.989892752,
+          "raw_ns": 2063491.0562621795
+        },
+        "B2": {
+          "padded_ns": 4872833.437315131,
+          "raw_ns": 2726132.8308235356
+        }
+      }
+    },
+    "program": "q6_P03",
+    "rounds": 10
+  }
+]

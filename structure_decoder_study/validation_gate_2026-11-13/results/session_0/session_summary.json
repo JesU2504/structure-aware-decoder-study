@@ -1,0 +1,29 @@
+{
+  "censored": [],
+  "client_measurement_date": "2026-11-15",
+  "config_sha256": "9d1dea10d258b15e4afdfccdf6171c1fbdb03172988b80ba1f56ebbd716fd4e7",
+  "configured_threads": {
+    "MKL_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1"
+  },
+  "evaluation_decoder_calls": 19968,
+  "finished_utc": "2026-11-15T11:21:59.879010+00:00",
+  "machine": "arm64",
+  "packages": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  },
+  "physical_evaluation_shots": 9728,
+  "physical_profiling_shots": 1216,
+  "physical_warmup_shots": 1216,
+  "pid": 13608,
+  "platform": "macOS-14.5-arm64-arm-64bit",
+  "python": "3.12.12 (main, Oct  9 2025, 11:07:00) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "session": 0,
+  "started_utc": "2026-11-15T11:21:32.952377+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "completed_consumer_gate_snapshot_verified": 10,
+  "date": "2026-11-16",
+  "files": {
+    "EXPERT_BRIEF.md": "351ff6cc99ccab67e30a9bb792c5885cb18fbaafdd095029503b241639eef702"
+  },
+  "no_new_decoder_calls": true,
+  "no_new_model_fits": true,
+  "no_outreach_performed": true,
+  "note": "Research-scoping brief; no new contribution or execution protocol claimed"
+}

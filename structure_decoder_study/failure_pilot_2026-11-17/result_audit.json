@@ -1,0 +1,97 @@
+{
+  "adapter_calls": 13,
+  "audit_source_sha256": "ad3ef8e9b01c365165d9815f044bab89bf812b19b4015fd8a5993feffaeca648",
+  "bp_nonconvergence_with_successful_lsd_calls": 185,
+  "cases_with_nonzero_true_logical_flips": 123,
+  "completed_decoder_calls": 525,
+  "conclusion": "No full-decoder failure on this fixed panel; stop local search as inconclusive for rare failure existence. No repair-headroom experiment triggered.",
+  "deterministic_stim_replays": 128,
+  "distinct_supports": 128,
+  "exact_injected_support_recovered_calls": 265,
+  "forced_comparator_adapter_valid": true,
+  "frozen_sha256": "e5cc32250bc3247f3cbb66aa662e447240c3da4ef7198ae44729ffc75b9daf30",
+  "new_random_noise_samples": 0,
+  "paired_sensitivity": {
+    "additive30_vs_additive100": {
+      "changed_classifications": 0,
+      "changed_corrections": 7
+    },
+    "exact100_vs_additive100": {
+      "changed_classifications": 0,
+      "changed_corrections": 3
+    },
+    "exact30_vs_additive30": {
+      "changed_classifications": 0,
+      "changed_corrections": 1
+    },
+    "exact30_vs_exact100": {
+      "changed_classifications": 0,
+      "changed_corrections": 7
+    }
+  },
+  "panel_calls": 512,
+  "panel_configurations": {
+    "additive100": {
+      "bp_iteration_range": [
+        1,
+        100
+      ],
+      "bp_nonconverged_then_lsd_correct": 46,
+      "correct": 128,
+      "median_decode_ms": 1.614604,
+      "median_initialization_ms": 5.8753125
+    },
+    "additive30": {
+      "bp_iteration_range": [
+        1,
+        30
+      ],
+      "bp_nonconverged_then_lsd_correct": 47,
+      "correct": 128,
+      "median_decode_ms": 1.6194585,
+      "median_initialization_ms": 5.9030625
+    },
+    "exact100": {
+      "bp_iteration_range": [
+        1,
+        100
+      ],
+      "bp_nonconverged_then_lsd_correct": 45,
+      "correct": 128,
+      "median_decode_ms": 1.590042,
+      "median_initialization_ms": 5.8890415
+    },
+    "exact30": {
+      "bp_iteration_range": [
+        1,
+        30
+      ],
+      "bp_nonconverged_then_lsd_correct": 47,
+      "correct": 128,
+      "median_decode_ms": 1.569666,
+      "median_initialization_ms": 5.881708
+    }
+  },
+  "passed": true,
+  "post_panel_decoder_calls": 0,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "consumer_gate_2026-11-16/manifest.json": 10,
+    "experimental_design_review_2026-11-16/manifest.json": 13,
+    "failure_target_2026-11-17/manifest.json": 25,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "research_reorientation_2026-11-16/manifest.json": 1,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "witness_found": false
+}

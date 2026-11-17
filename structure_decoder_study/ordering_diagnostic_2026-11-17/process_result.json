@@ -1,0 +1,5 @@
+{
+  "returncode": 0,
+  "stderr": "",
+  "stdout": "{\"status\": \"completed\", \"cases\": 24, \"stable_exact_matches\": 23, \"native_order_exact_matches\": 24, \"native_order_repeatable\": true, \"abi_adapters_passed\": true, \"native_decoder_calls\": 0, \"physical_shots\": 0, \"candidate_searches\": 0, \"elapsed_seconds\": 4.745333833000132, \"frozen_sha256\": \"0d7fcc9da3baa106b000c63b8ac23a836cdc3f107d86d069164a900f9e467b1b\", \"scope\": \"Implementation-derived ordering diagnostic on inspected cached panel; not hidden-pivot equivalence or a 1FV experiment\"}\n"
+}

@@ -1,0 +1,219 @@
+{
+  "always_burst_point_optimal_mean": 8,
+  "always_burst_point_optimal_p95": 8,
+  "bridge_pair_count": 8,
+  "bridge_pairs": [
+    {
+      "both_screen_qualified": true,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.24411959244791664,
+          "p95_wall_ns": 0.4164065
+        },
+        "spread": {
+          "mean_wall_ns": 0.3200380970052083,
+          "p95_wall_ns": 1.67271875
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.0003,
+      "p95_point_best": "burst",
+      "parent": "new/q4_P00"
+    },
+    {
+      "both_screen_qualified": false,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.5526054928385417,
+          "p95_wall_ns": 1.51336475
+        },
+        "spread": {
+          "mean_wall_ns": 0.8361428977864583,
+          "p95_wall_ns": 1.9060625
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.001,
+      "p95_point_best": "burst",
+      "parent": "new/q4_P00"
+    },
+    {
+      "both_screen_qualified": true,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.3630449049479167,
+          "p95_wall_ns": 1.69992675
+        },
+        "spread": {
+          "mean_wall_ns": 0.5759121223958333,
+          "p95_wall_ns": 1.956052
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.0003,
+      "p95_point_best": "burst",
+      "parent": "new/q4_P03"
+    },
+    {
+      "both_screen_qualified": false,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.7952736875,
+          "p95_wall_ns": 1.8925205
+        },
+        "spread": {
+          "mean_wall_ns": 1.0907935208333333,
+          "p95_wall_ns": 2.1471355
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.001,
+      "p95_point_best": "burst",
+      "parent": "new/q4_P03"
+    },
+    {
+      "both_screen_qualified": true,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.4333555729166667,
+          "p95_wall_ns": 1.88127125
+        },
+        "spread": {
+          "mean_wall_ns": 0.5603842408854166,
+          "p95_wall_ns": 2.29303175
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "spread",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.0003,
+      "p95_point_best": "burst",
+      "parent": "new/q6_P00"
+    },
+    {
+      "both_screen_qualified": false,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 1.0271471015625,
+          "p95_wall_ns": 2.03068775
+        },
+        "spread": {
+          "mean_wall_ns": 1.2464950885416668,
+          "p95_wall_ns": 2.45437475
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.001,
+      "p95_point_best": "burst",
+      "parent": "new/q6_P00"
+    },
+    {
+      "both_screen_qualified": true,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 0.5020279069010417,
+          "p95_wall_ns": 2.19119775
+        },
+        "spread": {
+          "mean_wall_ns": 0.5224047630208333,
+          "p95_wall_ns": 2.31151
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.0003,
+      "p95_point_best": "burst",
+      "parent": "new/q6_P03"
+    },
+    {
+      "both_screen_qualified": false,
+      "costs_ms": {
+        "burst": {
+          "mean_wall_ns": 1.1366771770833333,
+          "p95_wall_ns": 2.42975
+        },
+        "spread": {
+          "mean_wall_ns": 1.3071860227864582,
+          "p95_wall_ns": 2.5067605
+        }
+      },
+      "frozen_mean_prediction_choices": {
+        "linear_base6": "burst",
+        "linear_density8": "burst",
+        "linear_graph16": "burst",
+        "rbf_base6": "burst",
+        "rbf_density8": "burst",
+        "rbf_graph16": "burst"
+      },
+      "mean_point_best": "burst",
+      "p": 0.001,
+      "p95_point_best": "burst",
+      "parent": "new/q6_P03"
+    }
+  ],
+  "earlier_discovery_spread_point_reversals": [
+    {
+      "p95_ms": {
+        "burst": 1.7919648,
+        "spread": 1.7586397
+      },
+      "program": "q4_P05"
+    }
+  ],
+  "internal_root_check": true,
+  "no_new_measurements": true,
+  "scope": "Point-estimate calibration ranking only. Does not establish universal dominance, statistical ordering, or an admission-risk result."
+}

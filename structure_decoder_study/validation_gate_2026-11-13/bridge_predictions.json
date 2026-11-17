@@ -1,0 +1,1522 @@
+{
+  "bridge_q4_P00_d5_w10_p0_0003_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 4250.0,
+      "padded_ns": [
+        557390.8239486186,
+        2474679.308221808
+      ],
+      "raw_ns": [
+        237388.84402320272,
+        902724.614597203
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        670559.9255865719,
+        2895856.880284805
+      ],
+      "raw_ns": [
+        286918.67716109706,
+        1684077.0517171854
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        472666.3360384407,
+        2740183.47341825
+      ],
+      "raw_ns": [
+        196812.5045839502,
+        1623713.9498054085
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 88021.0,
+      "padded_ns": [
+        438271.63887392246,
+        2168074.1530066417
+      ],
+      "raw_ns": [
+        281141.10632318095,
+        1349088.7949777227
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 99208.0,
+      "padded_ns": [
+        472738.9799849691,
+        2091350.010502446
+      ],
+      "raw_ns": [
+        296760.14200215496,
+        1386062.9043085037
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 137750.0,
+      "padded_ns": [
+        359469.4723495041,
+        2782384.2983240746
+      ],
+      "raw_ns": [
+        255425.75439853314,
+        1674519.2271163978
+      ]
+    }
+  },
+  "bridge_q4_P00_d5_w10_p0_0003_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 4292.0,
+      "padded_ns": [
+        751686.2945135714,
+        3119615.1712508313
+      ],
+      "raw_ns": [
+        320137.92272100726,
+        1137987.210626719
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 5292.0,
+      "padded_ns": [
+        779978.1643201238,
+        3085156.6752825114
+      ],
+      "raw_ns": [
+        333736.4709433095,
+        1794163.7907479664
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 6791.0,
+      "padded_ns": [
+        653751.4382490789,
+        2758128.524655694
+      ],
+      "raw_ns": [
+        272214.13527257583,
+        1634347.409318929
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 88229.5,
+      "padded_ns": [
+        557080.3915766682,
+        2725530.516875526
+      ],
+      "raw_ns": [
+        357354.16966798,
+        1695967.2138461901
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 99270.5,
+      "padded_ns": [
+        576983.5704748319,
+        2562439.485149179
+      ],
+      "raw_ns": [
+        362199.29719454417,
+        1698282.1130200787
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 137854.5,
+      "padded_ns": [
+        478010.2329553541,
+        2846094.08137818
+      ],
+      "raw_ns": [
+        339656.44861249457,
+        1712861.6145226858
+      ]
+    }
+  },
+  "bridge_q4_P00_d5_w10_p0_001_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 4229.5,
+      "padded_ns": [
+        1511320.0390270096,
+        4389794.649213947
+      ],
+      "raw_ns": [
+        643660.6086769659,
+        1601328.976124989
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        1487113.409667427,
+        2591609.1527661416
+      ],
+      "raw_ns": [
+        636304.9684441971,
+        1507142.6806025147
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        1190692.5143466422,
+        2474432.8533360525
+      ],
+      "raw_ns": [
+        495789.8586601801,
+        1466241.6516243594
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 88166.0,
+      "padded_ns": [
+        980986.7092387659,
+        2484913.9530829126
+      ],
+      "raw_ns": [
+        629280.2551229225,
+        1546243.0405984763
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 99166.5,
+      "padded_ns": [
+        1000591.5625153192,
+        2310483.6432935353
+      ],
+      "raw_ns": [
+        628117.643668067,
+        1531295.8868187428
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 137625.0,
+      "padded_ns": [
+        745199.192800845,
+        2464027.146391538
+      ],
+      "raw_ns": [
+        529511.0729549448,
+        1482922.6987999643
+      ]
+    }
+  },
+  "bridge_q4_P00_d5_w10_p0_001_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 4209.0,
+      "padded_ns": [
+        2054683.0713499626,
+        5567065.264526237
+      ],
+      "raw_ns": [
+        875075.1145963859,
+        2030779.0300990709
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        2061664.0879568073,
+        3356337.7606928498
+      ],
+      "raw_ns": [
+        882143.281004552,
+        1951868.3533969305
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        1789125.2443267063,
+        3041670.5804102495
+      ],
+      "raw_ns": [
+        744969.9576694071,
+        1802362.1410882794
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 87958.5,
+      "padded_ns": [
+        1361004.7419529187,
+        3083432.750099519
+      ],
+      "raw_ns": [
+        873053.0222007163,
+        1918672.646624122
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 99020.5,
+      "padded_ns": [
+        1400657.4271536118,
+        2918645.9682477685
+      ],
+      "raw_ns": [
+        879257.5069474806,
+        1934361.4828136275
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P00",
+      "median_inference_wall_ns": 137604.0,
+      "padded_ns": [
+        1115948.986398026,
+        3131844.676740132
+      ],
+      "raw_ns": [
+        792952.2077575871,
+        1884834.5754043872
+      ]
+    }
+  },
+  "bridge_q4_P03_d5_w10_p0_0003_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 4541.0,
+      "padded_ns": [
+        724983.8484916682,
+        2849844.8581638113
+      ],
+      "raw_ns": [
+        336887.7286068868,
+        1218631.3319518361
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        748047.884627885,
+        3353823.4479452376
+      ],
+      "raw_ns": [
+        347297.47414449806,
+        1783291.9806439227
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 7292.0,
+      "padded_ns": [
+        2019976.2727480414,
+        3221584.6364739602
+      ],
+      "raw_ns": [
+        469526.6815913689,
+        1830227.118557537
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 88542.0,
+      "padded_ns": [
+        581425.4816258635,
+        3337619.3285651384
+      ],
+      "raw_ns": [
+        333177.5576532419,
+        1662145.09014172
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 99812.5,
+      "padded_ns": [
+        588013.3182769442,
+        2782190.814366704
+      ],
+      "raw_ns": [
+        335797.98489569454,
+        1668752.5683317995
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 138770.5,
+      "padded_ns": [
+        524872.8341877888,
+        3308300.551372331
+      ],
+      "raw_ns": [
+        381348.85173086054,
+        1793745.1275697227
+      ]
+    }
+  },
+  "bridge_q4_P03_d5_w10_p0_0003_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 4584.0,
+      "padded_ns": [
+        894149.4727485494,
+        3388293.0882726265
+      ],
+      "raw_ns": [
+        415496.13213592314,
+        1448878.9126104522
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 5291.0,
+      "padded_ns": [
+        829659.2663770963,
+        3617810.159296313
+      ],
+      "raw_ns": [
+        385187.3302959433,
+        1923658.7568489595
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 7270.5,
+      "padded_ns": [
+        2319515.861991266,
+        3498812.691365933
+      ],
+      "raw_ns": [
+        539152.1674151599,
+        1987724.239180631
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 88750.0,
+      "padded_ns": [
+        801676.5788133035,
+        3910185.3676953646
+      ],
+      "raw_ns": [
+        459389.2992269944,
+        1947284.8071181714
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 100062.5,
+      "padded_ns": [
+        802050.3304221214,
+        3264575.762509323
+      ],
+      "raw_ns": [
+        458028.54522051144,
+        1958086.1097196974
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 138875.0,
+      "padded_ns": [
+        632705.5789738335,
+        3525580.4031123165
+      ],
+      "raw_ns": [
+        459695.2448467834,
+        1911553.2496933306
+      ]
+    }
+  },
+  "bridge_q4_P03_d5_w10_p0_001_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 4520.5,
+      "padded_ns": [
+        1816590.6534810285,
+        4486557.589053401
+      ],
+      "raw_ns": [
+        844138.9423129433,
+        1918511.3305253794
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 5291.5,
+      "padded_ns": [
+        1799720.675985318,
+        3572306.040960721
+      ],
+      "raw_ns": [
+        835559.4043906076,
+        1899463.3480644426
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 7208.0,
+      "padded_ns": [
+        3926622.2306695958,
+        3425673.7630016506
+      ],
+      "raw_ns": [
+        912710.6742303598,
+        1946172.9949267912
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 88542.0,
+      "padded_ns": [
+        1405215.50113671,
+        3791120.051107813
+      ],
+      "raw_ns": [
+        805238.6478418476,
+        1887989.8990145416
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 99895.5,
+      "padded_ns": [
+        1412479.0108403575,
+        3172878.9970397293
+      ],
+      "raw_ns": [
+        806627.317451788,
+        1903086.5704735245
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 138645.5,
+      "padded_ns": [
+        1233060.282568693,
+        3607132.7063369094
+      ],
+      "raw_ns": [
+        895885.807464488,
+        1955770.5281055116
+      ]
+    }
+  },
+  "bridge_q4_P03_d5_w10_p0_001_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 4541.0,
+      "padded_ns": [
+        2244546.615262851,
+        5356717.322032606
+      ],
+      "raw_ns": [
+        1043002.8372926819,
+        2290603.134531347
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 5291.0,
+      "padded_ns": [
+        2350296.9147194144,
+        4478651.879303035
+      ],
+      "raw_ns": [
+        1091176.3788727275,
+        2381384.7402582015
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 7167.0,
+      "padded_ns": [
+        4586278.602165865,
+        4341534.916468462
+      ],
+      "raw_ns": [
+        1066042.310486604,
+        2466486.476972382
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 88562.0,
+      "padded_ns": [
+        1891618.5561738592,
+        4592274.1627893215
+      ],
+      "raw_ns": [
+        1083964.9627931323,
+        2286967.2065167567
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 99791.5,
+      "padded_ns": [
+        1886673.4968762116,
+        3849464.0091528357
+      ],
+      "raw_ns": [
+        1077426.5458197636,
+        2308900.9275723738
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q4_P03",
+      "median_inference_wall_ns": 138645.5,
+      "padded_ns": [
+        1522317.936289068,
+        4452613.042686566
+      ],
+      "raw_ns": [
+        1106047.3302480467,
+        2414186.0227781795
+      ]
+    }
+  },
+  "bridge_q6_P00_d5_w10_p0_0003_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 4250.0,
+      "padded_ns": [
+        807303.5999851574,
+        3567892.5145611153
+      ],
+      "raw_ns": [
+        387919.9861167066,
+        1269667.910467609
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        1081726.9326709665,
+        4804401.265457069
+      ],
+      "raw_ns": [
+        519680.02765852044,
+        2749302.905519647
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        1358197.5341051917,
+        4574693.015375197
+      ],
+      "raw_ns": [
+        585380.6544708693,
+        2603859.386995396
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 92583.5,
+      "padded_ns": [
+        720925.2060573039,
+        5467212.9608735
+      ],
+      "raw_ns": [
+        450616.337770565,
+        2828338.8779193093
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 104250.0,
+      "padded_ns": [
+        719263.9136018233,
+        3478667.7437091284
+      ],
+      "raw_ns": [
+        447980.6885297575,
+        1828074.8986258612
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 145375.0,
+      "padded_ns": [
+        700775.4968511411,
+        4311203.257283057
+      ],
+      "raw_ns": [
+        473142.4281702079,
+        2529273.929850392
+      ]
+    }
+  },
+  "bridge_q6_P00_d5_w10_p0_0003_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 4292.0,
+      "padded_ns": [
+        1052212.4690899025,
+        4473721.597431804
+      ],
+      "raw_ns": [
+        505601.9153248976,
+        1592015.6589481127
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 5292.0,
+      "padded_ns": [
+        1203665.1928674283,
+        4928235.806430297
+      ],
+      "raw_ns": [
+        578261.2430444226,
+        2820166.816440085
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        1343754.65430503,
+        4561295.103644966
+      ],
+      "raw_ns": [
+        579155.7996779818,
+        2596233.459286663
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 92479.0,
+      "padded_ns": [
+        901200.6194592846,
+        6102739.721491798
+      ],
+      "raw_ns": [
+        563297.9944732689,
+        3157114.2627229886
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 104479.0,
+      "padded_ns": [
+        874970.1289382308,
+        4193880.1929502143
+      ],
+      "raw_ns": [
+        544959.5251371245,
+        2203926.2365430235
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 145437.0,
+      "padded_ns": [
+        731093.6009492571,
+        4355706.426925537
+      ],
+      "raw_ns": [
+        493612.29541721713,
+        2555382.8140887497
+      ]
+    }
+  },
+  "bridge_q6_P00_d5_w10_p0_001_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 4333.0,
+      "padded_ns": [
+        2262528.6633453374,
+        6205195.393331382
+      ],
+      "raw_ns": [
+        1087174.7477525314,
+        2208176.7981913057
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        2280976.9566059373,
+        3605037.4723737123
+      ],
+      "raw_ns": [
+        1095820.1484089172,
+        2062970.898905825
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 6709.0,
+      "padded_ns": [
+        3174155.968558103,
+        3712691.6427930193
+      ],
+      "raw_ns": [
+        1368055.4202237644,
+        2113218.7345937327
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 92208.5,
+      "padded_ns": [
+        1552146.3048478656,
+        3565448.7203482403
+      ],
+      "raw_ns": [
+        970173.4350498843,
+        1844504.1934816828
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 104104.5,
+      "padded_ns": [
+        1548191.8771396694,
+        3601066.306435894
+      ],
+      "raw_ns": [
+        964263.6728764822,
+        1892396.5748058653
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 145312.5,
+      "padded_ns": [
+        1703730.4097101316,
+        3474935.0495005962
+      ],
+      "raw_ns": [
+        1150307.2619117394,
+        2038656.519795857
+      ]
+    }
+  },
+  "bridge_q6_P00_d5_w10_p0_001_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 4208.0,
+      "padded_ns": [
+        2961777.8848953787,
+        7821655.771659376
+      ],
+      "raw_ns": [
+        1423173.1854168712,
+        2783409.3374366323
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 5292.0,
+      "padded_ns": [
+        2987971.444758817,
+        4475200.379704787
+      ],
+      "raw_ns": [
+        1435472.3323944916,
+        2560918.7756998236
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        3455187.429248706,
+        4421907.015053873
+      ],
+      "raw_ns": [
+        1489179.4660676206,
+        2516895.4618093623
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 92209.0,
+      "padded_ns": [
+        2126214.869912156,
+        4591438.55136041
+      ],
+      "raw_ns": [
+        1328996.614271491,
+        2375276.8098346316
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 103937.5,
+      "padded_ns": [
+        2110819.1952142064,
+        4549083.01628089
+      ],
+      "raw_ns": [
+        1314686.0541058178,
+        2390588.893942862
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P00",
+      "median_inference_wall_ns": 145187.5,
+      "padded_ns": [
+        1816001.6451079834,
+        4070821.970985989
+      ],
+      "raw_ns": [
+        1226109.405634656,
+        2388248.307913412
+      ]
+    }
+  },
+  "bridge_q6_P03_d5_w10_p0_0003_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 4250.0,
+      "padded_ns": [
+        1050922.2229093937,
+        4337136.611960043
+      ],
+      "raw_ns": [
+        504992.34824786877,
+        1543620.9656446548
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        1220898.9367564495,
+        4968720.2105604345
+      ],
+      "raw_ns": [
+        587054.1320031268,
+        2843653.2187132267
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5500.0,
+      "padded_ns": [
+        1253034.053264359,
+        4750016.009864209
+      ],
+      "raw_ns": [
+        547817.7264140764,
+        2823966.5364701482
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 98792.0,
+      "padded_ns": [
+        871268.5215420688,
+        6028504.547699541
+      ],
+      "raw_ns": [
+        544689.899622532,
+        3120555.901477445
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 104291.0,
+      "padded_ns": [
+        850014.8928681575,
+        4086619.5237078276
+      ],
+      "raw_ns": [
+        529616.8639896548,
+        2149382.829928494
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 145270.5,
+      "padded_ns": [
+        728542.7511091939,
+        4550900.525292062
+      ],
+      "raw_ns": [
+        493903.2375284618,
+        2670441.3524430613
+      ]
+    }
+  },
+  "bridge_q6_P03_d5_w10_p0_0003_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 4333.5,
+      "padded_ns": [
+        1099099.7078600626,
+        4593842.984280632
+      ],
+      "raw_ns": [
+        528142.7400918637,
+        1634984.7786349878
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5333.0,
+      "padded_ns": [
+        1230895.0827843652,
+        4965779.512285248
+      ],
+      "raw_ns": [
+        591860.6550109892,
+        2841970.2247507726
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5562.5,
+      "padded_ns": [
+        1506041.1593667134,
+        4434020.861848637
+      ],
+      "raw_ns": [
+        658430.6640836605,
+        2636101.9646813856
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 100333.5,
+      "padded_ns": [
+        926864.8518153349,
+        6160540.5297397
+      ],
+      "raw_ns": [
+        579446.9909292724,
+        3188902.148826635
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 104645.5,
+      "padded_ns": [
+        896833.8440975058,
+        4288437.321369676
+      ],
+      "raw_ns": [
+        558788.2424365712,
+        2255530.1496268017
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 145479.5,
+      "padded_ns": [
+        784617.9677302372,
+        4219408.642414217
+      ],
+      "raw_ns": [
+        531918.4823333505,
+        2475923.887797007
+      ]
+    }
+  },
+  "bridge_q6_P03_d5_w10_p0_001_burst": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 4250.0,
+      "padded_ns": [
+        2949389.940742482,
+        7549055.535866108
+      ],
+      "raw_ns": [
+        1417249.8398129318,
+        2686768.123430769
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5291.0,
+      "padded_ns": [
+        2916737.754328002,
+        4315790.715966407
+      ],
+      "raw_ns": [
+        1402477.2232145441,
+        2469974.488534599
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5459.0,
+      "padded_ns": [
+        3141659.2716323263,
+        4139719.649214605
+      ],
+      "raw_ns": [
+        1373511.4659251997,
+        2461134.812066493
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 96250.0,
+      "padded_ns": [
+        2044390.207426155,
+        4495327.736332451
+      ],
+      "raw_ns": [
+        1278088.9809967407,
+        2326932.2243508114
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 104312.5,
+      "padded_ns": [
+        2014106.4117361824,
+        4453674.479706821
+      ],
+      "raw_ns": [
+        1254924.7436428457,
+        2342437.6556805577
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 145291.0,
+      "padded_ns": [
+        1788125.3813778542,
+        4123976.344161709
+      ],
+      "raw_ns": [
+        1212229.3628270135,
+        2419924.7829614156
+      ]
+    }
+  },
+  "bridge_q6_P03_d5_w10_p0_001_spread": {
+    "linear_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 4229.5,
+      "padded_ns": [
+        3096212.848239355,
+        8031657.498084782
+      ],
+      "raw_ns": [
+        1487801.6306278245,
+        2858529.9500902556
+      ]
+    },
+    "linear_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5250.0,
+      "padded_ns": [
+        3115440.4988860316,
+        4603756.84258541
+      ],
+      "raw_ns": [
+        1498020.9768548363,
+        2634780.6696313093
+      ]
+    },
+    "linear_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 5500.0,
+      "padded_ns": [
+        3914974.846737536,
+        4136544.9274792722
+      ],
+      "raw_ns": [
+        1711599.6280554219,
+        2459247.3851768645
+      ]
+    },
+    "rbf_base6": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 95583.5,
+      "padded_ns": [
+        2236756.4921136154,
+        4777327.062865332
+      ],
+      "raw_ns": [
+        1398350.3811351513,
+        2472904.522399529
+      ]
+    },
+    "rbf_density8": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 104166.5,
+      "padded_ns": [
+        2221555.1714149397,
+        4717399.194635016
+      ],
+      "raw_ns": [
+        1384179.3748986397,
+        2481145.3016471057
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "mixed_noise",
+      "held": "new/q6_P03",
+      "median_inference_wall_ns": 145395.5,
+      "padded_ns": [
+        2047357.690638709,
+        4135670.7446927605
+      ],
+      "raw_ns": [
+        1387971.522941823,
+        2426786.9876166466
+      ]
+    }
+  },
+  "d5_q2_memory_none": {
+    "linear_base6": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 4291.0,
+      "padded_ns": [
+        215220.8377649621,
+        817882.4048186459
+      ],
+      "raw_ns": [
+        138751.98733305908,
+        507646.95784296055
+      ]
+    },
+    "linear_density8": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 5312.5,
+      "padded_ns": [
+        218381.08266660478,
+        778618.5449377884
+      ],
+      "raw_ns": [
+        142628.60954793682,
+        502237.00086905307
+      ]
+    },
+    "linear_graph16": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 6791.0,
+      "padded_ns": [
+        203992.88085346247,
+        760687.7803672889
+      ],
+      "raw_ns": [
+        138143.9718216123,
+        459987.7688997845
+      ]
+    },
+    "rbf_base6": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 64666.5,
+      "padded_ns": [
+        241551.56575402798,
+        794443.1186681631
+      ],
+      "raw_ns": [
+        154272.66503007483,
+        578833.8755594568
+      ]
+    },
+    "rbf_density8": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 71625.0,
+      "padded_ns": [
+        231521.0395287058,
+        591432.4543833411
+      ],
+      "raw_ns": [
+        146937.49412504188,
+        556534.5239791265
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "original",
+      "held": "old/memory",
+      "median_inference_wall_ns": 96000.0,
+      "padded_ns": [
+        225134.57537091107,
+        694893.1895246509
+      ],
+      "raw_ns": [
+        163297.69142987247,
+        591934.252856138
+      ]
+    }
+  },
+  "d5_q4_chain_spread": {
+    "linear_base6": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 4292.0,
+      "padded_ns": [
+        1465521.8532144018,
+        3314676.4667842775
+      ],
+      "raw_ns": [
+        887356.2694376127,
+        1898615.1043548363
+      ]
+    },
+    "linear_density8": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 5333.0,
+      "padded_ns": [
+        1331575.2165338232,
+        3132373.331891349
+      ],
+      "raw_ns": [
+        793184.9791108099,
+        1830284.7697964045
+      ]
+    },
+    "linear_graph16": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        1254977.6262830636,
+        3510921.29914492
+      ],
+      "raw_ns": [
+        818375.0886690234,
+        1816654.350259018
+      ]
+    },
+    "rbf_base6": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 67708.5,
+      "padded_ns": [
+        1296461.8945385185,
+        2958303.13943084
+      ],
+      "raw_ns": [
+        805327.5966998388,
+        1820942.3404930937
+      ]
+    },
+    "rbf_density8": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 69729.5,
+      "padded_ns": [
+        1338513.1432831273,
+        3102197.90008177
+      ],
+      "raw_ns": [
+        811630.4766054758,
+        1792187.1005393285
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "original",
+      "held": "old/chain",
+      "median_inference_wall_ns": 93042.0,
+      "padded_ns": [
+        1177314.915469598,
+        3674929.2679656493
+      ],
+      "raw_ns": [
+        818974.933670831,
+        1862244.8712864192
+      ]
+    }
+  },
+  "d5_q4_cycle_late": {
+    "linear_base6": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 4375.0,
+      "padded_ns": [
+        2812335.9556459677,
+        3701521.697900243
+      ],
+      "raw_ns": [
+        1737199.2305433087,
+        2975224.4505790626
+      ]
+    },
+    "linear_density8": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 5458.0,
+      "padded_ns": [
+        2988872.2202273672,
+        3718093.5335963806
+      ],
+      "raw_ns": [
+        1841784.677767514,
+        2979119.7136790287
+      ]
+    },
+    "linear_graph16": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 6750.0,
+      "padded_ns": [
+        2955232.986733179,
+        4063168.1185325114
+      ],
+      "raw_ns": [
+        1816243.9531006322,
+        3148863.3936431473
+      ]
+    },
+    "rbf_base6": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 64833.5,
+      "padded_ns": [
+        2960859.6258884068,
+        3890727.159084849
+      ],
+      "raw_ns": [
+        1880616.1887307744,
+        3134869.14288335
+      ]
+    },
+    "rbf_density8": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 69750.0,
+      "padded_ns": [
+        3418857.888526726,
+        4280403.884994712
+      ],
+      "raw_ns": [
+        2121422.735090805,
+        3491212.3862042394
+      ]
+    },
+    "rbf_graph16": {
+      "domain": "original",
+      "held": "old/cycle",
+      "median_inference_wall_ns": 93084.0,
+      "padded_ns": [
+        2660365.0043538534,
+        4374289.633184748
+      ],
+      "raw_ns": [
+        1915845.1956494243,
+        3272355.108933377
+      ]
+    }
+  }
+}

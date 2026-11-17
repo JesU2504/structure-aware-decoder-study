@@ -1,0 +1,1434 @@
+[
+  {
+    "blocks": 2,
+    "distance": 5,
+    "events": [],
+    "family": "memory",
+    "feature_timing": {
+      "base_density_ns": 22479.0,
+      "full_stable_ns": 391958.0
+    },
+    "features": {
+      "col_degree_p95": 2.0,
+      "col_degree_var": 0.09988568430126873,
+      "component_size_second_moment": 0.5,
+      "components": 2,
+      "distance": 5,
+      "expected_activity": 4.321736893107782,
+      "expected_activity_density": 0.01385172081124289,
+      "hyperedge_fraction": 0.0,
+      "largest_component_fraction": 0.5,
+      "mean_mechanism_prior": 0.0017703981681354269,
+      "n_detectors": 312,
+      "n_faults": 1386,
+      "nnz": 2616,
+      "prior_sum": 2.4537718610357016,
+      "row_degree_p95": 12.0,
+      "row_degree_var": 5.313609467455621
+    },
+    "files": {
+      ".dem": "809eb9abfe452dc671d0a88d58547d858903fe4251857e890bfa7b384f018be0",
+      ".npz": "80a2b5be770984531b8cb65918cc2bf1dd60707166fb0a0475a3274c92562d75",
+      ".stim": "abe59699789a39cdf1dde5ddc023aa72f3491cb6e55dffda80026094211485f4"
+    },
+    "gates": [],
+    "literal_source": "circuits/d5_q2_memory_none.stim",
+    "n_qubits": 98,
+    "name": "d5_q2_memory_none",
+    "p": 0.001,
+    "parent": "old/memory",
+    "placement": "none",
+    "rounds": 12,
+    "source": "old_exact",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "distance": 5,
+    "events": [
+      2,
+      6,
+      10
+    ],
+    "family": "chain",
+    "feature_timing": {
+      "base_density_ns": 39125.0,
+      "full_stable_ns": 600937.5
+    },
+    "features": {
+      "col_degree_p95": 6.0,
+      "col_degree_var": 3.061677880114094,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.995586051291106,
+      "expected_activity_density": 0.019223695595017798,
+      "hyperedge_fraction": 0.32275132275132273,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017522137496561107,
+      "n_detectors": 624,
+      "n_faults": 2835,
+      "nnz": 8344,
+      "prior_sum": 4.967525980275074,
+      "row_degree_p95": 28.250000000000114,
+      "row_degree_var": 609.0092044707429
+    },
+    "files": {
+      ".dem": "092b9fd7c950040e4944d52bcea3e152ef97190609c5861380633fd56373793b",
+      ".npz": "b64d241d16b5616dffd2adc714a090713accf8468ae07089435ed32c199d01b2",
+      ".stim": "1b5c04a61b5c325a56b73408d116a7317b310781af93fe64fc13af3c697e7d06"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "literal_source": "circuits/d5_q4_chain_spread.stim",
+    "n_qubits": 196,
+    "name": "d5_q4_chain_spread",
+    "p": 0.001,
+    "parent": "old/chain",
+    "placement": "spread",
+    "rounds": 12,
+    "source": "old_exact",
+    "ticks": 71
+  },
+  {
+    "blocks": 4,
+    "distance": 5,
+    "events": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "family": "cycle",
+    "feature_timing": {
+      "base_density_ns": 43437.5,
+      "full_stable_ns": 697583.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 8.053780335663676,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.28670117739516,
+      "expected_activity_density": 0.026100482656081985,
+      "hyperedge_fraction": 0.5896358543417367,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017463305554422139,
+      "n_detectors": 624,
+      "n_faults": 2856,
+      "nnz": 13116,
+      "prior_sum": 4.987520066342963,
+      "row_degree_p95": 113.00000000000045,
+      "row_degree_var": 2599.6919378698226
+    },
+    "files": {
+      ".dem": "dd9193f78aada75208e842ee8779f88fff73514cb8f8b4f779fe6930a1a1ccfc",
+      ".npz": "9367f25b3e182fcfef1e7f18f5aa7b4f0cc84862e97874b0d0d5c9a9d0ecd310",
+      ".stim": "f16ec70beea5f05a37c4011547935c70d33f4b44d47e8d3ae4b3c066dd7d5f42"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "literal_source": "circuits/d5_q4_cycle_late.stim",
+    "n_qubits": 196,
+    "name": "d5_q4_cycle_late",
+    "p": 0.001,
+    "parent": "old/cycle",
+    "placement": "late",
+    "rounds": 12,
+    "source": "old_exact",
+    "ticks": 72
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "01000001000101000100010000010101",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 34396.0,
+      "full_stable_ns": 559354.0
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 5.3451102040816325,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 3.8395616252816493,
+      "expected_activity_density": 0.007271897017578881,
+      "hyperedge_fraction": 0.5077551020408163,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005202027549766986,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_p95": 74.0,
+      "row_degree_var": 674.8201905417814
+    },
+    "files": {
+      ".dem": "17cb7bbda37235e38f8886dee09a8c8ac6f7330e027f0a8cbc1adae7643a7fe2",
+      ".npz": "c80b3f9e2e20a7d8ae23eac46ef1bc72a4efb07dcbb34d83f8eff1e6ceb8c979",
+      ".stim": "50a45efc874571a36dbc2fbd31c036383468e6788efb4c4ac3b3035105a7ed42"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P00_d5_w10_p0_0003_spread",
+    "p": 0.0003,
+    "parent": "new/q4_P00",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "01000001000101000100010000010101",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 32209.0,
+      "full_stable_ns": 504292.0
+    },
+    "features": {
+      "col_degree_p95": 6.0,
+      "col_degree_var": 1.9308730227467912,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 3.27329842455758,
+      "expected_activity_density": 0.006199428834389356,
+      "hyperedge_fraction": 0.42363112391930835,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005246989779450988,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 7240,
+      "prior_sum": 1.2744938174286449,
+      "row_degree_p95": 57.0,
+      "row_degree_var": 379.8110651974288
+    },
+    "files": {
+      ".dem": "19b1016d893e46003a6d8300a35fbe6d5c990b97eaf2dcfacd774588eecf8071",
+      ".npz": "dea532a93179524c4232ef79882dc02acb51ecb31f0abeb53b55bc8dbf158cb3",
+      ".stim": "6f5a70c409e31bfb185579c288634e9de49fa26c3b026091fb1cc36e8e7f5af4"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P00_d5_w10_p0_0003_burst",
+    "p": 0.0003,
+    "parent": "new/q4_P00",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "01000001000101000100010000010101",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 34312.5,
+      "full_stable_ns": 550812.5
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 5.3451102040816325,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 12.21189247732908,
+      "expected_activity_density": 0.023128584237365683,
+      "hyperedge_fraction": 0.5077551020408163,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017317794937329084,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 8876,
+      "prior_sum": 4.242859759645626,
+      "row_degree_p95": 74.0,
+      "row_degree_var": 674.8201905417814
+    },
+    "files": {
+      ".dem": "1af364912f63b7ce80f07ff4483a6aec824df894b4ab9c8c1750af4742e644ea",
+      ".npz": "02563c9331f270666807862abda31ffbf7175ba3a6a8d9558f1a96e4f9a61192",
+      ".stim": "c7536c142c8a27948b1a9396da30e182e0b484aeb6975ed05d5ba817389e1d30"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P00_d5_w10_p0_001_spread",
+    "p": 0.001,
+    "parent": "new/q4_P00",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "01000001000101000100010000010101",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 32187.0,
+      "full_stable_ns": 507104.5
+    },
+    "features": {
+      "col_degree_p95": 6.0,
+      "col_degree_var": 1.9308730227467912,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 10.542892900803615,
+      "expected_activity_density": 0.019967600190915938,
+      "hyperedge_fraction": 0.42363112391930835,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017467382262560248,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 7240,
+      "prior_sum": 4.242827151575884,
+      "row_degree_p95": 57.0,
+      "row_degree_var": 379.8110651974288
+    },
+    "files": {
+      ".dem": "e709e1f748de4353ccc617daf501c840b99edb26003a88e890074d1c2aaa0bbe",
+      ".npz": "6a36a8c615f790c40920207c98e39412b9ce99ce59b8a79597e71bb53d6fecc0",
+      ".stim": "dc598409a82e8a6112969e8050a8f53adcff0031b47264569e6048bcbfb7ba65"
+    },
+    "gates": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P00_d5_w10_p0_001_burst",
+    "p": 0.001,
+    "parent": "new/q4_P00",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "00000001000100010001010101010000",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 34562.0,
+      "full_stable_ns": 567583.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 9.930208413161184,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 4.301749012227483,
+      "expected_activity_density": 0.008147251917097505,
+      "hyperedge_fraction": 0.4220408163265306,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005202027549766986,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 1.2744967496929114,
+      "row_degree_p95": 100.0,
+      "row_degree_var": 1105.494432966024
+    },
+    "files": {
+      ".dem": "c7a1cb9cf1beb810aee69997c54804e4ad5fd6e1ce2f72f9bc04d10a98c8d448",
+      ".npz": "a5204dcc84e91fd28fd454003e3e382434647888bf97eb84bd0ce65d1bb893d8",
+      ".stim": "d3cb6cc81bd5508da765ce4ad99975842817299a56a59949fe03f2ffc8953d60"
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P03_d5_w10_p0_0003_spread",
+    "p": 0.0003,
+    "parent": "new/q4_P03",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "00000001000100010001010101010000",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 33478.5,
+      "full_stable_ns": 534166.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 6.686252519262154,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 3.770231303169912,
+      "expected_activity_density": 0.007140589589336955,
+      "hyperedge_fraction": 0.3618773157678057,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005246957915608354,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 8660,
+      "prior_sum": 1.2744860777012692,
+      "row_degree_p95": 82.59999999999991,
+      "row_degree_var": 829.7781795224977
+    },
+    "files": {
+      ".dem": "4c1bf4bc095e031a5022159c2e9c95c43d2112f568b7abb52565281907ab50fa",
+      ".npz": "6f62be89877e00286538dc2123d1cb392f3976b6998355a33ea02da493f101f2",
+      ".stim": "f3ee28b4fb99131a9debc4b8afca45a144e0ed6ede0ebc4c076a312419942b10"
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P03_d5_w10_p0_0003_burst",
+    "p": 0.0003,
+    "parent": "new/q4_P03",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "00000001000100010001010101010000",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 35062.0,
+      "full_stable_ns": 570479.0
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 9.930208413161184,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 13.479029463886672,
+      "expected_activity_density": 0.025528464893724758,
+      "hyperedge_fraction": 0.4220408163265306,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017317794937329084,
+      "n_detectors": 528,
+      "n_faults": 2450,
+      "nnz": 10132,
+      "prior_sum": 4.242859759645626,
+      "row_degree_p95": 100.0,
+      "row_degree_var": 1105.494432966024
+    },
+    "files": {
+      ".dem": "1a26ed8c258cb5be97c6033b3ef4e49b7915857bf8c36f4ec624bb79546b08e6",
+      ".npz": "cdbd0df65ff15b735f70142d4f98e201e6a7849bf59aa17f8d99256fd70cb8f1",
+      ".stim": "d57019f248aa2ccdd0b8a0a2440bb958600b7a8fbb6618533889dd467faafc42"
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P03_d5_w10_p0_001_spread",
+    "p": 0.001,
+    "parent": "new/q4_P03",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 4,
+    "canonical_map": "00000001000100010001010101010000",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 33562.5,
+      "full_stable_ns": 529895.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 6.686252519262154,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 11.920853709853269,
+      "expected_activity_density": 0.022577374450479675,
+      "hyperedge_fraction": 0.3618773157678057,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017467029356454486,
+      "n_detectors": 528,
+      "n_faults": 2429,
+      "nnz": 8660,
+      "prior_sum": 4.242741430682795,
+      "row_degree_p95": 82.59999999999991,
+      "row_degree_var": 829.7781795224977
+    },
+    "files": {
+      ".dem": "b047f8e9f61edc0dcd27e3d6ffffdc6530d073cc46b9e56552f958f4e816b9d9",
+      ".npz": "d1892af4c9805550a306214c9429e968a0dc682db1ab14a5c874715cc54ea755",
+      ".stim": "d71f7140b84a47ce5f68460c7752ef12f824b4c485de16281af964dfbaac5730"
+    },
+    "gates": [
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 196,
+    "name": "bridge_q4_P03_d5_w10_p0_001_burst",
+    "p": 0.001,
+    "parent": "new/q4_P03",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 64
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000001000100000000000001000000010000010000010000000100010000000001",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 44416.5,
+      "full_stable_ns": 653312.5
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 4.446525675051807,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 5.087547995868808,
+      "expected_activity_density": 0.006423671711955565,
+      "hyperedge_fraction": 0.3590585659551177,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005215505353189238,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11504,
+      "prior_sum": 1.9057456560553476,
+      "row_degree_p95": 54.349999999999795,
+      "row_degree_var": 395.6332006938067
+    },
+    "files": {
+      ".dem": "42162ce1296d54f1ccc9cf8d6e469b733706ce5a35b35579fd646cac2dd03fb9",
+      ".npz": "c9ee31fa9219c4ea39d6670cea2d608a434bee500d725b0d16fb1b88035deb26",
+      ".stim": "d36618db1d6a81cc74703c9f3272cc750ebd4cd606e8260f57316ee585274941"
+    },
+    "gates": [
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P00_d5_w10_p0_0003_spread",
+    "p": 0.0003,
+    "parent": "new/q6_P00",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000001000100000000000001000000010000010000010000000100010000000001",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 41521.0,
+      "full_stable_ns": 578583.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 4.062094298689371,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 4.355966016323604,
+      "expected_activity_density": 0.005499957091317682,
+      "hyperedge_fraction": 0.16279069767441862,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.000527606776815092,
+      "n_detectors": 792,
+      "n_faults": 3612,
+      "nnz": 9458,
+      "prior_sum": 1.9057156778561124,
+      "row_degree_p95": 40.79999999999973,
+      "row_degree_var": 238.5168286399347
+    },
+    "files": {
+      ".dem": "23f707a9ef6575c06f851e56036322ec7ab7db5677171bc9731ddff9334725a7",
+      ".npz": "e1f9dd3aaf4e306cc1814a7ef6fb9020f50ea8ab9591d62dd03ba41ba41bdb2e",
+      ".stim": "ecf764692db5eb7b7698e3aa3c2a875a44091c1e7c3bf62f2f3a1e295e4fde66"
+    },
+    "gates": [
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P00_d5_w10_p0_0003_burst",
+    "p": 0.0003,
+    "parent": "new/q6_P00",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000001000100000000000001000000010000010000010000000100010000000001",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 44583.5,
+      "full_stable_ns": 664292.0
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 4.446525675051807,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.382208200992082,
+      "expected_activity_density": 0.02068460631438394,
+      "hyperedge_fraction": 0.3590585659551177,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017362604141763953,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11504,
+      "prior_sum": 6.344295553400548,
+      "row_degree_p95": 54.349999999999795,
+      "row_degree_var": 395.6332006938067
+    },
+    "files": {
+      ".dem": "bf083826d0069e16fea2742d6e7fbc64999c6a5cef2eb3523e8ea2369683f4f2",
+      ".npz": "23f6b674e73e9c1575b7c2977649446c66da2a4458afa529f709158280d5b02b",
+      ".stim": "ea58fb3185b74baff289023d72636e8da820240664899c47316bd955592a9b16"
+    },
+    "gates": [
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P00_d5_w10_p0_001_spread",
+    "p": 0.001,
+    "parent": "new/q6_P00",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000001000100000000000001000000010000010000010000000100010000000001",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 43062.5,
+      "full_stable_ns": 606375.0
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 4.062094298689371,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 14.14325820125067,
+      "expected_activity_density": 0.017857649244003373,
+      "hyperedge_fraction": 0.16279069767441862,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017563574957752794,
+      "n_detectors": 792,
+      "n_faults": 3612,
+      "nnz": 9458,
+      "prior_sum": 6.343963274740309,
+      "row_degree_p95": 40.79999999999973,
+      "row_degree_var": 238.5168286399347
+    },
+    "files": {
+      ".dem": "3dba823452da347d14ba57ea4bcfa744e02c157cdbdf1ea70d97fe6b28070381",
+      ".npz": "145b5c83e221e16e3933f4361115d8c947e2f3b9911839c5ea2ae461b62b03fb",
+      ".stim": "1d478e89760570ea36026a7e1ec57644ee29de5848bf8b5baf80826d415876b2"
+    },
+    "gates": [
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P00_d5_w10_p0_001_burst",
+    "p": 0.001,
+    "parent": "new/q6_P00",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000101000100000001000001010000000100010001010000000100000000000001",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 44645.5,
+      "full_stable_ns": 663770.5
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 6.103083079358488,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 5.176491470422652,
+      "expected_activity_density": 0.00653597407881648,
+      "hyperedge_fraction": 0.3541324575807334,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005215505353189238,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11776,
+      "prior_sum": 1.9057456560553476,
+      "row_degree_p95": 57.79999999999973,
+      "row_degree_var": 443.5433629221508
+    },
+    "files": {
+      ".dem": "5476e1cf4f1544b04dbd77977ba089e1453d81e230c5b69d951a132ecb64e05e",
+      ".npz": "b323c860879605a1ec5a123aa58746bb18e406e1a5ee2fb05360c5a68e500d62",
+      ".stim": "a0f500c30d9377283999ea596373d93cb9c18f89fd4f947fbf129904e7ce799b"
+    },
+    "gates": [
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P03_d5_w10_p0_0003_spread",
+    "p": 0.0003,
+    "parent": "new/q6_P03",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000101000100000001000001010000000100010001010000000100000000000001",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 43750.0,
+      "full_stable_ns": 633166.5
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 3.519483336564715,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 4.964557883758345,
+      "expected_activity_density": 0.006268381166361547,
+      "hyperedge_fraction": 0.3674649050371594,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0005245618197778603,
+      "n_detectors": 792,
+      "n_faults": 3633,
+      "nnz": 11222,
+      "prior_sum": 1.9057330912529664,
+      "row_degree_p95": 59.14999999999952,
+      "row_degree_var": 539.5976367207428
+    },
+    "files": {
+      ".dem": "5f52acba7021bcc774f167e29f04525e0d34c300f266e3ef93310b7a433687d7",
+      ".npz": "7da955c9c4ea02c71c21e8e3ada17d996a8e65ae0248c8fa1c745a11dceff558",
+      ".stim": "37686f73ae88c4303e02db65154cc4e055d993a85a874e0569f1be01ddee36ee"
+    },
+    "gates": [
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P03_d5_w10_p0_0003_burst",
+    "p": 0.0003,
+    "parent": "new/q6_P03",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000101000100000001000001010000000100010001010000000100000000000001",
+    "distance": 5,
+    "events": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "feature_timing": {
+      "base_density_ns": 45104.5,
+      "full_stable_ns": 658750.0
+    },
+    "features": {
+      "col_degree_p95": 10.0,
+      "col_degree_var": 6.103083079358488,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 16.63560636262215,
+      "expected_activity_density": 0.02100455348815928,
+      "hyperedge_fraction": 0.3541324575807334,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017362604141763953,
+      "n_detectors": 792,
+      "n_faults": 3654,
+      "nnz": 11776,
+      "prior_sum": 6.344295553400548,
+      "row_degree_p95": 57.79999999999973,
+      "row_degree_var": 443.5433629221508
+    },
+    "files": {
+      ".dem": "2bba88e721653379b81d1b439b3fe37151cde4d86cdd311fe53fd64df6bee5f7",
+      ".npz": "eb7a87518f4e8112c31d108785902dcf28dcc7210f07bda7d56543e171282be7",
+      ".stim": "7e4446950014af765ce403daa4e1dcbe407e0d2f53d9bd97663199c07e9cd72f"
+    },
+    "gates": [
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P03_d5_w10_p0_001_spread",
+    "p": 0.001,
+    "parent": "new/q6_P03",
+    "placement": "spread",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  },
+  {
+    "blocks": 6,
+    "canonical_map": "000000000101000100000001000001010000000100010001010000000100000000000001",
+    "distance": 5,
+    "events": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "feature_timing": {
+      "base_density_ns": 43687.0,
+      "full_stable_ns": 619729.0
+    },
+    "features": {
+      "col_degree_p95": 8.0,
+      "col_degree_var": 3.519483336564715,
+      "component_size_second_moment": 1.0,
+      "components": 1,
+      "distance": 5,
+      "expected_activity": 15.88869498138631,
+      "expected_activity_density": 0.02006148356235645,
+      "hyperedge_fraction": 0.3674649050371594,
+      "largest_component_fraction": 1.0,
+      "mean_mechanism_prior": 0.0017462582533231904,
+      "n_detectors": 792,
+      "n_faults": 3633,
+      "nnz": 11222,
+      "prior_sum": 6.344156234323151,
+      "row_degree_p95": 59.14999999999952,
+      "row_degree_var": 539.5976367207428
+    },
+    "files": {
+      ".dem": "958b3639b4c08a75a9c0ad801467da47b2e370c2e7614781ef7833630b3fbcf4",
+      ".npz": "cec88fe326174bc6baac91beff2351120177aac47ec0f290df05d9a568162c58",
+      ".stim": "404fd7cab33d8a5e6e20b81d2571768191cdeee646791595e9ca7b268b00d7df"
+    },
+    "gates": [
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "n_qubits": 294,
+    "name": "bridge_q6_P03_d5_w10_p0_001_burst",
+    "p": 0.001,
+    "parent": "new/q6_P03",
+    "placement": "burst",
+    "rounds": 10,
+    "source": "new_parent_calibration",
+    "ticks": 70
+  }
+]

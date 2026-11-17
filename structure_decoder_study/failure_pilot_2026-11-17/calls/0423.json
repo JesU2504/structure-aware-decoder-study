@@ -1,0 +1,29 @@
+{
+  "bp_converged": true,
+  "bp_iterations": 1,
+  "bp_sha256": "15149a0dccda105c6b0f12426f600564519d36e45ced9a58f7fcc714df1968e0",
+  "case_id": 112,
+  "cluster_count": 0,
+  "config": {
+    "max_iter": 30,
+    "name": "additive30",
+    "prior": "additive"
+  },
+  "correction_sha256": "15149a0dccda105c6b0f12426f600564519d36e45ced9a58f7fcc714df1968e0",
+  "decode_cpu_ns": 598000,
+  "decode_wall_ns": 598042,
+  "forced": false,
+  "index": 423,
+  "init_cpu_ns": 5834000,
+  "init_wall_ns": 5848208,
+  "logical_difference": 0,
+  "method": "LSD_0",
+  "order": 0,
+  "outcome": "correct",
+  "phase": "panel",
+  "postprocessing_observed": null,
+  "statistics": null,
+  "statistics_enabled": false,
+  "syndrome_residual": 0,
+  "zero_syndrome": false
+}

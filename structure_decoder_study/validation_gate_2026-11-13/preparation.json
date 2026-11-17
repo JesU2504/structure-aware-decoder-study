@@ -1,0 +1,117 @@
+{
+  "cases": 19,
+  "checks": [
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "d5_q2_memory_none"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "d5_q4_chain_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "d5_q4_cycle_late"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P00_d5_w10_p0_0003_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P00_d5_w10_p0_0003_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P00_d5_w10_p0_001_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P00_d5_w10_p0_001_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P03_d5_w10_p0_0003_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P03_d5_w10_p0_0003_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P03_d5_w10_p0_001_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q4_P03_d5_w10_p0_001_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P00_d5_w10_p0_0003_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P00_d5_w10_p0_0003_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P00_d5_w10_p0_001_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P00_d5_w10_p0_001_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P03_d5_w10_p0_0003_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P03_d5_w10_p0_0003_burst"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P03_d5_w10_p0_001_spread"
+    },
+    {
+      "dem_reconstruction": true,
+      "ideal": true,
+      "name": "bridge_q6_P03_d5_w10_p0_001_burst"
+    }
+  ],
+  "decoder_timings_collected": false,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545
+  },
+  "source_hashes": {
+    "stress_gate/stress.py": "0f788967ef4203983e6bf330c3481e1787912b077f3d695fedf061f54985b376",
+    "study.py": "2a98cc2ced6b7c66433e0f887dc0a2b1537dbfa805f29fc72f8e0e9a8c2efed4",
+    "validation_gate_2026-11-13/PROTOCOL.md": "08ea2319836e87423abd5467ca9d2dc1431b9475368a49fcd0a1945e3a7adb91",
+    "validation_gate_2026-11-13/common.py": "468e23190f1319666e2ce480c7834a52f7c9ce8393d37d523f7db5d577e6ef67",
+    "validation_gate_2026-11-13/prepare.py": "e80ea5d93aaac3c17a3ca0a28f3efbdeee6a41266d35bdac1ca70a4626962e5f"
+  },
+  "stable_descriptor_permutations_checked": 57
+}

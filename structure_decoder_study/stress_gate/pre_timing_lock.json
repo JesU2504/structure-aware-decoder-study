@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-13",
+  "new_timings_collected": false,
+  "files": {
+    "analyze.py": "b5559d1b796a460457a2fae1ec5b12b948d0356a9a95716cc146f5c3ee6c1a0e",
+    "FAILURE_HYPOTHESES.md": "9cd6ac4505699571a88bd4398f9839e1a8d7ec7705518dc4cc684f225a9c9258",
+    "run_config.json": "ef53eb477787621944544a76f9cabc86e826118b898d9a8379cde8590b58b873",
+    "frozen_models.json": "d02a789babdb2e9ed28fe44fe0e2a39a0eb4efc4ef3bc1d9a6b474c39ea3f552",
+    "PROTOCOL.md": "803fe0278390d9160fbb68b74527f0c67b5ed8c3659f0b96c036703e4fdc0901"
+  }
+}

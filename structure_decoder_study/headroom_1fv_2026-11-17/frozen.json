@@ -1,0 +1,265 @@
+{
+  "cases": [
+    {
+      "cached_call": 12,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.npz",
+      "case_id": 0,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 15,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.npz",
+      "case_id": 1,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 19,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.npz",
+      "case_id": 2,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 22,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.npz",
+      "case_id": 3,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 23,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.npz",
+      "case_id": 4,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 26,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.npz",
+      "case_id": 5,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 80,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.npz",
+      "case_id": 23,
+      "role": "failure"
+    },
+    {
+      "cached_call": 85,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.npz",
+      "case_id": 24,
+      "role": "failure"
+    },
+    {
+      "cached_call": 166,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.npz",
+      "case_id": 51,
+      "role": "failure"
+    },
+    {
+      "cached_call": 210,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.npz",
+      "case_id": 66,
+      "role": "failure"
+    },
+    {
+      "cached_call": 406,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.npz",
+      "case_id": 131,
+      "role": "failure"
+    },
+    {
+      "cached_call": 513,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.npz",
+      "case_id": 167,
+      "role": "failure"
+    },
+    {
+      "cached_call": 575,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.npz",
+      "case_id": 188,
+      "role": "failure"
+    },
+    {
+      "cached_call": 697,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.npz",
+      "case_id": 228,
+      "role": "failure"
+    },
+    {
+      "cached_call": 760,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.npz",
+      "case_id": 249,
+      "role": "failure"
+    },
+    {
+      "cached_call": 781,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.npz",
+      "case_id": 256,
+      "role": "failure"
+    },
+    {
+      "cached_call": 784,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.npz",
+      "case_id": 257,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 786,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.npz",
+      "case_id": 258,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 792,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.npz",
+      "case_id": 260,
+      "role": "failure"
+    },
+    {
+      "cached_call": 796,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.npz",
+      "case_id": 261,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 802,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.npz",
+      "case_id": 263,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 804,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.npz",
+      "case_id": 264,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 806,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.npz",
+      "case_id": 265,
+      "role": "success_control"
+    },
+    {
+      "cached_call": 1234,
+      "cached_metadata": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.json",
+      "cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.npz",
+      "case_id": 407,
+      "role": "failure"
+    }
+  ],
+  "chunk": 256,
+  "files": {
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/PRE_RUN_AMENDMENT.md": "8b5bdaef6709b8c6fe5e7878b2c57d3c5e959f1e45f3a904195a3d4e0a0b0868",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/PRE_RUN_REVIEW.md": "9c76525125126b5704fd96673e70bc3a8e6332e6039a25180525d3c59226ba7d",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/PROTOCOL.md": "08b66bf1a12fed5ca127ffc3062a5a35502f849320315633cbdb2fa01844d658",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/RISK_REVIEW.md": "c2489f539aa504eb4fac02effa7816974ec6cec2c40c6521c12bdbfa606a915c",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/experiment.py": "4b1c9ed414350870013a939e99fb3ab1218b7b13358ced052b4a3882dc48e3e6",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/pre_run_v1/archive_record.json": "9e807bcef2cba5c387caeb3fab87ae2114b499a98eacd1d42a297a1b76424a7b",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/selection.json": "f7e5e597c2b69139a12fdb59158b33cc611e85df37b39a56da222a64ca44a474",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.json": "4192f797e59438acb28d84c1fe010ead21a6046c1858937425734311e66d1323",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.npz": "78fac91f4f319b4e14cdd3c8912e52b289a68437d51237832121eaeddeafef5b",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.json": "fcae1c9865614cb1474a1edda0d0ce469a72f22a2196ec68a9a279c51985ce34",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.npz": "863cdb384d198313bb589827cad9c5345fe2175e585f40041509ef7d861f5853",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.json": "92980930e64cc811d9a061e136b3525ca596d6fe46b5048d12fe7dd95d6d9bed",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.npz": "6c6a59a33696608a53a712d88c6792c238e1c1babf636580db17b532f26a57d0",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.json": "e9d6f77691740d33bfd6293631a588ac14f52314f02ec3ce9601dcbeb2b72a77",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.npz": "7040abe371678b335ed148ed9db9aec9988e618c53e2ddafe73080109d0238b4",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.json": "dd427a45890672e6d31de7e67de3b473b7583c2e17847ac24967782f5213a5c6",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.npz": "fb236c279fdaffedb1d3b21735148201f598d4d59e4648c110ebe5251d0b2e65",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.json": "beb1ebc320c7974b8d7425c8a9c4ae2df5ebbf5b96f4ddd5937363ab615c6246",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.npz": "988bd1b2e14117b7db511f3269491597e4dff0dfd7885fd6594143647b5b410d",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.json": "8fb56824b3c0dc3db278c809a62edcdc57d8c17c5b7cc9dd7cc4dd7160061540",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.npz": "43b5c23699648f594b24f8a616f490b81a7842773b2a012d3b4f86a152bda63a",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.json": "927cdff6df448b83794f3956389833f071082c18547f6a7add5c24ccbf5400e6",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.npz": "a80a8c9bbee93475112b70a4a0b7f26362f1e813b41ea5db395448770db62d34",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.json": "f5230b5ef917d35b609a2007f0318a502d39a302c7d5cca69f25ab4b27a1587b",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.npz": "125727fef7ebf9707d0ce665480776b43d3c4777fa61a8c9b9ae334f565912cf",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.json": "9bca63bc592eff321de6c6a3e4960930355aaf7d8593e3a51951f97d4d06a5ef",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.npz": "48f45434092724c3ae858c98067b63bdb6503b2bdd8feb4ad63d0fc6d1dc140f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.json": "9b8b4e59fe0ffb5f151b099517bae2a3f45b4498f4cb09afff3fae2a44ef3f8a",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.npz": "c8db6e986d21728b8ed0bc328bf92f4f5305e83ecc8b99a8004fa7ce40d7c920",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.json": "1bc8def139a97db1a48ca1a231cc31425eab79c36fdbf0e86df6436340fb6491",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.npz": "d33e5abfdda244a553b573d89bbcc64570678eff721aaa72c510a7e44bbb012f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.json": "d0c0e45403a63fb00048f5927da2e0266e32fb76ae75a96ae4ce0a21fa529257",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.npz": "6f00a6ab37a00d2052b7c460927f5e52e0abb5f85d731ee7b1f00dcc8be63558",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.json": "88541a330abbda84cfc7931671df5b28fbe86c70cb3533e17247a1d7e9121909",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.npz": "5e335be3ed28aac60ee0ce69f6fd298906cbe0d171b1af488cfbf036d0973495",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.json": "909cd8cb95cbd84bcc61d18011af53a2f6fb25476d93a656be91372ce1dd49c9",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.npz": "f11be46f86f7c55cef4b294306227bd483f35e7b0370b950a237b9acc4e09f9e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.json": "9a267b4e0463836996a2b9338afe9ab81c711943100b1518120d631f78cfd665",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.npz": "39e215402c3cfbb90add33dac3206915c8032f396bcf3e9015c0bfe35387ac52",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.json": "54a81497ffd00ca9393c3244937c26952ce466983b457af4577452c5a4b9c679",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.npz": "e567b6ad38085fa31e9087cd84e0ea20b2d12e1cd6a0ac58cae0a53cc52842d4",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.json": "3ca26d379755aeab802e3b5a1971c17b90652052a943f46de4d30e80e3def333",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.npz": "6c84c36c10d146726006b5e45632d683781a90ffa627265af0833d202964ab78",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.json": "31a3eeec18d91686f59427ce8587957fe28e65988df929f1e10680892b331925",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.npz": "6b1258eaaf8910b918655ec0fceecce9d819d8f1455558537bc002e15a761917",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.json": "c0f25c4f2028cd9fc03525acbe218b11128fdd83416ded8e4fce551c1b251901",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.npz": "086fa4560a5d35a52a0d24f74534581d7bb156f5ca07846ea80ce5b263a32315",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.json": "2366ae5ad456997dbfbbf9b14d475e080fbcce5872473aaceecc9faf869f49ec",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.npz": "7ad2399170cdd0cf35ca7d291428307b21cbe2fcb041bb267dab46986c2c608f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.json": "09c4ca080dae36329ef720831e4db41c04bc576f240ecfdb4acf2e464da6b9e2",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.npz": "9266c685998cc740c4af73f86970de3ada869e7af292da630040a483c0c99c81",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.json": "069e6f55a7cabd0fe1b7fb915f1def279fc66b91ffc8d631f41efb594327fea5",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.npz": "583db5efce98a757156a1924cd50f907c8c2cffafd20eb82b5ab7cd653ff7686",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.json": "404a101fdc8294440824a625e0693fab25581797b93f82efeabb675031dbb269",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.npz": "2e9fa791376e9fdbac0af683cee9735818046e0dfcbd10795fd41702eacabc00",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/H.npz": "cfbf9d51bd67543b09e958527beee3d99b6461c715c4a60b6b4d61b076e8abbb",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/L.npz": "10efca974bad5e42c4c6bbae9d7e035c68eff9a3301b69a48877e4ef47604bde",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/priors.npy": "9acbccfab2ba0422ab290eb6e8b78b34de647cb2890bddbddfe863a9917a7d17",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/result.json": "358f198630a65c1c716f4d8c7b70ef231d4697f6546bd95b350763db6e488b52",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/frozen.json": "2cc97376823f7a31014e631b7eb77050d9ddc79732336bc04af05bb55c2e4f00",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/manifest.json": "d19a567c9acf40370f6f98dcf59fcc95ae26fff28749b8240c82d3a553d3e34f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/result_audit.json": "349adfeab9ab80775930b4a529d610ae2a6395f81c64453a9acbcc88ad6a239c",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/shots.npz": "0787a27f1420ca4d76258fb1c5866e66bead000bbf0c2d459cb7e4ee0a771872",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/source_manifest.json": "93dc9b2bcf2d9703104cac44fbcfb3890ef1b583a330912285caf5ccbedc302f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/__init__.py": "515fe53a388d0bafd0dc9ef425c46b102787437d66f37f41da476bae78f692ca",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/adaptive_v1.py": "901ed6fa228c0727625770c85097b665f23e04f4635be09d52ca61ec9578063e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/osd_internals.py": "0d796fda2bd52962e93efc06a7adf7c5015136fa3b05628f48d8c5376e362753"
+  },
+  "free_candidates": 10446,
+  "limits": {
+    "child_cpu_seconds": 600,
+    "child_rss_bytes": 1073741824,
+    "wall_seconds": 900
+  },
+  "n_columns": 12240,
+  "new_native_decoder_calls": 0,
+  "new_shots": 0,
+  "pre_execution_correction": "Controller completion/exit classification and portable CPU-probe signal check; no real-case execution or scientific-input change",
+  "rank": 1794,
+  "score_atol": 1e-08,
+  "score_rtol": 1e-12,
+  "source_commit": "8cc32014a6461bb8f241f47f62a7e74f63817738",
+  "supersedes_frozen_sha256": "8c4e4e8a35a0055beb74393399c9196393544f05a7aefffbee0e6deec4c334dc",
+  "target": "Pinned Python stable-order full 1FV branch, not hidden native OSD-CS pivots",
+  "version": 2,
+  "versions": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bridge_audit_passed": true,
+  "client_date": "2026-11-15",
+  "correction_vectors_checked": 63552,
+  "internal_checks_only": true,
+  "model_audit_passed": true,
+  "no_resource_censoring": true,
+  "physical_evaluation_shots": 29184,
+  "physical_profiling_shots": 3648,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545
+  },
+  "reserved_test_parents_used": false
+}

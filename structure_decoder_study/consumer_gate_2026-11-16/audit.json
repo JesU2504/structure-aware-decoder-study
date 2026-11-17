@@ -1,0 +1,26 @@
+{
+  "audit_source_sha256": "38564ff27ea82528680fc264f0acd66dbbb4734d0b529ef7985b02d6a7f816f3",
+  "date": "2026-11-16",
+  "independent_evaluation_files_checked": 57,
+  "new_decoder_calls": 0,
+  "new_model_fits": 0,
+  "note": "Numerical/provenance verification; not external review or proof of statistical assumptions.",
+  "passed": true,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "artifact_manifest_2026-11-15.json": 1964,
+    "artifact_manifest_2026-11-16.json": 1974,
+    "next_stage_design_2026-11-16/manifest.json": 6,
+    "novelty_feasibility_2026-11-16/manifest.json": 8,
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": 4,
+    "supervisor_review_2026-11-16/manifest.json": 8,
+    "validation_gate_2026-11-13/manifest.json": 437
+  },
+  "profile_files_checked": 57,
+  "raw_training_samples_checked": 504096,
+  "raw_training_timed_service_seconds": 630.720371223,
+  "replay_rows_checked": 108,
+  "replay_sha256": "b07f4aca50c55c47b04d7dc550688d8ad3cc821d554a49eec6b08874be3ade94",
+  "training_label_files_checked": 375
+}

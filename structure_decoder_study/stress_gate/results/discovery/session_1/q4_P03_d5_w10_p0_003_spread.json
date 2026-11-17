@@ -1,0 +1,18 @@
+{
+  "bp_fallback_fraction": 0.80859375,
+  "censored": false,
+  "config_sha256": "ef53eb477787621944544a76f9cabc86e826118b898d9a8379cde8590b58b873",
+  "cpu_misses": 29,
+  "logical_z_failures": 39,
+  "mean_cpu_ns": 3097281.25,
+  "mean_wall_ns": 3112902.3515625,
+  "name": "q4_P03_d5_w10_p0_003_spread",
+  "p95_cpu_ns": 9433250.0,
+  "p95_wall_ns": 9448458.75,
+  "phase": "discovery",
+  "planned_shots": 256,
+  "seed": 577849161529543432,
+  "session": 1,
+  "shots": 256,
+  "wall_misses": 29
+}

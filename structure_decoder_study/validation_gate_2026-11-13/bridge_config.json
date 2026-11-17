@@ -1,0 +1,77 @@
+{
+  "binaries": {
+    "ldpc.bp_decoder._bp_decoder": {
+      "path": "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bp_decoder/_bp_decoder.cpython-312-darwin.so",
+      "sha256": "1df1d1d49438cf28100cbbfece632e3728f24adbdf67a32a70a9c8f50645a90e"
+    },
+    "ldpc.bplsd_decoder._bplsd_decoder": {
+      "path": "<WORKSPACE>/.venv/lib/python3.12/site-packages/ldpc/bplsd_decoder/_bplsd_decoder.cpython-312-darwin.so",
+      "sha256": "180dfe755fcd5cb3dbc37e3291a8e05a3e488fcb6bfceea283f8c6392450a592"
+    }
+  },
+  "block_shots": 64,
+  "budget_ms": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    5.0,
+    8.0,
+    16.0,
+    32.0
+  ],
+  "client_date": "2026-11-15",
+  "decoder": {
+    "bp_method": "minimum_sum",
+    "input_vector_type": "syndrome",
+    "lsd_method": "LSD_0",
+    "lsd_order": 0,
+    "max_iter": 30,
+    "ms_scaling_factor": 0.625,
+    "omp_thread_count": 1,
+    "random_schedule_seed": 0,
+    "schedule": "parallel"
+  },
+  "eval_blocks": 8,
+  "evaluation_cpu_cap_ns": 20000000000,
+  "files": {
+    "validation_gate_2026-11-13/PROTOCOL.md": "08ea2319836e87423abd5467ca9d2dc1431b9475368a49fcd0a1945e3a7adb91",
+    "validation_gate_2026-11-13/RESUMPTION_2026-11-15.md": "ad0a4066ea1d0017a4b781829c1cb0462a014482966dd3cb44dcad2f86e4108f",
+    "validation_gate_2026-11-13/bridge.py": "ad717b8e2cd32ed5e76f23e7d42011bae9729f4f19105e376a856107585e26cd",
+    "validation_gate_2026-11-13/bridge_predictions.json": "9f44f2dbb5c2e82d01ba51b6ab11eebf75d2d37c6a618a04110258a37c2615cd",
+    "validation_gate_2026-11-13/common.py": "468e23190f1319666e2ce480c7834a52f7c9ce8393d37d523f7db5d577e6ef67",
+    "validation_gate_2026-11-13/corpus.json": "d6610f6a8e3ee1f15f0128b0801e7d922a902bcb23343c0ed18464a255b5318f",
+    "validation_gate_2026-11-13/model_audit.json": "2e20af70c0aa9b87f28f8239b38e478022dafd2ffcf9767e103aacc25eaf55b3",
+    "validation_gate_2026-11-13/model_run_config.json": "285bc32193ed8fb2c2a333f01145eb0dea4fffbb1d9eb2307c6d7574af9ac5a1",
+    "validation_gate_2026-11-13/model_summary.json": "f21464ac89734254b8c1221b5ca16d25a5ca4d2cbb48f0cb35decfed48fabd48",
+    "validation_gate_2026-11-13/preparation.json": "a8222d6295bbc6d2bf1c6f3cade2a731190f036ffcabf4d0f7b9c1147d87bdbf"
+  },
+  "frozen_utc": "2026-11-15T11:21:24.745378+00:00",
+  "local_provenance_only": true,
+  "memory_extra_setting": "components30",
+  "no_bridge_timings_collected": true,
+  "packages": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  },
+  "previous_manifests_verified": {
+    "artifact_manifest.json": 905,
+    "artifact_manifest_2026-11-13.json": 1458,
+    "fit_diagnostic_2026-11-13/manifest.json": 3,
+    "learning_curves_2026-11-13/manifest.json": 48,
+    "reviewer_perspective_2026-11-13/manifest.json": 12,
+    "stress_gate/manifest.json": 545
+  },
+  "profile_shots": 64,
+  "sessions": 3,
+  "settings": [
+    "whole30",
+    "whole100"
+  ],
+  "timezone": "Asia/Tokyo",
+  "warmup_shots": 32
+}

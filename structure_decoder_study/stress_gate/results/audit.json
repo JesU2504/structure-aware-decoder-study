@@ -1,0 +1,12 @@
+{
+  "case_sessions": 186,
+  "physical_shots_replayed": 82968,
+  "correction_checkpoints": 2938,
+  "frozen_hashes": true,
+  "physical_replay": true,
+  "checkpoint_parity": true,
+  "passed": true,
+  "dependency_binaries_and_versions": true,
+  "confirmation_snapshot_recorded_after_launch": true,
+  "external_peer_review": false
+}

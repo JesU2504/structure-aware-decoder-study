@@ -1,0 +1,70 @@
+{
+  "interpretation": "Overlap and detector-only translations are relatedness flags, not independent circuit families",
+  "pairs": [
+    {
+      "a": 0,
+      "b": 118,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        7025
+      ]
+    },
+    {
+      "a": 5,
+      "b": 78,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        3840
+      ]
+    },
+    {
+      "a": 19,
+      "b": 104,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        1416
+      ]
+    },
+    {
+      "a": 22,
+      "b": 33,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        425
+      ]
+    },
+    {
+      "a": 38,
+      "b": 93,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        698
+      ]
+    },
+    {
+      "a": 38,
+      "b": 95,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        936
+      ]
+    },
+    {
+      "a": 61,
+      "b": 79,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        6840
+      ]
+    },
+    {
+      "a": 85,
+      "b": 122,
+      "same_detector_only_spatial_key": false,
+      "shared_columns": [
+        2494
+      ]
+    }
+  ],
+  "unique_detector_only_spatial_keys": 128
+}

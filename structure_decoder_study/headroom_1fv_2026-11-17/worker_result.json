@@ -1,0 +1,97 @@
+{
+  "actual_labels_loaded_by_worker": false,
+  "all_gate_rows": [
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 0,
+      "pivot_free_tie_groups": 0,
+      "reconstruction_cpu_ns": 84486000,
+      "reconstruction_wall_ns": 84667083,
+      "tie_fraction": 0.004901960784313725
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 1,
+      "pivot_free_tie_groups": 1,
+      "reconstruction_cpu_ns": 87192000,
+      "reconstruction_wall_ns": 87440041,
+      "tie_fraction": 0.00392156862745098
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 2,
+      "pivot_free_tie_groups": 0,
+      "reconstruction_cpu_ns": 80154000,
+      "reconstruction_wall_ns": 80213166,
+      "tie_fraction": 0.0058823529411764705
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 3,
+      "pivot_free_tie_groups": 0,
+      "reconstruction_cpu_ns": 94597000,
+      "reconstruction_wall_ns": 94698791,
+      "tie_fraction": 0.00727124183006536
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 4,
+      "pivot_free_tie_groups": 1,
+      "reconstruction_cpu_ns": 85256000,
+      "reconstruction_wall_ns": 85490250,
+      "tie_fraction": 0.00792483660130719
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 5,
+      "pivot_free_tie_groups": 1,
+      "reconstruction_cpu_ns": 87180000,
+      "reconstruction_wall_ns": 87420666,
+      "tie_fraction": 0.004084967320261438
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 23,
+      "pivot_free_tie_groups": 3,
+      "reconstruction_cpu_ns": 97823000,
+      "reconstruction_wall_ns": 98191084,
+      "tie_fraction": 0.006535947712418301
+    },
+    {
+      "baseline_difference": 0,
+      "baseline_equal": true,
+      "case_id": 24,
+      "pivot_free_tie_groups": 1,
+      "reconstruction_cpu_ns": 90339000,
+      "reconstruction_wall_ns": 90390666,
+      "tie_fraction": 0.0032679738562091504
+    },
+    {
+      "baseline_difference": 4,
+      "baseline_equal": false,
+      "case_id": 51,
+      "pivot_free_tie_groups": 3,
+      "reconstruction_cpu_ns": 86043000,
+      "reconstruction_wall_ns": 86094167,
+      "tie_fraction": 0.004901960784313725
+    }
+  ],
+  "all_search_rows": [],
+  "child_cpu_seconds": 1.4455749999999998,
+  "child_wall_seconds": 1.6064307500000723,
+  "frozen_sha256": "2f7419baf285bddecbfd20269cbdce8e24a88e6c53970fd4d3ed02d7f027cdde",
+  "gates_completed": 9,
+  "message": "Case 51: reconstructed e0 differs in 4 bits",
+  "new_native_decoder_calls": 0,
+  "new_physical_shots": 0,
+  "peak_child_rss_bytes": 230883328,
+  "searches_completed": 0,
+  "status": "baseline_mismatch"
+}
