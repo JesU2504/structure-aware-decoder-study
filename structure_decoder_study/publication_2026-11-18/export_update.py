@@ -1,5 +1,5 @@
 """Update the existing sanitized project mirror without modifying old provenance."""
-import hashlib,importlib.util,json
+import hashlib,importlib.util,json,re
 from pathlib import Path
 HERE=Path(__file__).resolve().parent
 def main():
@@ -18,7 +18,18 @@ def main():
     ignore=Path(location['destination'])/'.gitignore'
     ignore.write_text(ignore.read_text()+'**/private/\n')
     payload=ignore.read_bytes();data['files']['.gitignore'].update(sha256=hashlib.sha256(payload).hexdigest(),bytes=len(payload))
+    for source in sorted((HERE/'root_files').rglob('*')):
+        if not source.is_file():continue
+        relative=source.relative_to(HERE/'root_files');target=Path(location['destination'])/relative
+        target.parent.mkdir(parents=True,exist_ok=True);payload=source.read_bytes();target.write_bytes(payload)
+        data['files'][relative.as_posix()]=dict(sha256=hashlib.sha256(payload).hexdigest(),bytes=len(payload),generated_for_public_export=True)
     manifest.write_text(json.dumps(data,indent=2,sort_keys=True)+'\n')
+    for name,entry in data['files'].items():
+        payload=(Path(location['destination'])/name).read_bytes()
+        assert hashlib.sha256(payload).hexdigest()==entry['sha256'],name
+        assert str(module.WORKSPACE).encode() not in payload and str(Path.home()).encode() not in payload,name
+        assert not re.search(rb'gh[pousr]_[A-Za-z0-9_]{20,}|-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----',payload),name
+    location['files']=len(data['files'])
     location['bytes']=sum(r['bytes'] for r in data['files'].values())
     (HERE/'private/export_location.json').write_text(json.dumps(location,indent=2,sort_keys=True)+'\n')
 if __name__=='__main__':main()

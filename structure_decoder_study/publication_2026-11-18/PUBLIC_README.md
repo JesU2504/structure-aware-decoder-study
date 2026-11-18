@@ -5,6 +5,14 @@ and task-specific decoding failures. This is exploratory work. No new decoder,
 compiler speedup or publishable improvement has been established. Supervisor
 reviews are internal AI reviews, not external human peer review.
 
+## New collaborator: start here
+
+Read [CLAUDE.md](CLAUDE.md) first, then the detailed
+[research handoff](docs/RESEARCH_HANDOFF.md), [experiment ledger](docs/EXPERIMENT_LEDGER.md)
+and [next-task instructions](docs/NEXT_TASK.md). They explain the publication
+objective, why the project changed direction, what the evidence supports and
+how to continue without confusing an engineering pass with a scientific result.
+
 ## Current findings — 18 November 2026
 
 - Earlier cost-model experiments did not establish a useful incremental
