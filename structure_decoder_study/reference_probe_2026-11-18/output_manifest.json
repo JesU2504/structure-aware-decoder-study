@@ -1,0 +1,10 @@
+{
+  "files": {
+    "cases/0131.log": "ac34893a045a486b7e2e65938df0941c965c58647fb07b698711aa52cb730c73",
+    "cases/0131_stop.json": "313e85ca10ecbd32bb170ae85d15fa0b496849a6e325db0c63cea3008f564484",
+    "cases/0228.log": "a94469337f99d8dfcce66c05563d5f8e54a58dec6ae2900754e879109ac66f89",
+    "cases/0228_stop.json": "477dc78d749ac91d9c34e8e36a819c4764e80209cbbd905710a11546340352ba",
+    "process_result.json": "376b9d44a8ee84f246c78323768798058d9accf5572e93196cc26b949754c5a2",
+    "reference_invocations.jsonl": "b381c11a9909cc82265ec3ac2552ac9861fdb9ffb694ecda85cde612451af292"
+  }
+}

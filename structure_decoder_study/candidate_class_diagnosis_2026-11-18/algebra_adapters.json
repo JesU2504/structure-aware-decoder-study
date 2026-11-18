@@ -1,0 +1,8 @@
+{
+  "absent_scores_null": true,
+  "all4096_logical_codes_roundtrip": true,
+  "dependent_row_algebra": true,
+  "duplicate_class_grouping": true,
+  "passed": true,
+  "source_positive_and_zero_ties": true
+}

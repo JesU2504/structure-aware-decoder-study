@@ -1,0 +1,8 @@
+{
+  "case_id": 228,
+  "child_cpu_seconds": 61.59614,
+  "child_wall_seconds": 62.197285374999865,
+  "message": "BudgetStop: Child CPU resource limit",
+  "peak_child_rss_bytes": 192970752,
+  "status": "resource_stopped"
+}

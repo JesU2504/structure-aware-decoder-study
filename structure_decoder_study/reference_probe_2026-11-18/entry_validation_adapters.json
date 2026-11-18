@@ -1,0 +1,15 @@
+{
+  "integer_proximity_then_exact_feasibility": true,
+  "invalid_returns_rejected": [
+    "fractional_slack",
+    "parity_violation",
+    "out_of_bounds",
+    "nonfinite",
+    "wrong_shape"
+  ],
+  "missing_incumbent_handled": true,
+  "new_reference_optimization_calls": 0,
+  "passed": true,
+  "probe_sha256": "51e6b664dfdbe2d4dfe4820207fa279c2a209707bb8b702f3e038bf7746f762b",
+  "valid_rounding_without_parity_repair": true
+}

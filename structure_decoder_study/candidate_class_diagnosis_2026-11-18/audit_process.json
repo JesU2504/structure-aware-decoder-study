@@ -1,0 +1,10 @@
+{
+  "frozen_sha256": "e92d012a723ca89ac24ab0f3b54bd97d99f4602ad4472e6aa8a1cd05269cd211",
+  "monitor_error": null,
+  "passed": true,
+  "peak_observed_child_rss_bytes": 218595328,
+  "returncode": 0,
+  "status": "completed",
+  "wall_seconds": 14.775803624997934,
+  "watchdog_reason": null
+}

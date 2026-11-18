@@ -1,0 +1,182 @@
+{
+  "fixtures": [
+    {
+      "H": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "L": [
+        [
+          1,
+          0
+        ]
+      ],
+      "enumerated_vectors": 4,
+      "expected_solver_status": 0,
+      "feasible_vectors": 1,
+      "logical_target": [
+        1
+      ],
+      "minimum": 4.0,
+      "name": "integral_slack_required",
+      "syndrome": [
+        0,
+        0
+      ],
+      "weights": [
+        1.0,
+        3.0
+      ]
+    },
+    {
+      "H": [
+        [
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      ],
+      "L": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      ],
+      "enumerated_vectors": 32,
+      "expected_solver_status": 0,
+      "feasible_vectors": 2,
+      "logical_target": [
+        1,
+        0
+      ],
+      "minimum": 10.0,
+      "name": "dependent_cyclic",
+      "syndrome": [
+        1,
+        0,
+        1
+      ],
+      "weights": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0
+      ]
+    },
+    {
+      "H": [
+        [
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          0
+        ]
+      ],
+      "L": [
+        [
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "enumerated_vectors": 16,
+      "expected_solver_status": 0,
+      "feasible_vectors": 2,
+      "logical_target": [
+        0
+      ],
+      "minimum": 0.0,
+      "name": "zero_syndrome",
+      "syndrome": [
+        0,
+        0
+      ],
+      "weights": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ]
+    },
+    {
+      "H": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "L": [
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "enumerated_vectors": 8,
+      "expected_solver_status": 2,
+      "feasible_vectors": 0,
+      "logical_target": [
+        0
+      ],
+      "minimum": null,
+      "name": "inconsistent_duplicate_rows",
+      "syndrome": [
+        0,
+        1
+      ],
+      "weights": [
+        1.0,
+        2.0,
+        3.0
+      ]
+    }
+  ],
+  "source": "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/entry.py",
+  "source_sha256": "6a55040006cabda8c66e1a8b71f0c16dc75cf4afe897d378897306cbbf52863f"
+}

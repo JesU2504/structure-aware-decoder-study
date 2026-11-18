@@ -1,0 +1,49 @@
+{
+  "OS_queries": 0,
+  "boolean_status_not_silently_normalized": true,
+  "exact_original_model_helpers": true,
+  "experimental_workers": 0,
+  "handler_restored": true,
+  "integer_parity_checks": [
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 1,
+      "toy": "integral_slack_required"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 2,
+      "toy": "dependent_cyclic"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 2,
+      "toy": "zero_syndrome"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 0,
+      "toy": "inconsistent_duplicate_rows"
+    }
+  ],
+  "invalid_fractional_arrays_rejected": true,
+  "native_integration_validated": false,
+  "nonfinite_scalars_labeled": true,
+  "optimizer_api_attempts": 0,
+  "passed": true,
+  "per_mode_warning_sets_checked": true,
+  "raw_fake_payload_survives_unexpected_warning": true,
+  "research_cases_read_or_solved": 0,
+  "scope": "offline_helpers_and_mock_persistence",
+  "source_hashes": {
+    "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+    "audit.py": "92cd2064794d4fff65d36762f9806a0968ac068bcf44d2f00635d28334401bbf",
+    "control.py": "e90bbad02bb4f2fd20b0edc8386174778da44121072901964ecbb55ded04da4c",
+    "model_helpers.py": "84a12b34bdfe860b24fced9f7b7da96d119935b383fe26233bae964dcbdba07a",
+    "monitor.py": "109a441ba2c35041ab565b6a2a82ba8e3a304c52c47d2f5d0eeafda1bc06615c",
+    "offline_checks.py": "bffb664d4fc5559c57a6ea1addee6194fe7ef7cc342bd1ed985b19fcdcf67724",
+    "result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+    "transport.py": "56ca966e2d0a9d63406f7dcea86353282f2070f101e582678f5cc120020b9e42",
+    "worker.py": "29ad6cffecd68e8dd265767f80bd94891368b64d625f928b5385469682dc8f16"
+  }
+}

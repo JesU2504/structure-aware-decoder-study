@@ -1,0 +1,14 @@
+{
+  "approved": true,
+  "scope": "synthetic_native_entry_only",
+  "reviewer": "independent_AI_supervisor",
+  "execution_limit": 1,
+  "max_children": 13,
+  "max_optimizer_attempts": 7,
+  "controller_wall_acceptance_ceiling": 120,
+  "remaining_before_child": 11,
+  "calibration_calls": 0,
+  "retries": 0,
+  "real_research_launch_approved": false,
+  "require_independent_audit_and_postcheck": true
+}

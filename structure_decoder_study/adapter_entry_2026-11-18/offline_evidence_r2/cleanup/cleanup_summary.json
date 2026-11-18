@@ -1,0 +1,28 @@
+{
+  "actions": [
+    {
+      "before": {
+        "at": 6076.394392875,
+        "returncode": null
+      },
+      "pid": 424242,
+      "reasons": [
+        "outer_monitor_setup_or_persistence_failure"
+      ],
+      "requested_at": 6076.394394291,
+      "signal_API_returned": true,
+      "signum": 15,
+      "wait_finished": 6076.39439725,
+      "wait_returncode": -15,
+      "wait_started": 6076.394395958,
+      "wait_timed_out": false
+    }
+  ],
+  "at": 6076.394402125,
+  "fallback_cleanup": true,
+  "identity": {
+    "scope": "offline_fake_process"
+  },
+  "pid": 424242,
+  "reaped": true
+}

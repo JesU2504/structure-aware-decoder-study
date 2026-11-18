@@ -1,0 +1,33 @@
+{
+  "baseline_score": 493.2866682135094,
+  "best_source_delta": 2.8937942135527646,
+  "candidates_near_best": 4,
+  "case_id": 3,
+  "free_candidates": 10446,
+  "full_source_cpu_ns": 83101000,
+  "full_source_wall_ns": 86704333,
+  "max_delta_absolute_error": 3.410605131648481e-13,
+  "near_zero_best": false,
+  "outputs": {
+    "1000": {
+      "chosen_free_column": 3276,
+      "score": 490.3928739999567,
+      "source_delta": 2.8937942135527646
+    },
+    "10446": {
+      "chosen_free_column": 3276,
+      "score": 490.3928739999567,
+      "source_delta": 2.8937942135527646
+    },
+    "500": {
+      "chosen_free_column": 3276,
+      "score": 490.3928739999567,
+      "source_delta": 2.8937942135527646
+    }
+  },
+  "second_best_margin": 0.0,
+  "secondary_prefix_pick_cpu_ns": 23000,
+  "secondary_prefix_pick_wall_ns": 22709,
+  "validation_cpu_ns": 52607000,
+  "validation_wall_ns": 53055041
+}

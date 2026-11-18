@@ -1,0 +1,41 @@
+{
+  "calibration_calls": 0,
+  "case_names": [
+    "integral_slack_required",
+    "dependent_cyclic",
+    "zero_syndrome",
+    "inconsistent_duplicate_rows",
+    "timeout_none",
+    "timeout_incumbent",
+    "signal_during_call",
+    "signal_during_persistence",
+    "parent_CPU",
+    "parent_wall",
+    "parent_RSS",
+    "observed_terminal_Z",
+    "malformed_active_monitor"
+  ],
+  "config_files": [
+    "00_integral_slack_required.json",
+    "01_dependent_cyclic.json",
+    "02_zero_syndrome.json",
+    "03_inconsistent_duplicate_rows.json",
+    "04_timeout_none.json",
+    "05_timeout_incumbent.json",
+    "06_signal_during_call.json",
+    "07_signal_during_persistence.json",
+    "08_parent_CPU.json",
+    "09_parent_wall.json",
+    "10_parent_RSS.json",
+    "11_observed_terminal_Z.json",
+    "12_malformed_active_monitor.json"
+  ],
+  "controller_wall_acceptance_ceiling": 120.0,
+  "max_children": 13,
+  "max_optimizer_attempts": 7,
+  "real_research_launch_supported": false,
+  "remaining_before_child": 11.0,
+  "retries": 0,
+  "run_id": "9f66963b-619b-40ad-afd7-4a220b18d3a1",
+  "scope": "synthetic_native_entry_only"
+}

@@ -1,0 +1,1324 @@
+{
+  "OS_hard_limit_enforcement_claim": false,
+  "classification": "censored",
+  "controlled_injection": null,
+  "ended": 10265.1316015,
+  "kernel_events": [
+    {
+      "ended": 10264.323535375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.323531875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.325449125,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.325441125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.338083416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.338070291,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.340400291,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.340391958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.352070666,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.352055,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.354228416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.354220541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.36692275,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.36691575,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.368678583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.368667666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.379980208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.379967583,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.382184041,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.382173916,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.39493025,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.394920833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.397284833,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.397272833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.407702791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.407682833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.410724416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.410711958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.421699416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.421663166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.4252025,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.42519,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.438004375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.437974791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.441424458,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.441405458,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.454362333,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.454297375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.457485375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.457477958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.469118416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.469100666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.471218541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.471210375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.483917708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.483904375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.485792166,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.485784375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.498492583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.4984805,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.500296958,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.500289416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.51296875,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.512962625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.515040416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.515030541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.525660333,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.525629833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.528318375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.528308125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.541062541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.541048083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.545819625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.545798041,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.558672708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.558651833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.561266291,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.561255375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.574046541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.574024333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.577648791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.577622041,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.590561541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.590530041,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.592800041,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.592789375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.605524166,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.605509166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.607831,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.607822083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.620581458,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.620547791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.623650583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.623638791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.623988291,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.623985833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.623991958,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.623990583,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.6240055,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.624003916,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.63027175,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.630266833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.635474916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.635464541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.641770625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.641760333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.648054541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.648046333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.654005416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.653993541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.6602965,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.660281833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.666583375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.666575541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.672870916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.672858416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.679182958,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.679171208,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.6854695,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.68546025,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.691754875,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.691745875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.6982145,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.698196416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.704553625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.704514,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.710835,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.710826875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.717141416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.717114,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.723417708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.723410791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.729495708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.729486333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.735796375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.735785958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.741446541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.741422416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.747770416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.747760041,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.753979041,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.753973875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.759936833,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.759931291,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.766211041,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.76620575,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.772541708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.772522958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.778882208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.778857875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.783982791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.783973666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.789259583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.7892535,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.795536208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.795529416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.801822958,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.80181175,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.808938,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.808894583,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.815349666,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.815290583,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.82168025,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.821665666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.828041041,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.82802075,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.834462333,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.834347875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.84016375,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.840127583,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.847575875,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.847554125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.854133708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.854113791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.860522541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.860483416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.866388541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.866373,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.872687083,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.87267075,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.879081208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.879064125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.88540475,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.885378208,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.891693583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.891687333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.897980833,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.897967916,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.9043085,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.904275166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.910611791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.910598291,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.916894625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.91688575,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.923038208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.923012166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.929358625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.92934475,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.935726583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.935681083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.94371275,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.943685,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.950019916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.950002291,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.95631825,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.956305708,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.962609125,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.962596291,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.968902125,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.968889208,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.975189791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.975179541,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.981465916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.98145975,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.987768916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.987745333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10264.994073458,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10264.994055958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.001772416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.001734666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.008100875,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.008083625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.013852916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.013841208,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.020205125,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.020165125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.026413666,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.026390666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.032816583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.032783875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.039116875,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.039104,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.045411708,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.04539925,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.05172675,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.051704083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.058050541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.058026625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.063543291,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.063520208,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.068934541,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.068913875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.0750245,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.075013625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.080680625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.080657166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.086969625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.086964166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.093286916,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.093257875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.099618333,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.099590708,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.1059265,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.105909875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.112203208,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.11218975,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.118528416,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.118503333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.124877958,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.12486525,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.124900583,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.124894625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.124911791,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.124905833,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.125041625,
+      "flags": 1,
+      "requested_pid": 5826,
+      "returned_pid": 0,
+      "started": 10265.12503525,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.131390333,
+      "final": {
+        "pid": 5826,
+        "raw_status": 9,
+        "reaped_at": 10265.131390333,
+        "returncode": -9,
+        "usage": {
+          "native_RSS_unit": "bytes",
+          "native_peak_rss": 11878400,
+          "peak_rss_bytes": 11878400,
+          "system_cpu": 0.004735,
+          "total_cpu": 0.019976999999999998,
+          "user_cpu": 0.015241999999999999
+        }
+      },
+      "flags": 1,
+      "raw_status": 9,
+      "requested_pid": 5826,
+      "returned_pid": 5826,
+      "started": 10265.131333958
+    }
+  ],
+  "kernel_final": {
+    "pid": 5826,
+    "raw_status": 9,
+    "reaped_at": 10265.131390333,
+    "returncode": -9,
+    "usage": {
+      "native_RSS_unit": "bytes",
+      "native_peak_rss": 11878400,
+      "peak_rss_bytes": 11878400,
+      "system_cpu": 0.004735,
+      "total_cpu": 0.019976999999999998,
+      "user_cpu": 0.015241999999999999
+    }
+  },
+  "name": "TERM_to_KILL",
+  "native_optimizers_called": 0,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "observation_gap": null,
+  "ownership_errors": [],
+  "peak_RSS_and_CPU_sources_kept_separate": true,
+  "pid": 5826,
+  "ps_RSS_highwater": 11878400,
+  "ps_cpu_highwater": 0.02,
+  "ps_queries": [
+    {
+      "end": 10264.325437125,
+      "error": null,
+      "kernel_events_after_query": 2,
+      "kernel_events_before_query": 1,
+      "raw": " 5826 R       208   0:00.00\n",
+      "returncode": 0,
+      "start": 10264.32353725,
+      "stderr": ""
+    },
+    {
+      "end": 10264.340388,
+      "error": null,
+      "kernel_events_after_query": 4,
+      "kernel_events_before_query": 3,
+      "raw": " 5826 R     10224   0:00.01\n",
+      "returncode": 0,
+      "start": 10264.338087208,
+      "stderr": ""
+    },
+    {
+      "end": 10264.354214708,
+      "error": null,
+      "kernel_events_after_query": 6,
+      "kernel_events_before_query": 5,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.352078208,
+      "stderr": ""
+    },
+    {
+      "end": 10264.368661625,
+      "error": null,
+      "kernel_events_after_query": 8,
+      "kernel_events_before_query": 7,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.366926208,
+      "stderr": ""
+    },
+    {
+      "end": 10264.382169333,
+      "error": null,
+      "kernel_events_after_query": 10,
+      "kernel_events_before_query": 9,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.3799855,
+      "stderr": ""
+    },
+    {
+      "end": 10264.397265958,
+      "error": null,
+      "kernel_events_after_query": 12,
+      "kernel_events_before_query": 11,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.394935291,
+      "stderr": ""
+    },
+    {
+      "end": 10264.410705416,
+      "error": null,
+      "kernel_events_after_query": 14,
+      "kernel_events_before_query": 13,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.4077085,
+      "stderr": ""
+    },
+    {
+      "end": 10264.425183666,
+      "error": null,
+      "kernel_events_after_query": 16,
+      "kernel_events_before_query": 15,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.421709458,
+      "stderr": ""
+    },
+    {
+      "end": 10264.441391166,
+      "error": null,
+      "kernel_events_after_query": 18,
+      "kernel_events_before_query": 17,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.438019583,
+      "stderr": ""
+    },
+    {
+      "end": 10264.457473166,
+      "error": null,
+      "kernel_events_after_query": 20,
+      "kernel_events_before_query": 19,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.4543745,
+      "stderr": ""
+    },
+    {
+      "end": 10264.471205333,
+      "error": null,
+      "kernel_events_after_query": 22,
+      "kernel_events_before_query": 21,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.469124875,
+      "stderr": ""
+    },
+    {
+      "end": 10264.485778208,
+      "error": null,
+      "kernel_events_after_query": 24,
+      "kernel_events_before_query": 23,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.483924083,
+      "stderr": ""
+    },
+    {
+      "end": 10264.50028475,
+      "error": null,
+      "kernel_events_after_query": 26,
+      "kernel_events_before_query": 25,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.498499333,
+      "stderr": ""
+    },
+    {
+      "end": 10264.5150245,
+      "error": null,
+      "kernel_events_after_query": 28,
+      "kernel_events_before_query": 27,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.512971625,
+      "stderr": ""
+    },
+    {
+      "end": 10264.528302125,
+      "error": null,
+      "kernel_events_after_query": 30,
+      "kernel_events_before_query": 29,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.525667958,
+      "stderr": ""
+    },
+    {
+      "end": 10264.5457855,
+      "error": null,
+      "kernel_events_after_query": 32,
+      "kernel_events_before_query": 31,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.541070333,
+      "stderr": ""
+    },
+    {
+      "end": 10264.561247583,
+      "error": null,
+      "kernel_events_after_query": 34,
+      "kernel_events_before_query": 33,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.558677833,
+      "stderr": ""
+    },
+    {
+      "end": 10264.577614625,
+      "error": null,
+      "kernel_events_after_query": 36,
+      "kernel_events_before_query": 35,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.57405425,
+      "stderr": ""
+    },
+    {
+      "end": 10264.59278375,
+      "error": null,
+      "kernel_events_after_query": 38,
+      "kernel_events_before_query": 37,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.590569791,
+      "stderr": ""
+    },
+    {
+      "end": 10264.607816958,
+      "error": null,
+      "kernel_events_after_query": 40,
+      "kernel_events_before_query": 39,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.605531375,
+      "stderr": ""
+    },
+    {
+      "end": 10264.623632916,
+      "error": null,
+      "kernel_events_after_query": 42,
+      "kernel_events_before_query": 41,
+      "raw": " 5826 S     11600   0:00.02\n",
+      "returncode": 0,
+      "start": 10264.620591083,
+      "stderr": ""
+    }
+  ],
+  "quantum_decoders_called": 0,
+  "reasons": [
+    "wall_limit"
+  ],
+  "setup_error": null,
+  "signals": [
+    {
+      "API_returned": true,
+      "pid": 5826,
+      "reasons": [
+        "wall_limit"
+      ],
+      "requested_at": 10264.6239935,
+      "returncode_after_wait": null,
+      "signum": 15,
+      "wait_ended": 10265.124883333,
+      "wait_started": 10264.624003041,
+      "wait_timed_out": true
+    },
+    {
+      "API_returned": true,
+      "pid": 5826,
+      "reasons": [
+        "wall_limit"
+      ],
+      "requested_at": 10265.124922291,
+      "returncode_after_wait": -9,
+      "signum": 9,
+      "wait_ended": 10265.131486333,
+      "wait_started": 10265.125031125,
+      "wait_timed_out": false
+    }
+  ],
+  "started": 10264.322730041,
+  "terminal_telemetry_unavailable": false
+}

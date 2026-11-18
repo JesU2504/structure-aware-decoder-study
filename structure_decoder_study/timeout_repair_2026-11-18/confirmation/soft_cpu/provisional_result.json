@@ -1,0 +1,21 @@
+{
+  "after_call": {
+    "cpu_absolute": 1.013058,
+    "monotonic": 2990.304133875,
+    "peak_rss_bytes": 12484608,
+    "pid": 10479,
+    "rlimit_cpu": [
+      1,
+      3
+    ],
+    "ru_stime": 0.014792,
+    "ru_utime": 0.998265,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1049eb880>"
+  },
+  "classification": "soft_cpu_signal_observed",
+  "finalized": false,
+  "has_incumbent": false,
+  "native_optimizer_calls": 0,
+  "scenario": "cpu_soft",
+  "solver_status": null
+}

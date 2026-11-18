@@ -1,0 +1,77 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.410079,
+    "monotonic": 2988.954870125,
+    "peak_rss_bytes": 80674816,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.036009,
+    "ru_utime": 0.374067,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.248885,
+    "monotonic": 2988.792863833,
+    "peak_rss_bytes": 68370432,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.034589999999999996,
+    "ru_utime": 0.21429099999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+  },
+  "classification": "signal_observed_result_preserved",
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 0.411413,
+    "monotonic": 2988.956233583,
+    "peak_rss_bytes": 80707584,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.036753999999999995,
+    "ru_utime": 0.37465899999999996,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": true,
+  "incumbent_score": 0.0,
+  "incumbent_valid": true,
+  "integer_proximity": 0.0,
+  "native_optimizer_calls": 1,
+  "oracle_or_research_data_used": false,
+  "scenario": "deferred_signal",
+  "scipy_warnings": [
+    "Unrecognized options detected: {'threads', 'random_seed'}. These will be passed to HiGHS verbatim."
+  ],
+  "signals": [
+    {
+      "handled_at": {
+        "cpu_absolute": 0.409509,
+        "monotonic": 2988.954299375,
+        "peak_rss_bytes": 80609280,
+        "pid": 10425,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.035963999999999996,
+        "ru_utime": 0.373534,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+      },
+      "origin": "unknown",
+      "phase": "solver_call",
+      "signum": 24
+    }
+  ],
+  "solver_message": "Time limit reached. (HiGHS Status 13: Time limit reached)",
+  "solver_status": 1,
+  "start_cpu": 0.015738
+}

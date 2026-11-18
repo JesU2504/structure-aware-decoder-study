@@ -1,0 +1,52 @@
+{
+  "identity": {
+    "config_sha256": "921e42080849248b2c9bc03914a19d76a3a644083077d96212e6bce77a7566ce",
+    "index": 0,
+    "name": "integral_slack_required",
+    "prepared_protocol_sha256": "dbc98b8090d5f6fe219da851986bd3efde9662464be5748c53df1841fe4820bb",
+    "run_id": "9f66963b-619b-40ad-afd7-4a220b18d3a1",
+    "sources": {
+      "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+      "model_helpers.py": "84a12b34bdfe860b24fced9f7b7da96d119935b383fe26233bae964dcbdba07a",
+      "result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+      "transport.py": "52e60ea9a12a86efed5588b55a2646567c6c428ddc7a47e0682476e7cc30f9be",
+      "worker.py": "29ad6cffecd68e8dd265767f80bd94891368b64d625f928b5385469682dc8f16"
+    }
+  },
+  "imported_files": {
+    "direct_highs_wrapper": {
+      "path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/optimize/_highspy/_highs_wrapper.py",
+      "sha256": "c15a943a0985bf716d84b93719d0b2f572e698373655ab0258614b4b2ab67303"
+    },
+    "highs_core": {
+      "path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/optimize/_highspy/_core.cpython-312-darwin.so",
+      "sha256": "ff40ffcfa67085f151525fd323265528e23f3d5611dcc433878604e1927adf43"
+    },
+    "numpy_module": {
+      "path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/numpy/__init__.py",
+      "sha256": "2e8da3e4385e79c4885b3f7324a8b957e6f01732b239e99e266a12c62a008b8d"
+    },
+    "scipy_milp_wrapper": {
+      "path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/optimize/_milp.py",
+      "sha256": "f8ae2ea0cfe2f698fd19fcd5bd2e70e17fc4a1acc3117054f52cab584e7b0683"
+    },
+    "scipy_module": {
+      "path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/__init__.py",
+      "sha256": "335bc6e0a9909dc7534f9569a3685a92dc8001cb8c63a6da4c239849ff02d4d0"
+    }
+  },
+  "interpreter_resolved": "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/bin/python3.12",
+  "platform": "macOS-14.5-arm64-arm-64bit",
+  "python": "3.12.12 (main, Oct  9 2025, 11:07:00) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "thread_environment": {
+    "MKL_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1"
+  },
+  "versions": {
+    "numpy": "2.4.1",
+    "scipy": "1.17.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-18",
+  "entry_optimizer_calls_completed": 4,
+  "frozen_inputs_verified": 36,
+  "new_BP_OSD_LSD_calls": 0,
+  "new_physical_shots": 0,
+  "passed": true,
+  "prior_result_manifests_unchanged": 23,
+  "real_optimizer_calls_returned_to_python": 0,
+  "real_optimizer_calls_started": 2,
+  "root_postcheck_repeated_optimizations": 0,
+  "scientific_outcome": "Both cases inconclusive; no validated witness and no exclusion claim",
+  "signal_cause_unknown": true,
+  "source_code_changed_after_freeze": false,
+  "supervisor_report_sha256": "618f52ee73f2ae585c15bf6848f0df49c53556b9477add529cebe44455db798f",
+  "timeout_return_integration_gap_disclosed": true
+}

@@ -1,0 +1,27 @@
+{
+  "admission_reserve": 8.0,
+  "calibration": 0,
+  "configs": [
+    "00_normal_exit.json",
+    "01_nonzero_exit.json",
+    "02_cpu_work.json",
+    "03_final_CPU_over_budget.json",
+    "04_parent_wall.json",
+    "05_parent_CPU.json",
+    "06_parent_RSS.json",
+    "07_TERM_to_KILL.json",
+    "08_setup_failure.json",
+    "09_exit_candidate_confirmed.json",
+    "10_live_counter_reset.json",
+    "11_exit_candidate_timeout.json"
+  ],
+  "controller_seconds": 90.0,
+  "final_CPU_control": "kernel-only observations until exit, wall4 still enforced",
+  "max_workers": 12,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "optimizer_calls": 0,
+  "real_os_ps_state_reproduction_required": false,
+  "research_cases": 0,
+  "retries": 0,
+  "scope": "stdlib_runner_only"
+}

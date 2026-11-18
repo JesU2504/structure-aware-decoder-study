@@ -1,0 +1,61 @@
+{
+  "acceptance_criteria_changed": false,
+  "controller_wall_seconds": 0.6903950409996469,
+  "cumulative_optimizer_api_attempts": 19,
+  "experimental_workers": 1,
+  "failure": "prospective Darwin state model rejected observed ?E during exit",
+  "failure_accounting_passed": true,
+  "failure_audit_source_sha256": "b621f629c3194919157329dfc62b87f57664c0802773bc3906cbfdeb274151de",
+  "frozen_independent_artifact_audit_sha256": "7dcd06619de813ebd8c6686b7e3e87a270727a2d3bc230c11881dff7d511bbc7",
+  "frozen_inputs_verified": 50,
+  "frozen_sha256": "eeecd81d642700e166fc7bf15f1a6d071579a5582ab4199be4fc54f8b562f2e1",
+  "historical_optimizer_api_attempts": 18,
+  "native_entry_passed": false,
+  "new_BP_OSD_LSD_calls": 0,
+  "new_model_fits": 0,
+  "new_physical_shots": 0,
+  "new_research_cases": 0,
+  "observed_unknown_record": {
+    "after": {
+      "at": 6263.013969666,
+      "returncode": null
+    },
+    "before": {
+      "at": 6263.011522416,
+      "returncode": null
+    },
+    "controlled_fault": null,
+    "query": {
+      "end": 6263.013869166,
+      "error": null,
+      "returncode": 0,
+      "start": 6263.011524416,
+      "stderr": "",
+      "stdout": " 4285 ?E        0   0:00.00\n"
+    }
+  },
+  "optimizer_api_attempts": 1,
+  "optimizer_returns_persisted": 1,
+  "output_files_verified": 23,
+  "owned_child_reaped": true,
+  "raw_toy_artifact_independently_valid": true,
+  "scope": "failed_entry_accounting_and_one_saved_toy_artifact_only",
+  "toy_artifact_is_research_evidence": false,
+  "toy_optimum": 4.0,
+  "unattempted_controls": [
+    "dependent_cyclic",
+    "zero_syndrome",
+    "inconsistent_duplicate_rows",
+    "timeout_none",
+    "timeout_incumbent",
+    "signal_during_call",
+    "signal_during_persistence",
+    "parent_CPU",
+    "parent_wall",
+    "parent_RSS",
+    "observed_terminal_Z",
+    "malformed_active_monitor"
+  ],
+  "unattempted_count": 12,
+  "unknown_state_accepted_as_terminal": false
+}

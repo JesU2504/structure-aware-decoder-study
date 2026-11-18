@@ -1,0 +1,9 @@
+{
+  "baseline_difference": 0,
+  "baseline_equal": true,
+  "case_id": 265,
+  "pivot_free_tie_groups": 0,
+  "reconstruction_cpu_ns": 98256000,
+  "reconstruction_wall_ns": 99362375,
+  "tie_fraction": 0.0058823529411764705
+}

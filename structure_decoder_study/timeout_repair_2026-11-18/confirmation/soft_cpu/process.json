@@ -1,0 +1,10 @@
+{
+  "classification": "soft_cpu_signal_observed",
+  "controlled_injection": null,
+  "expected_wall_limit": 8.0,
+  "monitor_error": null,
+  "peak_rss_bytes": 12484608,
+  "returncode": 0,
+  "wall_seconds": 1.0272043340000891,
+  "watchdog_reason": null
+}

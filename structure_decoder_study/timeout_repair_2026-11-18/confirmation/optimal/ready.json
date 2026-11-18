@@ -1,0 +1,16 @@
+{
+  "at": {
+    "cpu_absolute": 0.244476,
+    "monotonic": 2989.242429375,
+    "peak_rss_bytes": 67469312,
+    "pid": 10458,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.033106,
+    "ru_utime": 0.211367,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1024b3880>"
+  },
+  "phase": "solver_call"
+}

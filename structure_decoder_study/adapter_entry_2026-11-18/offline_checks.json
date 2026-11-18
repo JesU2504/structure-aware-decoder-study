@@ -1,0 +1,53 @@
+{
+  "OS_queries": 0,
+  "boolean_status_not_silently_normalized": true,
+  "exact_original_model_helpers": true,
+  "experimental_workers": 0,
+  "fallback_reaps_fake_process_without_state_or_writable_metadata": true,
+  "handler_restored": true,
+  "immediate_spawn_cleanup_guard_checked": true,
+  "integer_parity_checks": [
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 1,
+      "toy": "integral_slack_required"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 2,
+      "toy": "dependent_cyclic"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 2,
+      "toy": "zero_syndrome"
+    },
+    {
+      "all_parity_domains_integral": true,
+      "feasible_vectors": 0,
+      "toy": "inconsistent_duplicate_rows"
+    }
+  ],
+  "invalid_fractional_arrays_rejected": true,
+  "lone_TERM_with_SIGKILL_exit_rejected": true,
+  "native_integration_validated": false,
+  "nonfinite_scalars_labeled": true,
+  "optimizer_api_attempts": 0,
+  "passed": true,
+  "per_mode_warning_sets_checked": true,
+  "raw_fake_payload_survives_unexpected_warning": true,
+  "research_cases_read_or_solved": 0,
+  "revision": "r2",
+  "scope": "offline_helpers_and_mock_persistence",
+  "source_hashes": {
+    "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+    "audit.py": "7dcd06619de813ebd8c6686b7e3e87a270727a2d3bc230c11881dff7d511bbc7",
+    "control.py": "224563a5ed6994b3a31a2d310e211ba3a5abc80a6145d1a22462e8ddf0e7fa9b",
+    "model_helpers.py": "84a12b34bdfe860b24fced9f7b7da96d119935b383fe26233bae964dcbdba07a",
+    "monitor.py": "015762afc6e40701785bb65047498175ad50db6db234642a58fde500b722f6b8",
+    "offline_checks.py": "3238110ab5aed2cfe27146c437939f960c33a18056ab453ca2558ca606aa3b13",
+    "result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+    "transport.py": "52e60ea9a12a86efed5588b55a2646567c6c428ddc7a47e0682476e7cc30f9be",
+    "worker.py": "29ad6cffecd68e8dd265767f80bd94891368b64d625f928b5385469682dc8f16"
+  }
+}

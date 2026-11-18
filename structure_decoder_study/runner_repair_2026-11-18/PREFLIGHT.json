@@ -1,0 +1,15 @@
+{
+  "approved": true,
+  "scope": "stdlib_runner_only",
+  "reviewer": "independent_AI_supervisor",
+  "max_executions": 1,
+  "max_workers": 12,
+  "controller_seconds": 90,
+  "admission_reserve": 8,
+  "optimizer_calls": 0,
+  "decoder_calls": 0,
+  "research_cases": 0,
+  "retries": 0,
+  "calibration": 0,
+  "require_independent_audit_and_postcheck": true
+}

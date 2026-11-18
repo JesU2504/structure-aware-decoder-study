@@ -1,0 +1,42 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.42625,
+    "monotonic": 652.671538041,
+    "peak_rss_bytes": 81838080,
+    "pid": 1839,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.039277,
+    "ru_utime": 0.386971,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102413740>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.263339,
+    "monotonic": 652.506758791,
+    "peak_rss_bytes": 69566464,
+    "pid": 1839,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.037482999999999995,
+    "ru_utime": 0.225855,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102413740>"
+  },
+  "finalized": false,
+  "has_incumbent": true,
+  "incumbent_score": 0.0,
+  "incumbent_valid": true,
+  "integer_proximity": 0.0,
+  "native_optimizer_calls": 1,
+  "oracle_or_research_data_used": false,
+  "scenario": "deferred_signal",
+  "scipy_warnings": [
+    "Unrecognized options detected: {'threads', 'random_seed'}. These will be passed to HiGHS verbatim."
+  ],
+  "solver_message": "Time limit reached. (HiGHS Status 13: Time limit reached)",
+  "solver_status": 1,
+  "start_cpu": 0.017398
+}

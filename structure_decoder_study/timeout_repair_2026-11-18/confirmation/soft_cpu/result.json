@@ -1,0 +1,55 @@
+{
+  "after_call": {
+    "cpu_absolute": 1.013058,
+    "monotonic": 2990.304133875,
+    "peak_rss_bytes": 12484608,
+    "pid": 10479,
+    "rlimit_cpu": [
+      1,
+      3
+    ],
+    "ru_stime": 0.014792,
+    "ru_utime": 0.998265,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1049eb880>"
+  },
+  "classification": "soft_cpu_signal_observed",
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 1.013716,
+    "monotonic": 2990.304802041,
+    "peak_rss_bytes": 12500992,
+    "pid": 10479,
+    "rlimit_cpu": [
+      1,
+      3
+    ],
+    "ru_stime": 0.015257,
+    "ru_utime": 0.998459,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": false,
+  "native_optimizer_calls": 0,
+  "scenario": "cpu_soft",
+  "signals": [
+    {
+      "handled_at": {
+        "cpu_absolute": 1.013041,
+        "monotonic": 2990.304116958,
+        "peak_rss_bytes": 12484608,
+        "pid": 10479,
+        "rlimit_cpu": [
+          1,
+          3
+        ],
+        "ru_stime": 0.014790999999999999,
+        "ru_utime": 0.998247,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1049eb880>"
+      },
+      "origin": "unknown",
+      "phase": "cpu_spin",
+      "signum": 24
+    }
+  ],
+  "solver_status": null
+}

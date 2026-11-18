@@ -1,0 +1,128 @@
+{
+  "rows": [
+    {
+      "classification": "ordinary_exit",
+      "name": "normal_exit",
+      "passed": true,
+      "pid": 5761,
+      "reasons": [],
+      "returncode": 0,
+      "spawned": true
+    },
+    {
+      "classification": "nonzero_or_signal_exit",
+      "name": "nonzero_exit",
+      "passed": true,
+      "pid": 5763,
+      "reasons": [],
+      "returncode": 7,
+      "spawned": true
+    },
+    {
+      "classification": "ordinary_exit",
+      "name": "cpu_work",
+      "passed": true,
+      "pid": 5767,
+      "reasons": [],
+      "returncode": 0,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "final_CPU_over_budget",
+      "passed": true,
+      "pid": 5783,
+      "reasons": [
+        "cpu_limit"
+      ],
+      "returncode": 0,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "parent_wall",
+      "passed": true,
+      "pid": 5790,
+      "reasons": [
+        "wall_limit"
+      ],
+      "returncode": -15,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "parent_CPU",
+      "passed": true,
+      "pid": 5802,
+      "reasons": [
+        "cpu_limit"
+      ],
+      "returncode": -15,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "parent_RSS",
+      "passed": true,
+      "pid": 5822,
+      "reasons": [
+        "rss_limit"
+      ],
+      "returncode": -15,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "TERM_to_KILL",
+      "passed": true,
+      "pid": 5826,
+      "reasons": [
+        "wall_limit"
+      ],
+      "returncode": -9,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "setup_failure",
+      "passed": true,
+      "pid": 5857,
+      "reasons": [
+        "setup_or_runner_error"
+      ],
+      "returncode": -15,
+      "spawned": true
+    },
+    {
+      "classification": "ordinary_exit",
+      "name": "exit_candidate_confirmed",
+      "passed": true,
+      "pid": 5858,
+      "reasons": [],
+      "returncode": 0,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "live_counter_reset",
+      "passed": true,
+      "pid": 5871,
+      "reasons": [
+        "monitor_invalid: Invalid live telemetry"
+      ],
+      "returncode": -15,
+      "spawned": true
+    },
+    {
+      "classification": "censored",
+      "name": "exit_candidate_timeout",
+      "passed": true,
+      "pid": 5884,
+      "reasons": [
+        "exit_confirmation_timeout"
+      ],
+      "returncode": -15,
+      "spawned": true
+    }
+  ]
+}

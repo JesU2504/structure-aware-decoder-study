@@ -1,0 +1,49 @@
+{"gates_completed": 1, "case_id": 0, "baseline_equal": true}
+{"gates_completed": 2, "case_id": 1, "baseline_equal": true}
+{"gates_completed": 3, "case_id": 2, "baseline_equal": true}
+{"gates_completed": 4, "case_id": 3, "baseline_equal": true}
+{"gates_completed": 5, "case_id": 4, "baseline_equal": true}
+{"gates_completed": 6, "case_id": 5, "baseline_equal": true}
+{"gates_completed": 7, "case_id": 23, "baseline_equal": true}
+{"gates_completed": 8, "case_id": 24, "baseline_equal": true}
+{"gates_completed": 9, "case_id": 51, "baseline_equal": true}
+{"gates_completed": 10, "case_id": 66, "baseline_equal": true}
+{"gates_completed": 11, "case_id": 131, "baseline_equal": true}
+{"gates_completed": 12, "case_id": 167, "baseline_equal": true}
+{"gates_completed": 13, "case_id": 188, "baseline_equal": true}
+{"gates_completed": 14, "case_id": 228, "baseline_equal": true}
+{"gates_completed": 15, "case_id": 249, "baseline_equal": true}
+{"gates_completed": 16, "case_id": 256, "baseline_equal": true}
+{"gates_completed": 17, "case_id": 257, "baseline_equal": true}
+{"gates_completed": 18, "case_id": 258, "baseline_equal": true}
+{"gates_completed": 19, "case_id": 260, "baseline_equal": true}
+{"gates_completed": 20, "case_id": 261, "baseline_equal": true}
+{"gates_completed": 21, "case_id": 263, "baseline_equal": true}
+{"gates_completed": 22, "case_id": 264, "baseline_equal": true}
+{"gates_completed": 23, "case_id": 265, "baseline_equal": true}
+{"gates_completed": 24, "case_id": 407, "baseline_equal": true}
+{"searches_completed": 1, "case_id": 0}
+{"searches_completed": 2, "case_id": 1}
+{"searches_completed": 3, "case_id": 2}
+{"searches_completed": 4, "case_id": 3}
+{"searches_completed": 5, "case_id": 4}
+{"searches_completed": 6, "case_id": 5}
+{"searches_completed": 7, "case_id": 23}
+{"searches_completed": 8, "case_id": 24}
+{"searches_completed": 9, "case_id": 51}
+{"searches_completed": 10, "case_id": 66}
+{"searches_completed": 11, "case_id": 131}
+{"searches_completed": 12, "case_id": 167}
+{"searches_completed": 13, "case_id": 188}
+{"searches_completed": 14, "case_id": 228}
+{"searches_completed": 15, "case_id": 249}
+{"searches_completed": 16, "case_id": 256}
+{"searches_completed": 17, "case_id": 257}
+{"searches_completed": 18, "case_id": 258}
+{"searches_completed": 19, "case_id": 260}
+{"searches_completed": 20, "case_id": 261}
+{"searches_completed": 21, "case_id": 263}
+{"searches_completed": 22, "case_id": 264}
+{"searches_completed": 23, "case_id": 265}
+{"searches_completed": 24, "case_id": 407}
+{"status": "completed", "message": "All global gates and full-search cases completed; outputs remain unscored by logical truth in worker", "gates_completed": 24, "searches_completed": 24, "child_cpu_seconds": 15.211055, "child_wall_seconds": 15.615607834000912, "peak_child_rss_bytes": 595525632, "new_native_decoder_calls": 0, "new_physical_shots": 0, "actual_labels_loaded_by_worker": false, "worker_input_keys": ["syndrome", "llrs", "correction", "order"], "frozen_sha256": "f81a98641c5d831373a503e22ab3cccb4d483c49a9563f9fcbe9c415b8724739"}

@@ -1,0 +1,11 @@
+{
+  "frozen_inputs_verified": 118,
+  "frozen_sha256": "f81a98641c5d831373a503e22ab3cccb4d483c49a9563f9fcbe9c415b8724739",
+  "new_scientific_calls_in_postcheck": 0,
+  "outcome": "Completed feasibility diagnostic;10/12rescued,0/12selected-controlregressions;notyetnovelpaper",
+  "passed": true,
+  "prior_manifests_unchanged": 21,
+  "results_and_summary_consistent": true,
+  "supervisor_review_sha256": "82d714c9e88047535cc7027b359eee2617a90c0853b0ec423bea1a271b2fa482",
+  "worker_has_no_true_label_access_or_decode_call": true
+}

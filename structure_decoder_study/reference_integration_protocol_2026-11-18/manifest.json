@@ -1,0 +1,28 @@
+{
+  "files": {
+    "../STATUS_2026-11-18_REFERENCE_INTEGRATION_PROTOCOL.md": "fe1c633bacd3a316c728f3c84386c49218fd71fbcc97715ce6b62c9492122c8e",
+    "PROTOCOL.md": "1e9119b595f797fc31b9e32c435c850293192c1c3585915fc162c26a546e0940",
+    "README.md": "bea2cd93757c253490e0a36b7fbb040f33b9b9eba40a77f34a0a977721927f25",
+    "REVIEW_CHANGES.md": "21e8a7501ce607901afda4a8329c9bb167c06b565d0c3e6e46b06b166d69beb7",
+    "SOURCES.md": "38cb8219c1cd8f531a79e39220d76533b08461f19968e75f094bce4ac259f96d",
+    "SUPERVISOR_REVIEW.md": "857dacd64e7d432a14680aec710f737bcae65de4fb7dc11dd5ab46013dabd322",
+    "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+    "check_policy.py": "6fa7b67f8eba0c8f985b89a2b2eb28045c5468d13cc2373dfb5afd2c4a9e3c5f",
+    "close_preparation.py": "36045120018fc9659585e3a265b22dca6991bf97e42dc809de51d610abc5f8e9",
+    "entry_fixtures.json": "d05660899a07289c70a3bc2423c31d51e29ae56dcf2c553f8bf5b0ce483409e1",
+    "entry_fixtures_initial.json": "d05660899a07289c70a3bc2423c31d51e29ae56dcf2c553f8bf5b0ce483409e1",
+    "environment.json": "4091f06fccc56b1532c1625d9224aa298dbdf704e47e50a4560ce3d3864884c5",
+    "environment_initial.json": "bcd738dbb088bcd3dfddf5721e897d95a5a803bdcf8464a507a1288ec9f6c61e",
+    "final_checks.json": "aa7d5783eaaaabe4cd704aedfed4d38412decd4467505e0e6003037b4afa40ed",
+    "frozen.json": "276d3b55c44bb83e113d20954daa997bea0208974b70e68ea0c393fc5a47db9e",
+    "local_ps_source.json": "b6ecfb231751aefa63ddffb5290efc5e983d8d29145ba778fd2b0cc9daf2f8c2",
+    "policy_checks.json": "2d26320c8178d3e3d8c51f4923de1f6dc99dc48d62785e4854f6142c2df58134",
+    "policy_checks_initial.json": "05648f37f25330e28420c1107a9d8519eb63c5ab48b442b71861faaa974304e0",
+    "policy_checks_schema_revision.json": "eb4ee42340d9a9af45a7d6777059397bffb89f68c3bd9479f55fa2d4bbea7b46",
+    "prepare_spec.py": "80e22aa64c31068fea908d9d9e672a42feb6170635854c80fbb1080bf369cab5",
+    "protocol.json": "dbc98b8090d5f6fe219da851986bd3efde9662464be5748c53df1841fe4820bb",
+    "protocol_initial.json": "37e2bc034d28b20ec940f174c1841f4b08e28124de0a36e03c22439d09cc902d",
+    "protocol_pre_path_clarification.json": "661f8b2bd881b8ea87a31773ae4087c864cc59949b8736aa7e96d32574fb71da"
+  },
+  "status": "reviewed_preparation_complete_execution_not_performed"
+}

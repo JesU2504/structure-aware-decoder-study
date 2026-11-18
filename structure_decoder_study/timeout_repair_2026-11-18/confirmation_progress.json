@@ -1,0 +1,220 @@
+{
+  "rows": [
+    {
+      "folder": "confirmation/timeout_none",
+      "has_incumbent": false,
+      "name": "timeout_none",
+      "process": {
+        "classification": "solver_limit_no_incumbent",
+        "controlled_injection": null,
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 69697536,
+        "returncode": 0,
+        "wall_seconds": 0.2938010419998136,
+        "watchdog_reason": null
+      },
+      "scenario": "normal",
+      "solver_status": 1
+    },
+    {
+      "folder": "confirmation/timeout_incumbent",
+      "has_incumbent": true,
+      "name": "timeout_incumbent",
+      "process": {
+        "classification": "solver_limit_with_incumbent",
+        "controlled_injection": null,
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 80445440,
+        "returncode": 0,
+        "wall_seconds": 0.44801862499980416,
+        "watchdog_reason": null
+      },
+      "scenario": "normal",
+      "solver_status": 1
+    },
+    {
+      "folder": "confirmation/legacy_injected",
+      "has_incumbent": null,
+      "name": "legacy_injected",
+      "process": {
+        "classification": "process_censored_or_failed",
+        "controlled_injection": {
+          "pid": 10391,
+          "ready": {
+            "at": {
+              "cpu_absolute": 0.248755,
+              "monotonic": 2988.338306875,
+              "peak_rss_bytes": 68616192,
+              "pid": 10391,
+              "rlimit_cpu": [
+                10,
+                12
+              ],
+              "ru_stime": 0.034498,
+              "ru_utime": 0.214253,
+              "sigxcpu_handler": "<function main.<locals>.throwing at 0x102ea39c0>"
+            },
+            "phase": "solver_call"
+          },
+          "sent": true,
+          "sent_at_monotonic": 2988.368894375,
+          "signum": 24
+        },
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 82411520,
+        "returncode": 1,
+        "wall_seconds": 0.4536409160000403,
+        "watchdog_reason": null
+      },
+      "scenario": "legacy_signal",
+      "solver_status": null
+    },
+    {
+      "folder": "confirmation/deferred_injected",
+      "has_incumbent": true,
+      "name": "deferred_injected",
+      "process": {
+        "classification": "signal_observed_result_preserved",
+        "controlled_injection": {
+          "pid": 10425,
+          "ready": {
+            "at": {
+              "cpu_absolute": 0.248644,
+              "monotonic": 2988.792612916,
+              "peak_rss_bytes": 68370432,
+              "pid": 10425,
+              "rlimit_cpu": [
+                10,
+                12
+              ],
+              "ru_stime": 0.034429999999999995,
+              "ru_utime": 0.21421099999999998,
+              "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+            },
+            "phase": "solver_call"
+          },
+          "sent": true,
+          "sent_at_monotonic": 2988.827364875,
+          "signum": 24
+        },
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 80822272,
+        "returncode": 0,
+        "wall_seconds": 0.4525388749998456,
+        "watchdog_reason": null
+      },
+      "scenario": "deferred_signal",
+      "solver_status": 1
+    },
+    {
+      "folder": "confirmation/optimal",
+      "has_incumbent": true,
+      "name": "optimal",
+      "process": {
+        "classification": "solver_completed",
+        "controlled_injection": null,
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 68583424,
+        "returncode": 0,
+        "wall_seconds": 0.2852011249997304,
+        "watchdog_reason": null
+      },
+      "scenario": "normal",
+      "solver_status": 0
+    },
+    {
+      "folder": "confirmation/soft_cpu",
+      "has_incumbent": false,
+      "name": "soft_cpu",
+      "process": {
+        "classification": "soft_cpu_signal_observed",
+        "controlled_injection": null,
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 12484608,
+        "returncode": 0,
+        "wall_seconds": 1.0272043340000891,
+        "watchdog_reason": null
+      },
+      "scenario": "cpu_soft",
+      "solver_status": null
+    },
+    {
+      "folder": "confirmation/hard_cpu",
+      "has_incumbent": null,
+      "name": "hard_cpu",
+      "process": {
+        "classification": "process_censored_or_failed",
+        "controlled_injection": null,
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 12763136,
+        "returncode": -15,
+        "wall_seconds": 8.014153500000248,
+        "watchdog_reason": "wall_limit"
+      },
+      "scenario": "cpu_hard",
+      "solver_status": null
+    },
+    {
+      "folder": "confirmation/wall_guard",
+      "has_incumbent": null,
+      "name": "wall_guard",
+      "process": {
+        "classification": "process_censored_or_failed",
+        "controlled_injection": null,
+        "expected_wall_limit": 0.15,
+        "monitor_error": null,
+        "peak_rss_bytes": 12484608,
+        "returncode": -15,
+        "wall_seconds": 0.16576908300021387,
+        "watchdog_reason": "wall_limit"
+      },
+      "scenario": "wall_kill",
+      "solver_status": null
+    },
+    {
+      "folder": "confirmation/late_persistence",
+      "has_incumbent": true,
+      "name": "late_persistence",
+      "process": {
+        "classification": "signal_observed_result_preserved",
+        "controlled_injection": {
+          "pid": 11141,
+          "ready": {
+            "at": {
+              "cpu_absolute": 0.258336,
+              "monotonic": 2998.755291791,
+              "peak_rss_bytes": 68206592,
+              "pid": 11141,
+              "rlimit_cpu": [
+                10,
+                12
+              ],
+              "ru_stime": 0.039486,
+              "ru_utime": 0.21885,
+              "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102957740>"
+            },
+            "phase": "guarded_persistence"
+          },
+          "sent": true,
+          "sent_at_monotonic": 2998.778136958,
+          "signum": 24
+        },
+        "expected_wall_limit": 8.0,
+        "monitor_error": null,
+        "peak_rss_bytes": 68304896,
+        "returncode": 0,
+        "wall_seconds": 0.4144837499998175,
+        "watchdog_reason": null
+      },
+      "scenario": "late_persistence",
+      "solver_status": 1
+    }
+  ]
+}

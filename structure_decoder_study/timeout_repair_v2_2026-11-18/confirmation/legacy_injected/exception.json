@@ -1,0 +1,33 @@
+{
+  "at": {
+    "cpu_absolute": 0.417944,
+    "monotonic": 652.192941916,
+    "peak_rss_bytes": 81035264,
+    "pid": 1804,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.036757,
+    "ru_utime": 0.381183,
+    "sigxcpu_handler": "<function main.<locals>.throwing at 0x104dcf9c0>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.255691,
+    "monotonic": 652.02914525,
+    "peak_rss_bytes": 69025792,
+    "pid": 1804,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.035348,
+    "ru_utime": 0.22034199999999998,
+    "sigxcpu_handler": "<function main.<locals>.throwing at 0x104dcf9c0>"
+  },
+  "kind": "LegacySignalStop",
+  "message": "Controlled legacy raising-handler loss",
+  "returned_object_assigned": false,
+  "scenario": "legacy_signal",
+  "signals": []
+}

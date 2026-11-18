@@ -1,0 +1,12 @@
+{
+  "files": {
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/AUDIT_ADJUDICATION_PLAN.md": "0034069a6a776fe2b0fc52c2b5d0f20183c072ca9255f2507fd3cf9bdde05497",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/AUDIT_ADJUDICATION_PREFLIGHT.md": "b24017a8dd3a780c657f62f35a6f959c0a250f729c8cd01f935033ca0e0dba27",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/audit_adjudicated.py": "0a0eedac7528d459a738dedb7d2270333c179d6c0ac5fdc6e777dbc0dd1cb953",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/audit_initial_failure.json": "b4813093952021e6b46d4dc4a5ecabc1b1c70f9811de1d15743d1c00a9ca297b",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/frozen.json": "249a520f00a6e2700b06efac405c9eb80eff2ddffb286767d13760f7ec4be761",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/output_manifest.json": "1a5b571b48c92fa4ebcd628d91e656f5defcb902f5c7f9eb6e650610e58142bc"
+  },
+  "kind": "post_hoc_saved_output_audit_only",
+  "new_optimizer_calls": 0
+}

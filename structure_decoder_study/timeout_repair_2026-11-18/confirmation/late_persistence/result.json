@@ -1,0 +1,76 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.257994,
+    "monotonic": 2998.754928041,
+    "peak_rss_bytes": 68190208,
+    "pid": 11141,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.039286,
+    "ru_utime": 0.21870699999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102957740>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.257987,
+    "monotonic": 2998.754921625,
+    "peak_rss_bytes": 68190208,
+    "pid": 11141,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.039285,
+    "ru_utime": 0.21870099999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102957740>"
+  },
+  "classification": "signal_observed_result_preserved",
+  "exception_restoration_unit_passed": true,
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 0.260026,
+    "monotonic": 2998.861977916,
+    "peak_rss_bytes": 68304896,
+    "pid": 11141,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.04031,
+    "ru_utime": 0.219712,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": true,
+  "incumbent_score": 0.0,
+  "incumbent_valid": true,
+  "integer_proximity": 0.0,
+  "native_optimizer_calls": 0,
+  "oracle_or_research_data_used": false,
+  "scenario": "late_persistence",
+  "scipy_warnings": [],
+  "signals": [
+    {
+      "handled_at": {
+        "cpu_absolute": 0.258508,
+        "monotonic": 2998.778172083,
+        "peak_rss_bytes": 68206592,
+        "pid": 11141,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.039605999999999995,
+        "ru_utime": 0.21889799999999998,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102957740>"
+      },
+      "origin": "unknown",
+      "phase": "persisting_result",
+      "signum": 24
+    }
+  ],
+  "solver_message": "Known payload for persistence unit; no solver call",
+  "solver_status": 1,
+  "start_cpu": 0.020371
+}

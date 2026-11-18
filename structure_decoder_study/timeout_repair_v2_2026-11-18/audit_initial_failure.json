@@ -1,0 +1,10 @@
+{
+  "exit_code": 1,
+  "failed_file": "audit.py",
+  "failed_function": "inspect_monitor",
+  "failed_line": 42,
+  "failed_assertion": "cpu>=previous and sample[query_started]>=last_at",
+  "status": "frozen_audit_failed",
+  "research_reruns": 0,
+  "optimizer_retries": 0
+}

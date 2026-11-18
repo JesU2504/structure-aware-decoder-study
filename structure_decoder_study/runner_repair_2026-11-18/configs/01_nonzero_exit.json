@@ -1,0 +1,13 @@
+{
+  "OS_CPU_request": [
+    5,
+    6
+  ],
+  "cpu_limit": 3.0,
+  "mode": "nonzero",
+  "name": "nonzero_exit",
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "output": "<WORKSPACE>/structure_decoder_study/runner_repair_2026-11-18/runs/nonzero_exit",
+  "rss_limit": 268435456,
+  "wall_limit": 4.0
+}

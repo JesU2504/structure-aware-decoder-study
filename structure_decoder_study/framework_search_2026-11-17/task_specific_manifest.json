@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-18",
+  "decision": "one_frozen_offline_saved_candidate_diagnosis_next;method_and_publication_claim_not_yet_supported",
+  "expert_and_supervisor_agree": true,
+  "files": {
+    "TASK_SPECIFIC_DECISION.md": "dfd900a650209dcda54284fcd24c540eaca6c7ecee8580b3edcd26b3bd6ce00d",
+    "task_specific_expert.md": "ef665d9830cdb6bde81883ed63a5ae750b1e51f09d2af63217510bbb665427cb",
+    "task_specific_supervisor.md": "d9e4761bc74271f329d2051eb5aff96654142eddd8410e923cdef70e6b1bf5d1"
+  },
+  "new_candidate_computations": 0,
+  "new_decoder_calls": 0,
+  "new_fits": 0,
+  "new_samples": 0,
+  "previous_framework_files_unchanged": true,
+  "previous_framework_manifest_sha256": "b16c996066cd0fff51bdaec6291e5d0c6fe9bbb189f4fcfe6b336a2446ea1777",
+  "scope": "Task-specific research advisory review",
+  "scope_correction": "Fresh observations from the same frozen task can confirm within-task claims; cross-family transfer is not universally required"
+}

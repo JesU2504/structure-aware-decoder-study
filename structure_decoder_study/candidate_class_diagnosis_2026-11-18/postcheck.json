@@ -1,0 +1,17 @@
+{
+  "case_rows_verified": 24,
+  "date": "2026-11-18",
+  "frozen_inputs_verified": 161,
+  "frozen_sha256": "e92d012a723ca89ac24ab0f3b54bd97d99f4602ad4472e6aa8a1cd05269cd211",
+  "list_members_verified_by_completed_audit": 250728,
+  "mathematical_addendum_rechecked_with_decimal50": true,
+  "new_candidate_evaluations_in_recovery": 0,
+  "new_decoder_calls_in_recovery": 0,
+  "new_physical_samples_in_recovery": 0,
+  "passed": true,
+  "previous_result_manifests_unchanged": 22,
+  "recovery": "Primary and audit had already completed before interruption; saved evidence reverified without rerunning scientific computation",
+  "result": "Both remaining failures have a covered correct class that loses by a robust source-score gap; no new correction or method claim",
+  "source_winners_unchanged": true,
+  "supervisor_postcheck_sha256": "2bf0045df57ae1499d2e235a2a09f613287f318574c1d03a1411e7510663ee03"
+}

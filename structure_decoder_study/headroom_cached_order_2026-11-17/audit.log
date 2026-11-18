@@ -1,0 +1,25 @@
+{"audited_case": 0, "cases_completed": 1, "full_transition": "correct_controls"}
+{"audited_case": 1, "cases_completed": 2, "full_transition": "correct_controls"}
+{"audited_case": 2, "cases_completed": 3, "full_transition": "correct_controls"}
+{"audited_case": 3, "cases_completed": 4, "full_transition": "correct_controls"}
+{"audited_case": 4, "cases_completed": 5, "full_transition": "correct_controls"}
+{"audited_case": 5, "cases_completed": 6, "full_transition": "correct_controls"}
+{"audited_case": 23, "cases_completed": 7, "full_transition": "rescues"}
+{"audited_case": 24, "cases_completed": 8, "full_transition": "rescues"}
+{"audited_case": 51, "cases_completed": 9, "full_transition": "rescues"}
+{"audited_case": 66, "cases_completed": 10, "full_transition": "rescues"}
+{"audited_case": 131, "cases_completed": 11, "full_transition": "remaining_failures"}
+{"audited_case": 167, "cases_completed": 12, "full_transition": "rescues"}
+{"audited_case": 188, "cases_completed": 13, "full_transition": "rescues"}
+{"audited_case": 228, "cases_completed": 14, "full_transition": "remaining_failures"}
+{"audited_case": 249, "cases_completed": 15, "full_transition": "rescues"}
+{"audited_case": 256, "cases_completed": 16, "full_transition": "rescues"}
+{"audited_case": 257, "cases_completed": 17, "full_transition": "correct_controls"}
+{"audited_case": 258, "cases_completed": 18, "full_transition": "correct_controls"}
+{"audited_case": 260, "cases_completed": 19, "full_transition": "rescues"}
+{"audited_case": 261, "cases_completed": 20, "full_transition": "correct_controls"}
+{"audited_case": 263, "cases_completed": 21, "full_transition": "correct_controls"}
+{"audited_case": 264, "cases_completed": 22, "full_transition": "correct_controls"}
+{"audited_case": 265, "cases_completed": 23, "full_transition": "correct_controls"}
+{"audited_case": 407, "cases_completed": 24, "full_transition": "rescues"}
+{"passed": true, "cases": 24, "failures": 12, "success_controls": 12, "all_baselines_exact": true, "candidates_explicitly_checked": 250704, "all1800_rows_checked_for_every_candidate": true, "full_vector_direct_scoring": true, "source_selection_rules_verified": true, "prefix_score_monotonicity_verified": true, "new_native_decoder_calls": 0, "new_physical_shots": 0, "global_gate_respected": true, "totals": {"500": {"rescues": [23, 24, 51, 66, 167, 188, 249, 256, 260, 407], "regressions": [], "remaining_failures": [131, 228], "correct_controls": [0, 1, 2, 3, 4, 5, 257, 258, 261, 263, 264, 265]}, "1000": {"rescues": [23, 24, 51, 66, 167, 188, 249, 256, 260, 407], "regressions": [], "remaining_failures": [131, 228], "correct_controls": [0, 1, 2, 3, 4, 5, 257, 258, 261, 263, 264, 265]}, "full": {"rescues": [23, 24, 51, 66, 167, 188, 249, 256, 260, 407], "regressions": [], "remaining_failures": [131, 228], "correct_controls": [0, 1, 2, 3, 4, 5, 257, 258, 261, 263, 264, 265]}}, "frozen_sha256": "f81a98641c5d831373a503e22ab3cccb4d483c49a9563f9fcbe9c415b8724739", "audit_source_sha256": "1e76711597b3534b86b06b33232d533d6d49b1170e2e3c24923cd87b9030b860", "audit_cpu_seconds": 28.62914, "audit_wall_seconds": 29.404206041999714, "peak_audit_rss_bytes": 482394112, "scope": "Selected development diagnostic; not population gain, independent validation, hidden native pivots or novelty"}

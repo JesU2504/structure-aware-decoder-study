@@ -1,0 +1,10 @@
+{
+  "classification": "process_censored_or_failed",
+  "controlled_injection": null,
+  "expected_wall_limit": 0.15,
+  "monitor_error": null,
+  "peak_rss_bytes": 12484608,
+  "returncode": -15,
+  "wall_seconds": 0.16576908300021387,
+  "watchdog_reason": "wall_limit"
+}

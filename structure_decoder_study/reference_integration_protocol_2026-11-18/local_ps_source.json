@@ -1,0 +1,15 @@
+{
+  "manual": "/usr/share/man/man1/ps.1",
+  "manual_sha256": "fbddf023ce4960c7e6eadebcfb7f0badf0ab6c3f59b2b97c2807d3f67a85142d",
+  "command": "man ps",
+  "checked_semantics": {
+    "TIME": "cumulative user plus system process CPU",
+    "leading_stat_states": "I R S T U Z",
+    "terminal_state": "Z",
+    "modifiers_are_not_independent_terminal_states": true
+  },
+  "verbatim_excerpts": [
+    "Z Marks a dead process (a zombie).",
+    "time accumulated CPU time, user + system (alias cputime)"
+  ]
+}

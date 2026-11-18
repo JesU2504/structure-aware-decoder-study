@@ -1,0 +1,100 @@
+{
+  "OS_hard_limit_enforcement_claim": false,
+  "classification": "censored",
+  "controlled_injection": null,
+  "ended": 10265.145674625,
+  "kernel_events": [
+    {
+      "ended": 10265.139771458,
+      "flags": 1,
+      "requested_pid": 5857,
+      "returned_pid": 0,
+      "started": 10265.139761958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.139777333,
+      "flags": 1,
+      "requested_pid": 5857,
+      "returned_pid": 0,
+      "started": 10265.139774958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.139796,
+      "flags": 1,
+      "requested_pid": 5857,
+      "returned_pid": 0,
+      "started": 10265.139793625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10265.145649791,
+      "final": {
+        "pid": 5857,
+        "raw_status": 15,
+        "reaped_at": 10265.145649791,
+        "returncode": -15,
+        "usage": {
+          "native_RSS_unit": "bytes",
+          "native_peak_rss": 442368,
+          "peak_rss_bytes": 442368,
+          "system_cpu": 0.000256,
+          "total_cpu": 0.00034199999999999996,
+          "user_cpu": 8.599999999999999e-05
+        }
+      },
+      "flags": 1,
+      "raw_status": 15,
+      "requested_pid": 5857,
+      "returned_pid": 5857,
+      "started": 10265.145639541
+    }
+  ],
+  "kernel_final": {
+    "pid": 5857,
+    "raw_status": 15,
+    "reaped_at": 10265.145649791,
+    "returncode": -15,
+    "usage": {
+      "native_RSS_unit": "bytes",
+      "native_peak_rss": 442368,
+      "peak_rss_bytes": 442368,
+      "system_cpu": 0.000256,
+      "total_cpu": 0.00034199999999999996,
+      "user_cpu": 8.599999999999999e-05
+    }
+  },
+  "name": "setup_failure",
+  "native_optimizers_called": 0,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "observation_gap": null,
+  "ownership_errors": [],
+  "peak_RSS_and_CPU_sources_kept_separate": true,
+  "pid": 5857,
+  "ps_RSS_highwater": 0,
+  "ps_cpu_highwater": 0.0,
+  "ps_queries": [],
+  "quantum_decoders_called": 0,
+  "reasons": [
+    "setup_or_runner_error"
+  ],
+  "setup_error": "OSError: Controlled post-spawn setup failure",
+  "signals": [
+    {
+      "API_returned": true,
+      "pid": 5857,
+      "reasons": [
+        "setup_or_runner_error"
+      ],
+      "requested_at": 10265.139778916,
+      "returncode_after_wait": -15,
+      "signum": 15,
+      "wait_ended": 10265.14566425,
+      "wait_started": 10265.139792291,
+      "wait_timed_out": false
+    }
+  ],
+  "started": 10265.13814425,
+  "terminal_telemetry_unavailable": false
+}

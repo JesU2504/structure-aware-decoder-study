@@ -1,0 +1,28 @@
+{
+  "actual_workers": 12,
+  "additional_prior_manifests_verified": {
+    "adapter_entry_2026-11-18": 73,
+    "reference_integration_protocol_2026-11-18": 23,
+    "reference_probe_2026-11-18": 30,
+    "timeout_repair_2026-11-18": 119,
+    "timeout_repair_v2_2026-11-18": 108
+  },
+  "all_prior_sources_and_data_unchanged": true,
+  "cumulative_optimizer_attempts_unchanged": 19,
+  "decoder_calls": 0,
+  "earlier_result_manifests_verified": 23,
+  "frozen_input_files": 28,
+  "frozen_sha256": "bfde4c57be5d039a74a9160e744d68d92bf7dbfc8d120ec8494166b10b7687c7",
+  "native_optimizer_integration_validated": false,
+  "no_matching_fixture_processes": true,
+  "offline_checks": 32,
+  "optimizer_calls": 0,
+  "output_files": 79,
+  "passed": true,
+  "physical_samples": 0,
+  "research_cases": 0,
+  "scope": "bounded_stdlib_runner_core",
+  "supervisor_review_sha256": "dc05c22d59ed22b88b3b4490db85141078b1de043f98c09307acd71a5778d5b7",
+  "unique_files_hashed": 7250,
+  "wall_seconds": 1.475943166999059
+}

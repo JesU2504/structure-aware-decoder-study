@@ -1,0 +1,27 @@
+{
+  "exit_classifier_cases": 11,
+  "passed": true,
+  "probes": {
+    "cpu": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 10305536,
+      "returncode": -24,
+      "wall_seconds": 1.0406787079991773,
+      "watchdog_reason": null
+    },
+    "rss": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 10076160,
+      "returncode": -15,
+      "wall_seconds": 0.032152916999621084,
+      "watchdog_reason": "rss_limit"
+    },
+    "wall": {
+      "monitor_error": null,
+      "peak_observed_child_rss_bytes": 10076160,
+      "returncode": -15,
+      "wall_seconds": 0.10675633400023798,
+      "watchdog_reason": "wall_limit"
+    }
+  }
+}

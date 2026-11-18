@@ -1,0 +1,184 @@
+{
+  "audit_passed": true,
+  "audit_process_passed": true,
+  "cases": 24,
+  "frozen_sha256": "f81a98641c5d831373a503e22ab3cccb4d483c49a9563f9fcbe9c415b8724739",
+  "identical_prefix_corrections": {
+    "1000_full": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      23,
+      24,
+      51,
+      66,
+      131,
+      167,
+      188,
+      228,
+      249,
+      256,
+      257,
+      258,
+      260,
+      261,
+      263,
+      264,
+      265,
+      407
+    ],
+    "500_full": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      23,
+      24,
+      51,
+      66,
+      131,
+      167,
+      188,
+      228,
+      249,
+      256,
+      257,
+      258,
+      260,
+      261,
+      263,
+      264,
+      265,
+      407
+    ]
+  },
+  "max_delta_error": 1.7053025658242404e-12,
+  "near_minimum_logical_class_sensitive_cases": [],
+  "new_native_calls": 0,
+  "new_samples": 0,
+  "outcomes": {
+    "1000": {
+      "correct_controls": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        257,
+        258,
+        261,
+        263,
+        264,
+        265
+      ],
+      "regressions": [],
+      "remaining_failures": [
+        131,
+        228
+      ],
+      "rescues": [
+        23,
+        24,
+        51,
+        66,
+        167,
+        188,
+        249,
+        256,
+        260,
+        407
+      ]
+    },
+    "500": {
+      "correct_controls": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        257,
+        258,
+        261,
+        263,
+        264,
+        265
+      ],
+      "regressions": [],
+      "remaining_failures": [
+        131,
+        228
+      ],
+      "rescues": [
+        23,
+        24,
+        51,
+        66,
+        167,
+        188,
+        249,
+        256,
+        260,
+        407
+      ]
+    },
+    "full": {
+      "correct_controls": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        257,
+        258,
+        261,
+        263,
+        264,
+        265
+      ],
+      "regressions": [],
+      "remaining_failures": [
+        131,
+        228
+      ],
+      "rescues": [
+        23,
+        24,
+        51,
+        66,
+        167,
+        188,
+        249,
+        256,
+        260,
+        407
+      ]
+    }
+  },
+  "previous_manifests_unchanged": 21,
+  "timings": {
+    "full_source": {
+      "mean_cpu_ms": 90.43175,
+      "mean_wall_ms": 94.30919625,
+      "sum_cpu_ms": 2170.362
+    },
+    "reconstruction": {
+      "mean_cpu_ms": 91.55179166666667,
+      "mean_wall_ms": 92.23312316666667,
+      "sum_cpu_ms": 2197.243
+    },
+    "validation": {
+      "mean_cpu_ms": 51.125791666666665,
+      "mean_wall_ms": 51.60922908333333,
+      "sum_cpu_ms": 1227.019
+    }
+  },
+  "training_runs": 0
+}

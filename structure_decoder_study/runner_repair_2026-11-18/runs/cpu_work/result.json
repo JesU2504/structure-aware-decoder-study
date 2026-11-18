@@ -1,0 +1,295 @@
+{
+  "OS_hard_limit_enforcement_claim": false,
+  "classification": "ordinary_exit",
+  "controlled_injection": null,
+  "ended": 10263.695597291,
+  "kernel_events": [
+    {
+      "ended": 10263.564457208,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.564454125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.566474833,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.566464166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.57917825,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.579159916,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.581932041,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.581920458,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.594566416,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.594553625,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.5968815,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.596870416,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.607716958,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.607705958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.610025291,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.610014083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.62066175,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.620652166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.623395791,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.623385166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.636076416,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.636069875,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.638013708,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.638006958,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.650664583,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.650656916,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.6543115,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.6542965,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.66500875,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.664998666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.667321041,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.667310083,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.679985583,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.679973791,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.682860458,
+      "flags": 1,
+      "requested_pid": 5767,
+      "returned_pid": 0,
+      "started": 10263.682852333,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.695554125,
+      "final": {
+        "pid": 5767,
+        "raw_status": 0,
+        "reaped_at": 10263.695554125,
+        "returncode": 0,
+        "usage": {
+          "native_RSS_unit": "bytes",
+          "native_peak_rss": 12009472,
+          "peak_rss_bytes": 12009472,
+          "system_cpu": 0.0065309999999999995,
+          "total_cpu": 0.12479499999999999,
+          "user_cpu": 0.118264
+        }
+      },
+      "flags": 1,
+      "raw_status": 0,
+      "requested_pid": 5767,
+      "returned_pid": 5767,
+      "started": 10263.695530333
+    }
+  ],
+  "kernel_final": {
+    "pid": 5767,
+    "raw_status": 0,
+    "reaped_at": 10263.695554125,
+    "returncode": 0,
+    "usage": {
+      "native_RSS_unit": "bytes",
+      "native_peak_rss": 12009472,
+      "peak_rss_bytes": 12009472,
+      "system_cpu": 0.0065309999999999995,
+      "total_cpu": 0.12479499999999999,
+      "user_cpu": 0.118264
+    }
+  },
+  "name": "cpu_work",
+  "native_optimizers_called": 0,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "observation_gap": null,
+  "ownership_errors": [],
+  "peak_RSS_and_CPU_sources_kept_separate": true,
+  "pid": 5767,
+  "ps_RSS_highwater": 11943936,
+  "ps_cpu_highwater": 0.12,
+  "ps_queries": [
+    {
+      "end": 10263.566457666,
+      "error": null,
+      "kernel_events_after_query": 2,
+      "kernel_events_before_query": 1,
+      "raw": " 5767 R       992   0:00.00\n",
+      "returncode": 0,
+      "start": 10263.564459333,
+      "stderr": ""
+    },
+    {
+      "end": 10263.581914166,
+      "error": null,
+      "kernel_events_after_query": 4,
+      "kernel_events_before_query": 3,
+      "raw": " 5767 R     10464   0:00.02\n",
+      "returncode": 0,
+      "start": 10263.579185125,
+      "stderr": ""
+    },
+    {
+      "end": 10263.596864041,
+      "error": null,
+      "kernel_events_after_query": 6,
+      "kernel_events_before_query": 5,
+      "raw": " 5767 R     11664   0:00.03\n",
+      "returncode": 0,
+      "start": 10263.594571416,
+      "stderr": ""
+    },
+    {
+      "end": 10263.61000725,
+      "error": null,
+      "kernel_events_after_query": 8,
+      "kernel_events_before_query": 7,
+      "raw": " 5767 R     11664   0:00.04\n",
+      "returncode": 0,
+      "start": 10263.607721583,
+      "stderr": ""
+    },
+    {
+      "end": 10263.62337725,
+      "error": null,
+      "kernel_events_after_query": 10,
+      "kernel_events_before_query": 9,
+      "raw": " 5767 R     11664   0:00.06\n",
+      "returncode": 0,
+      "start": 10263.620666291,
+      "stderr": ""
+    },
+    {
+      "end": 10263.638002375,
+      "error": null,
+      "kernel_events_after_query": 12,
+      "kernel_events_before_query": 11,
+      "raw": " 5767 R     11664   0:00.07\n",
+      "returncode": 0,
+      "start": 10263.636079375,
+      "stderr": ""
+    },
+    {
+      "end": 10263.654286625,
+      "error": null,
+      "kernel_events_after_query": 14,
+      "kernel_events_before_query": 13,
+      "raw": " 5767 R     11664   0:00.09\n",
+      "returncode": 0,
+      "start": 10263.650668125,
+      "stderr": ""
+    },
+    {
+      "end": 10263.667303208,
+      "error": null,
+      "kernel_events_after_query": 16,
+      "kernel_events_before_query": 15,
+      "raw": " 5767 R     11664   0:00.10\n",
+      "returncode": 0,
+      "start": 10263.66501125,
+      "stderr": ""
+    },
+    {
+      "end": 10263.682847458,
+      "error": null,
+      "kernel_events_after_query": 18,
+      "kernel_events_before_query": 17,
+      "raw": " 5767 R     11664   0:00.12\n",
+      "returncode": 0,
+      "start": 10263.679989958,
+      "stderr": ""
+    }
+  ],
+  "quantum_decoders_called": 0,
+  "reasons": [],
+  "setup_error": null,
+  "signals": [],
+  "started": 10263.563748208,
+  "terminal_telemetry_unavailable": false
+}

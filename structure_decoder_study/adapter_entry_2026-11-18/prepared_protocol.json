@@ -1,0 +1,242 @@
+{
+  "AI_supervisor_review": "SUPERVISOR_REVIEW.md",
+  "H_path": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/H.npz",
+  "L_path": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/L.npz",
+  "accounting": {
+    "future_entry_max": 7,
+    "future_optional_real_max": 2,
+    "future_total_max": 9,
+    "future_worker_max": 15,
+    "historical_reference_attempts": 6,
+    "historical_timeout_repair_attempts": 12,
+    "historical_total": 18
+  },
+  "background_does_not_extend_budgets": true,
+  "background_progress_check_minutes": 20,
+  "case_order_fixed": true,
+  "comparison": "current saved full-1FV wrong winner",
+  "entry": {
+    "MIS": {
+      "density": 0.08,
+      "n": 200,
+      "options": {
+        "disp": false,
+        "mip_rel_gap": 0.0,
+        "presolve": false,
+        "random_seed": 0,
+        "threads": 1
+      },
+      "seed": 2026111801,
+      "time_with_incumbent": 0.15,
+      "time_without_incumbent": 0.0
+    },
+    "Z_fixture": {
+      "cpu_burn": 0.1,
+      "exit_query_delay": 0.05,
+      "permission_barrier": true,
+      "positive_live_sample_required": true,
+      "queries_after_exit_permission": 1
+    },
+    "calibration_calls": 0,
+    "controller_admission_threshold": 120.0,
+    "dedicated_overrides": {
+      "parent_CPU": {
+        "cpu_threshold": 3.0,
+        "requested_OS_cpu_limits": [
+          1,
+          3
+        ]
+      },
+      "parent_RSS": {
+        "committed_bytes": 100663296,
+        "rss_bytes": 67108864
+      },
+      "parent_wall": {
+        "wall_threshold": 0.15
+      }
+    },
+    "max_children": 13,
+    "max_optimizer_attempts": 7,
+    "normal_child": {
+      "cpu_threshold": 10.0,
+      "requested_OS_cpu_limits": [
+        10,
+        12
+      ],
+      "rss_bytes": 1073741824,
+      "wall_threshold": 8.0
+    },
+    "order": [
+      "integral_slack_required",
+      "dependent_cyclic",
+      "zero_syndrome",
+      "inconsistent_duplicate_rows",
+      "timeout_none",
+      "timeout_incumbent",
+      "signal_during_call",
+      "signal_during_persistence",
+      "parent_CPU",
+      "parent_wall",
+      "parent_RSS",
+      "observed_terminal_Z",
+      "malformed_active_monitor"
+    ],
+    "parity_options": {
+      "disp": false,
+      "mip_feasibility_tolerance": 1e-08,
+      "mip_rel_gap": 0.0,
+      "node_limit": 1000,
+      "presolve": true,
+      "random_seed": 0,
+      "threads": 1,
+      "time_limit": 2.0
+    },
+    "remaining_before_child": 11.0,
+    "retries": 0,
+    "unexpected_failure_aborts_remaining": true
+  },
+  "implementation_missing": [
+    "fresh_controller",
+    "integrated_worker",
+    "independent_runtime_and_witness_audit"
+  ],
+  "model": {
+    "all_parity_slacks_integral": true,
+    "fault_bits": 12240,
+    "integral_variables": 14052,
+    "parity_rows": 1812,
+    "true_logical_target_is_oracle": true
+  },
+  "monitor": {
+    "SIGKILL_reap_wait_seconds": 0.5,
+    "SIGTERM_wait_seconds": 0.5,
+    "command": [
+      "ps",
+      "-o",
+      "pid=,stat=,rss=,time=",
+      "-p",
+      "OWNED_PID"
+    ],
+    "live_CPU_decrease_is_sticky_error": true,
+    "normal_query_after_reaped": false,
+    "poll_interval_seconds": 0.01,
+    "query_timeout_seconds": 1.0,
+    "terminal_reaping_grace_seconds": 0.5,
+    "terminal_state": "Z",
+    "terminal_zero_does_not_reset_highwater": true,
+    "thresholds_are_instantaneous_guarantees": false
+  },
+  "native_entry_launch_authorized": false,
+  "new_experimental_workers": 0,
+  "new_optimizer_attempts": 0,
+  "optional_research_cases": [
+    131,
+    228
+  ],
+  "prior_reference_frozen_sha256": "3126cd1fe4a5a9b110c24b3ae0e5fe68fff6929f47212b92892f2e5d758d8c1e",
+  "prior_reference_manifest_sha256": "a0d35f07914be0798755c981802c2ef202916c37802b844fd61c1a8a851854b0",
+  "prior_timeout_repair_manifest_sha256": "ed80fc5fc660fd701d100e98b83e58fa79dcb20f967f850f459cd9be447f43e4",
+  "priors_path": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/priors.npy",
+  "reference_cases": [
+    {
+      "best_saved_true_score": 553.6291408940392,
+      "case_id": 131,
+      "input_npz": "inputs/0131.npz",
+      "known_correct_position": 7451,
+      "old_gate_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/gates/0131.npz",
+      "old_search_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/search/0131.npz",
+      "original_cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.npz",
+      "wrong_score": 520.8767105141354
+    },
+    {
+      "best_saved_true_score": 474.485445311989,
+      "case_id": 228,
+      "input_npz": "inputs/0228.npz",
+      "known_correct_position": 93,
+      "old_gate_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/gates/0228.npz",
+      "old_search_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/search/0228.npz",
+      "original_cached_npz": "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.npz",
+      "wrong_score": 450.11581399781
+    }
+  ],
+  "reference_input_hashes": {
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/gates/0131.npz": "d394fe72e047b2647090085eeed4d38327359dc8b07a4a3e4d1ac8f36263ffa5",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/gates/0228.npz": "abf6e169fc48485467dc20fc636306aa650ee7657f5a5e53211570655ee2e995",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/search/0131.npz": "85eada33e53d5dd800c8ee4f7039b00cfb592be38402241b74dd43017b5df5df",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/search/0228.npz": "f4fe4fcc727461600bd45a769324448b829fc7fecf5f4736ad0e2b2ce21653d6",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.npz": "c8db6e986d21728b8ed0bc328bf92f4f5305e83ecc8b99a8004fa7ce40d7c920",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.npz": "5e335be3ed28aac60ee0ce69f6fd298906cbe0d171b1af488cfbf036d0973495",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/H.npz": "cfbf9d51bd67543b09e958527beee3d99b6461c715c4a60b6b4d61b076e8abbb",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/L.npz": "10efca974bad5e42c4c6bbae9d7e035c68eff9a3301b69a48877e4ef47604bde",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/priors.npy": "9acbccfab2ba0422ab290eb6e8b78b34de647cb2890bddbddfe863a9917a7d17",
+    "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/inputs/0131.npz": "06f2a96b22c8c2b0d57287dac7f47860582d6d2ef73b0b5ace9087ee9ecd797d",
+    "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/inputs/0228.npz": "8fdef729375b8fdbc3a882322ca1e66df49fd2563c62de88c097f46bb9c6e09f",
+    "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/weights.npy": "9057e2853908a70831d74645908b37b6ca4a6debbc46b565d2331b82edc059dd",
+    "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/optimize/_highspy/_core.cpython-312-darwin.so": "ff40ffcfa67085f151525fd323265528e23f3d5611dcc433878604e1927adf43"
+  },
+  "reference_inputs_root": "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18",
+  "research_launch_authorized": false,
+  "research_limits": {
+    "controller_admission_threshold": 260.0,
+    "parent_absolute_cpu_threshold": 90.0,
+    "parent_wall_threshold": 120.0,
+    "remaining_before_child": 130.0,
+    "requested_OS_cpu_limits": [
+      90,
+      95
+    ],
+    "rss_threshold_bytes": 1073741824
+  },
+  "scientific_interpretation": {
+    "decoder_improvement_claim": false,
+    "no_witness": "inconclusive",
+    "primary": "independently verified competitive witness from finalized ordinary return",
+    "rigorous_negative_exclusion_enabled": false,
+    "secondary": "separately tagged artifact-only verified witness from signalled/censored process"
+  },
+  "scientific_value_gate_resolved": false,
+  "score": "same represented float64 log(1/p)",
+  "score_tolerance": {
+    "atol": 1e-08,
+    "comparison": "exact represented coefficient difference > atol+rtol*max(abs(scores))",
+    "rtol": 1e-12
+  },
+  "shared_adapter_source": {
+    "expected_forwarded_options_by_mode": {
+      "MIS": [
+        "threads",
+        "random_seed"
+      ],
+      "parity": [
+        "threads",
+        "random_seed",
+        "mip_feasibility_tolerance"
+      ]
+    },
+    "functions": [
+      "build_model",
+      "model_witness",
+      "validate_incumbent"
+    ],
+    "new_transport_must_save_raw_before_warning_or_status_interpretation": true,
+    "old_solve_is_not_reusable_transport": true,
+    "path": "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/probe.py",
+    "sha256": "51e6b664dfdbe2d4dfe4820207fa279c2a209707bb8b702f3e038bf7746f762b"
+  },
+  "shared_signal_guard": {
+    "path": "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/result_guard.py",
+    "sha256": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233"
+  },
+  "solver_options": {
+    "disp": true,
+    "mip_feasibility_tolerance": 1e-08,
+    "mip_rel_gap": 0.0,
+    "node_limit": 10000,
+    "presolve": true,
+    "random_seed": 0,
+    "threads": 1,
+    "time_limit": 60.0
+  },
+  "status": "reviewed_preparation_complete_execution_not_performed",
+  "weights_path": "<WORKSPACE>/structure_decoder_study/reference_probe_2026-11-18/weights.npy"
+}

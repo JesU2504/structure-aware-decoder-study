@@ -1,0 +1,8 @@
+{
+  "monitor_error": null,
+  "passed": true,
+  "peak_observed_child_rss_bytes": 482394112,
+  "returncode": 0,
+  "wall_seconds": 29.601709458000187,
+  "watchdog_reason": null
+}

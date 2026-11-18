@@ -1,0 +1,7 @@
+{
+  "n": 200,
+  "output": "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/confirmation/deferred_injected",
+  "scenario": "deferred_signal",
+  "seed": 2026111801,
+  "time_limit": 0.15
+}

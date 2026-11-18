@@ -1,0 +1,32 @@
+{
+  "after_limits": {
+    "cpu_absolute": 0.020996,
+    "monotonic": 2988.564202291,
+    "peak_rss_bytes": 12238848,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.004901,
+    "ru_utime": 0.016094,
+    "sigxcpu_handler": "0"
+  },
+  "before_limits": {
+    "cpu_absolute": 0.020983,
+    "monotonic": 2988.5641885,
+    "peak_rss_bytes": 12238848,
+    "pid": 10425,
+    "rlimit_cpu": [
+      9223372036854775807,
+      9223372036854775807
+    ],
+    "ru_stime": 0.004899,
+    "ru_utime": 0.016080999999999998,
+    "sigxcpu_handler": "0"
+  },
+  "initial_handler": "0",
+  "scenario": "deferred_signal",
+  "start_cpu": 0.015738,
+  "start_wall": 2988.558899083
+}

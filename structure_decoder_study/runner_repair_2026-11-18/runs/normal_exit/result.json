@@ -1,0 +1,87 @@
+{
+  "OS_hard_limit_enforcement_claim": false,
+  "classification": "ordinary_exit",
+  "controlled_injection": null,
+  "ended": 10263.535173958,
+  "kernel_events": [
+    {
+      "ended": 10263.520120166,
+      "flags": 1,
+      "requested_pid": 5761,
+      "returned_pid": 0,
+      "started": 10263.509019666,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.522362875,
+      "flags": 1,
+      "requested_pid": 5761,
+      "returned_pid": 0,
+      "started": 10263.522354166,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.535137458,
+      "final": {
+        "pid": 5761,
+        "raw_status": 0,
+        "reaped_at": 10263.535137458,
+        "returncode": 0,
+        "usage": {
+          "native_RSS_unit": "bytes",
+          "native_peak_rss": 11468800,
+          "peak_rss_bytes": 11468800,
+          "system_cpu": 0.005396,
+          "total_cpu": 0.023086999999999996,
+          "user_cpu": 0.017691
+        }
+      },
+      "flags": 1,
+      "raw_status": 0,
+      "requested_pid": 5761,
+      "returned_pid": 5761,
+      "started": 10263.535127083
+    }
+  ],
+  "kernel_final": {
+    "pid": 5761,
+    "raw_status": 0,
+    "reaped_at": 10263.535137458,
+    "returncode": 0,
+    "usage": {
+      "native_RSS_unit": "bytes",
+      "native_peak_rss": 11468800,
+      "peak_rss_bytes": 11468800,
+      "system_cpu": 0.005396,
+      "total_cpu": 0.023086999999999996,
+      "user_cpu": 0.017691
+    }
+  },
+  "name": "normal_exit",
+  "native_optimizers_called": 0,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "observation_gap": null,
+  "ownership_errors": [],
+  "peak_RSS_and_CPU_sources_kept_separate": true,
+  "pid": 5761,
+  "ps_RSS_highwater": 9437184,
+  "ps_cpu_highwater": 0.01,
+  "ps_queries": [
+    {
+      "end": 10263.522342833,
+      "error": null,
+      "kernel_events_after_query": 2,
+      "kernel_events_before_query": 1,
+      "raw": " 5761 R      9216   0:00.01\n",
+      "returncode": 0,
+      "start": 10263.520125375,
+      "stderr": ""
+    }
+  ],
+  "quantum_decoders_called": 0,
+  "reasons": [],
+  "setup_error": null,
+  "signals": [],
+  "started": 10263.508022208,
+  "terminal_telemetry_unavailable": false
+}

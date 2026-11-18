@@ -1,0 +1,22 @@
+{
+  "files": {
+    "raw.npz": "936172a76cea1507c76307a40f82f82251ddc2eae18aa9d54134d46dd5b1bf73",
+    "raw_metadata.json": "3496c4f8d8c4f79beda75ca6133ae9e467f96c219df1ac52857bb955f9875dd9"
+  },
+  "identity": {
+    "scope": "offline_fake_payload"
+  },
+  "persisted_at": {
+    "cpu_absolute": 0.186263,
+    "monotonic": 5384.912168208,
+    "peak_rss_bytes": 47185920,
+    "pid": 3895,
+    "rlimit_cpu": [
+      9223372036854775807,
+      9223372036854775807
+    ],
+    "ru_stime": 0.052013,
+    "ru_utime": 0.134249,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1037c34c0>"
+  }
+}

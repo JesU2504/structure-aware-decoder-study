@@ -1,0 +1,29 @@
+{
+  "OS_cpu_limits": [
+    1,
+    3
+  ],
+  "identity": {
+    "index": 8,
+    "name": "parent_CPU",
+    "prepared_protocol_sha256": "dbc98b8090d5f6fe219da851986bd3efde9662464be5748c53df1841fe4820bb",
+    "run_id": "9f66963b-619b-40ad-afd7-4a220b18d3a1",
+    "sources": {
+      "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+      "model_helpers.py": "84a12b34bdfe860b24fced9f7b7da96d119935b383fe26233bae964dcbdba07a",
+      "result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+      "transport.py": "52e60ea9a12a86efed5588b55a2646567c6c428ddc7a47e0682476e7cc30f9be",
+      "worker.py": "29ad6cffecd68e8dd265767f80bd94891368b64d625f928b5385469682dc8f16"
+    }
+  },
+  "inject_signal": false,
+  "limits": {
+    "cpu": 3.0,
+    "rss": 1073741824,
+    "wall": 8.0
+  },
+  "mode": "cpu",
+  "name": "parent_CPU",
+  "output": "<WORKSPACE>/structure_decoder_study/adapter_entry_2026-11-18/entry/parent_CPU",
+  "scope": "synthetic_entry_only"
+}

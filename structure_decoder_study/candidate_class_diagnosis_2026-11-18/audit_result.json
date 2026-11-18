@@ -1,0 +1,244 @@
+{
+  "all1800_H_rows_and12_L_rows_checked": true,
+  "all_class_counts_and_minima_checked": true,
+  "all_list_members_verified": 250728,
+  "audit_source_sha256": "1ab4a7ed94b7a03bf7cafc8121fc61835c6dddc43140197c33dfa7281d3c6f77",
+  "cases_completed": 24,
+  "child_cpu_seconds": 14.374713999999999,
+  "child_wall_seconds": 14.732743708998896,
+  "diagnoses": {
+    "correct_class_present_but_not_selected": 2,
+    "source_success": 22
+  },
+  "frozen_sha256": "e92d012a723ca89ac24ab0f3b54bd97d99f4602ad4472e6aa8a1cd05269cd211",
+  "logical_encoding_roundtrip4096": true,
+  "max_direct_score_error": 1.7053025658242404e-12,
+  "new_decoder_calls": 0,
+  "new_fits": 0,
+  "new_physical_samples": 0,
+  "new_search_candidates": 0,
+  "nonbaseline_candidates_verified": 250704,
+  "passed": true,
+  "peak_child_rss_bytes": 218595328,
+  "previous_result_manifests_verified": {
+    "artifact_manifest.json": "ccc3d7ee0d9cfe65527db22e238c2072ec1062963ee4c4b9d87da0f297cc00de",
+    "artifact_manifest_2026-11-13.json": "9d8e4dfc9311324d00be60184253c04f79c3bc070c6432598e54c43c240c7536",
+    "artifact_manifest_2026-11-15.json": "4664ed610924c7b036acb3e44ac310976134327ae38b8de118b5d66eaae19f67",
+    "artifact_manifest_2026-11-16.json": "2a08f4526eb0c2a0ca2a59638503cca662f7d253724406980e48784401fcb336",
+    "consumer_gate_2026-11-16/manifest.json": "d3db0a519ddeffe4ef3ad2c88822ab33f8ee69466132835ca9a9d9e966811fe6",
+    "experimental_design_review_2026-11-16/manifest.json": "7d8f680a58e3831441fa7ffdd6c0ebf90e3082ede3a91f7cc27cee9b02664f39",
+    "failure_pilot_2026-11-17/manifest.json": "5e05a663e6d6b4b90769302170599879839d07f8ca8af5e6c07df832dba64741",
+    "failure_target_2026-11-17/manifest.json": "96e8b6b2b393d0e8a17ba3296192098e08eb0a88f4487b68929da5e8374dad1f",
+    "fit_diagnostic_2026-11-13/manifest.json": "44d29299a5f351caef767575cda23713f806858b9a30fd0b5f57d32edb985760",
+    "headroom_1fv_2026-11-17/manifest.json": "13698f44d548944316ba6364df781d916f029e140d1f10165111738d80709b99",
+    "headroom_cached_order_2026-11-17/manifest.json": "183afe142f8f0c353746197cfb3dbb68be78fcfae991c4dbc8affbaebca7035f",
+    "learning_curves_2026-11-13/manifest.json": "6779bd49da2745c8d4c09bac0a42b60d68c1d9edac1c7891f2601dda25567502",
+    "natural_noise_reproduction_2026-11-17/manifest.json": "d19a567c9acf40370f6f98dcf59fcc95ae26fff28749b8240c82d3a553d3e34f",
+    "next_stage_design_2026-11-16/manifest.json": "196f1075d6172eb610930ce16628c9c69c4de9255fa7e1e5b5882b8ee28a533a",
+    "novelty_feasibility_2026-11-16/manifest.json": "ff8896e89f200ad0a66bfdcb7de757fbdfdbe91acf0583902c08a88059b276ab",
+    "ordering_diagnostic_2026-11-17/manifest.json": "ec713f62d66a719128699bc128c9950cf53ea6d3242493a00b8435648387498a",
+    "research_reorientation_2026-11-16/manifest.json": "7660e8224f1fa87912eb8232b1d61fa744956583927b58a7243df0bd9cd08ea9",
+    "reviewer_perspective_2026-11-13/manifest.json": "f6333498fe753210e684205e0216227d90916c5561038d38e0c8aadf9b58d490",
+    "stress_gate/manifest.json": "25090953fc7217f08c2b1966be1279152cb4df01aee14a60fda6392069222cce",
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": "89c2e0ab3eb7de73a619f935adb0f3dfbf6bf55fd0fc5ade19a8d36fad4c9ab7",
+    "supervisor_review_2026-11-16/manifest.json": "9ef7342cafa7d635f7819060486d340236f20bf2b271bca6e69cebfe1faa38ba",
+    "validation_gate_2026-11-13/manifest.json": "b32de2bcb59229e6d68847115cb5dad29d16dfd27445314ff2f57c7feccfe4f6"
+  },
+  "raw_minimum_representative_identity_differences_within_tolerance": 175,
+  "rows": [
+    {
+      "case_id": 0,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 1.7053025658242404e-12,
+      "represented_classes": 159,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -145.90272322569638
+    },
+    {
+      "case_id": 1,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 290,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -43.58355732517208
+    },
+    {
+      "case_id": 2,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 157,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -36.10321740066132
+    },
+    {
+      "case_id": 3,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 4.547473508864641e-13,
+      "represented_classes": 495,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -23.562857873544147
+    },
+    {
+      "case_id": 4,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 4.547473508864641e-13,
+      "represented_classes": 424,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -16.1617225651691
+    },
+    {
+      "case_id": 5,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 5.684341886080801e-13,
+      "represented_classes": 351,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -29.50885553292113
+    },
+    {
+      "case_id": 23,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 5.684341886080801e-13,
+      "represented_classes": 559,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -28.070198968366526
+    },
+    {
+      "case_id": 24,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 6.821210263296962e-13,
+      "represented_classes": 394,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -5.489004852172059
+    },
+    {
+      "case_id": 51,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 325,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -18.582042887073385
+    },
+    {
+      "case_id": 66,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 571,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -17.85447406257424
+    },
+    {
+      "case_id": 131,
+      "diagnosis": "correct_class_present_but_not_selected",
+      "max_direct_score_error": 6.821210263296962e-13,
+      "represented_classes": 407,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": 32.752430379903785
+    },
+    {
+      "case_id": 167,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 7.958078640513122e-13,
+      "represented_classes": 289,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -19.213926010993077
+    },
+    {
+      "case_id": 188,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 218,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -19.86229021935668
+    },
+    {
+      "case_id": 228,
+      "diagnosis": "correct_class_present_but_not_selected",
+      "max_direct_score_error": 1.2505552149377763e-12,
+      "represented_classes": 313,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": 24.36963131417889
+    },
+    {
+      "case_id": 249,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 419,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -20.748268276127078
+    },
+    {
+      "case_id": 256,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 5.684341886080801e-13,
+      "represented_classes": 393,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -9.48815608129297
+    },
+    {
+      "case_id": 257,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 1.3642420526593924e-12,
+      "represented_classes": 208,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -54.86015060444976
+    },
+    {
+      "case_id": 258,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 9.094947017729282e-13,
+      "represented_classes": 435,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -33.2886278032442
+    },
+    {
+      "case_id": 260,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 6.821210263296962e-13,
+      "represented_classes": 550,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -25.176404754813575
+    },
+    {
+      "case_id": 261,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 5.684341886080801e-13,
+      "represented_classes": 173,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -24.843105205827328
+    },
+    {
+      "case_id": 263,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 6.821210263296962e-13,
+      "represented_classes": 372,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -26.535856703232582
+    },
+    {
+      "case_id": 264,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 4.547473508864641e-13,
+      "represented_classes": 376,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -22.36181515739662
+    },
+    {
+      "case_id": 265,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 1.3642420526593924e-12,
+      "represented_classes": 197,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -49.546036068992635
+    },
+    {
+      "case_id": 407,
+      "diagnosis": "source_success",
+      "max_direct_score_error": 6.821210263296962e-13,
+      "represented_classes": 428,
+      "true_class_present": true,
+      "true_minus_best_competing_gap": -5.787588427105561
+    }
+  ],
+  "source_winners_unchanged": true,
+  "status": "completed"
+}

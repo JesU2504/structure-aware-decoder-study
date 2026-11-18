@@ -1,0 +1,58 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.263586,
+    "monotonic": 652.987416333,
+    "peak_rss_bytes": 69828608,
+    "pid": 1875,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.040137,
+    "ru_utime": 0.22344799999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102f97880>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.262275,
+    "monotonic": 652.986087125,
+    "peak_rss_bytes": 68780032,
+    "pid": 1875,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.040057999999999996,
+    "ru_utime": 0.222217,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102f97880>"
+  },
+  "classification": "solver_completed",
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 0.26459,
+    "monotonic": 652.988485666,
+    "peak_rss_bytes": 69877760,
+    "pid": 1875,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.040673999999999995,
+    "ru_utime": 0.22391599999999998,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": true,
+  "incumbent_score": -6.00344633321799,
+  "incumbent_valid": true,
+  "integer_proximity": 0.0,
+  "native_optimizer_calls": 1,
+  "oracle_or_research_data_used": false,
+  "scenario": "normal",
+  "scipy_warnings": [
+    "Unrecognized options detected: {'random_seed', 'threads'}. These will be passed to HiGHS verbatim."
+  ],
+  "signals": [],
+  "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "solver_status": 0,
+  "start_cpu": 0.01694
+}

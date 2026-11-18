@@ -1,0 +1,38 @@
+{
+  "at": {
+    "cpu_absolute": 0.427636,
+    "monotonic": 652.673013458,
+    "peak_rss_bytes": 81870848,
+    "pid": 1839,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.039991,
+    "ru_utime": 0.387644,
+    "sigxcpu_handler": "0"
+  },
+  "current": "0",
+  "previous": "0",
+  "restored": true,
+  "stable_signals": [
+    {
+      "handled_at": {
+        "cpu_absolute": 0.425493,
+        "monotonic": 652.670775666,
+        "peak_rss_bytes": 81772544,
+        "pid": 1839,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.039162999999999996,
+        "ru_utime": 0.38631499999999996,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102413740>"
+      },
+      "origin": "unknown",
+      "phase": "solver_call",
+      "signum": 24
+    }
+  ]
+}

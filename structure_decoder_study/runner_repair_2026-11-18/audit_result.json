@@ -1,0 +1,140 @@
+{
+  "checks": [
+    {
+      "classification": "ordinary_exit",
+      "interim_ps_CPU": 0.01,
+      "kernel_CPU": 0.023086999999999996,
+      "kernel_peak_RSS": 11468800,
+      "name": "normal_exit",
+      "passed": true,
+      "returncode": 0,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "nonzero_or_signal_exit",
+      "interim_ps_CPU": 0.02,
+      "kernel_CPU": 0.022699999999999998,
+      "kernel_peak_RSS": 11632640,
+      "name": "nonzero_exit",
+      "passed": true,
+      "returncode": 7,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "ordinary_exit",
+      "interim_ps_CPU": 0.12,
+      "kernel_CPU": 0.12479499999999999,
+      "kernel_peak_RSS": 12009472,
+      "name": "cpu_work",
+      "passed": true,
+      "returncode": 0,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.0,
+      "kernel_CPU": 0.14425,
+      "kernel_peak_RSS": 11976704,
+      "name": "final_CPU_over_budget",
+      "passed": true,
+      "returncode": 0,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.02,
+      "kernel_CPU": 0.019270999999999996,
+      "kernel_peak_RSS": 11632640,
+      "name": "parent_wall",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.25,
+      "kernel_CPU": 0.25540999999999997,
+      "kernel_peak_RSS": 11468800,
+      "name": "parent_CPU",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.03,
+      "kernel_CPU": 0.030744,
+      "kernel_peak_RSS": 112754688,
+      "name": "parent_RSS",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.02,
+      "kernel_CPU": 0.019976999999999998,
+      "kernel_peak_RSS": 11878400,
+      "name": "TERM_to_KILL",
+      "passed": true,
+      "returncode": -9,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.0,
+      "kernel_CPU": 0.00034199999999999996,
+      "kernel_peak_RSS": 442368,
+      "name": "setup_failure",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "ordinary_exit",
+      "interim_ps_CPU": 0.14,
+      "kernel_CPU": 0.139078,
+      "kernel_peak_RSS": 11976704,
+      "name": "exit_candidate_confirmed",
+      "passed": true,
+      "returncode": 0,
+      "terminal_telemetry_unavailable": true
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.11,
+      "kernel_CPU": 0.12204099999999998,
+      "kernel_peak_RSS": 11894784,
+      "name": "live_counter_reset",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": false
+    },
+    {
+      "classification": "censored",
+      "interim_ps_CPU": 0.12,
+      "kernel_CPU": 0.121207,
+      "kernel_peak_RSS": 11485184,
+      "name": "exit_candidate_timeout",
+      "passed": true,
+      "returncode": -15,
+      "terminal_telemetry_unavailable": true
+    }
+  ],
+  "controlled_exit_candidates_kernel_confirmed": true,
+  "controller_seconds": 2.6107209579986375,
+  "decoder_calls": 0,
+  "frozen_sha256": "bfde4c57be5d039a74a9160e744d68d92bf7dbfc8d120ec8494166b10b7687c7",
+  "instantaneous_resource_containment_proved": false,
+  "invalid_live_data_remains_censored": true,
+  "kernel_owned_reaping_and_usage_validated": true,
+  "native_optimizer_integration_validated": false,
+  "natural_questionmarkE_reproduction_claim": false,
+  "optimizer_calls": 0,
+  "passed": true,
+  "physical_samples": 0,
+  "research_cases": 0,
+  "scope": "stdlib_runner_only",
+  "source_specific_accounting_preserved": true,
+  "workers": 12
+}

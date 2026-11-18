@@ -1,0 +1,31 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.410079,
+    "monotonic": 2988.954870125,
+    "peak_rss_bytes": 80674816,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.036009,
+    "ru_utime": 0.374067,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.248885,
+    "monotonic": 2988.792863833,
+    "peak_rss_bytes": 68370432,
+    "pid": 10425,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.034589999999999996,
+    "ru_utime": 0.21429099999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>"
+  },
+  "handler_while_raw_saved": "<function SignalLedger.__enter__.<locals>.record at 0x1045e7740>",
+  "has_incumbent": true,
+  "solver_status": 1
+}

@@ -1,0 +1,105 @@
+{
+  "OS_hard_CPU_containment_validated": false,
+  "RSS_monitoring_enabled_but_no_crossing_test": true,
+  "additional_children": 0,
+  "additional_optimizer_api_attempts": 0,
+  "audit_source_sha256": "0a0eedac7528d459a738dedb7d2270333c179d6c0ac5fdc6e777dbc0dd1cb953",
+  "calibration_optimizer_api_attempts": 2,
+  "checks": [
+    {
+      "name": "timeout_none",
+      "passed": true
+    },
+    {
+      "name": "timeout_incumbent",
+      "passed": true
+    },
+    {
+      "name": "legacy_injected",
+      "passed": true
+    },
+    {
+      "name": "deferred_injected",
+      "passed": true
+    },
+    {
+      "name": "optimal",
+      "passed": true
+    },
+    {
+      "name": "soft_cpu",
+      "passed": true
+    },
+    {
+      "name": "hard_cpu",
+      "passed": true
+    },
+    {
+      "name": "wall_guard",
+      "passed": true
+    },
+    {
+      "name": "late_persistence",
+      "passed": true
+    }
+  ],
+  "confirmation_optimizer_api_attempts": 5,
+  "controlled_legacy_loss_reproduced": true,
+  "controlled_result_loss_repaired": true,
+  "cumulative_children": 20,
+  "cumulative_controller_wall_seconds": 19.813278083000228,
+  "cumulative_optimizer_api_attempts": 12,
+  "frozen_sha256": "249a520f00a6e2700b06efac405c9eb80eff2ddffb286767d13760f7ec4be761",
+  "historical_signal_origin_established": false,
+  "late_signal_and_restoration_validated": true,
+  "ordinary_timeouts_with_and_without_incumbents_validated": true,
+  "original_frozen_audit_passed": false,
+  "parent_CPU_and_wall_containment_validated": true,
+  "passed": true,
+  "physical_shots": 0,
+  "post_hoc_adjudication": true,
+  "prior_V1_audit_failed_and_preserved": true,
+  "prior_V1_manifest_sha256": "773ba4312938d81f167963e9d4932a9922d150e54731ed0206062fbb563ff729",
+  "prior_reference_manifest_sha256": "a0d35f07914be0798755c981802c2ef202916c37802b844fd61c1a8a851854b0",
+  "real_research_calls": 0,
+  "signal_runs_not_promoted_to_ordinary_success": true,
+  "status": "supplemental_saved_output_audit_passed_original_audit_failed",
+  "terminal_accounting_adjudications": [
+    {
+      "final_child_cpu": 0.418453,
+      "kind": "final_zero_accounting_sample_after_terminal_marker",
+      "name": "legacy_injected",
+      "pid": 1804,
+      "process_state_or_accounting_mechanism_established": false,
+      "retained_measured_cpu_maximum": 0.43,
+      "sample": {
+        "cpu_seconds": 0.0,
+        "cpu_token": "0:00.00",
+        "observed_at": 652.222887416,
+        "pid": 1804,
+        "query_started": 652.220571166,
+        "raw": "1804      0   0:00.00",
+        "rss_bytes": 0
+      },
+      "terminal_marker_monotonic": 652.193546416
+    },
+    {
+      "final_child_cpu": 0.427878,
+      "kind": "final_zero_accounting_sample_after_terminal_marker",
+      "name": "deferred_injected",
+      "pid": 1839,
+      "process_state_or_accounting_mechanism_established": false,
+      "retained_measured_cpu_maximum": 0.44,
+      "sample": {
+        "cpu_seconds": 0.0,
+        "cpu_token": "0:00.00",
+        "observed_at": 652.70338575,
+        "pid": 1839,
+        "query_started": 652.699734708,
+        "raw": "1839      0   0:00.00",
+        "rss_bytes": 0
+      },
+      "terminal_marker_monotonic": 652.673265333
+    }
+  ]
+}

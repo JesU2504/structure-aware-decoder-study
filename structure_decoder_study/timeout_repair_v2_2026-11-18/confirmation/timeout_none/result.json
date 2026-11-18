@@ -1,0 +1,58 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.348427,
+    "monotonic": 651.239327541,
+    "peak_rss_bytes": 70959104,
+    "pid": 1686,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.098773,
+    "ru_utime": 0.24964599999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102bcfe20>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.345404,
+    "monotonic": 651.233005708,
+    "peak_rss_bytes": 69500928,
+    "pid": 1686,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.097818,
+    "ru_utime": 0.247586,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102bcfe20>"
+  },
+  "classification": "solver_limit_no_incumbent",
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 0.349202,
+    "monotonic": 651.240160833,
+    "peak_rss_bytes": 70959104,
+    "pid": 1686,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.099298,
+    "ru_utime": 0.249903,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": false,
+  "incumbent_score": null,
+  "incumbent_valid": null,
+  "integer_proximity": null,
+  "native_optimizer_calls": 1,
+  "oracle_or_research_data_used": false,
+  "scenario": "normal",
+  "scipy_warnings": [
+    "Unrecognized options detected: {'threads', 'random_seed'}. These will be passed to HiGHS verbatim."
+  ],
+  "signals": [],
+  "solver_message": "Time limit reached. (HiGHS Status 13: model_status is Time limit reached; primal_status is None)",
+  "solver_status": 1,
+  "start_cpu": 0.016576
+}

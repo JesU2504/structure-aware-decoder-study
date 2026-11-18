@@ -1,0 +1,16 @@
+{
+  "at": {
+    "cpu_absolute": 0.248755,
+    "monotonic": 2988.338306875,
+    "peak_rss_bytes": 68616192,
+    "pid": 10391,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.034498,
+    "ru_utime": 0.214253,
+    "sigxcpu_handler": "<function main.<locals>.throwing at 0x102ea39c0>"
+  },
+  "phase": "solver_call"
+}

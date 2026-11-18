@@ -1,0 +1,63 @@
+{
+  "adapter_reference_optimization_calls": 4,
+  "backend_core_path": "<USER_HOME>/Library/Python/3.12/lib/python/site-packages/scipy/optimize/_highspy/_core.cpython-312-darwin.so",
+  "backend_core_sha256": "ff40ffcfa67085f151525fd323265528e23f3d5611dcc433878604e1927adf43",
+  "entry_sha256": "6a55040006cabda8c66e1a8b71f0c16dc75cf4afe897d378897306cbbf52863f",
+  "numerical_bounds_are_not_certificates": true,
+  "parity_domains_all_integral": true,
+  "passed": true,
+  "probe_sha256": "52047406a241eb6a991c35514195644db6f118ee3d0e336ef7948ced5f6a4494",
+  "real_case_reference_optimization_calls": 0,
+  "rows": [
+    {
+      "enumerated_binary_vectors": 4,
+      "exhaustive_minimum": 4.0,
+      "feasible_vectors": 1,
+      "name": "integral_slack_required",
+      "passed": true,
+      "solver_status": 0,
+      "warnings": [
+        "Unrecognized options detected: {'threads', 'mip_feasibility_tolerance', 'random_seed'}. These will be passed to HiGHS verbatim."
+      ]
+    },
+    {
+      "enumerated_binary_vectors": 32,
+      "exhaustive_minimum": 10.0,
+      "feasible_vectors": 2,
+      "name": "dependent_cyclic",
+      "passed": true,
+      "solver_status": 0,
+      "warnings": [
+        "Unrecognized options detected: {'threads', 'mip_feasibility_tolerance', 'random_seed'}. These will be passed to HiGHS verbatim."
+      ]
+    },
+    {
+      "enumerated_binary_vectors": 16,
+      "exhaustive_minimum": 0.0,
+      "feasible_vectors": 2,
+      "name": "zero_syndrome",
+      "passed": true,
+      "solver_status": 0,
+      "warnings": [
+        "Unrecognized options detected: {'threads', 'mip_feasibility_tolerance', 'random_seed'}. These will be passed to HiGHS verbatim."
+      ]
+    },
+    {
+      "enumerated_binary_vectors": 8,
+      "exhaustive_minimum": null,
+      "feasible_vectors": 0,
+      "name": "inconsistent_duplicate_rows",
+      "passed": true,
+      "solver_status": 2,
+      "warnings": [
+        "Unrecognized options detected: {'threads', 'mip_feasibility_tolerance', 'random_seed'}. These will be passed to HiGHS verbatim."
+      ]
+    }
+  ],
+  "versions": {
+    "bundled_highs": "1.8.0",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0"
+  },
+  "wall_seconds": 0.019125375000044187
+}

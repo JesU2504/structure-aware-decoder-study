@@ -1,0 +1,10 @@
+{
+  "files": {
+    "DECISION.md": "735f2a813c2f3d89e0e5e91ac83bb8ecfe6294401d9261ca579ecd305c7a9084",
+    "expert_proposal.md": "d10284cdab53dbbf9d792f2e66bec275fdb9b7f53ec581dcffa141e4196c561c",
+    "expert_review_response.md": "878672a9ff269c14f0dedfb77e31ab02e89a09f79d28865706432d3f0c237c6b",
+    "review_audit.json": "a8db8ed3e36f992183bade7da407ac9730aab10a5fd8334c34c5d9914f0a43bd",
+    "supervisor_review.md": "640125b4c4812806d95478c62670b57ecfc50802a54c898e6b7ad32f7281dd90"
+  },
+  "status": "proposal_review_completed_no_experiment"
+}

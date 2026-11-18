@@ -1,0 +1,326 @@
+{
+  "classification": "process_censored_or_failed",
+  "controlled_injection": {
+    "pid": 1804,
+    "ready": {
+      "at": {
+        "cpu_absolute": 0.255466,
+        "monotonic": 652.028920166,
+        "peak_rss_bytes": 69025792,
+        "pid": 1804,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.035192,
+        "ru_utime": 0.220268,
+        "sigxcpu_handler": "<function main.<locals>.throwing at 0x104dcf9c0>"
+      },
+      "phase": "solver_call"
+    },
+    "sent": true,
+    "sent_at_monotonic": 652.050427791,
+    "signum": 24
+  },
+  "expected_cpu_limit": 10.0,
+  "expected_wall_limit": 8.0,
+  "monitor_error": null,
+  "monitor_samples": [
+    {
+      "cpu_seconds": 0.0,
+      "cpu_token": "0:00.00",
+      "observed_at": 651.770761208,
+      "pid": 1804,
+      "query_started": 651.768738041,
+      "raw": "1804    448   0:00.00",
+      "rss_bytes": 458752
+    },
+    {
+      "cpu_seconds": 0.01,
+      "cpu_token": "0:00.01",
+      "observed_at": 651.783662125,
+      "pid": 1804,
+      "query_started": 651.781637625,
+      "raw": "1804   9808   0:00.01",
+      "rss_bytes": 10043392
+    },
+    {
+      "cpu_seconds": 0.03,
+      "cpu_token": "0:00.03",
+      "observed_at": 651.797668833,
+      "pid": 1804,
+      "query_started": 651.795381416,
+      "raw": "1804  16000   0:00.03",
+      "rss_bytes": 16384000
+    },
+    {
+      "cpu_seconds": 0.04,
+      "cpu_token": "0:00.04",
+      "observed_at": 651.812155416,
+      "pid": 1804,
+      "query_started": 651.810280375,
+      "raw": "1804  19808   0:00.04",
+      "rss_bytes": 20283392
+    },
+    {
+      "cpu_seconds": 0.06,
+      "cpu_token": "0:00.06",
+      "observed_at": 651.827164125,
+      "pid": 1804,
+      "query_started": 651.824742541,
+      "raw": "1804  23632   0:00.06",
+      "rss_bytes": 24199168
+    },
+    {
+      "cpu_seconds": 0.07,
+      "cpu_token": "0:00.07",
+      "observed_at": 651.842013541,
+      "pid": 1804,
+      "query_started": 651.83977075,
+      "raw": "1804  29296   0:00.07",
+      "rss_bytes": 29999104
+    },
+    {
+      "cpu_seconds": 0.09,
+      "cpu_token": "0:00.09",
+      "observed_at": 651.856709208,
+      "pid": 1804,
+      "query_started": 651.854623416,
+      "raw": "1804  35232   0:00.09",
+      "rss_bytes": 36077568
+    },
+    {
+      "cpu_seconds": 0.1,
+      "cpu_token": "0:00.10",
+      "observed_at": 651.871634708,
+      "pid": 1804,
+      "query_started": 651.869318791,
+      "raw": "1804  37712   0:00.10",
+      "rss_bytes": 38617088
+    },
+    {
+      "cpu_seconds": 0.12,
+      "cpu_token": "0:00.12",
+      "observed_at": 651.886749083,
+      "pid": 1804,
+      "query_started": 651.8843005,
+      "raw": "1804  41088   0:00.12",
+      "rss_bytes": 42074112
+    },
+    {
+      "cpu_seconds": 0.13,
+      "cpu_token": "0:00.13",
+      "observed_at": 651.90171575,
+      "pid": 1804,
+      "query_started": 651.899382625,
+      "raw": "1804  45936   0:00.13",
+      "rss_bytes": 47038464
+    },
+    {
+      "cpu_seconds": 0.15,
+      "cpu_token": "0:00.15",
+      "observed_at": 651.916856375,
+      "pid": 1804,
+      "query_started": 651.914331083,
+      "raw": "1804  47168   0:00.15",
+      "rss_bytes": 48300032
+    },
+    {
+      "cpu_seconds": 0.16,
+      "cpu_token": "0:00.16",
+      "observed_at": 651.931968208,
+      "pid": 1804,
+      "query_started": 651.929455708,
+      "raw": "1804  49968   0:00.16",
+      "rss_bytes": 51167232
+    },
+    {
+      "cpu_seconds": 0.17,
+      "cpu_token": "0:00.17",
+      "observed_at": 651.947076625,
+      "pid": 1804,
+      "query_started": 651.944620375,
+      "raw": "1804  52832   0:00.17",
+      "rss_bytes": 54099968
+    },
+    {
+      "cpu_seconds": 0.19,
+      "cpu_token": "0:00.19",
+      "observed_at": 651.961389208,
+      "pid": 1804,
+      "query_started": 651.958855375,
+      "raw": "1804  57696   0:00.19",
+      "rss_bytes": 59080704
+    },
+    {
+      "cpu_seconds": 0.2,
+      "cpu_token": "0:00.20",
+      "observed_at": 651.976465,
+      "pid": 1804,
+      "query_started": 651.974000458,
+      "raw": "1804  60608   0:00.20",
+      "rss_bytes": 62062592
+    },
+    {
+      "cpu_seconds": 0.22,
+      "cpu_token": "0:00.22",
+      "observed_at": 651.991091166,
+      "pid": 1804,
+      "query_started": 651.98908625,
+      "raw": "1804  61552   0:00.22",
+      "rss_bytes": 63029248
+    },
+    {
+      "cpu_seconds": 0.23,
+      "cpu_token": "0:00.23",
+      "observed_at": 652.00601775,
+      "pid": 1804,
+      "query_started": 652.003703125,
+      "raw": "1804  64320   0:00.23",
+      "rss_bytes": 65863680
+    },
+    {
+      "cpu_seconds": 0.25,
+      "cpu_token": "0:00.25",
+      "observed_at": 652.021191291,
+      "pid": 1804,
+      "query_started": 652.018646833,
+      "raw": "1804  66032   0:00.25",
+      "rss_bytes": 67616768
+    },
+    {
+      "cpu_seconds": 0.26,
+      "cpu_token": "0:00.26",
+      "observed_at": 652.035557791,
+      "pid": 1804,
+      "query_started": 652.03323975,
+      "raw": "1804  71392   0:00.26",
+      "rss_bytes": 73105408
+    },
+    {
+      "cpu_seconds": 0.28,
+      "cpu_token": "0:00.28",
+      "observed_at": 652.050280625,
+      "pid": 1804,
+      "query_started": 652.048228875,
+      "raw": "1804  73984   0:00.28",
+      "rss_bytes": 75759616
+    },
+    {
+      "cpu_seconds": 0.29,
+      "cpu_token": "0:00.29",
+      "observed_at": 652.065238791,
+      "pid": 1804,
+      "query_started": 652.062953625,
+      "raw": "1804  74752   0:00.29",
+      "rss_bytes": 76546048
+    },
+    {
+      "cpu_seconds": 0.31,
+      "cpu_token": "0:00.31",
+      "observed_at": 652.079968083,
+      "pid": 1804,
+      "query_started": 652.077776125,
+      "raw": "1804  76480   0:00.31",
+      "rss_bytes": 78315520
+    },
+    {
+      "cpu_seconds": 0.32,
+      "cpu_token": "0:00.32",
+      "observed_at": 652.092691458,
+      "pid": 1804,
+      "query_started": 652.090424916,
+      "raw": "1804  77392   0:00.32",
+      "rss_bytes": 79249408
+    },
+    {
+      "cpu_seconds": 0.33,
+      "cpu_token": "0:00.33",
+      "observed_at": 652.107970583,
+      "pid": 1804,
+      "query_started": 652.105269125,
+      "raw": "1804  78672   0:00.33",
+      "rss_bytes": 80560128
+    },
+    {
+      "cpu_seconds": 0.35,
+      "cpu_token": "0:00.35",
+      "observed_at": 652.123046041,
+      "pid": 1804,
+      "query_started": 652.1205425,
+      "raw": "1804  78704   0:00.35",
+      "rss_bytes": 80592896
+    },
+    {
+      "cpu_seconds": 0.36,
+      "cpu_token": "0:00.36",
+      "observed_at": 652.135508916,
+      "pid": 1804,
+      "query_started": 652.133161041,
+      "raw": "1804  78736   0:00.36",
+      "rss_bytes": 80625664
+    },
+    {
+      "cpu_seconds": 0.37,
+      "cpu_token": "0:00.37",
+      "observed_at": 652.14989575,
+      "pid": 1804,
+      "query_started": 652.148031333,
+      "raw": "1804  78880   0:00.37",
+      "rss_bytes": 80773120
+    },
+    {
+      "cpu_seconds": 0.39,
+      "cpu_token": "0:00.39",
+      "observed_at": 652.164768541,
+      "pid": 1804,
+      "query_started": 652.162437666,
+      "raw": "1804  79024   0:00.39",
+      "rss_bytes": 80920576
+    },
+    {
+      "cpu_seconds": 0.4,
+      "cpu_token": "0:00.40",
+      "observed_at": 652.178257791,
+      "pid": 1804,
+      "query_started": 652.175878041,
+      "raw": "1804  79120   0:00.40",
+      "rss_bytes": 81018880
+    },
+    {
+      "cpu_seconds": 0.42,
+      "cpu_token": "0:00.42",
+      "observed_at": 652.19320125,
+      "pid": 1804,
+      "query_started": 652.190781083,
+      "raw": "1804  79136   0:00.42",
+      "rss_bytes": 81035264
+    },
+    {
+      "cpu_seconds": 0.43,
+      "cpu_token": "0:00.43",
+      "observed_at": 652.208027208,
+      "pid": 1804,
+      "query_started": 652.205748666,
+      "raw": "1804  79136   0:00.43",
+      "rss_bytes": 81035264
+    },
+    {
+      "cpu_seconds": 0.0,
+      "cpu_token": "0:00.00",
+      "observed_at": 652.222887416,
+      "pid": 1804,
+      "query_started": 652.220571166,
+      "raw": "1804      0   0:00.00",
+      "rss_bytes": 0
+    }
+  ],
+  "parent_pid": 1685,
+  "peak_rss_bytes": 81035264,
+  "pid": 1804,
+  "returncode": 1,
+  "started_monotonic": 651.7676255,
+  "termination_actions": [],
+  "wall_seconds": 0.46708537500001057,
+  "watchdog_reason": null
+}

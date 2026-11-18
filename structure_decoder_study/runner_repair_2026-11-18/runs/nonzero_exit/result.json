@@ -1,0 +1,113 @@
+{
+  "OS_hard_limit_enforcement_claim": false,
+  "classification": "nonzero_or_signal_exit",
+  "controlled_injection": null,
+  "ended": 10263.5628235,
+  "kernel_events": [
+    {
+      "ended": 10263.536746333,
+      "flags": 1,
+      "requested_pid": 5763,
+      "returned_pid": 0,
+      "started": 10263.536743708,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.538726208,
+      "flags": 1,
+      "requested_pid": 5763,
+      "returned_pid": 0,
+      "started": 10263.538715708,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.5503435,
+      "flags": 1,
+      "requested_pid": 5763,
+      "returned_pid": 0,
+      "started": 10263.550335375,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.552581625,
+      "flags": 1,
+      "requested_pid": 5763,
+      "returned_pid": 0,
+      "started": 10263.55257125,
+      "status_and_usage_ignored": true
+    },
+    {
+      "ended": 10263.562797833,
+      "final": {
+        "pid": 5763,
+        "raw_status": 1792,
+        "reaped_at": 10263.562797833,
+        "returncode": 7,
+        "usage": {
+          "native_RSS_unit": "bytes",
+          "native_peak_rss": 11632640,
+          "peak_rss_bytes": 11632640,
+          "system_cpu": 0.0050409999999999995,
+          "total_cpu": 0.022699999999999998,
+          "user_cpu": 0.017658999999999998
+        }
+      },
+      "flags": 1,
+      "raw_status": 1792,
+      "requested_pid": 5763,
+      "returned_pid": 5763,
+      "started": 10263.562775208
+    }
+  ],
+  "kernel_final": {
+    "pid": 5763,
+    "raw_status": 1792,
+    "reaped_at": 10263.562797833,
+    "returncode": 7,
+    "usage": {
+      "native_RSS_unit": "bytes",
+      "native_peak_rss": 11632640,
+      "peak_rss_bytes": 11632640,
+      "system_cpu": 0.0050409999999999995,
+      "total_cpu": 0.022699999999999998,
+      "user_cpu": 0.017658999999999998
+    }
+  },
+  "name": "nonzero_exit",
+  "native_optimizers_called": 0,
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "observation_gap": null,
+  "ownership_errors": [],
+  "peak_RSS_and_CPU_sources_kept_separate": true,
+  "pid": 5763,
+  "ps_RSS_highwater": 10452992,
+  "ps_cpu_highwater": 0.02,
+  "ps_queries": [
+    {
+      "end": 10263.538709708,
+      "error": null,
+      "kernel_events_after_query": 2,
+      "kernel_events_before_query": 1,
+      "raw": " 5763 R       992   0:00.00\n",
+      "returncode": 0,
+      "start": 10263.536749,
+      "stderr": ""
+    },
+    {
+      "end": 10263.552566458,
+      "error": null,
+      "kernel_events_after_query": 4,
+      "kernel_events_before_query": 3,
+      "raw": " 5763 R     10208   0:00.02\n",
+      "returncode": 0,
+      "start": 10263.550347125,
+      "stderr": ""
+    }
+  ],
+  "quantum_decoders_called": 0,
+  "reasons": [],
+  "setup_error": null,
+  "signals": [],
+  "started": 10263.535976416,
+  "terminal_telemetry_unavailable": false
+}

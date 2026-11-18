@@ -1,0 +1,46 @@
+{
+  "confirmation_controller_wall_cap": 85.0,
+  "confirmation_scenarios": [
+    "timeout_none",
+    "timeout_incumbent",
+    "legacy_injected",
+    "deferred_injected",
+    "optimal",
+    "soft_cpu",
+    "hard_cpu",
+    "wall_guard",
+    "late_persistence"
+  ],
+  "cpu_seconds_hard_fixture": 3.0,
+  "cpu_seconds_normal": 10.0,
+  "cumulative_controller_wall_cap": 120.0,
+  "files": {
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/V1_OUTCOME.json": "3870e291752276b52cc11a1b1e998670dda17651f7b428fc56a03fcc864459be",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/calibration_result.json": "c142b9fbcf0b10bf13c0071fb4059d04f10c29a6cfb53e42e568e5bbfab178c8",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/confirmation_result.json": "1557c671da54d4fe8ad70864fbc58154a479033a6a328d5344776ec277d7889d",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/frozen.json": "ab0808c0892bfa793d674411d7093033d6c4d9f3b5b9a2661a724387e9000b1e",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_2026-11-18/manifest.json": "773ba4312938d81f167963e9d4932a9922d150e54731ed0206062fbb563ff729",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/PLAN.md": "c58e8a6d7af5ff214f8cd40a7b6c2913187f0c0e015f353dea4b4ca824d48537",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/PREFLIGHT.md": "7c7f30c7e28b735b47c4f90ff48728499f3ac236b03f6afac3b166fb46ea84f1",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/audit.py": "ed85ff96c0db8a3100f441508265dc8c67d145cf0c7b28601397c71c862eb0d8",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/control.py": "8043ca118d55f258c468924d5d0a3f32b49c78842cf5d87a37531ab366467c52",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/unit_result.json": "6c4629b77ef8243b30386930e68e1241c618bb1017a22440fd40d681e9117c31",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/unit_result_initial.json": "ab46653055fbdbf18c05ffbc388dedd63a7a4f7e708b804dfb60da870b4c8cfd",
+    "<WORKSPACE>/structure_decoder_study/timeout_repair_v2_2026-11-18/worker.py": "5757e3064f6236c7ad449911fe84ed25e45e7ce954c2156424c3b4d512c96fd7"
+  },
+  "max_confirmation_optimizer_calls": 5,
+  "max_cumulative_children": 20,
+  "max_cumulative_optimizer_calls": 12,
+  "prior_children": 11,
+  "prior_controller_wall_seconds": 12.409363166000276,
+  "prior_optimizer_calls": 7,
+  "real_research_calls": 0,
+  "rss_bytes": 1073741824,
+  "selected_fixture": {
+    "n": 200,
+    "seed": 2026111801,
+    "time_limit": 0.15
+  },
+  "wall_seconds_each": 8.0
+}

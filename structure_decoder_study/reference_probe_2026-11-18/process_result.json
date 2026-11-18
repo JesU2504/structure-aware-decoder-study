@@ -1,0 +1,32 @@
+{
+  "frozen_sha256": "3126cd1fe4a5a9b110c24b3ae0e5fe68fff6929f47212b92892f2e5d758d8c1e",
+  "rows": [
+    {
+      "case_id": 131,
+      "classification": "unresolved_resource_or_infrastructure_stop",
+      "completed_normally": false,
+      "process": {
+        "monitor_error": null,
+        "peak_observed_child_rss_bytes": 201474048,
+        "returncode": 1,
+        "wall_seconds": 63.10738074999995,
+        "watchdog_reason": null
+      },
+      "resource_cause": true
+    },
+    {
+      "case_id": 228,
+      "classification": "unresolved_resource_or_infrastructure_stop",
+      "completed_normally": false,
+      "process": {
+        "monitor_error": null,
+        "peak_observed_child_rss_bytes": 192954368,
+        "returncode": 1,
+        "wall_seconds": 62.27288766599986,
+        "watchdog_reason": null
+      },
+      "resource_cause": true
+    }
+  ],
+  "status": "completed"
+}

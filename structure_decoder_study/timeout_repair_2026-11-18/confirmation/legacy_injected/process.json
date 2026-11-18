@@ -1,0 +1,31 @@
+{
+  "classification": "process_censored_or_failed",
+  "controlled_injection": {
+    "pid": 10391,
+    "ready": {
+      "at": {
+        "cpu_absolute": 0.248755,
+        "monotonic": 2988.338306875,
+        "peak_rss_bytes": 68616192,
+        "pid": 10391,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.034498,
+        "ru_utime": 0.214253,
+        "sigxcpu_handler": "<function main.<locals>.throwing at 0x102ea39c0>"
+      },
+      "phase": "solver_call"
+    },
+    "sent": true,
+    "sent_at_monotonic": 2988.368894375,
+    "signum": 24
+  },
+  "expected_wall_limit": 8.0,
+  "monitor_error": null,
+  "peak_rss_bytes": 82411520,
+  "returncode": 1,
+  "wall_seconds": 0.4536409160000403,
+  "watchdog_reason": null
+}

@@ -1,0 +1,244 @@
+{
+  "audit_chunk": 128,
+  "cases": [
+    {
+      "case_id": 0,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0000.npz"
+    },
+    {
+      "case_id": 1,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0001.npz"
+    },
+    {
+      "case_id": 2,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0002.npz"
+    },
+    {
+      "case_id": 3,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0003.npz"
+    },
+    {
+      "case_id": 4,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0004.npz"
+    },
+    {
+      "case_id": 5,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0005.npz"
+    },
+    {
+      "case_id": 23,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0023.npz"
+    },
+    {
+      "case_id": 24,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0024.npz"
+    },
+    {
+      "case_id": 51,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0051.npz"
+    },
+    {
+      "case_id": 66,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0066.npz"
+    },
+    {
+      "case_id": 131,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0131.npz"
+    },
+    {
+      "case_id": 167,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0167.npz"
+    },
+    {
+      "case_id": 188,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0188.npz"
+    },
+    {
+      "case_id": 228,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0228.npz"
+    },
+    {
+      "case_id": 249,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0249.npz"
+    },
+    {
+      "case_id": 256,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0256.npz"
+    },
+    {
+      "case_id": 257,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0257.npz"
+    },
+    {
+      "case_id": 258,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0258.npz"
+    },
+    {
+      "case_id": 260,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0260.npz"
+    },
+    {
+      "case_id": 261,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0261.npz"
+    },
+    {
+      "case_id": 263,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0263.npz"
+    },
+    {
+      "case_id": 264,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0264.npz"
+    },
+    {
+      "case_id": 265,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0265.npz"
+    },
+    {
+      "case_id": 407,
+      "input_npz": "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0407.npz"
+    }
+  ],
+  "chunk": 256,
+  "files": {
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/manifest.json": "13698f44d548944316ba6364df781d916f029e140d1f10165111738d80709b99",
+    "<WORKSPACE>/structure_decoder_study/headroom_1fv_2026-11-17/selection.json": "f7e5e597c2b69139a12fdb59158b33cc611e85df37b39a56da222a64ca44a474",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/PROTOCOL.md": "bfa6e91d95e889d461b9b281e5fe9f934cc41fb380580370cfdea795613c895c",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/RISK_REVIEW.md": "1b2254df6a00d525a72bc27d7972b33fb5479767b30ca486778da6dbbd0782b2",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/audit_results.py": "1e76711597b3534b86b06b33232d533d6d49b1170e2e3c24923cd87b9030b860",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/experiment.py": "7c9ed042ae7bdd34db94f7fcb57df3bbff3f146d12eef1383f5a86ee310bc3b9",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0000.npz": "9d6d9b9c76c302643a7d0d595087621d121147e5086ac55b2089385c62c34214",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0001.npz": "c007b90e6f58cf07f858b38b8451a229abedc0419da9b6d4715a5ef5f10c22d8",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0002.npz": "5cae7d8222952a35723a715c6ee098f82d6991595c8301ba96dfcbfa57a2000e",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0003.npz": "4087c558a0eb35eba7f34a91ef33d1ac44d36267dbce7ea6fd6d7b114135e32f",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0004.npz": "12cd518c264eda8c6a126de22bd156a11b7b0fce2e0ba89cff8cad37e4554186",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0005.npz": "48756971ca75cf8b698832517aa570e7a15426af18a56ad012b7818331d176af",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0023.npz": "6e07162bcb569481881293f64c2b6b5e089e72ced86f744ba59ba7780a0b11a4",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0024.npz": "eacbf272b32bd358447190e9f27a36deab3cf254eabfd79933afac053ffe0765",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0051.npz": "5acca96c3420f27a7e5a826a640643756043a42d6385ec95d8ff63d91856d7b1",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0066.npz": "670b1191e68a20cfd66d9e6681d8a8edf018f1a8f5386ce13b45c29e1e30a355",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0131.npz": "8e3364753cca3afe5bf2e22e46a30b136d6f3ab98630750c09c7fe3adf526aaf",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0167.npz": "ad5c905ccd29e6b5c23da61ba54c5d0c1322740516957c8d9c12d87659a68055",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0188.npz": "1045dd2c860148ed5b4421dfe30ad9b9b5d27e8ccf056028de977b24855dc62e",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0228.npz": "1d2bf6f795cd4003526a65aa586d1cc199f5960977109be8223c1eedbd815ea4",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0249.npz": "df8c68a51b299db869029bf85f9098ae02f3060342d04b33238b302344191aa8",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0256.npz": "5c0f91ecaad6c6a7d8231bdffc108aa1beeb1f3d42a7141f087541ab21fbc4bd",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0257.npz": "9eb469c5c8d8db588d2b3daff3786db99507ce799bebfffcb1ba2dc41015a318",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0258.npz": "7ba2d1c76024a33dffb41195ae33893f74105445ed4bf6c7f952ff4d7653e5ce",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0260.npz": "9344c8e10cdb44d80e3ab707b942e004265b26af20f393d3d806960259b8c305",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0261.npz": "4c0052c097f4d6082540c7e863b778b43d126d77ffb70ac244f48d501a2a9ae4",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0263.npz": "4c41c2c4191343ec768764ffba20c35e79e6e25241b67fe2e57501cfc3927223",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0264.npz": "9e66c34d406845c8686fe37342118437595e72659c509ef5c9fb9c4b6a3bc96c",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0265.npz": "64a29b200abae7c61d5cc7eb589786034cf8f2bf5703df8e7196480d531d931d",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/inputs/0407.npz": "1f329b2ec1cbaa006213be20cd596f80be91361145fb46a462c8fc20628364bc",
+    "<WORKSPACE>/structure_decoder_study/headroom_cached_order_2026-11-17/selection.json": "f7e5e597c2b69139a12fdb59158b33cc611e85df37b39a56da222a64ca44a474",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.json": "4192f797e59438acb28d84c1fe010ead21a6046c1858937425734311e66d1323",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0012.npz": "78fac91f4f319b4e14cdd3c8912e52b289a68437d51237832121eaeddeafef5b",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.json": "fcae1c9865614cb1474a1edda0d0ce469a72f22a2196ec68a9a279c51985ce34",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0015.npz": "863cdb384d198313bb589827cad9c5345fe2175e585f40041509ef7d861f5853",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.json": "92980930e64cc811d9a061e136b3525ca596d6fe46b5048d12fe7dd95d6d9bed",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0019.npz": "6c6a59a33696608a53a712d88c6792c238e1c1babf636580db17b532f26a57d0",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.json": "e9d6f77691740d33bfd6293631a588ac14f52314f02ec3ce9601dcbeb2b72a77",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0022.npz": "7040abe371678b335ed148ed9db9aec9988e618c53e2ddafe73080109d0238b4",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.json": "dd427a45890672e6d31de7e67de3b473b7583c2e17847ac24967782f5213a5c6",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0023.npz": "fb236c279fdaffedb1d3b21735148201f598d4d59e4648c110ebe5251d0b2e65",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.json": "beb1ebc320c7974b8d7425c8a9c4ae2df5ebbf5b96f4ddd5937363ab615c6246",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0026.npz": "988bd1b2e14117b7db511f3269491597e4dff0dfd7885fd6594143647b5b410d",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.json": "8fb56824b3c0dc3db278c809a62edcdc57d8c17c5b7cc9dd7cc4dd7160061540",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0080.npz": "43b5c23699648f594b24f8a616f490b81a7842773b2a012d3b4f86a152bda63a",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.json": "927cdff6df448b83794f3956389833f071082c18547f6a7add5c24ccbf5400e6",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0085.npz": "a80a8c9bbee93475112b70a4a0b7f26362f1e813b41ea5db395448770db62d34",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.json": "f5230b5ef917d35b609a2007f0318a502d39a302c7d5cca69f25ab4b27a1587b",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0166.npz": "125727fef7ebf9707d0ce665480776b43d3c4777fa61a8c9b9ae334f565912cf",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.json": "9bca63bc592eff321de6c6a3e4960930355aaf7d8593e3a51951f97d4d06a5ef",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0210.npz": "48f45434092724c3ae858c98067b63bdb6503b2bdd8feb4ad63d0fc6d1dc140f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.json": "9b8b4e59fe0ffb5f151b099517bae2a3f45b4498f4cb09afff3fae2a44ef3f8a",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0406.npz": "c8db6e986d21728b8ed0bc328bf92f4f5305e83ecc8b99a8004fa7ce40d7c920",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.json": "1bc8def139a97db1a48ca1a231cc31425eab79c36fdbf0e86df6436340fb6491",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0513.npz": "d33e5abfdda244a553b573d89bbcc64570678eff721aaa72c510a7e44bbb012f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.json": "d0c0e45403a63fb00048f5927da2e0266e32fb76ae75a96ae4ce0a21fa529257",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0575.npz": "6f00a6ab37a00d2052b7c460927f5e52e0abb5f85d731ee7b1f00dcc8be63558",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.json": "88541a330abbda84cfc7931671df5b28fbe86c70cb3533e17247a1d7e9121909",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0697.npz": "5e335be3ed28aac60ee0ce69f6fd298906cbe0d171b1af488cfbf036d0973495",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.json": "909cd8cb95cbd84bcc61d18011af53a2f6fb25476d93a656be91372ce1dd49c9",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0760.npz": "f11be46f86f7c55cef4b294306227bd483f35e7b0370b950a237b9acc4e09f9e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.json": "9a267b4e0463836996a2b9338afe9ab81c711943100b1518120d631f78cfd665",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0781.npz": "39e215402c3cfbb90add33dac3206915c8032f396bcf3e9015c0bfe35387ac52",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.json": "54a81497ffd00ca9393c3244937c26952ce466983b457af4577452c5a4b9c679",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0784.npz": "e567b6ad38085fa31e9087cd84e0ea20b2d12e1cd6a0ac58cae0a53cc52842d4",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.json": "3ca26d379755aeab802e3b5a1971c17b90652052a943f46de4d30e80e3def333",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0786.npz": "6c84c36c10d146726006b5e45632d683781a90ffa627265af0833d202964ab78",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.json": "31a3eeec18d91686f59427ce8587957fe28e65988df929f1e10680892b331925",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0792.npz": "6b1258eaaf8910b918655ec0fceecce9d819d8f1455558537bc002e15a761917",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.json": "c0f25c4f2028cd9fc03525acbe218b11128fdd83416ded8e4fce551c1b251901",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0796.npz": "086fa4560a5d35a52a0d24f74534581d7bb156f5ca07846ea80ce5b263a32315",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.json": "2366ae5ad456997dbfbbf9b14d475e080fbcce5872473aaceecc9faf869f49ec",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0802.npz": "7ad2399170cdd0cf35ca7d291428307b21cbe2fcb041bb267dab46986c2c608f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.json": "09c4ca080dae36329ef720831e4db41c04bc576f240ecfdb4acf2e464da6b9e2",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0804.npz": "9266c685998cc740c4af73f86970de3ada869e7af292da630040a483c0c99c81",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.json": "069e6f55a7cabd0fe1b7fb915f1def279fc66b91ffc8d631f41efb594327fea5",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/0806.npz": "583db5efce98a757156a1924cd50f907c8c2cffafd20eb82b5ab7cd653ff7686",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.json": "404a101fdc8294440824a625e0693fab25581797b93f82efeabb675031dbb269",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/calls/1234.npz": "2e9fa791376e9fdbac0af683cee9735818046e0dfcbd10795fd41702eacabc00",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/H.npz": "cfbf9d51bd67543b09e958527beee3d99b6461c715c4a60b6b4d61b076e8abbb",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/L.npz": "10efca974bad5e42c4c6bbae9d7e035c68eff9a3301b69a48877e4ef47604bde",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/priors.npy": "9acbccfab2ba0422ab290eb6e8b78b34de647cb2890bddbddfe863a9917a7d17",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/entry/result.json": "358f198630a65c1c716f4d8c7b70ef231d4697f6546bd95b350763db6e488b52",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/frozen.json": "2cc97376823f7a31014e631b7eb77050d9ddc79732336bc04af05bb55c2e4f00",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/manifest.json": "d19a567c9acf40370f6f98dcf59fcc95ae26fff28749b8240c82d3a553d3e34f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/result_audit.json": "349adfeab9ab80775930b4a529d610ae2a6395f81c64453a9acbcc88ad6a239c",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/shots.npz": "0787a27f1420ca4d76258fb1c5866e66bead000bbf0c2d459cb7e4ee0a771872",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/source_manifest.json": "93dc9b2bcf2d9703104cac44fbcfb3890ef1b583a330912285caf5ccbedc302f",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/__init__.py": "515fe53a388d0bafd0dc9ef425c46b102787437d66f37f41da476bae78f692ca",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/adaptive_v1.py": "901ed6fa228c0727625770c85097b665f23e04f4635be09d52ca61ec9578063e",
+    "<WORKSPACE>/structure_decoder_study/natural_noise_reproduction_2026-11-17/sources/Adaptive-qLDPC-8cc3201/failure_prediction/osd_internals.py": "0d796fda2bd52962e93efc06a7adf7c5015136fa3b05628f48d8c5376e362753",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/audit.json": "0a755704ebb4b5060d7d0158dd937e631874a4f2c199e48a769c6bf97b65073a",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0000.npz": "0c4a0971b692ffbb12c6eb7c3a28beac74289cba9c5c38f406e0cec5c3c56a15",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0001.npz": "cd51a66d596295539124557ea4c7d4eb5cef55bcb3e6e8212ead6401e94085c9",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0002.npz": "86e180a3df33c553804b90ffaf9e57d3a83544bdef42ad19b2a1e47d567705c0",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0003.npz": "c8b43a5247010da1139da86082730665e2be6ce3d388308df0066c251f041c06",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0004.npz": "b786341cc5702dbcf7a6f4b0a78c8a4bfa1c1138e1c59c5b0f386b31c7d1d9c0",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0005.npz": "37e4cb101524e24d0906fc08c0fe31fa8373906bec6c368a2daeed571e7758ff",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0023.npz": "a0abc4dd9568671057c171528d999a72d880ab33d5ad8d3a450004ae92d62181",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0024.npz": "3b179d09a15b8348f644755a4818d0577fdb48f019156af25490a5fe3eb649d1",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0051.npz": "bf328e933fc29b6477509e38dcdfae07cc5e75f59aa1d19fe430f3deaf36a1f6",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0066.npz": "d13bb8f1905b8133155470a6ab16aa3001535ed209eef01f75838cac278350b4",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0131.npz": "c2291866262053d90fca71567a87e8a0b12176dd421aba003722de9f511ee2b7",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0167.npz": "e204e74f67756e0da9239aba1cf936d9f190861e08f452d8a8b79d1bbf95a60e",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0188.npz": "c01b1c503e1f11dfac008db6436114b916355b14792775e7949fea1d9f563e12",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0228.npz": "659c83e88c4d3c08d79e65e80bc31f5855eea0f23c6a294377c832bd7db76c4b",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0249.npz": "c8b728c108fec053870b00cbbc0f7b9546861d8f68a73f0091805335830c4058",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0256.npz": "6b27b6637861a4c283443dae542a5d2ca30c6c27646685ff0c591deecd60098c",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0257.npz": "2fa741828fde671ca41910d11d5583d3d18f0489194d5c7d763cf2f27b846823",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0258.npz": "b7a60bf5f44b607ee63be385770335a952fc4a082f036028a5d615781e3053da",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0260.npz": "25c2ce6e9350b20c3b43a5d1e989579f36dc8960536463ef8bbeae785b60fb1c",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0261.npz": "6ee2cf7451d20ca891041be76e49e8ad82394bd058830cbdc5012857541c7427",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0263.npz": "f744b12dc3c31f8beadead801b840cc772317d16ac9cf9c17da29ecead5874ca",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0264.npz": "61a1bba92fe673915e40013f2a8c10beccfca9c4ca3d71b211a498ee17ab9f49",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0265.npz": "3e19e98b05a6eea171892e2899447e1aecfe29175df12abda4b051c8f620b997",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/cases/0407.npz": "12284e997c5d2b6a19e14f513b88ceadb6cc96836bde6afae7a98f471b02fe9a",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/frozen.json": "0d7fcc9da3baa106b000c63b8ac23a836cdc3f107d86d069164a900f9e467b1b",
+    "<WORKSPACE>/structure_decoder_study/ordering_diagnostic_2026-11-17/manifest.json": "ec713f62d66a719128699bc128c9950cf53ea6d3242493a00b8435648387498a"
+  },
+  "free_candidates": 10446,
+  "limits": {
+    "child_cpu_seconds": 600,
+    "child_rss_bytes": 1073741824,
+    "wall_seconds": 900
+  },
+  "n_columns": 12240,
+  "new_native_decoder_calls": 0,
+  "new_shots": 0,
+  "ordering_frozen_sha256": "0d7fcc9da3baa106b000c63b8ac23a836cdc3f107d86d069164a900f9e467b1b",
+  "previous_stopped_frozen_sha256": "2f7419baf285bddecbfd20269cbdce8e24a88e6c53970fd4d3ed02d7f027cdde",
+  "rank": 1794,
+  "score_atol": 1e-08,
+  "score_rtol": 1e-12,
+  "source_commit": "8cc32014a6461bb8f241f47f62a7e74f63817738",
+  "target": "NEW adapted Python 1FV using frozen implementation-derived order; not native hidden pivots or published stable-order branch",
+  "versions": {
+    "ldpc": "2.4.1",
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "stim": "1.16.0"
+  }
+}

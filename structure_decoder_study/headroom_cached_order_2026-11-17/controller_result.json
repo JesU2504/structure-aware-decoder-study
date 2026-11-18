@@ -1,0 +1,10 @@
+{
+  "controller_cpu_seconds": 0.826868,
+  "frozen_sha256": "f81a98641c5d831373a503e22ab3cccb4d483c49a9563f9fcbe9c415b8724739",
+  "monitor_error": null,
+  "peak_observed_child_rss_bytes": 580042752,
+  "returncode": 0,
+  "status": "completed",
+  "wall_seconds": 15.663312291000693,
+  "watchdog_reason": null
+}

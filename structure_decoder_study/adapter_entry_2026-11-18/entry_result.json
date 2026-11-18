@@ -1,0 +1,24 @@
+{
+  "controller_wall_seconds": 0.6903950409996469,
+  "experimental_workers": 1,
+  "frozen_sha256": "eeecd81d642700e166fc7bf15f1a6d071579a5582ab4199be4fc54f8b562f2e1",
+  "malformed_native_journal_lines": 0,
+  "optimizer_api_attempts": 1,
+  "passed": false,
+  "physical_shots": 0,
+  "real_research_calls": 0,
+  "rows": [
+    {
+      "censor_reasons": [
+        "monitor_invalid: Unknown Darwin process state/modifier"
+      ],
+      "config_file": "00_integral_slack_required.json",
+      "expected_control_outcome_observed": false,
+      "name": "integral_slack_required",
+      "returncode": 0,
+      "spawn_returned": true
+    }
+  ],
+  "stop_reason": "unexpected_entry_outcome",
+  "worker_launch_attempts": 1
+}

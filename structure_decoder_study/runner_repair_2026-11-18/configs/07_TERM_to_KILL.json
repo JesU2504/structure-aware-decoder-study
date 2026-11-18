@@ -1,0 +1,13 @@
+{
+  "OS_CPU_request": [
+    5,
+    6
+  ],
+  "cpu_limit": 3.0,
+  "mode": "ignore_TERM",
+  "name": "TERM_to_KILL",
+  "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e",
+  "output": "<WORKSPACE>/structure_decoder_study/runner_repair_2026-11-18/runs/TERM_to_KILL",
+  "rss_limit": 268435456,
+  "wall_limit": 0.3
+}

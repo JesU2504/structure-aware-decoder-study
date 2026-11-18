@@ -1,0 +1,31 @@
+{
+  "classification": "signal_observed_result_preserved",
+  "controlled_injection": {
+    "pid": 11141,
+    "ready": {
+      "at": {
+        "cpu_absolute": 0.258336,
+        "monotonic": 2998.755291791,
+        "peak_rss_bytes": 68206592,
+        "pid": 11141,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.039486,
+        "ru_utime": 0.21885,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x102957740>"
+      },
+      "phase": "guarded_persistence"
+    },
+    "sent": true,
+    "sent_at_monotonic": 2998.778136958,
+    "signum": 24
+  },
+  "expected_wall_limit": 8.0,
+  "monitor_error": null,
+  "peak_rss_bytes": 68304896,
+  "returncode": 0,
+  "wall_seconds": 0.4144837499998175,
+  "watchdog_reason": null
+}

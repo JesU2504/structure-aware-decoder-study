@@ -1,0 +1,10 @@
+{
+  "classification": "solver_limit_no_incumbent",
+  "controlled_injection": null,
+  "expected_wall_limit": 8.0,
+  "monitor_error": null,
+  "peak_rss_bytes": 69877760,
+  "returncode": 0,
+  "wall_seconds": 0.36103329100023984,
+  "watchdog_reason": null
+}

@@ -1,0 +1,7 @@
+{
+  "budget_and_exit_censoring": true,
+  "invalid_monitor_examples": 4,
+  "parser_invalid_examples": 10,
+  "parser_valid_examples": 5,
+  "passed": true
+}

@@ -1,0 +1,51 @@
+{
+  "audit_source_sha256": "b938ec224d37c12b281559aebe37f12323ae97ea63f7a818fa1ca5412716b664",
+  "child_cpu_seconds": 0.801732,
+  "child_wall_seconds": 1.4719455829999788,
+  "entry_reference_calls": 4,
+  "frozen_sha256": "3126cd1fe4a5a9b110c24b3ae0e5fe68fff6929f47212b92892f2e5d758d8c1e",
+  "new_BP_OSD_LSD_calls": 0,
+  "new_physical_shots": 0,
+  "oracle_assisted_analysis": true,
+  "passed": true,
+  "peak_child_rss_bytes": 75087872,
+  "previous_manifests_verified": {
+    "artifact_manifest.json": "ccc3d7ee0d9cfe65527db22e238c2072ec1062963ee4c4b9d87da0f297cc00de",
+    "artifact_manifest_2026-11-13.json": "9d8e4dfc9311324d00be60184253c04f79c3bc070c6432598e54c43c240c7536",
+    "artifact_manifest_2026-11-15.json": "4664ed610924c7b036acb3e44ac310976134327ae38b8de118b5d66eaae19f67",
+    "artifact_manifest_2026-11-16.json": "2a08f4526eb0c2a0ca2a59638503cca662f7d253724406980e48784401fcb336",
+    "candidate_class_diagnosis_2026-11-18/manifest.json": "4a9a01eb5bf2105097f4a154790ac1703d60fcaa67a433fd723f1a1798db4aaa",
+    "consumer_gate_2026-11-16/manifest.json": "d3db0a519ddeffe4ef3ad2c88822ab33f8ee69466132835ca9a9d9e966811fe6",
+    "experimental_design_review_2026-11-16/manifest.json": "7d8f680a58e3831441fa7ffdd6c0ebf90e3082ede3a91f7cc27cee9b02664f39",
+    "failure_pilot_2026-11-17/manifest.json": "5e05a663e6d6b4b90769302170599879839d07f8ca8af5e6c07df832dba64741",
+    "failure_target_2026-11-17/manifest.json": "96e8b6b2b393d0e8a17ba3296192098e08eb0a88f4487b68929da5e8374dad1f",
+    "fit_diagnostic_2026-11-13/manifest.json": "44d29299a5f351caef767575cda23713f806858b9a30fd0b5f57d32edb985760",
+    "headroom_1fv_2026-11-17/manifest.json": "13698f44d548944316ba6364df781d916f029e140d1f10165111738d80709b99",
+    "headroom_cached_order_2026-11-17/manifest.json": "183afe142f8f0c353746197cfb3dbb68be78fcfae991c4dbc8affbaebca7035f",
+    "learning_curves_2026-11-13/manifest.json": "6779bd49da2745c8d4c09bac0a42b60d68c1d9edac1c7891f2601dda25567502",
+    "natural_noise_reproduction_2026-11-17/manifest.json": "d19a567c9acf40370f6f98dcf59fcc95ae26fff28749b8240c82d3a553d3e34f",
+    "next_stage_design_2026-11-16/manifest.json": "196f1075d6172eb610930ce16628c9c69c4de9255fa7e1e5b5882b8ee28a533a",
+    "novelty_feasibility_2026-11-16/manifest.json": "ff8896e89f200ad0a66bfdcb7de757fbdfdbe91acf0583902c08a88059b276ab",
+    "ordering_diagnostic_2026-11-17/manifest.json": "ec713f62d66a719128699bc128c9950cf53ea6d3242493a00b8435648387498a",
+    "research_reorientation_2026-11-16/manifest.json": "7660e8224f1fa87912eb8232b1d61fa744956583927b58a7243df0bd9cd08ea9",
+    "reviewer_perspective_2026-11-13/manifest.json": "f6333498fe753210e684205e0216227d90916c5561038d38e0c8aadf9b58d490",
+    "stress_gate/manifest.json": "25090953fc7217f08c2b1966be1279152cb4df01aee14a60fda6392069222cce",
+    "supervisor_review_2026-11-16/cross_domain_manifest.json": "89c2e0ab3eb7de73a619f935adb0f3dfbf6bf55fd0fc5ade19a8d36fad4c9ab7",
+    "supervisor_review_2026-11-16/manifest.json": "9ef7342cafa7d635f7819060486d340236f20bf2b271bca6e69cebfe1faa38ba",
+    "validation_gate_2026-11-13/manifest.json": "b32de2bcb59229e6d68847115cb5dad29d16dfd27445314ff2f57c7feccfe4f6"
+  },
+  "real_reference_calls_started": 2,
+  "rigorous_exclusion_claims": 0,
+  "rows": [
+    {
+      "case_id": 131,
+      "classification": "unresolved_resource_or_infrastructure_stop",
+      "no_exclusion_claim": true
+    },
+    {
+      "case_id": 228,
+      "classification": "unresolved_resource_or_infrastructure_stop",
+      "no_exclusion_claim": true
+    }
+  ]
+}

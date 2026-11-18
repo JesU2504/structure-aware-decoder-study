@@ -1,0 +1,43 @@
+{
+  "actual_workers": 0,
+  "checks": [
+    "PID0_ignores_status_and_usage",
+    "owned_final_status_and_usage",
+    "cached_poll_and_no_signal_after_reaping",
+    "every_wait_is_exact_positive_PID",
+    "foreign_PID_lost_no_stale_signal",
+    "ECHILD_lost_no_stale_signal",
+    "malformed_returned_PID_lost_no_stale_signal",
+    "nan_CPU_reaped_before_usage_validation",
+    "negative_RSS_reaped_before_usage_validation",
+    "missing_usage_reaped_before_usage_validation",
+    "nonfinite_total_reaped_before_usage_validation",
+    "nonterminal_status_not_final",
+    "owned_cleanup_can_obtain_later_final",
+    "nonzero_exit_preserved",
+    "ignored_SIGCHLD_rejected_before_spawn",
+    "invalid_owned_PID_0",
+    "invalid_owned_PID_-1",
+    "invalid_owned_PID_True",
+    "Darwin_RSS_units_explicit",
+    "explicit_exit_candidate_not_live",
+    "live_zero_sample_remains_live_for_rejection",
+    "malformed_interim_424242 ?NOPE 0 0:00.00",
+    "malformed_interim_424243 R 1 0:00.10",
+    "malformed_interim_424242 R nan 0:00.10",
+    "owned_worker_uses_posix_spawn",
+    "no_Popen_poll_wait_competitor"
+  ],
+  "count": 26,
+  "decoder_calls": 0,
+  "optimizer_calls": 0,
+  "passed": true,
+  "source_hashes": {
+    "audit.py": "2d471b3dbf514f64e825f181c6db8e426a63f79252a24da421a8a2f380fa59c8",
+    "control.py": "79795186bec6fa49fa910a4db0597bbeb288a86e9590b7631967985e7a49df33",
+    "fixture.py": "5db9e737e6738ab1a8034ec1748878c2886a2ac4407259a3ef28d34586a7c3bb",
+    "offline_tests.py": "adcaf6ed8e13c0986f9fabdc7e8ce8523672cd83e6e27f270431cc14b910d455",
+    "owner.py": "ac0d8f59e50b5cd8bd6d977f33da13e6724e7038fea15ccd39e0082e4dd1974b",
+    "runner.py": "7bb70382ace8640ab9aee51eec7bbbc763b5f11564786d413a2e1d36d3cd0431"
+  }
+}

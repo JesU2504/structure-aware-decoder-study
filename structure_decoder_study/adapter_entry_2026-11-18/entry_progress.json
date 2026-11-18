@@ -1,0 +1,15 @@
+{
+  "controller_wall_seconds": 0.6902330829998391,
+  "rows": [
+    {
+      "censor_reasons": [
+        "monitor_invalid: Unknown Darwin process state/modifier"
+      ],
+      "config_file": "00_integral_slack_required.json",
+      "expected_control_outcome_observed": false,
+      "name": "integral_slack_required",
+      "returncode": 0,
+      "spawn_returned": true
+    }
+  ]
+}

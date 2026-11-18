@@ -1,0 +1,76 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.259388,
+    "monotonic": 657.527314291,
+    "peak_rss_bytes": 68861952,
+    "pid": 2209,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.037101999999999996,
+    "ru_utime": 0.22228599999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x10315f740>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.259382,
+    "monotonic": 657.527308458,
+    "peak_rss_bytes": 68861952,
+    "pid": 2209,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.037100999999999995,
+    "ru_utime": 0.22228099999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x10315f740>"
+  },
+  "classification": "signal_observed_result_preserved",
+  "exception_restoration_unit_passed": true,
+  "finalized": true,
+  "finalized_at": {
+    "cpu_absolute": 0.261279,
+    "monotonic": 657.634213833,
+    "peak_rss_bytes": 68993024,
+    "pid": 2209,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.038062,
+    "ru_utime": 0.223216,
+    "sigxcpu_handler": "0"
+  },
+  "handler_restored": true,
+  "has_incumbent": true,
+  "incumbent_score": 0.0,
+  "incumbent_valid": true,
+  "integer_proximity": 0.0,
+  "native_optimizer_calls": 0,
+  "oracle_or_research_data_used": false,
+  "scenario": "late_persistence",
+  "scipy_warnings": [],
+  "signals": [
+    {
+      "handled_at": {
+        "cpu_absolute": 0.259866,
+        "monotonic": 657.553933708,
+        "peak_rss_bytes": 68878336,
+        "pid": 2209,
+        "rlimit_cpu": [
+          10,
+          12
+        ],
+        "ru_stime": 0.037402,
+        "ru_utime": 0.222461,
+        "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x10315f740>"
+      },
+      "origin": "unknown",
+      "phase": "persisting_result",
+      "signum": 24
+    }
+  ],
+  "solver_message": "Known payload for persistence unit; no solver call",
+  "solver_status": 1,
+  "start_cpu": 0.018307
+}

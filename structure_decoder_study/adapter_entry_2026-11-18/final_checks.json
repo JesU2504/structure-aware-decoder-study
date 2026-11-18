@@ -1,0 +1,33 @@
+{
+  "acceptance_criteria_changed": false,
+  "actual_optimizer_api_attempts": 1,
+  "additional_prior_manifest_file_counts": {
+    "reference_integration_protocol_2026-11-18": 23,
+    "reference_probe_2026-11-18": 30,
+    "timeout_repair_2026-11-18": 119,
+    "timeout_repair_v2_2026-11-18": 108
+  },
+  "cumulative_optimizer_api_attempts": 19,
+  "date": "2026-11-18",
+  "earlier_data_and_sources_unchanged": true,
+  "earlier_result_manifests_verified": 23,
+  "frozen_files_verified": 50,
+  "frozen_sha256": "eeecd81d642700e166fc7bf15f1a6d071579a5582ab4199be4fc54f8b562f2e1",
+  "integrity_checks_passed": true,
+  "native_entry_passed": false,
+  "new_BP_OSD_LSD_calls": 0,
+  "new_model_fits": 0,
+  "new_physical_shots": 0,
+  "new_research_case_calls": 0,
+  "no_matching_worker_processes": true,
+  "optimizer_returns_persisted": 1,
+  "owned_child_reaped": true,
+  "prior_research_cases_still_inconclusive": true,
+  "raw_outputs_verified": 23,
+  "scope": "failed_bounded_native_entry",
+  "supervisor_postcheck_sha256": "5f8ed95fb8b0fd814ab01a09a81aa9478c80c3edd71820a316dc0bf76b786595",
+  "unattempted_controls": 12,
+  "unique_files_hashed": 7140,
+  "wall_seconds": 1.4991726250000283,
+  "workers_started": 1
+}

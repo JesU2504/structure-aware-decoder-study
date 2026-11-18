@@ -1,0 +1,1 @@
+{"identity": {"name": "cpu_work", "nonce": "6eebf7b4-0241-485c-aa89-856f667a750e", "pid": 5767}, "at": {"monotonic": 10263.586327666, "cpu": 0.021254, "peak_RSS": 11943936}, "OS_CPU_request": [5, 6], "native_packages_present": false}

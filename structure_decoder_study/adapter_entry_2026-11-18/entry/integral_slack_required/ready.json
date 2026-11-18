@@ -1,0 +1,30 @@
+{
+  "at": {
+    "cpu_absolute": 0.28462,
+    "monotonic": 6262.980088791,
+    "peak_rss_bytes": 73220096,
+    "pid": 4285,
+    "rlimit_cpu": [
+      10,
+      12
+    ],
+    "ru_stime": 0.062607,
+    "ru_utime": 0.222012,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x100693ce0>"
+  },
+  "identity": {
+    "config_sha256": "921e42080849248b2c9bc03914a19d76a3a644083077d96212e6bce77a7566ce",
+    "index": 0,
+    "name": "integral_slack_required",
+    "prepared_protocol_sha256": "dbc98b8090d5f6fe219da851986bd3efde9662464be5748c53df1841fe4820bb",
+    "run_id": "9f66963b-619b-40ad-afd7-4a220b18d3a1",
+    "sources": {
+      "accounting_policy.py": "6eeb5c08b488badda9aec3f484de49bd6e4fde21d0ce69cd9c1688c0a2e2a310",
+      "model_helpers.py": "84a12b34bdfe860b24fced9f7b7da96d119935b383fe26233bae964dcbdba07a",
+      "result_guard.py": "e49722c6ca62a7922d7c33361b8586ffe4e16ad6859959ee3afb09a53f6e9233",
+      "transport.py": "52e60ea9a12a86efed5588b55a2646567c6c428ddc7a47e0682476e7cc30f9be",
+      "worker.py": "29ad6cffecd68e8dd265767f80bd94891368b64d625f928b5385469682dc8f16"
+    }
+  },
+  "phase": "solver_call"
+}

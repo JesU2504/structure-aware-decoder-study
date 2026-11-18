@@ -1,0 +1,47 @@
+{
+  "after_call": {
+    "cpu_absolute": 0.162019,
+    "monotonic": 6076.387367791,
+    "peak_rss_bytes": 51249152,
+    "pid": 4181,
+    "rlimit_cpu": [
+      9223372036854775807,
+      9223372036854775807
+    ],
+    "ru_stime": 0.029724999999999998,
+    "ru_utime": 0.132293,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1073a6660>"
+  },
+  "before_call": {
+    "cpu_absolute": 0.16201,
+    "monotonic": 6076.387359208,
+    "peak_rss_bytes": 51249152,
+    "pid": 4181,
+    "rlimit_cpu": [
+      9223372036854775807,
+      9223372036854775807
+    ],
+    "ru_stime": 0.029720999999999997,
+    "ru_utime": 0.13228399999999998,
+    "sigxcpu_handler": "<function SignalLedger.__enter__.<locals>.record at 0x1073a6660>"
+  },
+  "handler_while_raw_saved": "<function SignalLedger.__enter__.<locals>.record at 0x1073a6660>",
+  "has_incumbent": true,
+  "identity": {
+    "scope": "offline_fake_payload"
+  },
+  "message": "Labeled fake payload; no solve",
+  "native_optimizer_calls": 0,
+  "numerical_only": {
+    "fun": {
+      "nonfinite": "nan"
+    },
+    "mip_dual_bound": {
+      "nonfinite": "-inf"
+    },
+    "mip_gap": null,
+    "mip_node_count": null
+  },
+  "solver_status": 1,
+  "warnings": []
+}

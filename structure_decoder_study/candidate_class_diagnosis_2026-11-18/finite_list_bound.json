@@ -1,0 +1,25 @@
+{
+  "formula": "W_true / W_best_competing <= n_true * exp(-(S_true_min - S_competing_min))",
+  "label": "Post hoc analytical implication, not a prespecified metric or decoder experiment",
+  "new_candidate_evaluations": 0,
+  "new_decoder_calls": 0,
+  "rows": [
+    {
+      "case_id": 131,
+      "correct_class_members": 13,
+      "log_weight_ratio_upper_bound": -30.18748102244225,
+      "score_gap": 32.752430379903785,
+      "true_class_cannot_win_unchanged_list_exp_minus_score_aggregation": true,
+      "weight_ratio_upper_bound": 7.757889142514475e-14
+    },
+    {
+      "case_id": 228,
+      "correct_class_members": 370,
+      "log_weight_ratio_upper_bound": -18.45612830854062,
+      "score_gap": 24.36963131417889,
+      "true_class_cannot_win_unchanged_list_exp_minus_score_aggregation": true,
+      "weight_ratio_upper_bound": 9.651733421647668e-09
+    }
+  ],
+  "weights": "Unnormalized exp(-source surrogate score); no calibrated posterior interpretation"
+}
